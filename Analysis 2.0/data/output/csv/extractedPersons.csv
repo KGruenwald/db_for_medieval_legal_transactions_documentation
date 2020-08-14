@@ -1,0 +1,455 @@
+	PersName	sex	number	xml	year
+0	#pe__haunold_schuchler_II_QGW_II_I_1557	m	24	1483.xml, 1495.xml, 1522.xml, 1525.xml, 1530.xml, 1532.xml, 1533.xml, 1535.xml, 1542.xml, 1547.xml, 1548.xml, 1550.xml, 1555.xml, 1556.xml, 1562.xml, 1577.xml, 1584.xml, 1589.xml, 1595.xml, 1596.xml	1401, 1401, 1401, 1402, 1403, 1403, 1403, 1403, 1403, 1403, 1403, 1403, 1403, 1403, 1403, 1403, 1403, 1404, 1404, 1404, 1404, 1404, 1404, 1404
+1	#pe__peter_angerfelder	m	17	1523.xml, 1526.xml, 1536.xml, 1543.xml, 1591.xml, 1596.xml, 1599.xml, 1600.xml, 1601.xml, 1602.xml	1403, 1403, 1403, 1403, 1403, 1403, 1403, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404
+2	#pe__konrad_vorlauf	m	16	1486.xml, 1541.xml, 1542 a.xml, 1564.xml, 1570.xml, 1575.xml, 1579.xml, 1592.xml, 1595.xml, 1596.xml, 1597.xml, 1598.xml, 1603.xml	1401, 1401, 1403, 1403, 1403, 1403, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404, 1404
+3	#pe__paul_wuerfel	m	12	1497.xml, 1502.xml, 1509.xml, 1513.xml, 1516.xml, 1529.xml, 1534.xml, 1556.xml, 1565.xml, 1569.xml, 1606.xml, 1609.xml	1401, 1402, 1402, 1402, 1402, 1403, 1403, 1403, 1403, 1404, 1404, 1404
+4	#pe__wilhelm_herzog_von_oesterreich	m	10	1482.xml, 1489.xml, 1536.xml, 1542 a.xml, 1551.xml, 1578.xml, 1588.xml, 1595.xml, 1596.xml, 1605.xml	1401, 1401, 1403, 1403, 1403, 1404, 1404, 1404, 1404, 1404
+5	#pe__martin_hausleitter	m	10	1511.xml, 1517.xml, 1557.xml, 1564.xml, 1586.xml, 1603.xml, 1609.xml	1402, 1402, 1402, 1403, 1403, 1403, 1404, 1404, 1404, 1404
+6	#pe__rudolf_von_tierna	m	10	1533.xml, 1542 a.xml, 1549.xml, 1552.xml, 1565.xml	1403, 1403, 1403, 1403, 1403, 1403, 1403, 1403, 1403, 1403
+7	#pe__ulrich_herwart	m	9	1496.xml, 1502.xml, 1508.xml, 1510.xml, 1516.xml, 1530.xml, 1540.xml, 1547.xml, 1586.xml	1401, 1402, 1402, 1402, 1402, 1403, 1403, 1403, 1404
+8	#pe__georg_von_nikolsburg	m	8	1503.xml, 1540.xml, 1550.xml, 1574.xml, 1575.xml, 1606.xml, 1607.xml	1402, 1403, 1403, 1404, 1404, 1404, 1404, 1404
+9	#pe__johann_ziernast	m	8	1507.xml, 1508.xml, 1560.xml, 1573.xml, 1587.xml, 1597.xml	1402, 1402, 1402, 1403, 1404, 1404, 1404, 1404
+10	#pe__andreas_an_dem_st_petersfreithof	m	7	1498.xml, 1546.xml, 1595.xml, 1596.xml	1401, 1401, 1403, 1403, 1404, 1404, 1404
+11	#pe__konrad_rampersdorfer	m	7	1498.xml, 1507.xml, 1521.xml, 1527.xml, 1587.xml	1401, 1402, 1402, 1402, 1402, 1403, 1404
+12	#pe__georg_neuer	m	6	1490.xml, 1523.xml, 1548.xml, 1566.xml, 1598.xml	1401, 1403, 1403, 1403, 1403, 1404
+13	#pe__ludwig_von_tierna	m	6	1533.xml, 1549.xml, 1565.xml	1403, 1403, 1403, 1403, 1403, 1403
+14	#pe__ulrich_ekprecht	m	5	1486.xml, 1582.xml, 1587.xml	1401, 1401, 1404, 1404, 1404
+15	#pe__herbert_in_der_scheffstraße	m	5	1494.xml, 1542.xml, 1554.xml	1401, 1401, 1403, 1403, 1403
+16	#pe__ulrich_warnhofer_QGW_II_I_1538	m	5	1496.xml, 1507.xml, 1538.xml, 1585.xml, 1589.xml	1401, 1402, 1403, 1404, 1404
+17	#pe__peter_der_zimmermann_QGW_II_I_1538	m	5	1496.xml, 1507.xml, 1538.xml, 1585.xml, 1589.xml	1401, 1402, 1403, 1404, 1404
+18	#pe__dorothea_QGW_II_I_1499	f	5	1499.xml, 1526.xml, 1535.xml	1401, 1401, 1403, 1403, 1403
+19	#pe__rudolf_angerfelder	m	5	1589.xml, 1595.xml, 1596.xml	1404, 1404, 1404, 1404, 1404
+20	#pe__friedrich_dietram	m	4	1484.xml, 1495.xml, 1546.xml, 1563.xml	1401, 1401, 1403, 1403
+21	#pe__albrecht_iii_herzog_von_oesterreich	m	4	1487.xml, 1492.xml, 1494.xml, 1542 a.xml	1401, 1401, 1401, 1403
+22	#pe__albrecht_iv_herzog_von_oesterreich	m	4	1489.xml, 1504.xml, 1590.xml	1401, 1401, 1402, 1404
+23	#pe__martin_der_wachsgiesser_QGW_II_I_1494	m	4	1494.xml, 1551.xml, 1594.xml	1401, 1403, 1404, 1404
+24	#pe__margarethe_chranvogelin	f	4	1495.xml, 1534.xml, 1539.xml, 1568.xml	1401, 1403, 1403, 1404
+25	#pe__niklas_wasservogel_QGW_II_I_1499	m	4	1499.xml, 1526.xml, 1535.xml	1401, 1403, 1403, 1403
+26	#pe__stephan_leitner	m	4	1503.xml, 1535.xml, 1560.xml	1402, 1403, 1403, 1403
+27	#pe__niklas_von_neuburg_QGW_II_I_1524	m	4	1524.xml, 1545.xml	1403, 1403, 1403, 1403
+28	#pe__thomas_QGW_II_I_1527	m	4	1527.xml, 1554.xml	1403, 1403, 1403, 1403
+29	#pe__kolomann_chranvogel	m	4	1531.xml, 1534.xml, 1568.xml	1403, 1403, 1403, 1404
+30	#pe__jakob_chranvogel	m	4	1531.xml, 1534.xml, 1568.xml	1403, 1403, 1403, 1404
+31	#pe__hermann_von_eslarn_ii	m	4	1542.xml, 1560.xml, 1572.xml	1403, 1403, 1403, 1404
+32	#pe__niklas_wuerfel_von_nussdorf	m	4	1549.xml, 1567.xml, 1589.xml	1403, 1404, 1404, 1404
+33	#pe__ruediger_snurer_QGW_II_I_1557	m	4	1557.xml, 1576.xml, 1585.xml	1403, 1404, 1404, 1404
+34	#pe__jakob_guens_ii	m	4	1574.xml, 1575.xml, 1609.xml	1404, 1404, 1404, 1404
+35	#pe__johann_siedendorfer_QGW_II_I_1600	m	4	1599.xml, 1600.xml, 1601.xml, 1602.xml	1404, 1404, 1404, 1404
+36	#pe__wenzel_QGW_II_I_1487	m	3	1487.xml, 1492.xml	1401, 1401, 1401
+37	#pe__berthold_lang_QGW_II_I_1488	m	3	1488.xml, 1491.xml, 1556.xml	1401, 1401, 1403
+38	#pe__katharina_die_oederin	f	3	1490.xml, 1500.xml	1401, 1402, 1402
+39	#pe__beatrix_von_zollern_nuernberg	f	3	1494.xml, 1542.xml, 1554.xml	1401, 1403, 1403
+40	#pe__philipp_chranvogel	m	3	1495.xml, 1534.xml, 1539.xml	1401, 1403, 1403
+41	#pe__jakob_waicz	m	3	1496.xml, 1566.xml	1401, 1401, 1403
+42	#pe__dietrich_prenner	m	3	1499.xml, 1573.xml	1401, 1401, 1404
+43	#pe__heinrich_hekchel_QGW_II_I_1538	m	3	1507.xml, 1538.xml, 1586.xml	1402, 1403, 1404
+44	#pe__paul_holzkaeufel	m	3	1508.xml, 1509.xml	1402, 1402, 1402
+45	#pe__paul_geir	m	3	1510.xml, 1560.xml, 1608.xml	1402, 1403, 1404
+46	#pe__heinrich_verber_QGW_II_I_1511	m	3	1511.xml, 1559.xml	1402, 1402, 1403
+47	#pe__dorothea_QGW_II_I_1513	f	3	1513.xml, 1515.xml	1402, 1402, 1402
+48	#pe__konrad_hemler	m	3	1514.xml, 1539.xml, 1584.xml	1402, 1403, 1404
+49	#pe__mair_der_jud_QGW_II_I_1535	m	3	1535.xml, 1599.xml, 1606.xml	1403, 1404, 1404
+50	#pe__ulrich_wolf	m	3	1537.xml, 1553.xml	1403, 1403, 1403
+51	#pe__ulrich_wuerfel	m	3	1549.xml, 1577.xml, 1589.xml	1403, 1404, 1404
+52	#pe__sigmund_wuerfel	m	3	1549.xml, 1576.xml, 1589.xml	1403, 1404, 1404
+53	#pe__pilgrim_QGW_II_I_1552_a	m	3	1552.xml	1403, 1403, 1403
+54	#pe__peter_QGW_II_I_1554	m	3	1554.xml, 1607.xml	1403, 1404, 1404
+55	#pe__wolfgang_purkchartsperger	m	3	1560.xml	1403, 1403, 1403
+56	#pe__heinrich_purkchartsperger	m	3	1560.xml	1403, 1403, 1403
+57	#pe__niklas_rorcholb	m	3	1565.xml, 1569.xml	1403, 1404, 1404
+58	#pe__katharina_QGW_II_I_1598	f	3	1573.xml, 1585.xml, 1598.xml	1404, 1404, 1404
+59	#pe__johann_der_muenzer_QGW_II_I_1598	m	3	1573.xml, 1585.xml, 1598.xml	1404, 1404, 1404
+60	#pe__klaus_preuzz_QGW_II_I_1574	m	3	1574.xml, 1575.xml	1404, 1404, 1404
+61	#pe__johann_von_velden	m	3	1595.xml, 1596.xml	1404, 1404, 1404
+62	#pe__salomon_der_jud_QGW_II_I_1606	m	3	1599.xml, 1606.xml	1404, 1404, 1404
+63	#pe__konrad_hainpekch	m	2	1484.xml, 1558.xml	1401, 1403
+64	#pe__berthold_von_ellerbach_QGW_II_I_1485	m	2	1485.xml	1401, 1401
+65	#pe__simon_pairstetter	m	2	1486.xml	1401, 1401
+66	#pe__johann_von_ofen	m	2	1486.xml	1401, 1401
+67	#pe__bartholomaeus_wuerfel	m	2	1487.xml, 1492.xml	1401, 1401
+68	#pe__johann_wlassivis	m	2	1487.xml, 1492.xml	1401, 1401
+69	#pe__christian_duerr	m	2	1489.xml	1401, 1401
+70	#pe__konrad_bei_dem_gottesacker	m	2	1489.xml, 1529.xml	1401, 1403
+71	#pe__georg_nussdorfer	m	2	1490.xml, 1567.xml	1401, 1404
+72	#pe__margarethe_QGW_II_I_1494	f	2	1494.xml, 1496.xml	1401, 1401
+73	#pe__andreas_vischl	m	2	1494.xml, 1513.xml	1401, 1402
+74	#pe__hermann_swarz_QGW_II_I_1496	m	2	1496.xml	1401, 1401
+75	#pe__elisabeth_QGW_II_I_1498	f	2	1498.xml, 1510.xml	1401, 1402
+76	#pe__ulrich_QGW_II_I_1498	m	2	1498.xml, 1510.xml	1401, 1402
+77	#pe__anton_QGW_II_I_1223	m	2	1498.xml, 1546.xml	1401, 1403
+78	#pe__johann_oesterreicher_QGW_II_I_1499	m	2	1499.xml, 1526.xml	1401, 1403
+79	#pe__patrick_QGW_II_I_1501	m	2	1501.xml	1402, 1402
+80	#pe__johann_von_hardegg_QGW_II_I_1505	m	2	1505.xml	1402, 1402
+81	#pe__michael_duerr_QGW_II_I_1506	m	2	1506.xml	1402, 1402
+82	#pe__johann_zerrer_QGW_II_I_1538	m	2	1507.xml, 1538.xml	1402, 1403
+83	#pe__katharina_QGW_II_I_1538	f	2	1507.xml, 1538.xml	1402, 1403
+84	#pe__elisabeth_QGW_II_I_1508	f	2	1508.xml	1402, 1402
+85	#pe__urban_holzkaeufel	m	2	1508.xml, 1541.xml	1402, 1403
+86	#pe__johann_mosprunner	m	2	1508.xml, 1563.xml	1402, 1403
+87	#pe__hugo_von_wehing	m	2	1513.xml	1402, 1402
+88	#pe__georg_pollnheimer	m	2	1513.xml, 1515.xml	1402, 1402
+89	#pe__niklas_von_neuburg_QGW_II_I_1438	m	2	1514.xml	1402, 1402
+90	#pe__margarethe_QGW_II_I_1516	f	2	1516.xml	1402, 1402
+91	#pe__peter_QGW_II_I_1177	m	2	1517.xml	1402, 1402
+92	#pe__konrad_wolkersdorfer_QGW_II_I_1519	m	2	1519.xml, 1609.xml	1402, 1404
+93	#pe__dietrich_smerber_QGW_II_I_1519	m	2	1519.xml	1402, 1402
+94	#pe__dorothea_von_gutenstain	f	2	1520.xml	1402, 1402
+95	#pe__oswald_pauch	m	2	1520.xml, 1570.xml	1402, 1404
+96	#pe__otto_murbecz_QGW_II_I_1543	m	2	1523.xml, 1543.xml	1403, 1403
+97	#pe__friedrich_von_tierna_ii	m	2	1528.xml	1403, 1403
+98	#pe__katharina_neunmarkterin_QGW_II_I_1528	f	2	1528.xml, 1548.xml	1403, 1403
+99	#pe__leonhard_von_moedling	m	2	1531.xml, 1539.xml	1403, 1403
+100	#pe__stephan_reutter_QGW_II_I_1536	m	2	1536.xml	1403, 1403
+101	#pe__rudolf_von_wallsee	m	2	1536.xml, 1542 a.xml	1403, 1403
+102	#pe__johann_trautmann_QGW_II_I_1536	m	2	1536.xml, 1544.xml	1403, 1403
+103	#pe__stephan_trautmann_QGW_II_I_1536	m	2	1536.xml, 1544.xml	1403, 1403
+104	#pe__heinrich_ramler	m	2	1537.xml	1403, 1403
+105	#pe__niklas_von_der_schemnitz_III	m	2	1538.xml, 1592.xml	1403, 1404
+106	#pe__jakob_suzz_QGW_II_I_1541	m	2	1541.xml	1403, 1403
+107	#pe__friedrich_von_wallsee	m	2	1542 a.xml, 1595.xml	1403, 1404
+108	#pe__niklas_valich	m	2	1544.xml, 1553.xml	1403, 1403
+109	#pe__johann_wuerfel	m	2	1549.xml, 1589.xml	1403, 1404
+110	#pe__pilgrim_QGW_II_I_1552_b	m	2	1552.xml	1403, 1403
+111	#pe__jakob_von_neuburg_QGW_II_I_1552	m	2	1552.xml	1403, 1403
+112	#pe__johann_geresteiner_QGW_II_I_1488	m	2	1556.xml	1403, 1403
+113	#pe__anna_QGW_II_I_1558	f	2	1558.xml	1403, 1403
+114	#pe__konrad_rokk	m	2	1558.xml, 1582.xml	1403, 1404
+115	#pe__christine_QGW_II_I_1559	f	2	1559.xml, 1572.xml	1403, 1404
+116	#pe__stephan_der_pechrer_QGW_II_I_1559	m	2	1559.xml, 1572.xml	1403, 1404
+117	#pe__johann_von_ernstbrunn	m	2	1561.xml	1403, 1403
+118	#pe__johann_fuechsel	m	2	1562.xml, 1586.xml	1403, 1404
+119	#pe__margarethe_QGW_II_I_1563	f	2	1563.xml	1403, 1403
+120	#pe__thomas_englisch	m	2	1566.xml	1403, 1403
+121	#pe__ulrich_QGW_II_I_1566	m	2	1566.xml	1403, 1403
+122	#pe__stephan_weinreich_zu_nussdorf	m	2	1567.xml	1404, 1404
+123	#pe__georg_von_passau	m	2	1568.xml, 1571.xml	1404, 1404
+124	#pe__liebhard_von_regensburg_QGW_II_I_1591	m	2	1568.xml, 1591.xml	1404, 1404
+125	#pe__michael_frankch	m	2	1569.xml	1404, 1404
+126	#pe__konrad_der_bierbrauer_QGW_II_I_1572	m	2	1572.xml	1404, 1404
+127	#pe__jakob_der_wachsgiesser_QGW_II_I_1403	m	2	1574.xml, 1575.xml	1404, 1404
+128	#pe__erhard_raittenvelder_QGW_II_I_1576	m	2	1576.xml	1404, 1404
+129	#pe__johann_raittenvelder_QGW_II_I_1576	m	2	1576.xml	1404, 1404
+130	#pe__sophia_QGW_II_I_1576	f	2	1576.xml	1404, 1404
+131	#pe__albrecht_der_riemer_QGW_II_I_1579	m	2	1579.xml, 1580.xml	1404, 1404
+132	#pe__paul_wagendruessel_ii	m	2	1579.xml, 1580.xml	1404, 1404
+133	#pe__johann_schoenknecht	m	2	1581.xml	1404, 1404
+134	#pe__albrecht_stekch	m	2	1581.xml	1404, 1404
+135	#pe__heinrich_der_floetzer_QGW_II_I_1583	m	2	1583.xml	1404, 1404
+136	#pe__johann_chaufmann_QGW_II_I_1585	m	2	1585.xml	1404, 1404
+137	#pe__siegfrid_lorber_QGW_II_I_1598	m	2	1585.xml, 1598.xml	1404, 1404
+138	#pe__dorothea_QGW_II_I_1590	f	2	1590.xml	1404, 1404
+139	#pe__ulrich_werder_QGW_II_I_1600	m	2	1600.xml	1404, 1404
+140	#pe__bernhard_der_tuchberaiter_QGW_II_I_1601	m	2	1601.xml	1404, 1404
+141	#pe__johann_perman_QGW_II_I_1602	m	2	1602.xml	1404, 1404
+142	#pe__herbert_viedeler_QGW_II_I_1604	m	2	1604.xml	1404, 1404
+143	#pe__friedrich_perolt_QGW_II_I_1609	m	2	1609.xml	1404, 1404
+144	#pe__konrad_schenk_QGW_II_I_1610	m	2	1610.xml	1404, 1404
+145	#pe__heinrich_egelhaimer_QGW_II_I_1482	m	1	1482.xml	1401
+146	#pe__margarethe_QGW_II_I_1483	f	1	1483.xml	1401
+147	#pe__ulrich_slaffer_QGW_II_I_1483	m	1	1483.xml	1401
+148	#pe__peter_egelseber	m	1	1484.xml	1401
+149	#pe__agnes_QGW_II_I_1484	f	1	1484.xml	1401
+150	#pe__margarethe_QGW_II_I_1484	f	1	1484.xml	1401
+151	#pe__anna_QGW_II_I_1484	f	1	1484.xml	1401
+152	#pe__niklas_pipping	m	1	1484.xml	1401
+153	#pe__niklas_QGW_II_I_1484	m	1	1484.xml	1401
+154	#pe__niklas_weiss	m	1	1484.xml	1401
+155	#pe__michael_menschein	m	1	1484.xml	1401
+156	#pe__burkhard_von_winden_QGW_II_I_1485	m	1	1485.xml	1401
+157	#pe__johann_sachs	m	1	1488.xml	1401
+158	#pe__anna_QGW_II_I_1488_b	f	1	1488.xml	1401
+159	#pe__ulrich_der_schrannschreiber_QGW_II_I_1488	m	1	1488.xml	1401
+160	#pe__anna_QGW_II_I_1488_a	f	1	1488.xml	1401
+161	#pe__niklas_der_bogner_von_nikolsburg_QGW_II_I_1488	m	1	1488.xml	1401
+162	#pe__barbara_QGW_II_I_1488	f	1	1488.xml	1401
+163	#pe__michael_seld	m	1	1488.xml	1401
+164	#pe__simon_rorer_von_hebersdorf	m	1	1489.xml	1401
+165	#pe__johann_chienast	m	1	1489.xml	1401
+166	#pe__andreas_QGW_II_I_1489	m	1	1489.xml	1401
+167	#pe__ottilia_GQW_II_I_1489	f	1	1489.xml	1401
+168	#pe__stephan_nussdorfer	m	1	1490.xml	1401
+169	#pe__leb_QGW_II_I_1490	m	1	1490.xml	1401
+170	#pe__paul_chuenrauter	m	1	1490.xml	1401
+171	#pe__elisabeth_QGW_II_I_1490	f	1	1490.xml	1401
+172	#pe__michael_affer_QGW_II_I_1491	m	1	1491.xml	1401
+173	#pe__christine_QGW_II_I_1491	f	1	1491.xml	1401
+174	#pe__johann_muenich_QGW_II_I_1491	m	1	1491.xml	1401
+175	#pe__anna_QGW_II_I_1491	f	1	1491.xml	1401
+176	#pe__johann_sindram_von_heiligenstadt	m	1	1492.xml	1401
+177	#pe__andreas_pierbaumer_QGW_II_I_1494	m	1	1494.xml	1401
+178	#pe__otto_pierbaumer_QGW_II_I_1494	m	1	1494.xml	1401
+179	#pe__stephan_seifrid_QGW_II_I_1494	m	1	1494.xml	1401
+180	#pe__christian_von_bierbaum_QGW_II_I_1494	m	1	1494.xml	1401
+181	#pe__philipp_pivang_QGW_II_I_1494	m	1	1494.xml	1401
+182	#pe__jakob_QGW_II_I_1494	m	1	1494.xml	1401
+183	#pe__agnes_QGW_II_I_1495	f	1	1495.xml	1401
+184	#pe__eberhard_der_schuster_QGW_II_I_1495	m	1	1495.xml	1401
+185	#pe__ulrich_herwart_II_QGW_II_I_1496	m	1	1496.xml	1401
+186	#pe__johann_smerber_QGW_II_I_1496	m	1	1496.xml	1401
+187	#pe__dorothea_QGW_II_I_1496	f	1	1496.xml	1401
+188	#pe__johann_milt_QGW_II_I_1496	m	1	1496.xml	1401
+189	#pe__kunigunde_QGW_II_I_1497	f	1	1497.xml	1401
+190	#pe__albrecht_QGW_II_I_1497	m	1	1497.xml	1401
+191	#pe__peter_QGW_II_I_1497	m	1	1497.xml	1401
+192	#pe__friedrich_valich	m	1	1497.xml	1401
+193	#pe__friedrich_der_plattenschlaeger_QGW_II_I_1446	m	1	1497.xml	1401
+194	#pe__kolomann_zistel	m	1	1498.xml	1401
+195	#pe__siegfried_zistel	m	1	1498.xml	1401
+196	#pe__johann_der_rothschmied_QGW_II_I_1279	m	1	1500.xml	1402
+197	#pe__katharina_QGW_II_I_1500	f	1	1500.xml	1402
+198	#pe__lucia_naezeugerin	f	1	1501.xml	1402
+199	#pe__stephan_naezeuger	m	1	1501.xml	1402
+200	#pe__albrecht_QGW_II_I_1501	m	1	1501.xml	1402
+201	#pe__johann_naezeuger	m	1	1501.xml	1402
+202	#pe__hartmann_der_guertler_QGW_II_I_1502	m	1	1502.xml	1402
+203	#pe__kunigunde_QGW_II_I_1502	f	1	1502.xml	1402
+204	#pe__franz_heun_QGW_II_I_1502	m	1	1502.xml	1402
+205	#pe__margarethe_polanerin	f	1	1503.xml	1402
+206	#pe__heinrich_weiler_QGW_II_I_1504	m	1	1504.xml	1402
+207	#pe__friedrich_fritzestorfer_QGW_II_I_1505	m	1	1505.xml	1402
+208	#pe__johann_von_pottendorf_QGW_II_I_1506	m	1	1506.xml	1402
+209	#pe__anna_QGW_II_I_1506	f	1	1506.xml	1402
+210	#pe__ulrich_weitan_QGW_II_I_1506	m	1	1506.xml	1402
+211	#pe__wilhelm_linzer_QGW_II_I_1506	m	1	1506.xml	1402
+212	#pe__johann_der_goldschmied_QGW_II_I_1507	m	1	1507.xml	1402
+213	#pe__barbara_QGW_II_I_1507	f	1	1507.xml	1402
+214	#pe__georg_weikersdorfer	m	1	1510.xml	1402
+215	#pe__konrad_von_hohenfels_QGW_II_I_1511	m	1	1511.xml	1402
+216	#pe__margarethe_QGW_II_I_1511_b	f	1	1511.xml	1402
+217	#pe__georg_der_schneider_QGW_II_I_1511	m	1	1511.xml	1402
+218	#pe__margarethe_QGW_II_I_1511_a	f	1	1511.xml	1402
+219	#pe__katharina_QGW_II_I_1512	f	1	1512.xml	1402
+220	#pe__johann_QGW_II_I_1512	m	1	1512.xml	1402
+221	#pe__heinrich_gravenperiger_QGW_II_I_1512	m	1	1512.xml	1402
+222	#pe__michael_QGW_II_I_1238	m	1	1513.xml	1402
+223	#pe__heinrich_mukkel	m	1	1514.xml	1402
+224	#pe__elisabeth_QGW_II_I_1514	f	1	1514.xml	1402
+225	#pe__niklas_flusthart	m	1	1514.xml	1402
+226	#pe__georg_haeusler	m	1	1515.xml	1402
+227	#pe__johann_haeusler	m	1	1515.xml	1402
+228	#pe__friedrich_haeusler	m	1	1515.xml	1402
+229	#pe__markhard_haeusler_von_obernpuellach	m	1	1515.xml	1402
+230	#pe__johann_liechtenekker	m	1	1515.xml	1402
+231	#pe__friedrich_stoll_QGW_II_I_1516	m	1	1516.xml	1402
+232	#pe__ernst_herzog_von_oesterreich	m	1	1516.xml	1402
+233	#pe__heinrich_chamrer_QGW_II_I_1516	m	1	1516.xml	1402
+234	#pe__peter_ponhalm_zu_wien	m	1	1517.xml	1402
+235	#pe__katharina_QGW_II_I_1517	f	1	1517.xml	1402
+236	#pe__peter_der_schneider_QGW_II_I_1517	m	1	1517.xml	1402
+237	#pe__niklas_hildebrant_QGW_II_I_1519	m	1	1519.xml	1402
+238	#pe__andreas_hutstock_QGW_II_I_1519	m	1	1519.xml	1402
+239	#pe__stephan_hutstokch	m	1	1520.xml	1402
+240	#pe__policarp_hutstokch	m	1	1520.xml	1402
+241	#pe__ortolf_von_kleinrustpach	m	1	1520.xml	1402
+242	#pe__stephan_mairl	m	1	1521.xml	1402
+243	#pe__kunigunde_QGW_II_I_1521	f	1	1521.xml	1402
+244	#pe__johann_kilber	m	1	1521.xml	1402
+245	#pe__katharina_QGW_II_I_1521	f	1	1521.xml	1402
+246	#pe__anna_QGW_II_I_1521	f	1	1521.xml	1402
+247	#pe__stephan_QGW_II_I_1521	m	1	1521.xml	1402
+248	#pe__hermann_fridmann	m	1	1521.xml	1402
+249	#pe__konrad_innauer	m	1	1521.xml	1402
+250	#pe__niklas_beschorn	m	1	1522.xml	1402
+251	#pe__kaspar_gerhart	m	1	1522.xml	1402
+252	#pe__stephan_radeundl	m	1	1522.xml	1402
+253	#pe__wilhelm_QGW_II_I_1523	m	1	1523.xml	1403
+254	#pe__johann_hansgraf	m	1	1523.xml	1403
+255	#pe__pankraz_mitterchiricher	m	1	1524.xml	1403
+256	#pe__peter_zaphaff_QGW_II_I_1525	m	1	1525.xml	1403
+257	#pe__niklas_wagrainer_QGW_II_I_1525	m	1	1525.xml	1403
+258	#pe__thomas_pasman_QGW_II_I_1525	m	1	1525.xml	1403
+259	#pe__helena_QGW_II_I_1525	f	1	1525.xml	1403
+260	#pe__dietrich_pasman_QGW_II_I_1525	m	1	1525.xml	1403
+261	#pe__heinrich_QGW_II_I_1527	m	1	1527.xml	1403
+262	#pe__georg_von_tierna_QGW_II_I_1528	m	1	1528.xml	1403
+263	#pe__tiemo_der_schneider_QGW_II_I_1529	m	1	1529.xml	1403
+264	#pe__elisabeth_QGW_II_I_1529	f	1	1529.xml	1403
+265	#pe__michael_der_maurer_von_liesing_QGW_II_I_1529	m	1	1529.xml	1403
+266	#pe__anna_QGW_II_I_1529	f	1	1529.xml	1403
+267	#pe__johann_czelter_QGW_II_I_1530	m	1	1530.xml	1403
+268	#pe__anna_QGW_II_I_1530	f	1	1530.xml	1403
+269	#pe__johann_rokk	m	1	1530.xml	1403
+270	#pe__wolfhard_QGW_II_I_1531	m	1	1531.xml	1403
+271	#pe__wolfhard_der_mullner_QGW_II_I_1532	m	1	1532.xml	1403
+272	#pe__anna_QGW_II_I_1532	f	1	1532.xml	1403
+273	#pe__johann_staindl_QGW_II_I_1532	m	1	1532.xml	1403
+274	#pe__friedrich_von_tierna	m	1	1533.xml	1403
+275	#pe__konrad_spaet_QGW_II_I_1534	m	1	1534.xml	1403
+276	#pe__elisabeth_QGW_II_I_1536_a	f	1	1536.xml	1403
+277	#pe__paul_der_lederer_QGW_II_I_1536	m	1	1536.xml	1403
+278	#pe__gottschalk_weisman_QGW_II_I_1536	m	1	1536.xml	1403
+279	#pe__agnes_QGW_II_I_1536	f	1	1536.xml	1403
+280	#pe__elisabeth_QGW_II_I_1536_b	f	1	1536.xml	1403
+281	#pe__jakob_hagen_QGW_II_I_1536	m	1	1536.xml	1403
+282	#pe__katharina_QGW_II_I_1536	f	1	1536.xml	1403
+283	#pe__niklas_lebansorg	m	1	1537.xml	1403
+284	#pe__katharina_QGW_II_I_1537_a	f	1	1537.xml	1403
+285	#pe__kolomann_QGW_II_I_1537	m	1	1537.xml	1403
+286	#pe__georg_QGW_II_I_1537	m	1	1537.xml	1403
+287	#pe__katharina_QGW_II_I_1537_b	f	1	1537.xml	1403
+288	#pe__wolfhard_der_pfeilschnitzer_QGW_II_I_1538	m	1	1538.xml	1403
+289	#pe__johann_von_ebergassing_QGW_II_I_1540	m	1	1540.xml	1403
+290	#pe__konrad_gresl_QGW_II_I_1540	m	1	1540.xml	1403
+291	#pe__margarethe_QGW_II_I_1540	f	1	1540.xml	1403
+292	#pe__christine_QGW_II_I_1541	f	1	1541.xml	1403
+293	#pe__niklas_karner_QGW_II_I_1541	m	1	1541.xml	1403
+294	#pe__berthold_von_freising	m	1	1542 a.xml	1403
+295	#pe__friedrich_von_stubenberg_QGW_II_I_1542a	m	1	1542 a.xml	1403
+296	#pe__wolfgang_ringshentl	m	1	1542.xml	1403
+297	#pe__jakob_hunthoch_QGW_II_I_1543	m	1	1543.xml	1403
+298	#pe__margarethe_QGW_II_I_1544	f	1	1544.xml	1403
+299	#pe__heinrich_scheczl_QGW_II_I_1544	m	1	1544.xml	1403
+300	#pe__pilgrim_drischler_QGW_II_I_1544	m	1	1544.xml	1403
+301	#pe__heinrich_scheppach_QGW_II_I_1544	m	1	1544.xml	1403
+302	#pe__berthold_QGW_II_I_1545	m	1	1545.xml	1403
+303	#pe__peter_guettlinger	m	1	1546.xml	1403
+304	#pe__margarethe_QGW_II_I_1546	f	1	1546.xml	1403
+305	#pe__paul_QGW_II_I_1546	m	1	1546.xml	1403
+306	#pe__georg_QGW_II_I_1546	m	1	1546.xml	1403
+307	#pe__siegfried_schaidnagl	m	1	1546.xml	1403
+308	#pe__ulrich_der_muenzer_QGW_II_I_1547	m	1	1547.xml	1403
+309	#pe__dorothea_QGW_II_I_1547	f	1	1547.xml	1403
+310	#pe__katharina_QGW_II_I_1547	f	1	1547.xml	1403
+311	#pe__agnes_QGW_II_I_1548	f	1	1548.xml	1403
+312	#pe__niklas_fraunmesser_QGW_II_I_1548	m	1	1548.xml	1403
+313	#pe__peter_kremser_QGW_II_I_1548	m	1	1548.xml	1403
+314	#pe__niklas_schikchseisen	m	1	1550.xml	1403
+315	#pe__elisabeth_QGW_II_I_1550	f	1	1550.xml	1403
+316	#pe__dietrich_QGW_II_I_1363	m	1	1550.xml	1403
+317	#pe__jakob_der_pekch_QGW_II_I_1553	m	1	1553.xml	1403
+318	#pe__barbara_QGW_II_I_1553	f	1	1553.xml	1403
+319	#pe__heinrich_QGW_II_I_1553_b	m	1	1553.xml	1403
+320	#pe__georg_QGW_II_I_1553	m	1	1553.xml	1403
+321	#pe__heinrich_QGW_II_I_1553_a	m	1	1553.xml	1403
+322	#pe__leonhard_QGW_II_I_1553	m	1	1553.xml	1403
+323	#pe__hugo_QGW_II_I_1553	m	1	1553.xml	1403
+324	#pe__niklas_lerrer	m	1	1554.xml	1403
+325	#pe__simon_QGW_II_I_1555	m	1	1555.xml	1403
+326	#pe__johann_QGW_II_I_1555	m	1	1555.xml	1403
+327	#pe__august_der_kursner_QGW_II_I_1555	m	1	1555.xml	1403
+328	#pe__katharina_QGW_II_I_1555	f	1	1555.xml	1403
+329	#pe__ulrich_der_eisner_QGW_II_I_1555	m	1	1555.xml	1403
+330	#pe__kunigunde_QGW_II_I_1555	f	1	1555.xml	1403
+331	#pe__georg_der_fleischhacker_von_gumpoltskirchen_QGW_II_I_1555	m	1	1555.xml	1403
+332	#pe__margarethe_QGW_II_I_1556	f	1	1556.xml	1403
+333	#pe__johann_gallnroder_QGW_II_I_1556	m	1	1556.xml	1403
+334	#pe__meinhard_der_pfeilschnitzer_QGW_II_I_1557	m	1	1557.xml	1403
+335	#pe__lesier_QGW_II_I_1557	m	1	1557.xml	1403
+336	#pe__patusch_QGW_II_I_1557	m	1	1557.xml	1403
+337	#pe__heinrich_QGW_II_I_1558	m	1	1558.xml	1403
+338	#pe__sieghard_goldstain	m	1	1558.xml	1403
+339	#pe__agnes_QGW_II_I_1558	f	1	1558.xml	1403
+340	#pe__engel_QGW_II_I_1558	m	1	1558.xml	1403
+341	#pe__barbara_QGW_II_I_1559	f	1	1559.xml	1403
+342	#pe__johann_der_bierbrauer_QGW_II_I_1559	m	1	1559.xml	1403
+343	#pe__wolfhard_streithofer_QGW_II_I_1559	m	1	1559.xml	1403
+344	#pe__jakob_paumgartner	m	1	1559.xml	1403
+345	#pe__katharina_QGW_II_I_1560_b	f	1	1560.xml	1403
+346	#pe__anna_QGW_II_I_1560	f	1	1560.xml	1403
+347	#pe__johann_chornteuer	m	1	1560.xml	1403
+348	#pe__konrad_der_kursner_QGW_II_I_1560	m	1	1560.xml	1403
+349	#pe__leonhard_purkchartsperger	m	1	1560.xml	1403
+350	#pe__ulrich_purkchartsperger	m	1	1560.xml	1403
+351	#pe__katharina_QGW_II_I_1560_a	f	1	1560.xml	1403
+352	#pe__magdalena_QGW_II_I_1560	f	1	1560.xml	1403
+353	#pe__wolfhard_von_der_schemnitz	m	1	1560.xml	1403
+354	#pe__stephan_swaeml	m	1	1560.xml	1403
+355	#pe__klara_QGW_II_I_1560	f	1	1560.xml	1403
+356	#pe__peter_swaeml	m	1	1560.xml	1403
+357	#pe__konrad_kirchperger	m	1	1560.xml	1403
+358	#pe__michael_purkchartsperger	m	1	1560.xml	1403
+359	#pe__michael_hungerperger	m	1	1560.xml	1403
+360	#pe__ulrich_dorn	m	1	1560.xml	1403
+361	#pe__haczl_der_schuler_QGW_II_I_1560	m	1	1560.xml	1403
+362	#pe__konrad_gruenwalder	m	1	1560.xml	1403
+363	#pe__johann_veltsperger	m	1	1560.xml	1403
+364	#pe__katharina_QGW_II_I_1561	f	1	1561.xml	1403
+365	#pe__ulrich_von_fellabrunn	m	1	1561.xml	1403
+366	#pe__cirvos_tutz	m	1	1561.xml	1403
+367	#pe__johann_stekch_ii	m	1	1561.xml	1403
+368	#pe__paul_zwivaler	m	1	1562.xml	1403
+369	#pe__anna_QGW_II_I_1562	f	1	1562.xml	1403
+370	#pe__andreas_von_zwettl	m	1	1562.xml	1403
+371	#pe__simon_abel_von_nosen_in_siebenbuergen	m	1	1563.xml	1403
+372	#pe__seidel_der_jud_QGW_II_I_1564	m	1	1564.xml	1403
+373	#pe__smoyel_der_jud_QGW_II_I_1564	m	1	1564.xml	1403
+374	#pe__katharina_QGW_II_I_1566	f	1	1566.xml	1403
+375	#pe__johann_von_stranning	m	1	1566.xml	1403
+376	#pe__niklas_koller	m	1	1566.xml	1403
+377	#pe__leopold_QGW_II_I_1567	m	1	1567.xml	1404
+378	#pe__martin_QGW_II_I_1571	m	1	1571.xml	1404
+379	#pe__konrad_hainfelder_QGW_II_I_1572	m	1	1572.xml	1404
+380	#pe__dietrich_der_zimmermann_QGW_II_I_1572	m	1	1572.xml	1404
+381	#pe__andreas_ris	m	1	1572.xml	1404
+382	#pe__peter_vogel_QGW_II_I_1574	m	1	1574.xml	1404
+383	#pe__katharina_QGW_II_I_1574	f	1	1574.xml	1404
+384	#pe__johann_hoflich_QGW_II_I_1574	m	1	1574.xml	1404
+385	#pe__elisabeth_QGW_II_I_1574	f	1	1574.xml	1404
+386	#pe__anna_QGW_II_I_1577	f	1	1577.xml	1404
+387	#pe__johann_messenbacher_QGW_II_I_1577	m	1	1577.xml	1404
+388	#pe__albrecht_zetter	m	1	1577.xml	1404
+389	#pe__konrad_der_riemer_QGW_II_I_1580	m	1	1580.xml	1404
+390	#pe__kunigunde_QGW_II_I_1580	f	1	1580.xml	1404
+391	#pe__niklas_irrensteig_QGW_II_I_1580	m	1	1580.xml	1404
+392	#pe__paul_irrensteig_QGW_II_I_1580	m	1	1580.xml	1404
+393	#pe__anna_QGW_II_I_1580	f	1	1580.xml	1404
+394	#pe__johann_paur_QGW_II_I_1582	m	1	1582.xml	1404
+395	#pe__christine_QGW_II_I_1582	f	1	1582.xml	1404
+396	#pe__stephan_der_oeler_QGW_II_I_1582	m	1	1582.xml	1404
+397	#pe__ulrich_wochenstolz	m	1	1583.xml	1404
+398	#pe__margarethe_QGW_II_I_1583	f	1	1583.xml	1404
+399	#pe__ulrich_trager	m	1	1583.xml	1404
+400	#pe__ulrich_im_turn_QGW_II_I_1583	m	1	1583.xml	1404
+401	#pe__jakob_von_truebensee_QGW_II_I_1584	m	1	1584.xml	1404
+402	#pe__ulrich_QGW_II_I_1584	m	1	1584.xml	1404
+403	#pe__rüdiger_snurer	m	1	1585.xml	1404
+404	#pe__johann_makkauer_QGW_II_I_1585	m	1	1585.xml	1404
+405	#pe__johann_ekprecht	m	1	1587.xml	1404
+406	#pe__thomas_QGW_II_I_1587	m	1	1587.xml	1404
+407	#pe__andreas_wulzendorfer_QGW_II_I_1590	m	1	1590.xml	1404
+408	#pe__johann_jedenspeigener_QGW_II_I_1590	m	1	1590.xml	1404
+409	#pe__niklas_weispacher	m	1	1590.xml	1404
+410	#pe__johann_trosperch_von_nuernberg	m	1	1591.xml	1404
+411	#pe__ulrich_nagel_QGW_II_I_1592	m	1	1592.xml	1404
+412	#pe__friedrich_frosch	m	1	1592.xml	1404
+413	#pe__niklas_der_eisenzieher_QGW_II_I_1593	m	1	1593.xml	1404
+414	#pe__konrad_arrer_II_QGW_II_I_1593	m	1	1593.xml	1404
+415	#pe__elisabeth_QGW_II_I_1593	f	1	1593.xml	1404
+416	#pe__niklas_fraunpreis_QGW_II_I_1593	m	1	1593.xml	1404
+417	#pe__christian_der_plattner_QGW_II_I_836	m	1	1593.xml	1404
+418	#pe__jakob_von_st_bernhard_QGW_II_I_1593	m	1	1593.xml	1404
+419	#pe__anna_QGW_II_I_1597	f	1	1597.xml	1404
+420	#pe__anna_QGW_II_I_762	f	1	1598.xml	1404
+421	#pe__bernhard_stichl	m	1	1598.xml	1404
+422	#pe__hansuezz_QGW_II_I_1599	f	1	1599.xml	1404
+423	#pe__steuzz_der_jud_QGW_II_I_1599	m	1	1599.xml	1404
+424	#pe__riffka_QGW_II_I_1599	f	1	1599.xml	1404
+425	#pe__abraham_QGW_II_I_1599	m	1	1599.xml	1404
+426	#pe__katharina_QGW_II_I_1603	m	1	1603.xml	1404
+427	#pe__eisal_QGW_II_I_1603	f	1	1603.xml	1404
+428	#pe__siegfried_fuechsel	m	1	1603.xml	1404
+429	#pe__oswald_ingelsteter_QGW_II_I_1604	m	1	1604.xml	1404
+430	#pe__johann_teschinger_QGW_II_I_1604	m	1	1604.xml	1404
+431	#pe__konrad_oeffenlin_QGW_II_I_1604	m	1	1604.xml	1404
+432	#pe__slanan_qgw_II_I_1605	f	1	1605.xml	1404
+433	#pe__isaak_der_jud_von_bruenn_qgw_II_I_1605	m	1	1605.xml	1404
+434	#pe__niklas_hauser_der_kursner_QGW_II_I_1606	m	1	1606.xml	1404
+435	#pe__jakob_von_tulln_QGW_II_I_1607	m	1	1607.xml	1404
+436	#pe__johann_von_graz_QGW_II_I_1607	m	1	1607.xml	1404
+437	#pe__gertrude_QGW_II_I_1607	f	1	1607.xml	1404
+438	#pe__leopold_sigharczhofer	m	1	1607.xml	1404
+439	#pe__niklas_rot	m	1	1608.xml	1404
+440	#pe__margarethe_QGW_II_I_1608	f	1	1608.xml	1404
+441	#pe__niklas_chaeser	m	1	1608.xml	1404
+442	#pe__christian_tatler	m	1	1608.xml	1404
+443	#pe__agnes_QGW_II_I_1608	f	1	1608.xml	1404
+444	#pe__katharina_QGW_II_I_1609	f	1	1609.xml	1404
+445	#pe__friedrich_der_tischler_QGW_II_I_1609	m	1	1609.xml	1404
+446	#pe__elisabeth_QGW_II_I_1609	f	1	1609.xml	1404
+447	#pe__stephan_fraunschuechl_QGW_II_I_1609	m	1	1609.xml	1404
+448	#pe__christine_QGW_II_I_1609	f	1	1609.xml	1404
+449	#pe__anna_QGW_II_I_1609	f	1	1609.xml	1404
+450	#pe__simon_der_zinngiesser_QGW_II_I_1609	m	1	1609.xml	1404
+451	#pe__michael_wuerfel_QGW_II_I_1609	m	1	1609.xml	1404
+452	#pe__katharina_QGW_II_I_1610	f	1	1610.xml	1404
+453	#pe__peter_raidl_QGW_II_I_1610	m	1	1610.xml	1404
