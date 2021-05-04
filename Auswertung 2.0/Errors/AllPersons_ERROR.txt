@@ -1,0 +1,6 @@
+2021-05-04 16:22:07
+Error in: 00056-eintrag_vom_1448-08-09.xml 
+-Node {http://www.tei-c.org/ns/1.0}rs 
+-attributes: type; ref; 
+-Nodetext: "Anna"
+-------------
