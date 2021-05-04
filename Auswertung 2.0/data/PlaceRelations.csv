@@ -1,0 +1,171 @@
+	place	name	text	relation	xml	date
+0	pl__wien-immo_huehnergesslein_1	Andreas Vischel Haus	ír	pe__barbara_SB_CD_00054	00054-eintrag_vom_1448-06-10.xml	1448-06-10
+1	pl__wien-immo_huehnergesslein_1	Andreas Vischel Haus	ir	pe__andreas_vischel_SB_CD_00054	00054-eintrag_vom_1448-06-10.xml	1448-06-10
+2	pl__wien-immo_huehnergesslein_2	Stephan Imbrung Haus	Stephans Imbrung des	pe__stephan_imbrung_SB_CD_00054	00054-eintrag_vom_1448-06-10.xml	1448-06-10
+3	pl__wien-immo_alter_fleischmarkt_1	Agatha Hulber dritt tail Haus vormals Micheln Stadl	ir	pe__agathe_SB_CD_00055	00055-eintrag_vom_1448-06-21.xml	1448-06-21
+4	pl__wien-immo_wiltwerkerstrasse_3	Anna Leinburger Haus	irs	pe__anna_SB_CD_00056	00056-eintrag_vom_1448-08-09.xml	1448-08-09
+5	pl__wien-immo_judengasse_am_neuen_platz_1	Berthold Mermann Haus	sein	pe__berthold_merman_SB_CD_00157	00156-eintrag_vom_1448-12-13.xml	1448-12-13
+6	pl__wien-immo_judengasse_am_neuen_platz_2	Jacoben des Smalen Haus	Jacoben des Smalen	pe__jakob_smal_SB_CD_00156	00156-eintrag_vom_1448-12-13.xml	1448-12-13
+7	pl__wien-immo_judengasse_am_neuen_platz_3	Erhart von Prag des peutler haus	Erharts von Prag des	pe__erhard_von_prag_SB_CD_00156	00156-eintrag_vom_1448-12-13.xml	1448-12-13
+8	pl__wien-immo_neuer_markt_1	Konrad u. Brigitta Eggenfelder Haus	ir	pe__konrad_eggenfelder_SB_CD_00226	00226-eintrag_vom_1448-02-23.xml	1448-02-23
+9	pl__wien-immo_neuer_markt_1	Konrad u. Brigitta Eggenfelder Haus	ir	pe__brigitta_SB_CD_00226	00226-eintrag_vom_1448-02-23.xml	1448-02-23
+10	pl__wien-immo_neuer_markt_2	Thomas Kunter Haus	Thomans Kuntter	pe__thomas_kunter_SB_CD_00226	00226-eintrag_vom_1448-02-23.xml	1448-02-23
+11	pl__wien-immo_weihenburg_1	genant der Alt TechanthofKonrad und Anna Schröfl HausJohann Kanstdorffer Haus	ir	pe__konrad_schrofl_SB_CD_00227	00227-eintrag_vom_1448-03-06.xml	1448-03-06
+12	pl__wien-immo_weihenburg_1	genant der Alt TechanthofKonrad und Anna Schröfl HausJohann Kanstdorffer Haus	ir	pe__anna_SB_CD_00227	00227-eintrag_vom_1448-03-06.xml	1448-03-06
+13	pl__wien-immo_kumphlukche_vor_kernertor_1	Konrad und Margarethe von Tyrna Haus	ir	pe__konrad_von_tierna_SB_CD_00228	00228-eintrag_vom_1448-04-22.xml	1448-04-22
+14	pl__wien-immo_kumphlukche_vor_kernertor_1	Konrad und Margarethe von Tyrna Haus	ir	pe__margarethe_SB_CD_00228	00228-eintrag_vom_1448-04-22.xml	1448-04-22
+15	pl__wien-immo_kumphlukche_vor_kernertor_2	Hainreichs Krumbnawer haus	Hainreichs Krumbnawer	pe__heinrich_krumauer_SB_CD_00228	00228-eintrag_vom_1448-04-22.xml	1448-04-22
+16	pl__wien-immo_graben_1	Kaspar Hermann Haus	sein	pe__kaspar_hermann_SB_CD_00229	00229-eintrag_vom_1448-05-27.xml	1448-05-27
+17	pl__wien-immo_graben_2	Stephan Auer Haus	Steffans Awer	pe__stephan_auer_SB_CD_00229	00229-eintrag_vom_1448-05-27.xml	1448-05-27
+18	pl__wien-immo_fleischbaenke_1	Servatius und Dorothea Waczla Haus	ir	pe__servatius_waczla_SB_CD_00230	00230-eintrag_vom_1448-11-20.xml	1448-11-20
+19	pl__wien-immo_fleischbaenke_1	Servatius und Dorothea Waczla Haus	ir	pe__dorothea_SB_CD_00230	00230-eintrag_vom_1448-11-20.xml	1448-11-20
+20	pl__wien-immo_fleischbaenke_2	Michael Salzer Haus	Mathesen des Salczer	pe__matthias_salczer_QGW_II_II_2595	00230-eintrag_vom_1448-11-20.xml	1448-11-20
+21	pl__wien-immo_scheffstrasse_1	Johann und Klara Tinpeck Haus	irm	pe__barbara_SB_CD_00231	00231-eintrag_vom_1448-09-20.xml	1448-09-20
+22	pl__wien-immo_scheffstrasse_1	Johann und Klara Tinpeck Haus	irm	pe__klara_SB_CD_00231	00231-eintrag_vom_1448-09-20.xml	1448-09-20
+23	pl__wien-immo_scheffstrasse_1	Johann und Klara Tinpeck Haus	irm	pe__jakob_SB_CD_00231	00231-eintrag_vom_1448-09-20.xml	1448-09-20
+24	pl__wien-immo_scheffstrasse_2	Wolfgang von Asparn Haus	Wolfgangs von Asparn	pe__wolfgang_von_asparn_SB_CD_00231	00231-eintrag_vom_1448-09-20.xml	1448-09-20
+25	pl__wien-immo_haarmarkt_1	Dorothea und Albrecht Liebhart Haus	ir	pe__dorothea_QGW_II_II_3262_a	00299-eintrag_vom_1448-07-08.xml	1448-07-08
+26	pl__wien-immo_tiefer_graben_1	Dorothea und Pankraz Widmer Haus	irm	pe__dorothea_QGW_II_II_3264	00300-eintrag_vom_1448-08-05.xml	1448-08-05
+27	pl__wien-immo_tiefer_graben_2	Thomas Trager Haus	Thomans Trager	pe__thomas_trager_QGW_II_II_3264	00300-eintrag_vom_1448-08-05.xml	1448-08-05
+28	pl__wien-immo_tiefer_graben_3	Egidius Zimmermann Haus	Giligen des Zimermans	pe__gilg_zimmermann_QGW_II_II_3264	00300-eintrag_vom_1448-08-05.xml	1448-08-05
+29	pl__wien-immo_hoher_markt_1	Elisabeth und Stephan Goltpach Haus	ir	pe__elisabeth_SB_CD_00349	00349-eintrag_vom_1448-02-22.xml	1448-02-22
+30	pl__wien-immo_hoher_markt_2	Steffans Fúgenstaler haus	Steffans Fúgenstaler	pe__stephan_fuegenstaler_SB_CD_00349	00349-eintrag_vom_1448-02-22.xml	1448-02-22
+31	pl__wien-immo_weidenstrasse_1	Elisabth Hubner (vormals Linczer) Haus	ir	pe__elisabeth_SB_CD_00351	00351-eintrag_vom_1448-11-29.xml	1448-11-29
+32	pl__wien-immo_weidenstrasse_2	Petern des Letzelter haws	Petern des Letzelter	pe__peter_letzelter_SB_CD_00351	00351-eintrag_vom_1448-11-29.xml	1448-11-29
+33	pl__wien-immo_moering_unter_den_schlossern_am_graben_1	Friedrich im Hof, der Schlosser, Haus	sein	pe__friedrich_im_hof_QGW_II_II_3172	00406-eintrag_vom_1448-05-31.xml	1448-05-31
+34	pl__wien-immo_moering_unter_den_schlossern_am_graben_2	Niclasen Légler haus	Niclasen Légler	pe__niklas_legler_SB_CD_00406	00406-eintrag_vom_1448-05-31.xml	1448-05-31
+35	pl__wien-immo_alserstrasse_vor_schottentor_1	Johann Auer Haus	sein	pe__johann_auer_SB_CD_00604	00604-eintrag_vom_1448-02-24.xml	1448-02-24
+36	pl__wien-immo_alserstrasse_vor_schottentor_2	Niclasen Pernharts des Fürer haws	Niclasen Pernharts des	pl__wien-immo_alserstrasse_vor_schottentor_2	00604-eintrag_vom_1448-02-24.xml	1448-02-24
+37	pl__wien-immo_laimgrub_vor_widmertor_1	Johann Weinperger Haus	sein	pe__johann_weinperger_QGW_II_II_2373	00605-eintrag_vom_1448-03-04.xml	1448-03-04
+38	pl__wien-immo_laimgrub_vor_widmertor_1	Johann Weinperger Haus	Jorgen des Salczer	pe__georg_salczer_SB_CD_00605	00605-eintrag_vom_1448-03-04.xml	1448-03-04
+39	pl__wien-immo_salzgries_1	Johann Würer Haus	sein	pe__johann_wuerer_QGW_II_II_2993	00606-eintrag_vom_1448-04-03.xml	1448-04-03
+40	pl__wien-immo_salzgries_2	Liebhard Weiss Haus	Liepharts Weissen	pe__liebhard_weiss_SB_CD_00606	00606-eintrag_vom_1448-04-03.xml	1448-04-03
+41	pl__wien-immo_alserstrasse_vor_schottentor_4	Johann und Katharina Spannberger Haus	irm	pe__johann_spannberger_QGW_II_II_3245	00607-eintrag_vom_1448-03-13.xml	1448-03-13
+42	pl__wien-immo_alserstrasse_vor_schottentor_4	Johann und Katharina Spannberger Haus	irm	pe__katharina_SB_CD_00607	00607-eintrag_vom_1448-03-13.xml	1448-03-13
+43	pl__wien-immo_kohlmarkt_1	Johann und Barbara Unverdrossen (halbes) Haus (mit Zugehorung), vormals Jakob von Brünn des schneider Haus	irm	pe__barbara_SB_CD_00613	00608-eintrag_vom_1448-04-29.xml	1448-04-29
+44	pl__wien-immo_kohlmarkt_1	Johann und Barbara Unverdrossen (halbes) Haus (mit Zugehorung), vormals Jakob von Brünn des schneider Haus	irm	pe__johann_unverdrossen_SB_CD_00613	00608-eintrag_vom_1448-04-29.xml	1448-04-29
+45	pl__wien-immo_kohlmarkt_2	Johann Schuchl des goldschmieds Haus	Hannsen Schúchl des	pe__johann_schuchl_SB_CD_00617	00608-eintrag_vom_1448-04-29.xml	1448-04-29
+46	pl__wien-immo_alter_fleischmarkt_6	Heinrich Rigel Haus	sein	pl__wien-immo_alter_fleischmarkt_6	00609-eintrag_vom_1448-05-06.xml	1448-05-06
+47	pl__wien-immo_schulstrasse_vordere_1	Johann und Dorothea Ofner halbes Haus	irm	pe__johann_ofner_QGW_II_II_3171	00610-eintrag_vom_1448-05-29.xml	1448-05-29
+48	pl__wien-immo_schulstrasse_vordere_1	Johann und Dorothea Ofner halbes Haus	irm	pe__dorothea_SB_CD_00610	00610-eintrag_vom_1448-05-29.xml	1448-05-29
+49	pl__wien-immo_schulstrasse_vordere_2	Peter Engelhartsstetter Haus	Petern Engelharsteter	pe__peter_engelhartsstetter_QGW_II_II_3111	00610-eintrag_vom_1448-05-29.xml	1448-05-29
+50	pl__wien-immo_st_johannsstrasse_2	Johann und Agnes Teuffenpekch Haus	ir	pe__johann_teuffenpekch_SB_CD_00611	00611-eintrag_vom_1448-06-21.xml	1448-06-21
+51	pl__wien-immo_st_johannsstrasse_2	Johann und Agnes Teuffenpekch Haus	ir	pe__agnes_SB_CD_00611	00611-eintrag_vom_1448-06-21.xml	1448-06-21
+52	pl__wien-immo_hoher_markt_3	Johann Payr, des schuster, Haus	seim	pe__johann_payr_schuster_QGW_II_II_3263	00612-eintrag_vom_1448-07-10.xml	1448-07-10
+53	pl__wien-immo_kohlmarkt_1	Johann und Barbara Unverdrossen (halbes) Haus (mit Zugehorung), vormals Jakob von Brünn des schneider Haus	irm	pe__johann_unverdrossen_SB_CD_00613	00613-eintrag_vom_1448-07-17.xml	1448-07-17
+54	pl__wien-immo_kohlmarkt_1	Johann und Barbara Unverdrossen (halbes) Haus (mit Zugehorung), vormals Jakob von Brünn des schneider Haus	irm	pe__barbara_SB_CD_00613	00613-eintrag_vom_1448-07-17.xml	1448-07-17
+55	pl__wien-immo_kohlmarkt_4	Niklas Vorstl, der wundarzt, Haus	maister	pe__niklas_vorstl_QGW_II_II_3265	00613-eintrag_vom_1448-07-17.xml	1448-07-17
+56	pl__wien-immo_peurertor_1	Ulrich Pernauer des gurtler Haus	Ulreichs Pernawer	pe__ulrich_pernauer_SB_CD_00613	00613-eintrag_vom_1448-07-17.xml	1448-07-17
+57	pl__wien-immo_salzgries_1	Johann Würer Haus	sein	pe__johann_wuerer_QGW_II_II_2993	00614-eintrag_vom_1448-07-29.xml	1448-07-29
+58	pl__wien-immo_salzgries_2	Liebhard Weiss Haus	Liepharts Weissen	pe__liebhard_weiss_SB_CD_00606	00614-eintrag_vom_1448-07-29.xml	1448-07-29
+59	pl__wien-immo_pippingerstrasse_1	Johann und Agnes Hinlauf Haus	irm	pe__johann_hinlauf_SB_CD_00616	00616-eintrag_vom_1448-07-19.xml	1448-07-19
+60	pl__wien-immo_pippingerstrasse_1	Johann und Agnes Hinlauf Haus	irm	pe__agnes_SB_CD_00616	00616-eintrag_vom_1448-07-19.xml	1448-07-19
+61	pl__wien-immo_pippingerstrasse_2	Georg von Ror, der fleischacker, Haus	hern	pe__georg_vom_ror_QGW_II_II_3714	00616-eintrag_vom_1448-07-19.xml	1448-07-19
+62	pl__wien-immo_kohlmarkt_2	Johann Schuchl des goldschmieds Haus	sein	pe__johann_schuchl_SB_CD_00617	00617-eintrag_vom_1448-08-26.xml	1448-08-26
+63	pl__wien-immo_kohlmarkt_5	Ulrich Fochter Haus	Ulreichs Vochter	pe__ulrich_fochter_QGW_II_II_3228	00617-eintrag_vom_1448-08-26.xml	1448-08-26
+64	pl__wien-immo_kohlmarkt_6	Heinrich und Margarethe Eschlbach Haus	irm	pe__heinrich_eschlbach_SB_CD_00618	00618-eintrag_vom_1448-09-02.xml	1448-09-02
+65	pl__wien-immo_kohlmarkt_6	Heinrich und Margarethe Eschlbach Haus	irm	pe__margarethe_SB_CD_00618	00618-eintrag_vom_1448-09-02.xml	1448-09-02
+66	pl__wien-immo_geraeut_vor_stubentor_1	Fridreichs kochs haus und hofstat weingarten	Fridreichs	pe__friedrich_koch_SB_CD_00618	00618-eintrag_vom_1448-09-02.xml	1448-09-02
+67	pl__wien-immo_kohlmarkt_6	Heinrich und Margarethe Eschlbach Haus	irm	pe__heinrich_eschlbach_SB_CD_00618	00619-eintrag_vom_1448-09-04.xml	1448-09-04
+68	pl__wien-immo_kohlmarkt_6	Heinrich und Margarethe Eschlbach Haus	irm	pe__margarethe_SB_CD_00618	00619-eintrag_vom_1448-09-04.xml	1448-09-04
+69	pl__wien-immo_kohlmarkt_8	Johann Unverdrossen, der plattner, Haus	Hannsen Unverdrossen des	pe__johann_unverdrossen_SB_CD_00619	00619-eintrag_vom_1448-09-04.xml	1448-09-04
+70	pl__wien-immo_kaerntnertor_1	Johann Kieler Haus	sein	pe__johann_kieler_SB_CD_00620	00620-eintrag_vom_1448-11-20.xml	1448-11-20
+71	pl__wien-immo_kaerntnertor_2	Ulrich Floederl, der schlosser, Haus	Ulreichs Floderl	pe__ulrich_floederl_QGW_II_II_3238	00620-eintrag_vom_1448-11-20.xml	1448-11-20
+72	pl__wien-immo_haarmarkt_2	Johann Hermann Haus	sein	pe__johann_hermann_SB_CD_00621	00621-eintrag_vom_1448-11-27.xml	1448-11-27
+73	pl__wien-immo_haarmarkt_3	Georg von Nikolsburg Haus	Jorgen von Nicolspurg	pe__georg_von_nikolsburg_QGW_II_II_2373	00621-eintrag_vom_1448-11-27.xml	1448-11-27
+74	pl__wien-immo_singerstrasse_1	Johann Züchtig Haus	sein	pe__johann_zuchtig_SB_CD_00622	00622-eintrag_vom_1448-12-09.xml	1448-12-09
+75	pl__wien-immo_singerstrasse_1	Johann Züchtig Haus	Jacoben des Rechwein	pe__jakob_rechwein_QGW_II_II_3242	00622-eintrag_vom_1448-12-09.xml	1448-12-09
+76	pl__wien-immo_teinfaltstrasse_1	Johann Frey, der parhander, Haus	seim	pe__johann_frey_SB_CD_00623	00623-eintrag_vom_1448-12-13.xml	1448-12-13
+77	pl__wien-immo_teinfaltstrasse_2	Johann Höphl haus	Hannsen Höphl	pe__johann_hoephl_SB_CD_00618	00623-eintrag_vom_1448-12-13.xml	1448-12-13
+78	pl__wien-immo_strauchgasse_1	Johann Weilhaimer Haus	seim	NONE	00624-eintrag_vom_1448-09-23.xml	1448-09-23
+79	pl__wien-immo_hochstrasse_1	Johann Stremphl und Stephan Sorgenfrey, der huter, Haus	Hannsen Stremphl	pe__johann_strempfl_QGW_II_II_3276	00624-eintrag_vom_1448-09-23.xml	1448-09-23
+80	pl__wien-immo_hochstrasse_1	Johann Stremphl und Stephan Sorgenfrey, der huter, Haus	Steffans Sorgenfrey des	pe__stephan_sorgenfrey_SB_CD_00624	00624-eintrag_vom_1448-09-23.xml	1448-09-23
+81	pl__wien-immo_haarmarkt_2	Johann Hermann Haus	seins	pe__johann_hermann_SB_CD_00621	00625-eintrag_vom_1448-12-11.xml	1448-12-11
+82	pl__wien-immo_haarmarkt_3	Georg von Nikolsburg Haus	Jörgen von Nicolspurg	pe__georg_von_nikolsburg_QGW_II_II_2373	00625-eintrag_vom_1448-12-11.xml	1448-12-11
+83	pl__wien-immo_strauchgasse_1	Johann Weilhaimer Haus	seim	pe__johann_weilhaimer_SB_CD_00626	00626-eintrag_vom_1448-12-20.xml	1448-12-20
+84	pl__wien-immo_strauchgasse_2	Heinrich Maler Haus	Hainreichs Maler	pe__heinrich_maler_SB_CD_00626	00626-eintrag_vom_1448-12-20.xml	1448-12-20
+85	pl__wien-immo_walichstrasse_3	Lorenz Swarcz Haus	Larenczen Swarcz	pe__lorenz_swarcz_SB_CD_00626	00626-eintrag_vom_1448-12-20.xml	1448-12-20
+86	pl__wien-immo_gottesacker_vor_kaertnertor_1	Heinrich Wurm, der pekch, Haus	sein	pe__heinrich_wurm_SB_CD_00627	00627-eintrag_vom_1448-12-20.xml	1448-12-20
+87	pl__wien-immo_siebenherbergen_vor_kaertnertor_1	Georg Krumpp, der binder, Haus und Garten daran	sein	pe__georg_krumpp_SB_CD_00966	00966-eintrag_vom_1448-06-07.xml	1448-06-07
+88	pl__wien-immo_kaerntnerstrasse_2	Jakob Straiffing und Peter Obrcht, weilent Erhard Neunkirchner, Haus	ir	pe__jakob_straiffing_QGW_II_III_2360	00968-eintrag_vom_1448-07-10.xml	1448-07-10
+89	pl__wien-immo_kaerntnerstrasse_2	Jakob Straiffing und Peter Obrcht, weilent Erhard Neunkirchner, Haus	ir	pe__peter_obrecht_QGW_II_III_2464	00968-eintrag_vom_1448-07-10.xml	1448-07-10
+90	pl__wien-immo_kaerntnerstrasse_2	Jakob Straiffing und Peter Obrcht, weilent Erhard Neunkirchner, Haus	weilend	pe__erhard_neunkircher_QGW_II_II_3274	00968-eintrag_vom_1448-07-10.xml	1448-07-10
+91	pl__wien-immo_kaerntnerstrasse_3	Heinrich Stoll Haus	Hainrich Stolln des	pe__heinrich_stoll_SB_CD_00968	00968-eintrag_vom_1448-07-10.xml	1448-07-10
+92	pl__wien-immo_st_pankraz_3	Georg und Elisabeth Zwettler Haus	irm	pe__georg_zwettler_QGW_II_II_2927	00969-eintrag_vom_1448-10-30.xml	1448-10-30
+93	pl__wien-immo_st_pankraz_3	Georg und Elisabeth Zwettler Haus	irm	pe__elisabeth_SB_CD_00969	00969-eintrag_vom_1448-10-30.xml	1448-10-30
+94	pl__wien-immo_st_pankraz_4	Michael Hiltprant, der schmied, Haus	Hiltprants des	pe__michael_hiltprant_QGW_II_II_2417	00969-eintrag_vom_1448-10-30.xml	1448-10-30
+95	pl__wien-immo_steig_bei_den_predigern_1	Jakob Schutwempl, der fasszieher, Haus	seim	pe__jakob_schutwempl_SB_CD_00970	00970-eintrag_vom_1448-11-20.xml	1448-11-20
+96	pl__wien-immo_steig_bei_den_predigern_2	Peter von Asparn Haus	hern	pe__peter_von_aspern_SB_CD_00970	00970-eintrag_vom_1448-11-20.xml	1448-11-20
+97	pl__wien-immo_anger_1	Jorg und Jacob, gepruder die Münich, Haus	irm	pe__jakob_muenich_QGW_II_II_3410	00971-eintrag_vom_1448-12-16.xml	1448-12-16
+98	pl__wien-immo_anger_1	Jorg und Jacob, gepruder die Münich, Haus	irm	pe__georg_muenich_QGW_II_II_3410	00971-eintrag_vom_1448-12-16.xml	1448-12-16
+99	pl__wien-immo_steig_bei_den_predigern_3	Peter von Nussdorf, der schneider, Haus	Petern von Nusdorf des	pe__peter_von_nussdorf_QGW_II_II_2963	00971-eintrag_vom_1448-12-16.xml	1448-12-16
+100	pl__wien-immo_weihenburg_5	Kunigund, Hannsen des Hagen seligen witib, haus	ir	pe__kunigunde_QGW_II_III_4053	01099-eintrag_vom_1448-02-20.xml	1448-02-20
+101	pl__wien-immo_weihenburg_3	Elspeth die Kolpekchin haws	der Kolpekchin	pe__elisabeth_kolpekchin_SB_CD_00350	01099-eintrag_vom_1448-02-20.xml	1448-02-20
+102	pl__wien-immo_hoher_markt_6	Kathrey, Wentzlaben Grat des schuster hausfrau, halbs haus	ir	pe__katharina_SB_CD_01100	01100-eintrag_vom_1448-04-29.xml	1448-04-29
+103	pl__wien-immo_hoher_markt_5	Niklas Sawr des schuster haus	Niclasen Sawr	pe__niklas_saur_SB_CD_01100	01100-eintrag_vom_1448-04-29.xml	1448-04-29
+104	pl__wien-immo_baeckerstrasse_hintere_1	Leonhard Grünpacher Haus	seins	pe__leonhard_gruenpacher_QGW_II_II_2953	01146-eintrag_vom_1448-04-12.xml	1448-04-12
+105	pl__wien-immo_walichstrasse_1	Lorenz Krakauer Haus	seim	pe__lorenz_krakauer_SB_CD_01147	01147-eintrag_vom_1448-04-29.xml	1448-04-29
+106	pl__wien-immo_walichstrasse_2	Johann Peinhekchl des brunner Haus	Hannsen Painhékchl des	pe__johann_peinhekchel_QGW_II_II_3111	01147-eintrag_vom_1448-04-29.xml	1448-04-29
+107	pl__wien-immo_kienmarkt_5	Leonhard Kriech Haus	sein	pe__leonhard_kriech_QGW_II_II_3126	01148-eintrag_vom_1448-05-17.xml	1448-05-17
+108	pl__wien-immo_kienmarkt_6	Martin, der wachsgiesser, Haus	Martine des	pe__martin_wachsgiesser_QGW_II_I_1494	01148-eintrag_vom_1448-05-17.xml	1448-05-17
+109	pl__wien-immo_walichstrasse_3	Lorenz Swarcz Haus	ir	pe__lorenz_swarcz_SB_CD_00626	01149-eintrag_vom_1448-09-02.xml	1448-09-02
+110	pl__wien-immo_walichstrasse_3	Lorenz Swarcz Haus	ir	pe__katharina_SB_CD_01149	01149-eintrag_vom_1448-09-02.xml	1448-09-02
+111	pl__wien-immo_kienmarkt_7	Fridreichen von Minden, der kursner, Haus	seins	pe__friedrich_von_minden_SB_CD_01150	01150-eintrag_vom_1448-03-04.xml	1448-03-04
+112	pl__wien-immo_kienmarkt_1	Michael Viregk Haus	sein	pe__michael_viregk_SB_CD_01239	01239-eintrag_vom_1448-03-13.xml	1448-03-13
+113	pl__wien-immo_kienmarkt_2	Lorenz Swancz Haus	Larenczen des Swancz	pe__lorenz_swancz_QGW_II_II_2627	01239-eintrag_vom_1448-03-13.xml	1448-03-13
+114	pl__wien-immo_hoher_markt_7	Matthias Vogpurger haus, genant des Silbrein Hensleins Haus	sein	pe__matthias_voburger_SB_CD_01240	01240-eintrag_vom_1448-03-15.xml	1448-03-15
+115	pl__wien-immo_weihenburg_3	Elspeth die Kolpekchin haws	ir	pe__elisabeth_kolpekchin_SB_CD_00350	00350-eintrag_vom_1448-04-10.xml	1448-04-10
+116	pl__wien-immo_weihenburg_4	Ulrich Feldsberger Haus	Ulreichs Velczperger	pe__ulrich_feldsberger_SB_CD_00350	00350-eintrag_vom_1448-04-10.xml	1448-04-10
+117	pl__wien-immo_kienmarkt_3	Margarethe und Johann Hölczel Haus	ir	pe__margarethe_SB_CD_00615	00615-eintrag_vom_1448-06-26.xml	1448-06-26
+118	pl__wien-immo_kienmarkt_3	Margarethe und Johann Hölczel Haus	ir	pe__johann_hoelczel_SB_CD_00615	00615-eintrag_vom_1448-06-26.xml	1448-06-26
+119	pl__wien-immo_st_johannsstrasse_3	Jakob Kreuss halbs haus, das ettwan ain ramhof gewesen ist	sein	pe__jakob_kreuss_SB_CD_00967	00967-eintrag_vom_1448-06-19.xml	1448-06-19
+120	pl__wien-immo_st_johannsstrasse_4	Michael des Münzer Haus	Micheln des Munsser	pe__michael_muenzer_SB_CD_00967	00967-eintrag_vom_1448-06-19.xml	1448-06-19
+121	pl__wien-immo_riemerstrasse_1	Michael und Dorothea Toller Ramhof	írm	pe__dorothea_SB_CD_01241	01241-eintrag_vom_1448-06-21.xml	1448-06-21
+122	pl__wien-immo_riemerstrasse_1	Michael und Dorothea Toller Ramhof	írm	pe__michael_toller_SB_CD_01241	01241-eintrag_vom_1448-06-21.xml	1448-06-21
+123	pl__wien-immo_riemerstrasse_1	Michael und Dorothea Toller Ramhof	Meinharts Riemer	pe__meinhard_riemer_QGW_II_II_2391	01241-eintrag_vom_1448-06-21.xml	1448-06-21
+124	pl__wien-immo_riemerstrasse_2	Simon Vankch Haus	Symons Vankchen	pe__simon_vankch_QGW_II_II_2391	01241-eintrag_vom_1448-06-21.xml	1448-06-21
+125	pl__wien-immo_weidenstrasse_3	Michael und Katharina Haffner Haus	ir	pe__katharina_SB_CD_01242	01242-eintrag_vom_1448-11-15.xml	1448-11-15
+126	pl__wien-immo_weidenstrasse_3	Michael und Katharina Haffner Haus	ir	pe__michael_haffner_SB_CD_01242	01242-eintrag_vom_1448-11-15.xml	1448-11-15
+127	pl__wien-immo_weidenstrasse_4	Albrecht Ladner Haus	Alberts des	pe__albrecht_ladner_SB_CD_01242	01242-eintrag_vom_1448-11-15.xml	1448-11-15
+128	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	seins	pe__michael_praunsperger_QGW_II_II_3274	01243-eintrag_vom_1448-09-13.xml	1448-09-13
+129	pl__wien-immo_riemerstrasse_1	Michael und Dorothea Toller Ramhof	Meinharts des Riemer	pe__meinhard_riemer_QGW_II_II_2391	01243-eintrag_vom_1448-09-13.xml	1448-09-13
+130	pl__wien-immo_riemerstrasse_2	Simon Vankch Haus	Symons Vankchen	pe__simon_vankch_QGW_II_II_2391	01243-eintrag_vom_1448-09-13.xml	1448-09-13
+131	pl__wien-immo_riemerstrasse_3	Johann Winter, der kramer, Haus	Hannsen Winter des	pe__johann_winter_QGW_II_II_3192	01243-eintrag_vom_1448-09-13.xml	1448-09-13
+132	pl__wien-immo_st_johannsstrasse_5	Niklas und Elsbeth Salczburger Haus	ir	pe__elisabeth_QGW_II_II_3676	01429-eintrag_vom_1448-02-20.xml	1448-02-20
+133	pl__wien-immo_st_johannsstrasse_5	Niklas und Elsbeth Salczburger Haus	ir	pe__niklas_salczburger_QGW_II_II_3676	01429-eintrag_vom_1448-02-20.xml	1448-02-20
+134	pl__wien-immo_st_johannsstrasse_6	Gilg Kunter Haus	Giligen des	pe__gilg_kunter_QGW_II_II_3676	01429-eintrag_vom_1448-02-20.xml	1448-02-20
+135	pl__wien-immo_alserstrasse_vor_schottentor_6	Niklas und Dorothea Piberstein Haus	ir	pe__niklas_piberstein_SB_CD_01430	01430-eintrag_vom_1448-03-04.xml	1448-03-04
+136	pl__wien-immo_alserstrasse_vor_schottentor_6	Niklas und Dorothea Piberstein Haus	ir	pe__dorothea_SB_CD_01430	01430-eintrag_vom_1448-03-04.xml	1448-03-04
+137	pl__wien-immo_alserstrasse_vor_schottentor_1	Johann Auer Haus	Hannsen Awer	pe__johann_auer_SB_CD_00604	01430-eintrag_vom_1448-03-04.xml	1448-03-04
+138	pl__wien-immo_goldschmiedgasse_1	Niklas Lainbacher, der apotheker, Haus	sein	pe__niklas_lainbacher_QGW_II_II_2652	01431-eintrag_vom_1448-07-08.xml	1448-07-08
+139	pl__wien-immo_goldschmiedgasse_2	Stephan Pusenperger, der zinngiesser, Haus	Steffans Pusenperger	pe__stephan_pusenperger_QGW_II_II_3715	01431-eintrag_vom_1448-07-08.xml	1448-07-08
+140	pl__wien-immo_kaerntnerstrasse_1	Friedrich Pierpaumer halbes Haus	Fridreichs Pirpawmer	pe__friedrich_pirbaumer_QGW_II_III_4165	01431-eintrag_vom_1448-07-08.xml	1448-07-08
+141	pl__wien-immo_goldschmiedgasse_1	Niklas Lainbacher, der apotheker, Haus	seim	pe__niklas_lainbacher_QGW_II_II_2652	01432-eintrag_vom_1448-07-10.xml	1448-07-10
+142	pl__wien-immo_goldschmiedgasse_2	Stephan Pusenperger, der zinngiesser, Haus	Steffans Pusenperger	pe__stephan_pusenperger_QGW_II_II_3715	01432-eintrag_vom_1448-07-10.xml	1448-07-10
+143	pl__wien-immo_kaerntnerstrasse_1	Friedrich Pierpaumer halbes Haus	Fridreichs Pirpawmer	pe__friedrich_pirbaumer_QGW_II_III_4165	01432-eintrag_vom_1448-07-10.xml	1448-07-10
+144	pl__wien-immo_schenkenstrasse_1	Niklas und Katharina Vaschang Haus	ir	pe__niklas_vaschang_SB_CD_01433	01433-eintrag_vom_1448-07-29.xml	1448-07-29
+145	pl__wien-immo_schenkenstrasse_1	Niklas und Katharina Vaschang Haus	ir	pe__katharina_SB_CD_01433	01433-eintrag_vom_1448-07-29.xml	1448-07-29
+146	pl__wien-immo_schenkenstrasse_2	Ulrich Peck Haus	Ulreichs Pekchen	pe__ulrich_peck_SB_CD_01433	01433-eintrag_vom_1448-07-29.xml	1448-07-29
+147	pl__wien-immo_krafthof_1	Niklas Graefenauer Haus	seines	pe__niklas_graefenauer_SB_CD_01434	01434-eintrag_vom_1448-06-14.xml	1448-06-14
+148	pl__wien-immo_krafthof_2	Johann Nagler Haus	Hannsen des Nagler	pe__johann_nagler_SB_CD_01434	01434-eintrag_vom_1448-06-14.xml	1448-06-14
+149	pl__wien-immo_roterturm_1	Stephan und Barbara Holfus Haus	ir	pe__barbara_SB_CD_01686	01686-eintrag_vom_1448-04-22.xml	1448-04-22
+150	pl__wien-immo_roterturm_1	Stephan und Barbara Holfus Haus	ir	pe__stephan_holfues_SB_CD_01686	01686-eintrag_vom_1448-04-22.xml	1448-04-22
+151	pl__wien-immo_salzgries_3	Stephan und Katharina Radendorfer Haus	ir	pe__katharina_SB_CD_01687	01687-eintrag_vom_1448-05-27.xml	1448-05-27
+152	pl__wien-immo_salzgries_3	Stephan und Katharina Radendorfer Haus	ir	pe__stephan_radendorfer_SB_CD_01687	01687-eintrag_vom_1448-05-27.xml	1448-05-27
+153	pl__wien-immo_salzgries_4	Johann Zwettler am Salzgriess Haus	Hannsen Zwetler	pe__johann_zwettler_QGW_II_II_3524	01687-eintrag_vom_1448-05-27.xml	1448-05-27
+154	pl__wien-immo_baeckerstrasse_vordere_1	Stephan Vink Haus	seins	pe__stephan_vink_SB_CD_01693	01693-eintrag_vom_1448-12-13.xml	1448-12-13
+155	pl__wien-immo_baeckerstrasse_vordere_2	Niklas vom Stein, der fleischhacker, Haus	Niclasen vom Stain	pe__niklas_vom_stein_QGW_II_II_2407	01693-eintrag_vom_1448-12-13.xml	1448-12-13
+156	pl__wien-immo_kohlmarkt_9	Simon und Barbara Brunner Haus	ir	pe__barbara_SB_CD_01693a	01693a-eintrag_vom_1448.xml	1448
+157	pl__wien-immo_kohlmarkt_9	Simon und Barbara Brunner Haus	ir	pe__simon_brunner_SB_CD_01693a	01693a-eintrag_vom_1448.xml	1448
+158	pl__wien-immo_kohlmarkt_10	Paul Haid, der schuster, Haus	Paulen Haid des	pe__paul_haid_SB_CD_01693a	01693a-eintrag_vom_1448.xml	1448
+159	pl__wien-immo_roterturm_3	Thomas Praitenweidacher Haus	seinem	pe__thomas_praitenweidacher_QGW_II_II_3462	01767-eintrag_vom_1448-06-23.xml	1448-06-23
+160	pl__wien-immo_roterturm_3	Thomas Praitenweidacher Haus	sein	pe__thomas_praitenweidacher_QGW_II_II_3462	01768-eintrag_vom_1448-06-28.xml	1448-06-28
+161	pl__wien-immo_mietstat_vor_kaerntnertor_1	Ulrich und Barbara Meichsner Haus Haus an der Mietstat	ir	pe__barbara_SB_CD_01693	01840-eintrag_vom_1448-04-19.xml	1448-04-19
+162	pl__wien-immo_mietstat_vor_kaerntnertor_1	Ulrich und Barbara Meichsner Haus Haus an der Mietstat	ir	pe__ulrich_meichsner_QGW_II_II_3553	01840-eintrag_vom_1448-04-19.xml	1448-04-19
+163	pl__wien-immo_schenkenstrasse_3	Ulrich Lang, der pekch, Haus	sein	pe__ulrich_lang_SB_CD_01841	01841-eintrag_vom_1448-08-13.xml	1448-08-13
+164	pl__wien-immo_schenkenstrasse_4	Burkhard Kienberger Haus	hern	pe__burkhard_kienberger_QGW_II_III_4957	01841-eintrag_vom_1448-08-13.xml	1448-08-13
+165	pl__wien-immo_schenkenstrasse_1	Niklas und Katharina Vaschang Haus	Niclasen des Vaschang	pe__niklas_vaschang_SB_CD_01433	01841-eintrag_vom_1448-08-13.xml	1448-08-13
+166	pl__wien-immo_st_pankraz_1	Ulrich Hesler Haus	seinem	pe__ulrich_hesler_QGW_II_II_3684	01842-eintrag_vom_1448-11-27.xml	1448-11-27
+167	pl__wien-immo_st_pankraz_2	Andreas Weinperger Haus	Anndre des Weinperger	pe__andreas_weinperger_SB_CD_01842	01842-eintrag_vom_1448-11-27.xml	1448-11-27
+168	pl__wien-immo_alter_fleischmarkt_2	Wolfgang Holczer Haus und zuhaus	sein	pe__wolfgang_holczer_SB_CD_01926	01926-eintrag_vom_1448-12-20.xml	1448-12-20
+169	pl__wien-immo_alter_fleischmarkt_3	Stephan Hittendorfer, des peler, Haus	Steffans Hittendorffer des Peler	pe__stephan_hittendorffer_01926_SB_CD_01926	01926-eintrag_vom_1448-12-20.xml	1448-12-20

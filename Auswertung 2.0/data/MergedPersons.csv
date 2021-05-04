@@ -1,0 +1,319 @@
+	ID	name	sex	anzahl	xml	year
+0	pe__heinrich_schachen_SB_CD_00350	Heinrich Schachen Schachner	m	1	00350-eintrag_vom_1448-04-10.xml	1448-04-10
+1	pe__johann_oppenweiler_QGW_II_II_2579	Johann Oppenweiler von Hailprunn	m	1	00350-eintrag_vom_1448-04-10.xml	1448-04-10
+2	pe__heinrich_frankch_QGW_II_II_2150	Heinrich Frankch	m	1	00056-eintrag_vom_1448-08-09.xml	1448-08-09
+3	pe__johann_payr_schuster_QGW_II_II_3263	Johann Payr Payer Bayer der Schuster	m	1	00612-eintrag_vom_1448-07-10.xml	1448-07-10
+4	pe__liebhard_weiss_SB_CD_00606	Liebhard Weiss	m	2	00606-eintrag_vom_1448-04-03.xml, 00614-eintrag_vom_1448-07-29.xml	1448-04-03, 1448-07-29
+5	pe__anna_QGW_II_II_3679	Anna Smidpekch	f	1	00627-eintrag_vom_1448-12-20.xml	1448-12-20
+6	pe__burkhard_kienberger_QGW_II_III_4957	Burkhard Kienberger	m	1	01841-eintrag_vom_1448-08-13.xml	1448-08-13
+7	pe__stephan_hittendorffer_01926_SB_CD_01926	Stephan Hittendorffer der Peler	m	1	01926-eintrag_vom_1448-12-20.xml	1448-12-20
+8	pe__wolfgang_QGW_II_II_3724	Wolfgang	m	1	00604-eintrag_vom_1448-02-24.xml	1448-02-24
+9	pe__johann_zuchtig_SB_CD_00622	Johann Zuchtig	m	1	00622-eintrag_vom_1448-12-09.xml	1448-12-09
+10	pe__klara_SB_CD_00228	Klara Strasburger Pittrolf	f	1	00228-eintrag_vom_1448-04-22.xml	1448-04-22
+11	pe__johann_han_SB_CD_00617	Johann Han der Büchsenmeister puchsenmeister	m	1	00617-eintrag_vom_1448-08-26.xml	1448-08-26
+12	pe__konrad_eggenfelder_SB_CD_00226	Konrad Chuncz Eggenfelder der Schmied	m	1	00226-eintrag_vom_1448-02-23.xml	1448-02-23
+13	pe__michael_toller_SB_CD_01241	Michael Toller	m	1	01241-eintrag_vom_1448-06-21.xml	1448-06-21
+14	pe__katharina_SB_CD_01239	Katharina Viregk	f	1	01239-eintrag_vom_1448-03-13.xml	1448-03-13
+15	pe__michael_haffner_SB_CD_01242	Michael Haffner	m	1	01242-eintrag_vom_1448-11-15.xml	1448-11-15
+16	pe__niklas_vaschang_SB_CD_01433	Niklas Vaschang	m	1	01433-eintrag_vom_1448-07-29.xml	1448-07-29
+17	pe__georg_krumpp_SB_CD_00966	Georg Krumpp der Binder	m	1	00966-eintrag_vom_1448-06-07.xml	1448-06-07
+18	pe__barbara_QGW_II_II_3482a	Barbara Phanczaglin	f	1	01146-eintrag_vom_1448-04-12.xml	1448-04-12
+19	pe__peter_engelhartsstetter_QGW_II_II_3111	Peter Engelhartsstetter	m	1	00610-eintrag_vom_1448-05-29.xml	1448-05-29
+20	pe__thomas_lang_SB_CD_00611	Thomas Lang	m	1	00611-eintrag_vom_1448-06-21.xml	1448-06-21
+21	pe__niklas_legler_SB_CD_00406	Niklas Legler Lègler	m	1	00406-eintrag_vom_1448-05-31.xml	1448-05-31
+22	pe__georg_zwettler_QGW_II_II_2927	Georg Zwettler der Eisenzieher hinter St. Pankraz	m	1	00969-eintrag_vom_1448-10-30.xml	1448-10-30
+23	pe__wolfgang_winter_SB_CD_00055	Wolfgang Winter	m	1	00055-eintrag_vom_1448-06-21.xml	1448-06-21
+24	pe__margarethe_SB_CD_00228	Margarethe von Tierna	f	1	00228-eintrag_vom_1448-04-22.xml	1448-04-22
+25	pe__jakob_oesterreicher_SB_CD_00056	Jakob Österreicher	m	1	00056-eintrag_vom_1448-08-09.xml	1448-08-09
+26	pe__johann_hubner_SB_CD_00351	Johann Hubner von Efferding der Letzelter	m	1	00351-eintrag_vom_1448-11-29.xml	1448-11-29
+27	pe__michael_muenzer_SB_CD_00967	Michael der Münzer	m	1	00967-eintrag_vom_1448-06-19.xml	1448-06-19
+28	pe__georg_vom_ror_QGW_II_II_3714	Georg vom Ror der Fleischacker	m	1	00616-eintrag_vom_1448-07-19.xml	1448-07-19
+29	pe__matthias_seirer_SB_CD_00971	Matthias Seirer	m	1	00971-eintrag_vom_1448-12-16.xml	1448-12-16
+30	pe__thomas_hadmar_SB_CD_00616	Thomas Hadmar	m	1	00616-eintrag_vom_1448-07-19.xml	1448-07-19
+31	pe__niklas_noter_SB_CD_01241	Niklas Noter	m	1	01241-eintrag_vom_1448-06-21.xml	1448-06-21
+32	pe__johann_hinlauf_SB_CD_00616	Johann Hinlauf Hinlauf	m	1	00616-eintrag_vom_1448-07-19.xml	1448-07-19
+33	pe__johann_auer_SB_CD_00604	Johann Auer vor Schottentor	m	2	00604-eintrag_vom_1448-02-24.xml, 01430-eintrag_vom_1448-03-04.xml	1448-02-24, 1448-03-04
+34	pe__martin_reidegker_QGW_II_II_2413	Martin Reidegker Reidekker im Fischhof	m	1	01767-eintrag_vom_1448-06-23.xml	1448-06-23
+35	pe__elisabeth_SB_CD_00351	Elisabeth Linczerin Hubnerin	f	1	00351-eintrag_vom_1448-11-29.xml	1448-11-29
+36	pe__dietrich_holfues_QGW_II_III_4751	Dietrich Holfues	m	1	01686-eintrag_vom_1448-04-22.xml	1448-04-22
+37	pe__klara_SB_CD_00231	Klara Tinpeckin	f	1	00231-eintrag_vom_1448-09-20.xml	1448-09-20
+38	pe__margarethe_SB_CD_01926	Margarethe Holczer Newnburger Neuburger	f	1	01926-eintrag_vom_1448-12-20.xml	1448-12-20
+39	pe__heinrich_hulger_QGW_II_II_3573	Heinrich Hulger	m	1	00606-eintrag_vom_1448-04-03.xml	1448-04-03
+40	pe__katharina_SB_CD_00607	Katharina Spannberger	f	1	00607-eintrag_vom_1448-03-13.xml	1448-03-13
+41	pe__simon_brunner_SB_CD_01693a	Simon Brunner der Sattler	m	1	01693a-eintrag_vom_1448.xml	1448-01-01
+42	pe__johann_fries_SB_CD_01434	Johann Henslein Fries	m	1	01434-eintrag_vom_1448-06-14.xml	1448-06-14
+43	pe__servatius_waczla_SB_CD_00230	Servatuis Cirvos Waczla der wundtarzt	m	1	00230-eintrag_vom_1448-11-20.xml	1448-11-20
+44	pe__heinrich_rigel_QGW_II_II_3355	Heinrich Rigel	m	1	00609-eintrag_vom_1448-05-06.xml	1448-05-06
+45	pe__niklas_vorstl_QGW_II_II_3265	Niklas Vorstl der Wundarzt	m	1	00613-eintrag_vom_1448-07-17.xml	1448-07-17
+46	pe__wolfgang_SB_CD_00056	Wolfgang	m	1	00056-eintrag_vom_1448-08-09.xml	1448-08-09
+47	pe__gilg_zimmermann_QGW_II_II_3264	Gilg der Zimmermann	m	1	00300-eintrag_vom_1448-08-05.xml	1448-08-05
+48	pe__margarethe_SB_CD_00627	Margarethe Smidpekch	f	1	00627-eintrag_vom_1448-12-20.xml	1448-12-20
+49	pe__katharina_SB_CD_01687	Stephan Radendorfer	f	1	01687-eintrag_vom_1448-05-27.xml	1448-05-27
+50	pe__elisabeth_QGW_II_II_3140	Elisabeth Peizkoferin Kelhaimerin	f	1	00604-eintrag_vom_1448-02-24.xml	1448-02-24
+51	pe__johann_zwettler_QGW_II_II_3524	Johann Zwettler am Salzgries	m	1	01687-eintrag_vom_1448-05-27.xml	1448-05-27
+52	pe__anna_QGW_II_II_3696	Anna Reidegker im Fischhof	f	1	01767-eintrag_vom_1448-06-23.xml	1448-06-23
+53	pe__georg_muenich_QGW_II_II_3410	Georg Münich	m	1	00971-eintrag_vom_1448-12-16.xml	1448-12-16
+54	pe__katharina_SB_CD_01149	Lorenz Swarczin	f	1	01149-eintrag_vom_1448-09-02.xml	1448-09-02
+55	pe__dietrich_flusthart_SB_CD_00623	Dietrich Flusthart Flusthart	m	1	00623-eintrag_vom_1448-12-13.xml	1448-12-13
+56	pe__johann_hermann_SB_CD_00621	Johann Hermann	m	2	00621-eintrag_vom_1448-11-27.xml, 00625-eintrag_vom_1448-12-11.xml	1448-11-27, 1448-12-11
+57	pe__johann_winter_QGW_II_II_3192	Johann Winter der Kramer	m	1	01243-eintrag_vom_1448-09-13.xml	1448-09-13
+58	pe__niklas_piberstein_SB_CD_01430	Niklas Piberstein	m	1	01430-eintrag_vom_1448-03-04.xml	1448-03-04
+59	pe__johann_linczer_QGW_II_II_2253	Johann Linczer	m	1	00351-eintrag_vom_1448-11-29.xml	1448-11-29
+60	pe__jakob_straiffing_QGW_II_III_2360	Jakob Straiffing der Zinngiesser	m	1	00968-eintrag_vom_1448-07-10.xml	1448-07-10
+61	pe__peter_obrecht_QGW_II_III_2464	Peter Obrecht der Zinngiesser	m	1	00968-eintrag_vom_1448-07-10.xml	1448-07-10
+62	pe__barbara_SB_CD_01149	Barbara Scharfin	f	1	01149-eintrag_vom_1448-09-02.xml	1448-09-02
+63	pe__stephan_pusenperger_QGW_II_II_3715	Stephan Pusenperger Bisamberger der Zinngiesser	m	2	01431-eintrag_vom_1448-07-08.xml, 01432-eintrag_vom_1448-07-10.xml	1448-07-08, 1448-07-10
+64	pe__johann_tinpeck_QGW_II_II_2974	Johann Tinpeck der zimmermann der prukmeister	m	1	00231-eintrag_vom_1448-09-20.xml	1448-09-20
+65	pe__johann_hoephl_SB_CD_00618	Johann Höphl	m	1	00623-eintrag_vom_1448-12-13.xml	1448-12-13
+66	pe__leonhard_unpau_SB_CD_01242	Leonhard Unpau	m	1	01242-eintrag_vom_1448-11-15.xml	1448-11-15
+67	pe__berthold_merman_SB_CD_00157	Berthold Merman der Kursner	m	1	00156-eintrag_vom_1448-12-13.xml	1448-12-13
+68	pe__lorenz_pittrolf_SB_CD_00228	Lorenz Pittrolf	m	1	00228-eintrag_vom_1448-04-22.xml	1448-04-22
+69	pe__ulrich_von_steyr_SB_CD_00625	Ulrich von Steyr	m	2	00625-eintrag_vom_1448-12-11.xml, 01767-eintrag_vom_1448-06-23.xml	1448-12-11, 1448-06-23
+70	pe__elisabeth_QGW_II_II_3172	Elisabeth im Hof	f	1	00406-eintrag_vom_1448-05-31.xml	1448-05-31
+71	pe__heinrich_teufl_SB_CD_00614	Heinrich Teufl Tewffl	m	1	00614-eintrag_vom_1448-07-29.xml	1448-07-29
+72	pe__wolfgang_kerntter_SB_CD_01150	Wolfgang Kerntter	m	1	01150-eintrag_vom_1448-03-04.xml	1448-03-04
+73	pe__johann_lautterpach_SB_CD_01842	Johann Lautterpach	m	2	01432-eintrag_vom_1448-07-10.xml, 01842-eintrag_vom_1448-11-27.xml	1448-07-10, 1448-11-27
+74	pe__elisabeth_QGW_II_II_3676	Elisabeth Salczburgerin	f	1	01429-eintrag_vom_1448-02-20.xml	1448-02-20
+75	pe__katharina_SB_CD_00349	Katharina Walderstorffer	f	1	00349-eintrag_vom_1448-02-22.xml	1448-02-22
+76	pe__heinrich_senftleben_QGW_II_II_3263	Heinrich Senftleben	m	1	00612-eintrag_vom_1448-07-10.xml	1448-07-10
+77	pe__wolfgang_von_asparn_SB_CD_00231	Wolfgang von Asparn von Asparn	m	1	00231-eintrag_vom_1448-09-20.xml	1448-09-20
+78	pe__johann_span_SB_CD_01693	Johann Span von Memyngen	m	1	01693-eintrag_vom_1448-12-13.xml	1448-12-13
+79	pe__konrad_von_tierna_SB_CD_00228	Konrad Tierna in der Kumphlukchn	m	1	00228-eintrag_vom_1448-04-22.xml	1448-04-22
+80	pe__kolomann_walderstorffer_SB_CD_00349	Kolomann Walderstorffer der Kursner	m	1	00349-eintrag_vom_1448-02-22.xml	1448-02-22
+81	pe__magdalena_QGW_II_II_3262	Magdalena Lenstain	f	1	00299-eintrag_vom_1448-07-08.xml	1448-07-08
+82	pe__johann_peizkofer_QGW_II_II_3140	Johann Peizkofer	m	1	00604-eintrag_vom_1448-02-24.xml	1448-02-24
+83	pe__georg_brunntaler_SB_CD_00618	Georg Brunntaler	m	2	00618-eintrag_vom_1448-09-02.xml, 01147-eintrag_vom_1448-04-29.xml	1448-09-02, 1448-04-29
+84	pe__michael_hiltprant_QGW_II_II_2417	Michael Hiltprant der Schmied	m	1	00969-eintrag_vom_1448-10-30.xml	1448-10-30
+85	pe__matthias_kuntschikch_SB_CD_01100	Matthias Kuntschikch der Schuster	m	1	01100-eintrag_vom_1448-04-29.xml	1448-04-29
+86	pe__andreas_pergauer_QGW_II_II_2615	Andreas Pergauer von Pulka	m	1	01767-eintrag_vom_1448-06-23.xml	1448-06-23
+87	pe__wenzel_SB_CD_1239	Wenzel der Kaufmann	m	1	01239-eintrag_vom_1448-03-13.xml	1448-03-13
+88	pe__johann_von_waetsch_SB_CD_00626	Johann von Wätsch	m	1	00626-eintrag_vom_1448-12-20.xml	1448-12-20
+89	pe__thomas_praitenweidacher_QGW_II_II_3462	Thomas Praitenwaidacher Breitenweida (NÖ)	m	2	01767-eintrag_vom_1448-06-23.xml, 01768-eintrag_vom_1448-06-28.xml	1448-06-23, 1448-06-28
+90	pe__martin_SB_CD_00056	Martin Nagl	m	1	00056-eintrag_vom_1448-08-09.xml	1448-08-09
+91	pe__anna_SB_CD_01099	Anna Kollendorffer	f	1	01099-eintrag_vom_1448-02-20.xml	1448-02-20
+92	pe__niklas_pehem_SB_CD_00627	Niklas Pehem der pekch	m	1	00627-eintrag_vom_1448-12-20.xml	1448-12-20
+93	pe__michael_stadl_SB_CD_00055	Michael Stadl	m	1	00055-eintrag_vom_1448-06-21.xml	1448-06-21
+94	pe__stephan_auer_SB_CD_00229	Stephan Auer	m	1	00229-eintrag_vom_1448-05-27.xml	1448-05-27
+95	pe__matthias_salczer_QGW_II_II_2595	Matthias Salczer	m	2	00230-eintrag_vom_1448-11-20.xml, 01693-eintrag_vom_1448-12-13.xml	1448-11-20, 1448-12-13
+96	pe__paul_von_tulln_SB_CD_00229	Paul von Tulln	m	1	00229-eintrag_vom_1448-05-27.xml	1448-05-27
+97	pe__andreas_kelhaimer_QGW_II_II_3460	Andreas Kelhaimer	m	1	00604-eintrag_vom_1448-02-24.xml	1448-02-24
+98	pe__johann_hagen_QGW_II_III_4053	Johann Hagen	m	1	01099-eintrag_vom_1448-02-20.xml	1448-02-20
+99	pe__dorothea_SB_CD_01099	Dorothea Kollendorffer	f	1	01099-eintrag_vom_1448-02-20.xml	1448-02-20
+100	pe__jakob_kreuss_SB_CD_00967	Jakob Kreuss	m	1	00967-eintrag_vom_1448-06-19.xml	1448-06-19
+101	pe__dorothea_SB_CD_01430	Dorothea Piberstein	f	1	01430-eintrag_vom_1448-03-04.xml	1448-03-04
+102	pe__pankraz_widmer_QGW_II_II_3264	Pankraz Widmer der parhander	m	1	00300-eintrag_vom_1448-08-05.xml	1448-08-05
+103	pe__elisabeth_SB_CD_01150	Elisabeth Kerntterin	f	1	01150-eintrag_vom_1448-03-04.xml	1448-03-04
+104	pe__martin_weidacher_SB_CD_00967	Martin Weidacher	m	1	00967-eintrag_vom_1448-06-19.xml	1448-06-19
+105	pe__barbara_SB_CD_01693	Barbara Meichsner	f	1	01840-eintrag_vom_1448-04-19.xml	1448-04-19
+106	pe__barbara_SB_CD_00231	Barbara Berblein Tinpeck	f	1	00231-eintrag_vom_1448-09-20.xml	1448-09-20
+107	pe__margarethe_SB_CD_01240	Margarethe Haunoltin	f	1	01240-eintrag_vom_1448-03-15.xml	1448-03-15
+108	pe__georg_leinburger_SB_CD_00056	Georg Leinburger der Apotheker	m	1	00056-eintrag_vom_1448-08-09.xml	1448-08-09
+109	pe__margarethe_SB_CD_00229	Margarethe	f	1	00229-eintrag_vom_1448-05-27.xml	1448-05-27
+110	pe__johann_puchspaum_QGW_II_II_3038	Johann Puchpaum	m	1	01768-eintrag_vom_1448-06-28.xml	1448-06-28
+111	pe__jakob_schutwempl_SB_CD_00970	Jakob Schutwémpl der Fasszieher	m	1	00970-eintrag_vom_1448-11-20.xml	1448-11-20
+112	pe__barbara_SB_CD_01768	Barbara Welserin	f	1	01768-eintrag_vom_1448-06-28.xml	1448-06-28
+113	pe__georg_schuchler_QGW_II_II_3272	Georg Schuchler Schüchler	m	2	00609-eintrag_vom_1448-05-06.xml, 01150-eintrag_vom_1448-03-04.xml	1448-05-06, 1448-03-04
+114	pe__johann_teuffenpekch_SB_CD_00611	Johann Teuffenpekch Teuffenpekch melbler	m	1	00611-eintrag_vom_1448-06-21.xml	1448-06-21
+115	pe__johann_nagler_SB_CD_01434	Johann Nagler	m	1	01434-eintrag_vom_1448-06-14.xml	1448-06-14
+116	pe__konrad_SB_CD_00626	Konrad	m	1	00626-eintrag_vom_1448-12-20.xml	1448-12-20
+117	pe__margarethe_SB_CD_00618	Margarethe Eschlbach	f	2	00618-eintrag_vom_1448-09-02.xml, 00619-eintrag_vom_1448-09-04.xml	1448-09-02, 1448-09-04
+118	pe__dorothea_QGW_II_II_3264	Dorothea Widmerin	f	1	00300-eintrag_vom_1448-08-05.xml	1448-08-05
+119	pe__klara_SB_CD_01099	Klara Kollendorffer	f	1	01099-eintrag_vom_1448-02-20.xml	1448-02-20
+120	pe__ludmilia_SB_CD_1239	Ludmilia	f	1	01239-eintrag_vom_1448-03-13.xml	1448-03-13
+121	pe__konrad_reiff_SB_CD_00226	Konrad Reiff	m	1	00226-eintrag_vom_1448-02-23.xml	1448-02-23
+122	pe__niklas_wagner_QGW_II_II_3262	Niklas Wagner der Schuster	m	1	00299-eintrag_vom_1448-07-08.xml	1448-07-08
+123	pe__jakob_rechwein_QGW_II_II_3242	Jakob Rechwein	m	1	00622-eintrag_vom_1448-12-09.xml	1448-12-09
+124	pe__lorenz_rat_SB_CD_00969	Lorenz Rat	m	1	00969-eintrag_vom_1448-10-30.xml	1448-10-30
+125	pe__niklas_ernst_SB_CD_01146	Niklas Ernst	m	1	01146-eintrag_vom_1448-04-12.xml	1448-04-12
+126	pe__anna_SB_CD_00227	Anna Schrofl	f	1	00227-eintrag_vom_1448-03-06.xml	1448-03-06
+127	pe__dorothea_SB_CD_00968	Dorothea Veder Neunkirchner	f	1	00968-eintrag_vom_1448-07-10.xml	1448-07-10
+128	pe__gilg_kunter_QGW_II_II_3676	Gilg Kunter	m	1	01429-eintrag_vom_1448-02-20.xml	1448-02-20
+129	pe__michael_haunolt_QGW_II_II_3616	Michael Haunolt	m	1	01240-eintrag_vom_1448-03-15.xml	1448-03-15
+130	pe__konrad_schrofl_SB_CD_00227	Konrad Schrofl	m	1	00227-eintrag_vom_1448-03-06.xml	1448-03-06
+131	pe__dorothea_SB_CD_00610	Dorothea Ofner	f	1	00610-eintrag_vom_1448-05-29.xml	1448-05-29
+132	pe__ulrich_floederl_QGW_II_II_3238	Ulrich Flöderl der Schlosser	m	1	00620-eintrag_vom_1448-11-20.xml	1448-11-20
+133	pe__albrecht_liebhart_QGW_II_II_3262	Albrecht Liebhart der Schuster	m	1	00299-eintrag_vom_1448-07-08.xml	1448-07-08
+134	pe__peter_unpau_SB_CD_01242	Peter Unpau	m	1	01242-eintrag_vom_1448-11-15.xml	1448-11-15
+135	pe__niklas_viller_SB_CD_01433	Niklas Viller	m	1	01433-eintrag_vom_1448-07-29.xml	1448-07-29
+136	pe__lorenz_swarcz_SB_CD_00626	Lorenz Swarcz	m	2	00626-eintrag_vom_1448-12-20.xml, 01149-eintrag_vom_1448-09-02.xml	1448-12-20, 1448-09-02
+137	pe__meinhard_riemer_QGW_II_II_2391	Meinhard Riemer	m	2	01241-eintrag_vom_1448-06-21.xml, 01243-eintrag_vom_1448-09-13.xml	1448-06-21, 1448-09-13
+138	pe__georg_von_nikolsburg_QGW_II_II_2373	Georg von Nikolsburg	m	1	00625-eintrag_vom_1448-12-11.xml	1448-12-11
+139	pe__friedrich_lenstain_QGW_II_II_3262	Friedrich Lenstain der Schneider	m	1	00299-eintrag_vom_1448-07-08.xml	1448-07-08
+140	pe__kaspar_SB_CD_00970	Kaspar	m	1	00970-eintrag_vom_1448-11-20.xml	1448-11-20
+141	pe__jakob_muenich_QGW_II_II_3410	Jakob Münich	m	1	00971-eintrag_vom_1448-12-16.xml	1448-12-16
+142	pe__niklas_lainbacher_QGW_II_II_2652	Nikals Lainbacher der Apotheker	m	1	01431-eintrag_vom_1448-07-08.xml	1448-07-08
+143	pe__barbara_SB_CD_00613	Barbara Unverdrossen Unverdrossen	f	3	00608-eintrag_vom_1448-04-29.xml, 00608-eintrag_vom_1448-04-29.xml, 00613-eintrag_vom_1448-07-17.xml	1448-04-29, 1448-04-29, 1448-07-17
+144	pe__anna_SB_CD_01100	Anna Unverdrossen Unverdrossen	f	1	01100-eintrag_vom_1448-04-29.xml	1448-04-29
+145	pe__ulrich_pernauer_SB_CD_00613	Ulrich Pernauer	m	1	00613-eintrag_vom_1448-07-17.xml	1448-07-17
+146	pe__johann_ungerland_SB_CD_00621	Johann Ungerland	m	1	00621-eintrag_vom_1448-11-27.xml	1448-11-27
+147	pe__friedrich_pirbaumer_QGW_II_III_4165	Friedrich Pirbaumer	m	1	01431-eintrag_vom_1448-07-08.xml	1448-07-08
+148	pe__wolfgang_holczer_SB_CD_01926	Wolfgang Holczer	m	1	01926-eintrag_vom_1448-12-20.xml	1448-12-20
+149	pe__dorothea_poschin_SB_CD_00966	Dorothea Posch Poschin	f	1	00966-eintrag_vom_1448-06-07.xml	1448-06-07
+150	pe__leonhard_reicher_SB_CD_01840	Leonhard Reicher Rayer	m	1	01840-eintrag_vom_1448-04-19.xml	1448-04-19
+151	pe__matthias_voburger_SB_CD_01240	Matthias Voburger Vogburger	m	1	01240-eintrag_vom_1448-03-15.xml	1448-03-15
+152	pe__lorenz_rasko_SB_CD_00229	Lorenz Rasko von Bressla	m	1	00229-eintrag_vom_1448-05-27.xml	1448-05-27
+153	pe__konrad_reicher_SB_CD_01840	Konrad Reicher Rayer	m	1	01840-eintrag_vom_1448-04-19.xml	1448-04-19
+154	pe__niklas_kiliber_SB_CD_00231	Niklas Kiliber	m	1	00231-eintrag_vom_1448-09-20.xml	1448-09-20
+155	pe__lukas_neuburger_SB_CD_01926	Lukas Newnburger Neuburger	m	1	01926-eintrag_vom_1448-12-20.xml	1448-12-20
+156	pe__michael_walther_QGW_II_II_3552	Michael Walther	m	1	01841-eintrag_vom_1448-08-13.xml	1448-08-13
+157	pe__michael_viregk_SB_CD_01239	Michael Viregk	m	1	01239-eintrag_vom_1448-03-13.xml	1448-03-13
+158	pe__elisabeth_SB_CD_00349	Elisabeth Goltpachin	f	1	00349-eintrag_vom_1448-02-22.xml	1448-02-22
+159	pe__peter_von_aspern_SB_CD_00970	Peter von Aspern	m	1	00970-eintrag_vom_1448-11-20.xml	1448-11-20
+160	pe__niklas_vom_stein_QGW_II_II_2407	Niklas vom Stein der Fleischhacker	m	1	01693-eintrag_vom_1448-12-13.xml	1448-12-13
+161	pe__konrad_erweit_SB_CD_00057	Konrad Erweit der Kursner	m	2	00156-eintrag_vom_1448-12-13.xml, 00156-eintrag_vom_1448-12-13.xml	1448-12-13, 1448-12-13
+162	pe__jakob_kolbl_SB_CD_00226	Jakob Kolbl	m	1	00226-eintrag_vom_1448-02-23.xml	1448-02-23
+163	pe__simon_vankch_QGW_II_II_2391	Simon Vankch	m	2	01241-eintrag_vom_1448-06-21.xml, 01243-eintrag_vom_1448-09-13.xml	1448-06-21, 1448-09-13
+164	pe__johann_kieler_SB_CD_00620	Johann Kieler Chieler	m	2	00620-eintrag_vom_1448-11-20.xml, 01693a-eintrag_vom_1448.xml	1448-11-20, 1448-01-01
+165	pe__erasmus_vinkch_QGW_II_II_3328	Erasmus Vinkch der Schuster	m	1	01100-eintrag_vom_1448-04-29.xml	1448-04-29
+166	pe__ulrich_hesler_QGW_II_II_3684	Ulrich Hesler	m	1	01842-eintrag_vom_1448-11-27.xml	1448-11-27
+167	pe__stephan_sorgenfrey_SB_CD_00624	Stephan Sorgenfrey der Huter	m	1	00624-eintrag_vom_1448-09-23.xml	1448-09-23
+168	pe__lorenz_swancz_QGW_II_II_2627	Lorenz Swancz	m	1	01239-eintrag_vom_1448-03-13.xml	1448-03-13
+169	pe__barbara_SB_CD_01840	Barbara Reicher Rayer	f	1	01840-eintrag_vom_1448-04-19.xml	1448-04-19
+170	pe__johann_frey_SB_CD_00623	Johann Frey der parhander	m	1	00623-eintrag_vom_1448-12-13.xml	1448-12-13
+171	pe__johann_kollendorffer_SB_CD_01099	Johann Kollendorffer	m	1	01099-eintrag_vom_1448-02-20.xml	1448-02-20
+172	pe__johann_hoelczel_SB_CD_00615	Johann Hölczel der Schneider	m	1	00615-eintrag_vom_1448-06-26.xml	1448-06-26
+173	pe__wilhelm_von_freising_QGW_II_II_4106	Wilhelm von Freising der pekch	m	1	00627-eintrag_vom_1448-12-20.xml	1448-12-20
+174	pe__margarethe_QGW_II_II_3274	Margarethe Praunsperger Neunkircher	f	1	01243-eintrag_vom_1448-09-13.xml	1448-09-13
+175	pe__johann_resch_SB_CD_00606	Johann Resch	m	1	00606-eintrag_vom_1448-04-03.xml	1448-04-03
+176	pe__heinrich_wurm_SB_CD_00627	Heinrich Wurm der pekch	m	1	00627-eintrag_vom_1448-12-20.xml	1448-12-20
+177	pe__johann_reichl_SB_CD_00969	Johann Reichl hinter St. Pankraz	m	1	00969-eintrag_vom_1448-10-30.xml	1448-10-30
+178	pe__leonhard_von_stein_SB_CD_00619	Leonhard von Stein	m	1	00619-eintrag_vom_1448-09-04.xml	1448-09-04
+179	pe__johann_zechman_SB_CD_01840	Johann Zechman	m	1	01840-eintrag_vom_1448-04-19.xml	1448-04-19
+180	pe__katharina_SB_CD_00625	Katharina Hermann	f	1	00625-eintrag_vom_1448-12-11.xml	1448-12-11
+181	pe__niklas_zinkk_SB_CD_00610	Niklas Zinkk	m	1	00610-eintrag_vom_1448-05-29.xml	1448-05-29
+182	pe__barbara_SB_CD_00054	Barbara Vischel	f	1	00054-eintrag_vom_1448-06-10.xml	1448-06-10
+183	pe__niklas_krotendorfer_SB_CD_00622	Niklas Krotendorffer	m	1	00622-eintrag_vom_1448-12-09.xml	1448-12-09
+184	pe__michael_praunsperger_QGW_II_II_3274	Michael Praunsperger der Riemer	m	1	01243-eintrag_vom_1448-09-13.xml	1448-09-13
+185	pe__peter_liebharter_QGW_II_II_3541	Peter Liepharter	m	2	01431-eintrag_vom_1448-07-08.xml, 01432-eintrag_vom_1448-07-10.xml	1448-07-08, 1448-07-10
+186	pe__johann_kriech_QGW_II_II_3126	Johann Kriech	m	1	01148-eintrag_vom_1448-05-17.xml	1448-05-17
+187	pe__erhard_neunkircher_QGW_II_II_3274	Erhard Neunkircher der Glockengießer	m	2	00968-eintrag_vom_1448-07-10.xml, 01243-eintrag_vom_1448-09-13.xml	1448-07-10, 1448-09-13
+188	pe__friedrich_von_minden_SB_CD_01150	Friedrich von Minden der Kursner	m	1	01150-eintrag_vom_1448-03-04.xml	1448-03-04
+189	pe__elisabeth_SB_CD_00969	Elisabeth Zwettler	f	1	00969-eintrag_vom_1448-10-30.xml	1448-10-30
+190	pe__margarethe_SB_CD_00967	Margarethe Weidacher	f	1	00967-eintrag_vom_1448-06-19.xml	1448-06-19
+191	pe__paul_rukchl_SB_CD_00351	Paul Rukchl	m	1	00351-eintrag_vom_1448-11-29.xml	1448-11-29
+192	pe__jakob_weidenholczer_QGW_II_II_3262	Jakob Weidenholczer	m	1	00299-eintrag_vom_1448-07-08.xml	1448-07-08
+193	pe__lorenz_krakauer_SB_CD_01147	Lorenz Krakauer der Helmschmied	m	1	01147-eintrag_vom_1448-04-29.xml	1448-04-29
+194	pe__albrecht_ladner_SB_CD_01242	Albrecht Ladner	m	1	01242-eintrag_vom_1448-11-15.xml	1448-11-15
+195	pe__barbara_SB_CD_01686	Barbara Holfues	f	1	01686-eintrag_vom_1448-04-22.xml	1448-04-22
+196	pe__heinrich_purkchartsperger_QGW_II_I_1560	Heinrich Purkchartsperger	m	1	00624-eintrag_vom_1448-09-23.xml	1448-09-23
+197	pe__wilhelm_mertinger_QGW_II_II_3715	Wilhelm Merttinger	m	2	01431-eintrag_vom_1448-07-08.xml, 01432-eintrag_vom_1448-07-10.xml	1448-07-08, 1448-07-10
+198	pe__leonhard_kriech_QGW_II_II_3126	Leonhard Kriech	m	2	01148-eintrag_vom_1448-05-17.xml, 01150-eintrag_vom_1448-03-04.xml	1448-05-17, 1448-03-04
+199	pe__hermann_edlerauer_QGW_II_II_3280a	Hermann Edlerauer	m	1	00227-eintrag_vom_1448-03-06.xml	1448-03-06
+200	pe__barbara_SB_CD_01693a	Barbara Brunner	m	1	01693a-eintrag_vom_1448.xml	1448-01-01
+201	pe__veit_ebmer_SB_CD_01430	Niklas Ebmer	m	1	01430-eintrag_vom_1448-03-04.xml	1448-03-04
+202	pe__johann_huber_SB_CD_00613	Johann Huber	m	1	00613-eintrag_vom_1448-07-17.xml	1448-07-17
+203	pe__jakob_nuernberger_QGW_II_II_2782	Jakob Nürnberger	m	1	01429-eintrag_vom_1448-02-20.xml	1448-02-20
+204	pe__leonhard_gruenpacher_QGW_II_II_2953	Leonhard Grünpacher	m	2	01146-eintrag_vom_1448-04-12.xml, 01146-eintrag_vom_1448-04-12.xml	1448-04-12, 1448-04-12
+205	pe__ulrich_fochter_QGW_II_II_3228	Ulrich Fochter	m	1	00617-eintrag_vom_1448-08-26.xml	1448-08-26
+206	pe__katharina_SB_CD_01242	Katharina Haffner Unpau	f	1	01242-eintrag_vom_1448-11-15.xml	1448-11-15
+207	pe__johann_nuernberger_SB_CD_01429	Johann Nürnberger	m	1	01429-eintrag_vom_1448-02-20.xml	1448-02-20
+208	pe__christine_SB_CD_01687	Christine Gunser	f	1	01687-eintrag_vom_1448-05-27.xml	1448-05-27
+209	pe__andreas_weinperger_SB_CD_01842	Andreas Weinperger	m	1	01842-eintrag_vom_1448-11-27.xml	1448-11-27
+210	pe__georg_schrot_QGW_II_II_3733	Georg Schrot	m	2	00608-eintrag_vom_1448-04-29.xml, 00613-eintrag_vom_1448-07-17.xml	1448-04-29, 1448-07-17
+211	pe__kaspar_scharf_SB_CD_01149	Kaspar Scharf	m	1	01149-eintrag_vom_1448-09-02.xml	1448-09-02
+212	pe__paul_haid_SB_CD_01693a	Paul Haid der Schuster	m	1	01693a-eintrag_vom_1448.xml	1448-01-01
+213	pe__friedrich_im_hof_QGW_II_II_3172	Friedrich im Hof der Schlosser	m	1	00406-eintrag_vom_1448-05-31.xml	1448-05-31
+214	pe__johann_weinperger_QGW_II_II_2373	Johann Weinperger	m	1	00605-eintrag_vom_1448-03-04.xml	1448-03-04
+215	pe__johann_wuerer_QGW_II_II_2993	Johann Würer	m	2	00606-eintrag_vom_1448-04-03.xml, 00614-eintrag_vom_1448-07-29.xml	1448-04-03, 1448-07-29
+216	pe__dorothea_QGW_II_II_3262_a	Dorothea Wagner Liebhart	f	1	00299-eintrag_vom_1448-07-08.xml	1448-07-08
+217	pe__ulrich_meichsner_QGW_II_II_3553	Ulrich Meichsner vor Kernertor	m	1	01840-eintrag_vom_1448-04-19.xml	1448-04-19
+218	pe__heinrich_stoll_SB_CD_00968	Heinrich Stoll der pekch	m	1	00968-eintrag_vom_1448-07-10.xml	1448-07-10
+219	pe__johann_unverdrossen_SB_CD_00619	Johann Unverdrossen Unverdrossen der Plattner der plattner	m	1	00619-eintrag_vom_1448-09-04.xml	1448-09-04
+220	pe__christian_widhacker_SB_CD_00626	Christian Widhacker	m	1	00624-eintrag_vom_1448-09-23.xml	1448-09-23
+221	pe__heinrich_eschlbach_SB_CD_00618	Heinrich Eschlbach Eschlbach der brunner	m	2	00618-eintrag_vom_1448-09-02.xml, 00619-eintrag_vom_1448-09-04.xml	1448-09-02, 1448-09-04
+222	pe__katharina_QGW_II_II_3482a	Katharina Phanczaglin	f	1	01146-eintrag_vom_1448-04-12.xml	1448-04-12
+223	pe__leonhard_weidenholczer_QGW_II_II_3262	Leonhard Weidenholczer	m	1	00299-eintrag_vom_1448-07-08.xml	1448-07-08
+224	pe__otto_gunser_SB_CD_01687	Otto Gunser	m	1	01687-eintrag_vom_1448-05-27.xml	1448-05-27
+225	pe__margarethe_SB_CD_00615	Margarethe Hölczel	f	1	00615-eintrag_vom_1448-06-26.xml	1448-06-26
+226	pe__jakob_SB_CD_00231	Jakob Tinpeck	m	1	00231-eintrag_vom_1448-09-20.xml	1448-09-20
+227	pe__heinrich_smidpekch_SB_CD_00627	Heinrich Smidpekch	m	1	00627-eintrag_vom_1448-12-20.xml	1448-12-20
+228	pe__johann_veder_SB_CD_00968	Johann Veder der Gürtler	m	1	00968-eintrag_vom_1448-07-10.xml	1448-07-10
+229	pe__hermann_hesel_QGW_II_II_3274	Hermann Hesel	m	1	01243-eintrag_vom_1448-09-13.xml	1448-09-13
+230	pe__katharina_SB_CD_01433	Katharina Vaschang	f	1	01433-eintrag_vom_1448-07-29.xml	1448-07-29
+231	pe__konrad_mospach_SB_CD_00608	Konrad Mospach	m	1	00608-eintrag_vom_1448-04-29.xml	1448-04-29
+232	pe__katharina_SB_CD_01100	Katharina Grat	f	1	01100-eintrag_vom_1448-04-29.xml	1448-04-29
+233	pe__margarethe_SB_CD_01768	Margarethe Welserin	f	1	01768-eintrag_vom_1448-06-28.xml	1448-06-28
+234	pe__simon_lempl_QGW_II_II_4131	Simon Lempl der pekch	m	1	00627-eintrag_vom_1448-12-20.xml	1448-12-20
+235	pe__konrad_kopfdrechsel_SB_CD_00056	Konrad Kopfdrechsel	m	1	00056-eintrag_vom_1448-08-09.xml	1448-08-09
+236	pe__georg_salczer_SB_CD_00605	Georg Salczer	m	1	00605-eintrag_vom_1448-03-04.xml	1448-03-04
+237	pe__niklas_neugruener_SB_CD_00620	Niklas Neugrüner	m	1	00620-eintrag_vom_1448-11-20.xml	1448-11-20
+238	pe__ulrich_peck_SB_CD_01433	Ulrich Peck	m	1	01433-eintrag_vom_1448-07-29.xml	1448-07-29
+239	pe__elisabeth_SB_CD_01148	Elisabeth Reuter	f	1	01148-eintrag_vom_1448-05-17.xml	1448-05-17
+240	pe__ulrich_phanczagl_QGW_II_II_2630	Ulrich Phanczagl	m	1	01146-eintrag_vom_1448-04-12.xml	1448-04-12
+241	pe__wolfgang_reuter_SB_CD_01148	Wolfgang Reuter	m	1	01148-eintrag_vom_1448-05-17.xml	1448-05-17
+242	pe__thomas_trager_QGW_II_II_3264	Thomas der trager	m	1	00300-eintrag_vom_1448-08-05.xml	1448-08-05
+243	pe__niklas_saur_SB_CD_01100	Niklas Saur der Schuster	m	1	01100-eintrag_vom_1448-04-29.xml	1448-04-29
+244	pe__ulrich_feldsberger_SB_CD_00350	Ulrich Feldsberger	m	1	00350-eintrag_vom_1448-04-10.xml	1448-04-10
+245	pe__michael_gruber_SB_CD_00230	Michael Gruber der wundtarzt	m	1	00230-eintrag_vom_1448-11-20.xml	1448-11-20
+246	pe__stephan_mendl_SB_CD_00605	Stephan Mendl Menndl der Färber	m	1	00605-eintrag_vom_1448-03-04.xml	1448-03-04
+247	pe__erhard_von_prag_SB_CD_00156	Erhard von Prag der peutler	m	1	00156-eintrag_vom_1448-12-13.xml	1448-12-13
+248	pe__michael_grashover_QGW_II_II_3264	Michael Grashover	m	1	00300-eintrag_vom_1448-08-05.xml	1448-08-05
+249	pe__kaspar_hermann_SB_CD_00229	Kaspar Hermann der apoteker	m	1	00229-eintrag_vom_1448-05-27.xml	1448-05-27
+250	pe__johann_peinhekchel_QGW_II_II_3111	Johann Peinhekchl der Brunner	m	1	01147-eintrag_vom_1448-04-29.xml	1448-04-29
+251	pe__stephan_vink_SB_CD_01693	Stephan Vink	m	1	01693-eintrag_vom_1448-12-13.xml	1448-12-13
+252	pe__friedrich_koch_SB_CD_00618	Friedrich Koch der Koch	m	1	00618-eintrag_vom_1448-09-02.xml	1448-09-02
+253	pe__ulrich_fries_SB_CD_01434	Ulrich Fries des Zéinstrickcher	m	1	01434-eintrag_vom_1448-06-14.xml	1448-06-14
+254	pe__stephan_radendorfer_SB_CD_01687	Stephan Radendorfer der Obser	m	1	01687-eintrag_vom_1448-05-27.xml	1448-05-27
+255	pe__elisabeth_kolpekchin_SB_CD_00350	Elisabeth Kolpekchin Kolpekchin Schachner Schachen	f	1	00350-eintrag_vom_1448-04-10.xml	1448-04-10
+256	pe__lukas_hulber_QGW_II_II_2796	Lukas Hulber	m	1	00055-eintrag_vom_1448-06-21.xml	1448-06-21
+257	pe__wenzel_grat_QGW_II_III_4253	Wenzel Grat der Schuster	m	1	01100-eintrag_vom_1448-04-29.xml	1448-04-29
+258	pe__brigitta_SB_CD_00226	Brigitta Eggenfelder Gem. Konrad Eggenfelder	f	1	00226-eintrag_vom_1448-02-23.xml	1448-02-23
+259	pe__andreas_strasburger_SB_CD_00228	Andreas Strasburger	m	1	00228-eintrag_vom_1448-04-22.xml	1448-04-22
+260	pe__johann_spannberger_QGW_II_II_3245	Johann Spannberger	m	1	00607-eintrag_vom_1448-03-13.xml	1448-03-13
+261	pe__thomas_kunter_SB_CD_00226	Thomas Kunter	m	1	00226-eintrag_vom_1448-02-23.xml	1448-02-23
+262	pe__johann_strempfl_QGW_II_II_3276	Johann Stremphl	m	1	00624-eintrag_vom_1448-09-23.xml	1448-09-23
+263	pe__katharina_SB_CD_01434	Katharina Graefenauer Grafenawer Fries	f	1	01434-eintrag_vom_1448-06-14.xml	1448-06-14
+264	pe__johann_nagl_SB_CD_00056	Johann Nagl am Graben	m	1	00056-eintrag_vom_1448-08-09.xml	1448-08-09
+265	pe__johann_unverdrossen_SB_CD_00613	Johann Unverdrossen Unverdrossen Helmschmied helmsmid	m	3	00608-eintrag_vom_1448-04-29.xml, 00608-eintrag_vom_1448-04-29.xml, 00613-eintrag_vom_1448-07-17.xml	1448-04-29, 1448-04-29, 1448-07-17
+266	pe__andreas_hiltprant_QGW_II_II_2576	Andreas Hiltprant	m	1	00054-eintrag_vom_1448-06-10.xml	1448-06-10
+267	pe__heinrich_maler_SB_CD_00626	Heinrich Maler	m	1	00626-eintrag_vom_1448-12-20.xml	1448-12-20
+268	pe__heinrich_unverdrossen_SB_CD_01100	Heinrich Unverdrossen Unverdrossen Helmschied helmsmid	m	1	01100-eintrag_vom_1448-04-29.xml	1448-04-29
+269	pe__heinrich_krumauer_SB_CD_00228	Heinrich Chuncz Krumbnawer Krumauer	m	1	00228-eintrag_vom_1448-04-22.xml	1448-04-22
+270	pe__simon_pirkwicz_SB_CD_00054	Simon Pirkwicz	m	1	00054-eintrag_vom_1448-06-10.xml	1448-06-10
+271	pe__jakob_smal_SB_CD_00156	Jakob Smal	m	1	00156-eintrag_vom_1448-12-13.xml	1448-12-13
+272	pe__johann_von_eslarn_V_SB_CD_00615	Johann von Eslarn ze Ottakring	m	1	00615-eintrag_vom_1448-06-26.xml	1448-06-26
+273	pe__katharina_QGW_II_II_3280a	Katharina Edlerauerin Refnerin	f	1	00227-eintrag_vom_1448-03-06.xml	1448-03-06
+274	pe__margarethe_SB_CD_00611	Margarethe Lang	f	1	00611-eintrag_vom_1448-06-21.xml	1448-06-21
+275	pe__barbara_SB_CD_00617	Barabara Han	f	1	00617-eintrag_vom_1448-08-26.xml	1448-08-26
+276	pe__agnes_SB_CD_00616	Agnes Hinlauf Hinlauf	f	1	00616-eintrag_vom_1448-07-19.xml	1448-07-19
+277	pe__dorothea_SB_CD_01241	Dorothea Toller	f	1	01241-eintrag_vom_1448-06-21.xml	1448-06-21
+278	pe__peter_lantmann_SB_CD_01840	Peter Lantmann	m	1	01840-eintrag_vom_1448-04-19.xml	1448-04-19
+279	pe__ulrich_lang_SB_CD_01841	Ulrich Lang der Bäcker	m	1	01841-eintrag_vom_1448-08-13.xml	1448-08-13
+280	pe__johann_welser_QGW_II_II_3262	Johann Welser der lainbater	m	1	01768-eintrag_vom_1448-06-28.xml	1448-06-28
+281	pe__jakob_von_brunn_schneider_QGW_II_II_3261	Jakob von Brunn der Schneider	m	1	00608-eintrag_vom_1448-04-29.xml	1448-04-29
+282	pe__peter_letzelter_SB_CD_00351	Peter der Letzelter	m	1	00351-eintrag_vom_1448-11-29.xml	1448-11-29
+283	pe__erhard_smidpekch_QGW_II_II_3043	Erhard Smidpekch	m	1	00627-eintrag_vom_1448-12-20.xml	1448-12-20
+284	pe__kunigunde_QGW_II_III_4053	Kunigunde Hagen	f	1	01099-eintrag_vom_1448-02-20.xml	1448-02-20
+285	pe__barbara_SB_CD_00228	Barbara Pittrolf	f	1	00228-eintrag_vom_1448-04-22.xml	1448-04-22
+286	pe__katharina_SB_CD_00056	Katharina Nagl Gem. Michael Nagl	f	1	00056-eintrag_vom_1448-08-09.xml	1448-08-09
+287	pe__stephan_imbrung_SB_CD_00054	Stephan Imbrung der Kramer	m	1	00054-eintrag_vom_1448-06-10.xml	1448-06-10
+288	pe__niklas_pernhart_SB_CD_00604	Niklas Pernhart der Fürer	m	1	00604-eintrag_vom_1448-02-24.xml	1448-02-24
+289	pe__johann_meczinger_SB_CD_00623	Johann Meczinger	m	2	00299-eintrag_vom_1448-07-08.xml, 00623-eintrag_vom_1448-12-13.xml	1448-07-08, 1448-12-13
+290	pe__georg_epishauser_QGW_II_II_3353	Georg Epishauser	m	1	00406-eintrag_vom_1448-05-31.xml	1448-05-31
+291	pe__johann_ofner_QGW_II_II_3171	Johann Ofner der Münzer	m	1	00610-eintrag_vom_1448-05-29.xml	1448-05-29
+292	pe__andreas_vischel_SB_CD_00054	Andreas Vischel	m	1	00054-eintrag_vom_1448-06-10.xml	1448-06-10
+293	pe__martin_wachsgiesser_QGW_II_I_1494	Martin der Wachsgiesser	m	1	01148-eintrag_vom_1448-05-17.xml	1448-05-17
+294	pe__thomas_swarcz_QGW_II_II_2673	Thomas Swarcz	m	1	00966-eintrag_vom_1448-06-07.xml	1448-06-07
+295	pe__agnes_SB_CD_00611	Agnes Teuffenpekch Teuffenpekch Lang	f	1	00611-eintrag_vom_1448-06-21.xml	1448-06-21
+296	pe__johann_weilhaimer_SB_CD_00626	Johann Weilhaimer der goltslaher	m	2	00624-eintrag_vom_1448-09-23.xml, 00626-eintrag_vom_1448-12-20.xml	1448-09-23, 1448-12-20
+297	pe__anna_QGW_II_II_3274	Anna Praunsperger	f	1	01243-eintrag_vom_1448-09-13.xml	1448-09-13
+298	pe__niklas_salczburger_QGW_II_II_3676	Niklas Salczburger der Weber	m	1	01429-eintrag_vom_1448-02-20.xml	1448-02-20
+299	pe__kunigunde_SB_CD_01099	Kunigunde Kollendorffer	f	1	01099-eintrag_vom_1448-02-20.xml	1448-02-20
+300	pe__agathe_SB_CD_00055	Agathe Hulber	f	1	00055-eintrag_vom_1448-06-21.xml	1448-06-21
+301	pe__johann_schuchl_SB_CD_00617	Johann Schuchl der Goldschmied	m	2	00608-eintrag_vom_1448-04-29.xml, 00617-eintrag_vom_1448-08-26.xml	1448-04-29, 1448-08-26
+302	pe__peter_von_nussdorf_QGW_II_II_2963	Peter von Nussdorf der Schneider	m	1	00971-eintrag_vom_1448-12-16.xml	1448-12-16
+303	pe__ambrosius_SB_CD_1239	Ambrosius	m	1	01239-eintrag_vom_1448-03-13.xml	1448-03-13
+304	pe__stephan_fuegenstaler_SB_CD_00349	Stephan Fügenstaler	m	1	00349-eintrag_vom_1448-02-22.xml	1448-02-22
+305	pe__anna_QGW_II_II_2953	Anna Grünpacher	f	1	01146-eintrag_vom_1448-04-12.xml	1448-04-12
+306	pe__johann_putzl_SB_CD_01150	Johann Putzl Püczel	m	1	01150-eintrag_vom_1448-03-04.xml	1448-03-04
+307	pe__niklas_graefenauer_SB_CD_01434	Niklas Graefenauer Grafenawer	m	1	01434-eintrag_vom_1448-06-14.xml	1448-06-14
+308	pe__barbara_SB_CD_00605	Barbara Mendl Menndl	f	1	00605-eintrag_vom_1448-03-04.xml	1448-03-04
+309	pe__michael_nagl_SB_CD_00056	Michael Nagl der Sattler am Kohlmarkt	m	1	00056-eintrag_vom_1448-08-09.xml	1448-08-09
+310	pe__dorothea_SB_CD_00230	Dorothea Waczla Gruberin	f	1	00230-eintrag_vom_1448-11-20.xml	1448-11-20
+311	pe__jakob_moshaimer_QGW_II_II_3245	Jakob Moshaimer	m	1	00607-eintrag_vom_1448-03-13.xml	1448-03-13
+312	pe__wolfgang_von_hallstadt_SB_CD_00966	Wolfgang von Hallstadt	m	1	00966-eintrag_vom_1448-06-07.xml	1448-06-07
+313	pe__barbara_SB_CD_00620	Barbara Kielerin Neugrunerin Kanstorfferin	f	2	00620-eintrag_vom_1448-11-20.xml, 01693a-eintrag_vom_1448.xml	1448-11-20, 1448-01-01
+314	pe__stephan_goltpach_SB_CD_00349	Stephan Goltpach	m	1	00349-eintrag_vom_1448-02-22.xml	1448-02-22
+315	pe__stephan_holfues_SB_CD_01686	Stephan Holfues	m	1	01686-eintrag_vom_1448-04-22.xml	1448-04-22
+316	pe__heinrich_chessler_SB_CD_00971	Heinrich Chessler	m	1	00971-eintrag_vom_1448-12-16.xml	1448-12-16
+317	pe__johann_von_maires_QGW_II_II_3818	Johann von Maires	m	1	01146-eintrag_vom_1448-04-12.xml	1448-04-12
