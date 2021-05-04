@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eintrag vom 1448-07-10</title>
+            <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger,
+               anno etc. xlv<hi rend="super">to</hi></title>
+            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+            <respStmt>
+               <resp>Transkription</resp>
+               <name>
+                  <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher>
+            <availability default="false">
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>CC-BY</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format. Adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc type="invetory" status="draft">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Grundbücher</repository>
+                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from="ccxvii" to="[217v]"/>
+                     <p>ccxvii - [217v]</p>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notAfter="1448-07-10">1448-07-10</origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xmlns:xi="http://www.w3.org/2001/XInclude">
+         <projectDesc default="false">
+            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                  <row rend="header">
+                     <cell>Name der Formatvorlage</cell>
+                     <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                  </row>
+                  <row>
+                     <cell>Folioangabe</cell>
+                     <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                        Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden
+                        sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in
+                        lateinischen Zahlzeichen in Tinte</cell>
+                  </row>
+                  <row>
+                     <cell>Faksimilelink</cell>
+                     <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der
+                        Bilddatei</cell>
+                  </row>
+                  <row>
+                     <cell>Rubrik</cell>
+                     <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                  </row>
+                  <row>
+                     <cell>Urkundendatum</cell>
+                     <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                  </row>
+                  <row>
+                     <cell>Standard</cell>
+                     <cell>Text des Grundbucheintrags</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                  </row>
+                  <row>
+                     <cell>Nachtrag</cell>
+                     <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                  </row>
+                  <row>
+                     <cell>Seitenautor</cell>
+                     <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die
+                        interne Organisation)</cell>
+                  </row>
+                  <row>
+                     <cell>Durchgestrichen</cell>
+                     <cell>Durchgestrichen</cell>
+                  </row>
+                  <row>
+                     <cell>Hochgestellt</cell>
+                     <cell>Hochgestellt</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+               community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
+               wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0426.jpg"/>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0427.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="entry">
+            <p><rs type="event" ref="ev__SB_CD_00968"><rs type="fn" role="issuer"><rs type="person"
+                        ref="pe__jakob_straiffing_QGW_II_III_2360">Jacob Straiffing</rs> und <rs
+                        type="person" ref="pe__peter_obrecht_QGW_II_III_2464">Peter Obrecht,
+                           <roleName type="prof">zingiesser</roleName></rs>,</rs>
+                  <catchwords n="disp">habend versaczt</catchwords>
+                  <rs type="fn" role="transactiongood_I"><rs type="place"
+                        ref="pl__wien-immo_kaerntnerstrasse_2"><roleName type="owner"
+                           corresp="pe__jakob_straiffing_QGW_II_III_2360"><add>ir</add></roleName>
+                        <roleName type="owner" corresp="pe__peter_obrecht_QGW_II_III_2464"
+                           >ir</roleName> haus, das <roleName type="owner"
+                           corresp="pe__erhard_neunkircher_QGW_II_II_3274">weilend <rs type="person"
+                              ref="pe__erhard_neunkircher_QGW_II_II_3274">
+                              <roleName type="title">maister</roleName> Erharts Newnkircher des
+                                 <roleName type="prof">glokengiesser</roleName></rs> gewesen
+                           ist</roleName>, <roleName type="topo" corresp="pl__wien-kaerntnerstrasse">gelegen in der
+                           Kernerstrass</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_kaerntnerstrasse_3"
+                           >zenegst</roleName>
+                        <rs type="place" ref="pl__wien-immo_kaerntnerstrasse_3"><roleName type="owner"
+                              corresp="pe__heinrich_stoll_SB_CD_00968"><rs type="person"
+                                 ref="pe__heinrich_stoll_SB_CD_00968">Hainrich Stolln des <roleName
+                                    type="prof">pekchen</roleName></rs></roleName> haus</rs>
+                        <roleName type="topo" corresp="pl__wien-immo_kaerntnerstrasse_3">an aim
+                           tail</roleName></rs>.</rs>
+                  <rs type="fn" role="recipient">Der <rs type="person"
+                        ref="pe__dorothea_SB_CD_00968"><roleName type="title">erbern</roleName>
+                        <roleName type="title">fraun</roleName> Dorothen, <rs type="person"
+                           ref="pe__johann_veder_SB_CD_00968">Hannsen Veder des <roleName
+                              type="prof">gurtler</roleName></rs>
+                        <roleName type="kin" corresp="pe__johann_veder_SB_CD_00968"
+                           >hausfrawn</roleName>, die emalen den benanten maister Erharten seligen
+                        auch <roleName type="kin" corresp="pe__erhard_neunkircher_QGW_II_II_3274"
+                              ><add>emalen</add> elichen</roleName> gehabt hat</rs>, und desselben
+                     maister Erharts erben,</rs>
+                  <rs type="fn" role="transactiongood_II">umb lx tl. d.. die der egnanten Dorothen
+                     von dem benanten maister Erharten morgengab sein</rs>, und sullen ir jerlich
+                  davon dienn alledieweil sy die innhabend funfthalb phund phening zu den zwain
+                  tegen im jar halb zu Weichnachten und halb zu Sunwenden anvercziehen und an abgang
+                  des haubtguts. Wer aber das die egnant Dorothe mit tod abging ee wen
+                  <!-- </p>
+            <pb/>
+            <p>  --> sy das gelt abgeledigt d oder
+                  nidergelegt hieten, so sullen sy dann die egnanten lx tl. d. ausrichten des
+                  obgnanten maister Erharts seligen negsten erben den sy rechtlichen zugeburnt wenn
+                  sy darum ermont werden darnach ynner den nagsten vir wochen anvercziehen. Auch
+                  habend sy ganczen gewalt wenn sy die vorgnanten funfthalb phund der vorgnanten
+                  Dorothen nicht mer dienn wellen, so sullen sy dann die obgnanten lx tl. d.ynner
+                  den nagsten virczehen tagen nach aim yeden dinsttag an den dinst oder ynner den
+                  nagsten virczehen tagen von aim yeden dinsttag mit demselben dinst zu der stat
+                  gruntpuch niderlegen mit irm wissen und wenn sy das getan habend, so sol in das
+                  vorgnant ir haus wider ledig sein und der saczbrief geanttwurtt werden zu irn
+                  handen und sullen auch dann dieselben lx tl. d.der egnanten Dorothen wider
+                  angelegt und verschriben werden als morgengab und der statrecht ist damit die des
+                  egnanten maister Erharts negst erben so das zuschulden kumbt wissen zufinden, ut
+                  littera sonat. Actum an Mitichen ante Margarethe, anno etc. xlviii<hi rend="super"
+                     >o</hi>.</rs></p>
+            <p rend="Summa">Summa ½ tl. d.</p>
+            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00968">Nota der vorgnant saczbrief
+                  ligt hier im Raeturn zu der nagsten erben und der egnanten Dorothen
+               handen.</rs></p>
+            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00968">Nota der sacz ist
+                  umbgeschriben auf Petern Obrechten al ain.</rs></p>
+         </div>
+         <div type="lists">
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
+               xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

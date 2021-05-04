@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eintrag vom 1448-11-20</title>
+            <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger,
+               anno etc. xlv<hi rend="super">to</hi></title>
+            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+            <respStmt>
+               <resp>Transkription</resp>
+               <name>
+                  <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher>
+            <availability default="false">
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>CC-BY</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format. Adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc type="invetory" status="draft">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Grundbücher</repository>
+                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from="[217v]" to="[218r]"/>
+                     <p>[217v] - [218r]</p>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notAfter="1448-11-20">1448-11-20</origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xmlns:xi="http://www.w3.org/2001/XInclude">
+         <projectDesc default="false">
+            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                  <row rend="header">
+                     <cell>Name der Formatvorlage</cell>
+                     <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                  </row>
+                  <row>
+                     <cell>Folioangabe</cell>
+                     <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                        Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden
+                        sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in
+                        lateinischen Zahlzeichen in Tinte</cell>
+                  </row>
+                  <row>
+                     <cell>Faksimilelink</cell>
+                     <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der
+                        Bilddatei</cell>
+                  </row>
+                  <row>
+                     <cell>Rubrik</cell>
+                     <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                  </row>
+                  <row>
+                     <cell>Urkundendatum</cell>
+                     <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                  </row>
+                  <row>
+                     <cell>Standard</cell>
+                     <cell>Text des Grundbucheintrags</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                  </row>
+                  <row>
+                     <cell>Nachtrag</cell>
+                     <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                  </row>
+                  <row>
+                     <cell>Seitenautor</cell>
+                     <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die
+                        interne Organisation)</cell>
+                  </row>
+                  <row>
+                     <cell>Durchgestrichen</cell>
+                     <cell>Durchgestrichen</cell>
+                  </row>
+                  <row>
+                     <cell>Hochgestellt</cell>
+                     <cell>Hochgestellt</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+               community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
+               wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0427.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="entry">
+            <p><rs type="event" ref="ev__SB_CD_00970"><rs type="fn" role="issuer"><rs type="person"
+                        ref="pe__jakob_schutwempl_SB_CD_00970">Jacob Schutwémpl, <roleName
+                           type="prof">vastzieher</roleName></rs>,</rs>
+                  <catchwords n="disp">hat verchaufft</catchwords>
+                  <rs type="fn" role="transactiongood_I">iii tl.</rs>
+                  <catchwords n="disp">gelts purkrechts</catchwords>
+                  <rs type="fn" role="transactiongood_I">auf <rs type="place"
+                        ref="pl__wien-immo_steig_bei_den_predigern_1"><roleName type="owner"
+                           corresp="pe__jakob_schutwempl_SB_CD_00970">seim</roleName> haus,
+                           <roleName type="topo" corresp="pl__wien-steig_bei_den_predigern">gelegen auf
+                           dem steig gegen der Prediger kloster uber am egk</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_steig_bei_den_predigern_2"
+                           >zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_steig_bei_den_predigern_2"><roleName
+                              type="owner" corresp="pe__peter_von_aspern_SB_CD_00970"><rs
+                                 type="person" ref="pe__peter_von_aspern_SB_CD_00970"><roleName
+                                    type="title">hern</roleName> Petern von Asparn</rs></roleName>
+                           haus</rs></rs>.</rs>
+                  <rs type="fn" role="transactiongood_II">Umb xxiiii tl. d.,</rs>
+                  <rs type="fn" role="recipient">dem <rs type="person" ref="pe__kaspar_SB_CD_00970"
+                           ><roleName type="title">erbern</roleName>
+                        <roleName type="title">herren</roleName>
+                        <roleName type="title">herren</roleName> Kasparn, dieczeit <roleName
+                           type="off" corresp="org__wien-st_stephan">cantor</roleName> zu Sand
+                        Steffan zu Wienn</rs>,</rs> und sind zu dienn zu drein tegen und wider
+                  abczukauffen miteinander und den nagsten dinst damit, ut littera. Actum an
+                  Mitichen nach sant Elspethen tag, anno domini etc. xlviii<hi rend="super"
+                  >o</hi>.</rs></p>
+            <p rend="Summa">Summa xlviii d.</p>
+         </div>
+         <div type="lists">
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
+               xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

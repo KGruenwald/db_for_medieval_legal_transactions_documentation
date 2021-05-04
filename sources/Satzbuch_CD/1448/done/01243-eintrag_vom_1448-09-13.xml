@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eintrag vom 1448-09-13</title>
+            <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von
+               Eslorn, anno etc. xlviii<hi rend="super">o</hi>.</title>
+            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+            <respStmt>
+               <resp>Transkription</resp>
+               <name>
+                  <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher>
+            <availability default="false">
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>CC-BY</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format. Adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc type="invetory" status="draft">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Grundbücher</repository>
+                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from=" [296v]" to="[297r]"/>
+                     <p> [296v] - [297r]</p>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notAfter="1448-09-13">1448-09-13</origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xmlns:xi="http://www.w3.org/2001/XInclude">
+         <projectDesc default="false">
+            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                  <row rend="header">
+                     <cell>Name der Formatvorlage</cell>
+                     <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                  </row>
+                  <row>
+                     <cell>Folioangabe</cell>
+                     <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                        Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden
+                        sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in
+                        lateinischen Zahlzeichen in Tinte</cell>
+                  </row>
+                  <row>
+                     <cell>Faksimilelink</cell>
+                     <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der
+                        Bilddatei</cell>
+                  </row>
+                  <row>
+                     <cell>Rubrik</cell>
+                     <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                  </row>
+                  <row>
+                     <cell>Urkundendatum</cell>
+                     <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                  </row>
+                  <row>
+                     <cell>Standard</cell>
+                     <cell>Text des Grundbucheintrags</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                  </row>
+                  <row>
+                     <cell>Nachtrag</cell>
+                     <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                  </row>
+                  <row>
+                     <cell>Seitenautor</cell>
+                     <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die
+                        interne Organisation)</cell>
+                  </row>
+                  <row>
+                     <cell>Durchgestrichen</cell>
+                     <cell>Durchgestrichen</cell>
+                  </row>
+                  <row>
+                     <cell>Hochgestellt</cell>
+                     <cell>Hochgestellt</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+               community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
+               wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0585.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="entry">
+            <p><rs type="event" ref="ev__SB_CD_01243"><rs type="fn" role="issuer"><rs type="person"
+                        ref="pe__michael_praunsperger_QGW_II_II_3274">Michel Praunsperger, der
+                           <roleName type="prof">riemer</roleName></rs>,</rs>
+                  <catchwords n="disp">hat versaczt <add>die uberteurung</add></catchwords>
+                  <rs type="fn" role="transactiongood_I">die uberteurung <rs type="place"
+                        ref="pl__wien-immo_riemerstrasse_4"><roleName type="owner"
+                           corresp="pe__michael_praunsperger_QGW_II_II_3274">seins</roleName> hauss
+                        mit aller seiner zugehorung, <roleName type="topo"
+                           corresp="pl__wien-riemerstrasse">gelegen in der Riemergassen</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_1">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_riemerstrasse_1"><roleName type="owner"
+                              corresp="pe__meinhard_riemer_QGW_II_II_2391"><rs type="person"
+                                 ref="pe__meinhard_riemer_QGW_II_II_2391">Meinharts des
+                              Riemer</rs></roleName> haus</rs>
+                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_1">an aim
+                           tail</roleName>, <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_2"
+                           >und an dem andern zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_riemerstrasse_2"><roleName type="owner"
+                              corresp="pe__simon_vankch_QGW_II_II_2391"><rs type="person"
+                                 ref="pe__simon_vankch_QGW_II_II_2391">Symons
+                              Vankchen</rs></roleName> haus</rs>
+                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_3">und stösst mit dem
+                           hindern tail</roleName> an <rs type="place"
+                           ref="pl__wien-immo_riemerstrasse_3"><roleName type="owner"
+                              corresp="pe__johann_winter_QGW_II_II_3192"><rs type="person"
+                                 ref="pe__johann_winter_QGW_II_II_3192">Hannsen Winter des <roleName
+                                    type="prof">kramer</roleName></rs></roleName> haus</rs>, <rs
+                           type="event" ref="NULL"><rs type="fn" role="transactiongood_II">uber die
+                              l tl. d.</rs>, <rs type="fn" role="transactiongood_I">darumb es</rs>
+                           <rs type="fn" role="issuer">des <rs type="person"
+                                 ref="pe__anna_QGW_II_II_3274">egnanten Praunsperger <roleName
+                                    type="kin" corresp="pe__michael_praunsperger_QGW_II_II_3274"
+                                    >erere hausfrau</roleName> Anna, <roleName type="dead">der got
+                                    gnad</roleName></rs></rs>, <rs type="fn" role="recipient"><rs
+                                 type="person" ref="pe__hermann_hesel_QGW_II_II_3274">Herman dem
+                                 Hésl</rs></rs>
+                           <catchwords n="disp">versaczt hat</catchwords>, ob sy nicht leiberben
+                           hinder ir liess, oder ob sy leiberben hinder ir liess, und das die
+                           abgingen und sturben ee wan sy zu irn beschaiden jarn kémen und vogtper
+                           wurden, so solten die benanten l tl. d. lediclich erben auf den egnanten
+                           Herman Hesl oder ob er nicht enwér, auf sein nagst erben nach lautt ains
+                           briefs und als auch das der stat gruntpuch innhelt.</rs></rs></rs>
+                  <rs type="fn" role="recipient">Der <rs type="person"
+                        ref="pe__margarethe_QGW_II_II_3274"><roleName type="title">erbern</roleName>
+                        Margret, seiner <roleName type="kin"
+                           corresp="pe__michael_praunsperger_QGW_II_II_3274">hausfraun</roleName>,
+                           <rs type="person" ref="pe__erhard_neunkircher_QGW_II_II_3274">Erharts
+                           Newnkircher des <roleName type="prof">glokengiesser</roleName>
+                           <roleName type="dead">seligen</roleName></rs>
+                        <roleName type="kin" corresp="pe__erhard_neunkircher_QGW_II_II_3274"
+                           >tochter</roleName></rs>,</rs>
+                  <rs type="fn" role="transactiongood_II">umb c tl. d., die sy im zupracht hat, und
+                     umb xxx tl. d., die er ir da entgegen gelobt hat zugeben.</rs> Also ist das die
+                  benant Margreth kinder mit im gewinet, darauf sullen denn erst nach ir paider tod
+                  die benanten c und xxx tl. d. auf die uberteurung des hauss lediclich erben und
+                  gevallen. Wér aber das derselb Praunsperger mit tod abging ee dann sein hausfrau
+                  Margret und das er ir nicht kinder liess die oder ob er ir kinder liess die sy
+                  minteinander hieten gehabt, und das die auch abgingen ee denn dieselb Margreth
+                  sein hausfrau, so sind ir dann die benanten c und xxx tl. d. auf der uberteurung
+                  hauss genczlich ledig worden und dafur innhaben, nuczen und niessen solang uncz
+                  das es sein nagst erben oder wann er das schafft umb dieselben c und xxx tl. d.
+                  von ir losent mit denselben pfeningen mag sy dann irn frumen schaffen. Wer aber
+                  das sy abging ee denn er und das sy im auch nicht kinder liesse oder ob sy im
+                  kinder liesse, die sy miteinander hieten gehabt und das die auch abgingen ee dann
+                  er, so sind im dann die vorgnanten xxx tl. d. ledig worden dann die c tl. d. sol
+                  er auch sein lebttég innhaben nuczen und niessen als leibgedings recht ist und
+                  nach seim tod sullen dieselben c tl. d. hinwider erben und gevallen auf der
+                  egnanten seiner hausfraun Margrethen négst erben, darauf sy dann zu recht erben
+                  und gevallen sullen, oder wem sy die schafft macht oder geit, die dann die
+                  uberteurung des hauss dafur innhaben núczen und niessen sullen solang uncz das es
+                  sein nagst erben darumb von in losend, ut littera sonat. Actum an Freitag vor des
+                  Heiligen Kreuczs tag als es erhocht ist, anno etc. xlviii<hi rend="super"
+                  >o</hi>.</rs></p>
+            <p rend="Summa">Summa i tl. xx d.</p>
+            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_01243">Nota der saczbrief ist in den
+                  rat gelegt worden etc.</rs></p>
+            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_01243">Nota die obgenanten c und xxx
+                  tl. d. sind zu dem púch erlegt worden, an Freitag post Pangraczii, anno etc.
+                  lviimo.</rs></p>
+         </div>
+         <div type="lists">
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
+               xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

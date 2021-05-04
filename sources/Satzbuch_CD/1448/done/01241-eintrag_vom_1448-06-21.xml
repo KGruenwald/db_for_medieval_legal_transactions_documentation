@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eintrag vom 1448-06-21</title>
+            <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von
+               Eslorn, anno etc. xlviii<hi rend="super">o</hi>.</title>
+            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+            <respStmt>
+               <resp>Transkription</resp>
+               <name>
+                  <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher>
+            <availability default="false">
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>CC-BY</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format. Adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc type="invetory" status="draft">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Grundbücher</repository>
+                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from="[296r]" to=" [296v]"/>
+                     <p>[296r] - [296v]</p>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notAfter="1448-06-21">1448-06-21</origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xmlns:xi="http://www.w3.org/2001/XInclude">
+         <projectDesc default="false">
+            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                  <row rend="header">
+                     <cell>Name der Formatvorlage</cell>
+                     <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                  </row>
+                  <row>
+                     <cell>Folioangabe</cell>
+                     <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                        Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden
+                        sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in
+                        lateinischen Zahlzeichen in Tinte</cell>
+                  </row>
+                  <row>
+                     <cell>Faksimilelink</cell>
+                     <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der
+                        Bilddatei</cell>
+                  </row>
+                  <row>
+                     <cell>Rubrik</cell>
+                     <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                  </row>
+                  <row>
+                     <cell>Urkundendatum</cell>
+                     <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                  </row>
+                  <row>
+                     <cell>Standard</cell>
+                     <cell>Text des Grundbucheintrags</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                  </row>
+                  <row>
+                     <cell>Nachtrag</cell>
+                     <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                  </row>
+                  <row>
+                     <cell>Seitenautor</cell>
+                     <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die
+                        interne Organisation)</cell>
+                  </row>
+                  <row>
+                     <cell>Durchgestrichen</cell>
+                     <cell>Durchgestrichen</cell>
+                  </row>
+                  <row>
+                     <cell>Hochgestellt</cell>
+                     <cell>Hochgestellt</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+               community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
+               wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0584.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="entry">
+            <p><rs type="event" ref="ev__SB_CD_01241"><rs type="fn" role="issuer"><rs type="person"
+                        ref="pe__michael_toller_SB_CD_01241">Michel Tóllr, <roleName type="prof"
+                           >fleischhakcher</roleName></rs>, und <rs type="person"
+                        ref="pe__dorothea_SB_CD_01241">Dorothe, sein <roleName type="kin"
+                           corresp="pe__michael_toller_SB_CD_01241">hausfrau</roleName></rs>,</rs>
+                  <catchwords n="disp">habent verchaufft</catchwords>
+                  <rs type="fn" role="transactiongood_I">xii ½ tl. d.</rs>
+                  <catchwords n="disp">gelts purkrechts</catchwords>
+                  <rs type="fn" role="transactiongood_I"><rs type="place"
+                        ref="pl__wien-immo_riemerstrasse_1">auf <roleName type="owner"
+                           corresp="pe__dorothea_SB_CD_01241"><add>írm</add></roleName>
+                        <roleName type="owner" corresp="pe__michael_toller_SB_CD_01241"
+                           >írm</roleName> ramhof, <roleName type="topo" corresp="pl__wien-riemerstrasse"
+                           >gelegen mit dem vordern tail in der Riemerstrass</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_1">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_riemerstrasse_1"><roleName type="owner"
+                              corresp="pe__meinhard_riemer_QGW_II_II_2391"><rs type="person"
+                                 ref="pe__meinhard_riemer_QGW_II_II_2391">Meinharts
+                              Riemer</rs></roleName> haus</rs>
+                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_1">an aimm
+                           tail</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_2">und an dem andern
+                           zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_riemerstrasse_2"><roleName type="owner"
+                              corresp="pe__simon_vankch_QGW_II_II_2391"><rs type="person"
+                                 ref="pe__simon_vankch_QGW_II_II_2391">Symons
+                              Vankchen</rs></roleName> haus</rs> und <roleName type="topo"
+                           corresp="pl__wien-kumpfgasse">stosst mit dem hindern tail in das
+                           Kumphgéssl</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_kumpfgasse_1">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_kumpfgasse_1">des Widhakcher
+                     haus</rs></rs>.</rs>
+                  <rs type="fn" role="transactiongood_II">Umb hundert pfunt phening, und sind emalen
+                     gelegen auf Steffans Herczogenperger haus oberhalb Pewrértor,</rs>
+                  <rs type="fn" role="recipient"><rs type="person"
+                        ref="pe__niklas_noter_SB_CD_01241"><roleName type="title">hern</roleName>
+                        Niclasen Notter, <roleName type="off"
+                           corresp="org__wien-st_stephan-altar_frauen-messe_albertinus_bucharzt"
+                           >capplan</roleName> der messe die maister Albertinus der pucharczt auf
+                        Unser Fraun Altar zu Sand Steffan gestifft hat</rs>, und seinen
+                     nachkomen.</rs> Und sind zu dienn zu drin tégen und wider abczukauffen
+                  miteinander und den nagsten dinst damit, ut littera. Actum an Freitag vor sand
+                  Johans tag zu Sundwenden, anno etc. xlviiio.</rs></p>
+            <p rend="Summa">Summa vi s. xx d.</p>
+            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_01241">Daz gelt ist abgelost und
+                  wider gelihen worden auf Mathesen Ubermut, swertferger und Margreten seiner
+                  hausfrau hewser ut littera, anno liiio.</rs></p>
+         </div>
+         <div type="lists">
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
+               xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

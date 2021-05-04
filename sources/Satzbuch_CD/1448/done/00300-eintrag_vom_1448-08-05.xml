@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eintrag vom 1448-08-05</title>
+            <title type="rubrik">Tempore dominorum Hainrich Haiden, consu<unclear instant="false"
+                  >lis</unclear>, et Hannsen von Eslorn, anno etc. xlviii<hi rend="super"
+               >o</hi></title>
+            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+            <respStmt>
+               <resp>Transkription</resp>
+               <name>
+                  <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
+               </name>
+               <name>
+                  <rs type="person" ref="weinbergmaier_richard">Richard Weinbergmaier</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher>
+            <availability default="false">
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>CC-BY</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format. Adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc type="invetory" status="draft">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Grundbücher</repository>
+                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from=" [76r]" to="[76v]"/>
+                     <p> [76r] - [76v]</p>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notAfter="1448-08-05">1448-08-05</origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xmlns:xi="http://www.w3.org/2001/XInclude"><projectDesc default="false">
+            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                  <row rend="header">
+                     <cell>Name der Formatvorlage</cell>
+                     <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                  </row>
+                  <row>
+                     <cell>Folioangabe</cell>
+                     <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                        Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden
+                        sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in
+                        lateinischen Zahlzeichen in Tinte</cell>
+                  </row>
+                  <row>
+                     <cell>Faksimilelink</cell>
+                     <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der
+                        Bilddatei</cell>
+                  </row>
+                  <row>
+                     <cell>Rubrik</cell>
+                     <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                  </row>
+                  <row>
+                     <cell>Urkundendatum</cell>
+                     <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                  </row>
+                  <row>
+                     <cell>Standard</cell>
+                     <cell>Text des Grundbucheintrags</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                  </row>
+                  <row>
+                     <cell>Nachtrag</cell>
+                     <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                  </row>
+                  <row>
+                     <cell>Seitenautor</cell>
+                     <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die
+                        interne Organisation)</cell>
+                  </row>
+                  <row>
+                     <cell>Durchgestrichen</cell>
+                     <cell>Durchgestrichen</cell>
+                  </row>
+                  <row>
+                     <cell>Hochgestellt</cell>
+                     <cell>Hochgestellt</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+               community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
+               wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+         </projectDesc> &gt;&gt;&gt;&gt;&gt;&gt;&gt; fb977a4c1f10e80996533d2e5afe117b2875e95b
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0150.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="entry">
+            <p><rs type="event" ref="ev__QGW_II_II_3264"><rs type="fn" role="issuer"><rs
+                        type="person" ref="pe__dorothea_QGW_II_II_3264">Dorothe, <rs type="person"
+                           ref="pe__pankraz_widmer_QGW_II_II_3264">Pangreczen Widmer des <roleName
+                              type="prof">Parhander</roleName></rs>
+                        <roleName type="kin" corresp="pe__pankraz_widmer_QGW_II_II_3264"
+                           >hausfrau</roleName></rs></rs>, <catchwords n="disp">hat
+                     verchaufft</catchwords> ii tl. d. <catchwords n="disp">gelts
+                     purkrechts</catchwords>
+                  <rs type="fn" role="transactiongood_I">auf <rs type="place"
+                        ref="pl__wien-immo_tiefer_graben_1"><roleName type="owner"
+                           corresp="pe__dorothea_QGW_II_II_3264">irm</roleName> haus, <roleName
+                           type="topo" corresp="pl__wien-tiefer_graben">gelegen im
+                           Teuffengraben</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_tiefer_graben_2">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_tiefer_graben_2"><roleName type="owner"
+                              corresp="pe__thomas_trager_QGW_II_II_3264"><rs type="person"
+                                 ref="pe__thomas_trager_QGW_II_II_3264">Thomans
+                              Trager</rs></roleName> haus</rs> an aim tail und <roleName type="topo"
+                           corresp="pl__wien-immo_tiefer_graben_3">an dem andern zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_tiefer_graben_3"><roleName type="owner"
+                              corresp="pe__gilg_zimmermann_QGW_II_II_3264"><rs type="person"
+                                 ref="pe__gilg_zimmermann_QGW_II_II_3264">Giligen des
+                                 Zimermans</rs></roleName> haus</rs>, <rs type="event" ref="NULL"
+                              ><rs type="fn" role="issuer"><rs type="place"
+                                 ref="pl__wien-immo_tiefer_graben_1">davon</rs> man</rs>
+                           <catchwords n="disp">jerlich dint</catchwords> in <rs type="fn"
+                              role="recipient">der <rs type="org" ref="org__wien-buergerspital"
+                                 >Burgerspital</rs></rs>
+                           <rs type="fn" role="transactiongood_II">lxxx d.</rs>
+                           <catchwords n="disp">zu purkrecht</catchwords> und nicht
+                     mer</rs></rs>.</rs> Umb xvi tl. d. <rs type="fn" role="recipient">dem <rs
+                        type="person" ref="pe__michael_grashover_QGW_II_II_3264"><roleName
+                           type="title">erbern</roleName>
+                        <roleName type="prof">briester</roleName>
+                        <roleName type="title">hern</roleName> Micheln Grashofer, dieczeit <roleName
+                           type="off"
+                           corresp="org__wien-st_stephan-kapelle_herzog-altar_st_blasius-messe_graf"
+                           >kaplan</roleName> der mess, so weilent Rudolf Graf auf Sant Blasien
+                        altar in des Herczogen cappellen dacz Sand Steffan gestifft hat</rs>, und
+                     seinen nachkomen</rs>. Und sind zu diennen zu dreien tégen und wider
+                  abczukauffen miteinander und den negsten dinst damit, ut littera. Actum an sand
+                  Oswalts tag, anno etc. xlviii<hi rend="super">o</hi>.</rs></p>
+            <p rend="Summa">Summa xxxiii d.</p>
+         </div>
+         <div type="lists">
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
+               xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

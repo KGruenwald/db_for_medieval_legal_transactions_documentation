@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eintrag vom 1448-06-10</title>
+            <title type="rubrik">Tempore dominorum Henrici Haiden, consulis, et Johannis de Eslorn,
+               anno etc. xlviii<hi rend="super">o</hi>.</title>
+            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+            <respStmt>
+               <resp>Transkription</resp>
+               <name>
+                  <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
+               </name>
+               <name>
+                  <rs type="person" ref="weinbergmaier_richard">Richard Weinbergmaier</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher>
+            <availability default="false">
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>CC-BY</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format. Adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc type="invetory" status="draft">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Grundbücher</repository>
+                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from=" [9r]" to=" [9v]"/>
+                     <p> [9r] - [9v]</p>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notAfter="1448-06-10">1448-06-10</origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xmlns:xi="http://www.w3.org/2001/XInclude">
+         <projectDesc default="false">
+            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                  <row rend="header">
+                     <cell>Name der Formatvorlage</cell>
+                     <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                  </row>
+                  <row>
+                     <cell>Folioangabe</cell>
+                     <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                        Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden
+                        sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in
+                        lateinischen Zahlzeichen in Tinte</cell>
+                  </row>
+                  <row>
+                     <cell>Faksimilelink</cell>
+                     <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der
+                        Bilddatei</cell>
+                  </row>
+                  <row>
+                     <cell>Rubrik</cell>
+                     <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                  </row>
+                  <row>
+                     <cell>Urkundendatum</cell>
+                     <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                  </row>
+                  <row>
+                     <cell>Standard</cell>
+                     <cell>Text des Grundbucheintrags</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                  </row>
+                  <row>
+                     <cell>Nachtrag</cell>
+                     <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                  </row>
+                  <row>
+                     <cell>Seitenautor</cell>
+                     <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die
+                        interne Organisation)</cell>
+                  </row>
+                  <row>
+                     <cell>Durchgestrichen</cell>
+                     <cell>Durchgestrichen</cell>
+                  </row>
+                  <row>
+                     <cell>Hochgestellt</cell>
+                     <cell>Hochgestellt</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+               community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
+               wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0026.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="entry">
+            <p><rs type="event" ref="ev__SB_CD_00054"><rs type="fn" role="issuer"><rs type="person"
+                        ref="pe__andreas_vischel_SB_CD_00054">Andre Vischel</rs> und <rs type="person"
+                        ref="pe__barbara_SB_CD_00054">Barbara sein <roleName type="kin"
+                           corresp="pe__andreas_vischel_SB_CD_00054">hausfrau</roleName></rs></rs>
+                  <catchwords n="disp">habent versaczt</catchwords>
+                  <rs type="fn" role="transactiongood_I"><rs type="place"
+                        ref="pl__wien-immo_huehnergesslein_1"><roleName type="owner"
+                           corresp="pe__barbara_SB_CD_00054">ír</roleName><roleName type="owner"
+                           corresp="pe__andreas_vischel_SB_CD_00054"><add>ir</add></roleName> haws,
+                        <roleName type="topo" corresp="pl__wien-huehnergesslein">gelegen im
+                        Húnergesslein</roleName>
+                     <roleName type="topo" corresp="pl__wien-immo_huehnergesslein_2"
+                        >zenagst</roleName>
+                  <rs type="place" ref="pl__wien-immo_huehnergesslein_2"><roleName type="owner"
+                        corresp="pe__stephan_imbrung_SB_CD_00054"><rs type="person" ref="pe__stephan_imbrung_SB_CD_00054"
+                           >Stephans Imbrung des <roleName type="prof"
+                        >kramer</roleName></rs></roleName>haus</rs>, <rs type="event"
+                     ref="ev__haus_huehnergesslein_1_burgrecht_1"><rs type="fn" role="issuer"><rs
+                        type="place" ref="pl__wien-immo_huehnergesslein_1">davon</rs> man</rs> 
+                     <catchwords n="disp">jerlich dint</catchwords>
+                     <rs type="fn" role="recipient"><rs type="person" ref="pe__simon_pirkwicz_SB_CD_00054"
+                              ><roleName type="title">hern</roleName> Symon Pirkwicz <roleName
+                              type="off"
+                              corresp="org__wien-st_agnes_auf_der_himmelpforte-altar_dreikoenige"
+                              >caplan</roleName> der Heiligen dreir Kunig altar zu der
+                           Himlporten</rs></rs><rs type="fn" role="transactiongood_I"><measure>vii
+                           tl. d.</measure></rs>
+                           <catchwords n="disp">zu purkrecht</catchwords> und nicht mer.</rs></rs></rs>
+                  <rs type="fn" role="recipient">Dem <rs type="person" ref="pe__andreas_hiltprant_QGW_II_II_2576"
+                           ><roleName type="title">erbern</roleName>
+                        <roleName type="title">weisen</roleName> Andren Hiltprant diezeit des
+                           <roleName type="off" corresp="org__wien">rats</roleName> der stat
+                        ze Wienn</rs> und seinen erben</rs>
+                  <rs type="fn" role="transactiongood_II">umb <measure>xliiii tl. d.</measure></rs>
+                  <rs type="fn" role="transactiongood_I">und sind zu beczaln zu den vír quatembern
+                     im jar zu yeder quatember <measure>xi tl. d.</measure> und sullen mit der
+                     ersten werung anheben zu der quatember schirist kunftig anvercziehen</rs>.
+                  Actum an Montag vor sand Veits tag, anno etc. xlviii<hi rend="super"
+               >o</hi>.</rs></p>
+            <p rend="Summa">Summa
+                     <measure>lxxxviii d.</measure></p>
+            <p rend="Nachtrag">
+               <rs type="event" ref="ev__SB_CD_00054"><unclear instant="false">Testa etc</unclear>
+                     ha<unclear instant="false">be</unclear>t cedulam.</rs></p>
+         </div>
+         <div type="lists">
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
+               xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,3371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:cei="http://www.monasterium.net/NS/cei">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Wiener Urkunden Personenliste </title>
+   </titleStmt>
+   <publicationStmt>
+    <p> Original Data: Copyright (c) :: Korbinian Gruenwald </p>
+   </publicationStmt>
+   <sourceDesc default="false">
+    <p> born Digital </p>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <listOrg>
+    <org type="Herzogtum" xml:id="org__oesterreich-herzogtum">
+     <orgName>
+      <reg>Herzogtum Österreich</reg>
+     </orgName>
+     <location>
+      <geo/>
+     </location>
+    </org>
+    <org type="Koenigreich" xml:id="org__ungarn-koenigreich">
+     <orgName>
+      <reg>Königreich Ungarn</reg>
+     </orgName>
+     <location>
+      <geo/>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__augsburg">
+     <orgName>
+      <reg>Augsburg</reg>
+     </orgName>
+     <location>
+      <geo/>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__weitra">
+     <orgName>
+      <reg>Weitra</reg>
+     </orgName>
+     <location>
+      <geo/>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__wiener_neustadt">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_588">Wiener Neustadt</reg>
+      <orig>Neustadt</orig>
+      <orig>Neunstadt</orig>
+     </orgName>
+     <location>
+      <geo/>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__mauthausen">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_552">Mauthausen</reg>
+      <orig>Mauthausen</orig>
+      <orig>Me/athausen</orig>
+     </orgName>
+     <location>
+      <geo/>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__st_poelten">
+     <orgName>
+      <reg source="QGW_II_II_register_pg_440-441">St.Pölten</reg>
+     </orgName>
+     <location>
+      <geo/>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__achau-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_484">Achau-Pfarre</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.0790 16.3877</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__stetten-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_579">Stetten-Pfarre (S. Urlich)</reg>
+     </orgName>
+     <location>
+      <geo/>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__jedenspeigen-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_531">Jedenspeigen-Pfarre</reg>
+     </orgName>
+     <location>
+      <geo/>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__erdberg-st_paul">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_509">Erdberg - St. Paul</reg>
+     </orgName>
+     <location>
+      <!-- adress <placeName corresp="#pl__erdberg"/> -->
+      <!-- evtl BSP für org place verlinkung -->
+      <geo/>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__aggsbach-kartaeuser">
+     <trait>
+      <label>Observance</label>
+      <desc>OCart</desc>
+     </trait>
+     <location>
+      <geo decls="LatLng">48.2940 15.4038</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__albrechtsberg-kapelle">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">Albrechtsberg-Kapelle</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.4623 15.3638</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__goettweig-st_blasius">
+     <orgName>
+      <reg source="FRA_II_55_register_pg_467">Göttweig-St. Blasius</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.36138 15.6078</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__altenburg-benediktiner">
+     <trait>
+      <label>Observance</label>
+      <desc>OSB</desc>
+     </trait>
+     <location>
+      <geo decls="LatLng">48.6442 15.5808</geo>
+     </location>
+     <org type="Messe" xml:id="org__altenburg-benediktiner-messe_sonnberg"/>
+    </org>
+    <org type="Kloster_m" xml:id="org__raitenhaslach-zisterzienser">
+     <orgName>
+      <reg source="FRA_II_55_register_pg_671">Raitenhaslach-Zisterzienser</reg>
+     </orgName>
+     <trait>
+      <label>Observance</label>
+      <desc>OCist</desc>
+     </trait>
+     <location>
+      <geo decls="LatLng">48.13016 12.78705</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__aquino-dioezese">
+     <location>
+      <geo decls="LatLng">41.4938 13.7052</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__arezzo-dioezese">
+     <location>
+      <geo decls="LatLng">43.4627 11.8806</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__atzgersdorf-pfarre">
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Atzgersdorf_(Pfarre)</idno>
+     <location>
+      <geo decls="LatLng">48.1471 16.2948</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__aversa-dioezese">
+     <location>
+      <geo decls="LatLng">40.9725 14.2074</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__bagnoregio-dioezese">
+     <location>
+      <geo decls="LatLng">42.6284 12.0896</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__basel-dioezese">
+     <location>
+      <geo decls="LatLng">47.5583 7.5732</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__bova-dioezese">
+     <location>
+      <geo decls="LatLng">37.9950 15.9319</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__breslau-dioezese">
+     <location>
+      <geo decls="LatLng">51.1000 17.0333</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__brixen-dioezese">
+     <location>
+      <geo decls="LatLng">46.7150 11.6559</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__prag-dioezese">
+     <idno type="URI">http://www.geonames.org/3067696/prague.html</idno>
+     <location>
+      <geo decls="LatLng">50.08804 14.42076</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__antiochia-dioezese">
+     <idno type="URI">http://www.geonames.org/11703845/antiochia-patriarchat.html</idno>
+     <location>
+      <geo decls="LatLng">36.20228 36.1609</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__wissegard-st_peter">
+     <idno type="URI">http://www.geonames.org/3067696/prague.html</idno>
+     <location>
+      <geo decls="LatLng">50.08804 14.42076</geo>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__bruck_an_der_mur">
+     <location>
+      <geo decls="LatLng">47.4166 15.2833</geo>
+     </location>
+    </org>
+    <org type="Zeche_Bruderschaft" xml:id="org__brunn_am_gebirge-kunigundenzeche">
+     <location>
+      <geo decls="LatLng">48.1091 16.2920</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__chiemsee-dioezese">
+     <location>
+      <geo decls="LatLng">47.8614 12.3990</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__croja-dioezese">
+     <location>
+      <geo decls="LatLng">41.5091 19.7927</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__eggenburg-pfarre">
+     <location>
+      <geo decls="LatLng">48.6389 15.8190</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__petronell-pfarre">
+     <orgName>
+      <reg source="FRA_II_55_register_pg_459">Petronell-Pfarre</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.11296 16.86582</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__hainfeld-pfarre">
+     <orgName>
+      <reg source="FRA_II_55_register_pg_557">Hainfeld-Pfarre</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.03999 15.8017</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__engelhartszell-zisterzienser">
+     <trait>
+      <label>Observance</label>
+      <desc>OCist</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_509">Engelhartszell-Zisterzienser</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.5063 13.7317</geo>
+     </location>
+    </org>
+    <org type="Kloster_f" xml:id="org__erstein-benedikterinnen">
+     <trait>
+      <label>Observance</label>
+      <desc>OSB</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">Erstein-Benedikterinnen</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.4237 7.6626</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__falkenstein-pfarre">
+     <location>
+      <geo decls="LatLng">48.7144 16.5909</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__freising-dioezese">
+     <location>
+      <geo decls="LatLng">48.4035 11.7487</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__gaming-kartaeuser">
+     <trait>
+      <label>Observance</label>
+      <desc>OCart</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">Gaming-Kartäuser</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Kart%C3%A4user</idno>
+     <location>
+      <geo decls="LatLng">47.8568 15.1315</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__goldenkron-zisterzienser">
+     <trait>
+      <label>Observance</label>
+      <desc>OCist</desc>
+     </trait>
+     <location>
+      <geo decls="LatLng">48.8556 14.3595</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__arbesthal-pfarre">
+     <location>
+      <geo decls="LatLng">48.0622 16.7184</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__goettweig-benediktiner">
+     <trait>
+      <label>Observance</label>
+      <desc>OSB</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">Göttweig-Benediktiner</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.3500 15.6166</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__graz-pfarre">
+     <location>
+      <geo decls="LatLng">47.0666 15.4500</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__großwardein-dioezese">
+     <location>
+      <geo decls="LatLng">47.0458 21.9183</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__gurk-dioezese">
+     <location>
+      <geo decls="LatLng">46.8562 14.2820</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__havelberg-dioezese">
+     <location>
+      <geo decls="LatLng">52.8308 12.0755</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__heiligenkreuz-zisterzienser">
+     <trait>
+      <label>Observance</label>
+      <desc>OCist</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_525">Heiligenkreuz-Zisterzienser</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.0426 16.15292</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__heiligenstadt-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">Heiligenstadt-Pfarre</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Heiligenstadt_(Pfarre)</idno>
+     <location>
+      <geo decls="LatLng">48.2500 16.3666</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__herzogenburg-augustiner_chorherren">
+     <trait>
+      <label>Observance</label>
+      <desc>CanReg</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">Herzogenburg-Augustinerchorherren</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.2905 15.7313</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__vorau-augustiner_chorherren">
+     <trait>
+      <label>Observance</label>
+      <desc>CanReg</desc>
+     </trait>
+     <orgName>
+      <reg>Vorau-Augustinerchorherren</reg>
+     </orgName>
+     <idno type="URI">https://www.geonames.org/7872371/vorau.html</idno>
+     <idno type="URI">https://www.stift-vorau.at/?LNG=de</idno>
+     <location>
+      <geo decls="LatLng">47.40282 15.89829</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__hietzing-pfarre">
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Hietzing_(Pfarre)</idno>
+     <location>
+      <geo decls="LatLng">48.1862 16.2965</geo>
+     </location>
+     <note>Johann auf der Säule stiftete Kreuz, dafür Jahrestag - Reg 1200</note>
+    </org>
+    <org type="Pfarre" xml:id="org__friedberg-pfarre">
+     <idno type="URI">https://www.geonames.org/2779243/friedberg.html</idno>
+     <location>
+      <geo decls="LatLng">47.43333 16.05</geo>
+     </location>
+     <note/>
+    </org>
+    <org type="Pfarre" xml:id="org__inzersdorf-pfarre">
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Inzersdorf_(Pfarre)</idno>
+    </org>
+    <org type="Pfarre" xml:id="org__kirchberg_am_wagram-st_stephan-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_516">St. Stephan bei Kirchberg am Wagram-Pfarre</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.4139 15.8883</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__klosterneuburg-augustiner_chorherren">
+     <trait>
+      <label>Observance</label>
+      <desc>CanReg</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_538">Klosterneuburg-Augustinerchorherren</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Augustiner-Chorherren</idno>
+     <location>
+      <geo decls="LatLng">48.2971 16.2807</geo>
+     </location>
+    </org>
+    <org type="Kloster_f" xml:id="org__klosterneuburg-augustinerchorfrauen">
+     <trait>
+      <label>Observance</label>
+      <desc>CanReg</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_538">Klosterneuburg-Augustinerchorfrauen</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Augustiner-Chorfrauen</idno>
+     <location>
+      <geo decls="LatLng">48.2971 16.2807</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__koeln-erzdioezese">
+     <location>
+      <geo decls="LatLng">50.9333 6.9500</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__krakau-dioezese">
+     <location>
+      <geo decls="LatLng">50.0614 19.9365</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__krems-st_katharinenkapelle_am_hohenmarkt">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_542">Krems-St. Katharinenkapelle am Hohenmarkt</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.4092 15.6141</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__krems-st_andreas_im_herzogenhof">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_542">St. Andreas-im Herzogenhof zu Krems</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.4092 15.6141</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__krems-pfarre">
+     <location>
+      <geo decls="LatLng">48.4092 15.6141</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__krems-dominikaner">
+     <trait>
+      <label>Observance</label>
+      <desc>OP</desc>
+     </trait>
+     <location>
+      <geo decls="LatLng">48.4092 15.6141</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__krk-dioezese">
+     <location>
+      <geo decls="LatLng">45.0752 14.6169</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__laa-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_544">Laa-Pfarre</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.7119 16.3716</geo>
+     </location>
+    </org>
+    <org type="Spital_Siechenhaus" xml:id="org__laa-spital">
+     <location>
+      <geo decls="LatLng">48.7119 16.3716</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__lassee-pfarre">
+     <location>
+      <geo decls="LatLng">48.2331 16.8222</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__leiss-pfarre">
+     <location>
+      <geo decls="LatLng">NÖ</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__lavant-dioezese">
+     <location>
+      <geo decls="LatLng">46.7786 12.8403</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__lilienfeld-zisterzienser">
+     <trait>
+      <label>Observance</label>
+      <desc>OCist</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_547">Lilienfeld-Zisterzienser</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Zisterzienser</idno>
+     <location>
+      <geo decls="LatLng">48.0131 15.5966</geo>
+     </location>
+    </org>
+    <org type="Kloster_f" xml:id="org__mahrenberg-kloster">
+     <trait>
+      <label>Observance</label>
+      <desc>OP</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_549">Nonnenkloster Steiermark</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">49.7384 10.3532</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__mailberg-johanniter">
+     <trait>
+      <label>Observance</label>
+      <desc>Johanniter</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">Mailberg-Johanniter</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.6754 16.1840</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__mainz-erzdioezese">
+     <location>
+      <geo decls="LatLng">49.9841 8.2791</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__maria_enzersdorf-pfarre">
+     <location>
+      <geo decls="LatLng">48.1000 16.2833</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__maria_lanzendorf-pfarre">
+     <location>
+      <geo decls="LatLng">48.0962 16.4170</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__martirano-dioezese">
+     <location>
+      <geo decls="LatLng">39.0811 16.2482</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__mauerbach-kartaeuser">
+     <trait>
+      <label>Observance</label>
+      <desc>OCart</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">Mauerbach-Kartäuser</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Kartause_Mauerbach</idno>
+     <location>
+      <geo decls="LatLng">48.2529 16.1725</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__melk-benediktiner">
+     <trait>
+      <label>Observance</label>
+      <desc>OSB</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_553">Melk-Benediktiner</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.2273 15.3318</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__michaelbeuern-benediktiner">
+     <trait>
+      <label>Observance</label>
+      <desc>OSB</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_554">Michaelbeuern-Benediktiner</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.0166 13.0333</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__moedling-kapelle_auf_der_burg">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_555">Kapelle auf der Burg Mödling</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.0772 16.2826</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__moedling-pfarre">
+     <location>
+      <geo decls="LatLng">48.0772 16.2826</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__muehlbach-pfarre">
+     <location>
+      <geo decls="LatLng">46.7965 11.6675</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__neuberg-zisterzienser">
+     <trait>
+      <label>Observance</label>
+      <desc>OCist</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">Neuberg-Zisterzienser</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">47.1666 16.2500</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__neutra-dioezese">
+     <location>
+      <geo decls="LatLng">48.3076 18.0845</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__oppido_mamertina-dioezese">
+     <location>
+      <geo decls="LatLng">38.2933 15.9839</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__orth-pfarre">
+     <location>
+      <geo decls="LatLng">48.1452 16.7008</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__ottakring-kirche_st_lamprecht">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">Ottakring-Kirche St. Lamprecht</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.2166 16.3000</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__passau-domkapitel">
+     <location>
+      <geo decls="LatLng">48.5665 13.4312</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__passau-dioezese">
+     <persName>
+      <reg>Diözese Passau</reg>
+     </persName>
+     <location>
+      <geo decls="LatLng">48.5665 13.4312</geo>
+     </location>
+    </org>
+    <org type="Zeche_Bruderschaft" xml:id="org__perchtoldsdorf-zeche_unser_frauen">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_491">Perchtoldsdorf-Unser Frauen Zeche</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.1189 16.2573</geo>
+     </location>
+     <org type="Messe" xml:id="org__perchtoldsdorf-zeche_unser_frauen-messe_spiegler">
+      <orgName><reg source="QGW_II_II_register_pg_">Messstiftung von Michael Spiegler und seiner
+        Gem. Kunigunde</reg></orgName>
+     </org>
+    </org>
+    <org type="Pfarre" xml:id="org__perchtoldsdorf-pfarre">
+     <location>
+      <geo decls="LatLng">48.1189 16.2573</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__rainbach-pfarre">
+     <location>
+      <geo decls="LatLng">48.55803 14.47603</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__perlesreuth-pfarre">
+     <location>
+      <geo decls="LatLng">48.7818 13.4384</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__probstdorf-pfarre">
+     <location>
+      <geo decls="LatLng">48.1708 16.6164</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__raab-dioezese">
+     <location>
+      <geo decls="LatLng">48.3524 13.6469</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__regensburg-dioezese">
+     <location>
+      <geo decls="LatLng">49.0151 12.1016</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__rom-st_gerusalemme">
+     <location>
+      <geo decls="LatLng">41.8919 12.5113</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__rom-st_praxedis">
+     <location>
+      <geo decls="LatLng">41.8919 12.5113</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__ruprechtshofen-pfarre">
+     <location>
+      <geo decls="LatLng">48.1364 15.2767</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__salerno-erzdioezese">
+     <location>
+      <geo decls="LatLng">40.6754 14.7932</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__salzburg-erzdioezese">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">Salzburg-Erzdiözese</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">47.4166 /13.2500</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__salzburg-benediktiner">
+     <trait>
+      <label>Observance</label>
+      <desc>OSB</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_567">Salzburg-Benediktiner</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">47.4166 /13.2500</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__sassari-erzdioezese">
+     <location>
+      <geo decls="LatLng">40.7258 8.5555</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__schoenenwerd-chorherren">
+     <trait>
+      <label>Observance</label>
+      <desc>CanReg</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_570">Schönenwerd-Chorherren</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">47.3731 8.0095</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__schoenkirchen-pfarre">
+     <location>
+      <geo decls="LatLng">48.3590 16.6875</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__schwadorf-pfarre">
+     <location>
+      <geo decls="LatLng">48.0783 16.5718</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__seckau-dioezese">
+     <location>
+      <geo decls="LatLng">47.2802 14.7965</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__sedlec-zisterzienser">
+     <trait>
+      <label>Observance</label>
+      <desc>OCist</desc>
+     </trait>
+     <location>
+      <geo decls="LatLng">50.0021 13.4324</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__seitenstetten-benediktiner">
+     <trait>
+      <label>Observance</label>
+      <desc>OSB</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">Seitenstetten-Benediktiner</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.0185 14.6632</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__senftenberg-kapelle">
+     <location>
+      <geo decls="LatLng">48.4333 15.5500</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__sievering-kapelle">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">Sievering-Kapelle</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.2500 16.3333</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__soana-dioezese">
+     <location>
+      <geo decls="LatLng">42.6571 11.6450</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__st_bernhard-zisterzienserinnen">
+     <trait>
+      <label>Observance</label>
+      <desc>OCist</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">St. Bernhard-Zisterzienserinnen</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.6845 15.5966</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__st_margareten-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">St. Margareten_Pfarre</reg>
+     </orgName>
+    </org>
+    <org type="Kloster_m" xml:id="org__st_poelten-augustiner_chorherren">
+     <trait>
+      <label>Observance</label>
+      <desc>CanReg</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_496">St. Pölten-Augustinerchorherren</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.2000 15.6166</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__st_poelten-st_margarethe_kapelle">
+     <location>
+      <geo decls="LatLng">48.2000 15.6166</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__starrein-kapelle">
+     <location>
+      <geo decls="LatLng">48.7666 15.7666</geo>
+     </location>
+     <org type="Altar" xml:id="org__starrein-kapelle_altar-st_gilg">
+      <orgName><reg source="QGW_II_II_register_pg_">S. Gilgaltar </reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__starrein-kapelle_altar-st_gilg-messe_floit">
+      <orgName><reg source="QGW_II_II_register_pg_">Messstiftung Georg Floit</reg></orgName>
+     </org>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__tulbing-kirche">
+     <location>
+      <geo decls="LatLng">48.2794 16.1220</geo>
+     </location>
+    </org>
+    <org type="Kloster_f" xml:id="org__tulln-dominikanerinnen">
+     <trait>
+      <label>Observance</label>
+      <desc>OP</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_506">Tulln (NÖ)-Dominikanerinnen</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Dominikanerinnen</idno>
+     <location>
+      <geo decls="LatLng">48.3282 16.0585</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__tulln-minoriten">
+     <trait>
+      <label>Observance</label>
+      <desc>OFMConv</desc>
+     </trait>
+     <location>
+      <geo decls="LatLng">48.3282 16.0585</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__tulln-dominikaner">
+     <trait>
+      <label>Observance</label>
+      <desc>OP</desc>
+     </trait>
+     <location>
+      <geo decls="LatLng">48.3282 16.0585</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__tulln-frauenkirche">
+     <location>
+      <geo decls="LatLng">48.3282 16.0585</geo>
+     </location>
+     <org type="Zeche_Bruderschaft" xml:id="org__tulln-frauenkirche-zeche_frauen"/>
+    </org>
+    <org type="Spital_Siechenhaus" xml:id="org__tulln-spital">
+     <location>
+      <geo decls="LatLng">48.3282 16.0585</geo>
+     </location>
+    </org>
+    <org type="Spital_Siechenhaus" xml:id="org__tulln-st_sigmund_sondersiechenspital">
+     <location>
+      <geo decls="LatLng">48.3282 16.0585</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__venafro-dioezese">
+     <location>
+      <geo decls="LatLng">41.4827 14.0477</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__ostia_velletri-dioezese">
+     <location>
+      <geo decls="LatLng">41.6857 12.7775</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__dioezese-verissa">
+     <idno type="URI">https://de.wikipedia.org/wiki/Titularerzbistum_Verissa</idno>
+    </org>
+    <org type="Spital_Siechenhaus" xml:id="org__waidhofen_an_der_ybbs-buergerspital">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_583">Waidhofen a. d. Ybbs-Bürgerspital</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">47.9599 14.7743</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__weikersdorf-pfarre">
+     <location>
+      <geo decls="LatLng">48.4549 13.8800</geo>
+     </location>
+    </org>
+    <org type="Spital_Siechenhaus" xml:id="org__wien-buergerspital">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_501">Wiener Bürgerspital</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/B%C3%BCrgerspital</idno>
+     <location>
+      <geo decls="LatLng">48.2056 16.3681</geo>
+     </location>
+     <org type="Messe" xml:id="org__wien-buergerspital-messe_stadtschreiber">
+      <orgName><reg source="QGW_II_II_register_pg_501">Stadtschreibermesse</reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__wien-buergerspital-messe_spieglerin">
+      <orgName><reg source="QGW_II_II_register_pg_">Ewiger Jahrtag von Kunigunde
+       Spieglerin</reg></orgName>
+     </org>
+     <org type="Zeche" xml:id="org__wien-buergerspital-zeche_unser_frauen">
+      <orgName>
+       <reg>Unser-Frauen-Zeche im Wiener Bürgerspital</reg>
+      </orgName>
+     </org>
+    </org>
+    <org type="Kloster_f" xml:id="org__wien-st_niklas_vor_dem_stubentor_zisterzienserinnen">
+     <trait>
+      <label>Observance</label>
+      <desc>OCist</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_558">St. Niklas-vor dem Stubentor</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Nikolaikloster_(3)</idno>
+     <location>
+      <address>
+       <addrLine corresp="pl__wien-st_niklas_vor_dem_stubentor"/>
+      </address>
+     </location>
+     <org type="Altar"
+      xml:id="org__wien-st_niklas_vor_dem_stubentor_zisterzienserinnen-altar_st_niklas">
+      <orgName><reg source="QGW_II_II_register_pg_558">S. Niklasaltar </reg></orgName>
+     </org>
+     <org type="Messe"
+      xml:id="org__wien-st_niklas_vor_dem_stubentor_zisterzienserinnen-messe_peter_chorherr_von_st_stephan">
+      <orgName><orig>mess die weilent her Peter korherr zu Sand Steffan pharrer zu Wurnitz in Sand
+        Niclas kloster vor Stubentor gestifft hat</orig></orgName>
+     </org>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__wien-st_maria_im_rathaus">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_550">St. Maria-Kapelle im Rathaus</reg>
+     </orgName>
+     <location>
+      <address>
+       <addrLine corresp="pl__wiltwerkerstrasse"/>
+       <addrLine corresp="pl__st_maria_im_rathaus"/>
+      </address>
+     </location>
+     <org type="Altar" xml:id="org__wien-st_maria_im_rathaus-altar_st_leonhard">
+      <orgName><reg source="QGW_II_II_register_pg_550">S. Leonhardsaltar</reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__wien-st_maria_im_rathaus-messe_bettziehen">
+      <orgName><reg source="QGW_II_II_register_pg_550">Bettziehenmesse und ewiges
+       Licht</reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__wien-st_maria_im_rathaus-messe_reicholf">
+      <orgName><reg source="QGW_II_II_register_pg_550">Reicholfsche Messstiftung</reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__wien-st_maria_im_rathaus-messe_johann_nagel">
+      <orgName><reg source="QGW_II_II_register_pg_550">Messe von Johann Nagel</reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__wien-st_maria_im_rathaus-messe_heinrich_haller_von_nuernberg">
+      <orgName><reg source="QGW_II_I_register_pg_550">Messe von Heinrich Haller von
+       Nürnberg</reg></orgName>
+      <!-- falsch siehe Uhlirz -->
+     </org>
+     <org type="Messe" xml:id="org__wien-st_maria_im_rathaus-messe_stephan_poll">
+      <orgName><reg source="QGW_II_I_register_pg_550">Messe von Stephan Poll</reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__wien-st_maria_im_rathaus-messe_friedrich_von_ragelsdorf">
+      <orgName><reg source="QGW_II_I_register_pg_550">Messtiftung von Friedrich von
+       Ragelsdorf</reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__wien-st_maria_im_rathaus-messe_niklas_poll">
+      <orgName><reg source="QGW_II_I_register_pg_550">Messtiftung von Niklas Poll</reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__wien-st_maria_im_rathaus-messe_gevattern">
+      <orgName><reg source="QGW_II_I_register_pg_550">Gevattern-Messe</reg></orgName>
+     </org>
+    </org>
+    <org type="Kloster_m" xml:id="org__wien-minoriten">
+     <trait>
+      <label>Observance</label>
+      <desc>OFMConv</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_554">Minoriten</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Minoriten</idno>
+     <location>
+      <geo decls="LatLng">48.20931 16.36429</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__wien-augustiner_eremiten">
+     <trait>
+      <label>Observance</label>
+      <desc>OESA</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_488">Augustinereremiten</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.2052 16.3681</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__wien-dominikaner">
+     <trait>
+      <label>Observance</label>
+      <desc>OP</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_498">Dominikaner</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.2057 16.3672</geo>
+     </location>
+    </org>
+    <org type="Kloster_f" xml:id="org__wien-st_laurenz_am_alten_fleischmarkt">
+     <trait>
+      <label>Observance</label>
+      <desc>OP</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_545">St. Laurenz-am alten Fleischmarkt</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Laurenzergeb%C3%A4ude</idno>
+     <location>
+      <geo decls="LatLng">48.2105 16.3775</geo>
+     </location>
+     <org type="Altar" xml:id="org__wien-st_laurenz_am_alten_fleischmarkt-altar_st_johannes">
+      <orgName><reg>St. Johannes Altar</reg></orgName>
+     </org>
+    </org>
+    <org type="Kloster_f" xml:id="org__wien-st_jakob_auf_der_huelben">
+     <trait>
+      <label>Observance</label>
+      <desc>CanReg</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_530">St. Jakob-auf der Hülben</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien
+      (W).gv.at/St._Jakob_auf_der_H%C3%BClben_(1)</idno>
+     <location>
+      <geo decls="LatLng">48.2071 16.3775</geo>
+     </location>
+    </org>
+    <org type="Kloster_f" xml:id="org__wien-st_maria_magdalena_vor_dem_schottentor">
+     <trait>
+      <label>Observance</label>
+      <desc>OSMM</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_551">St. Maria Magdalena-vor dem Schottentor</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Maria-Magdalena-Kloster</idno>
+     <location>
+      <geo decls="LatLng">48.2160 16.3621</geo>
+     </location>
+     <org type="Altar" xml:id="org__wien-st_maria_magdalena_vor_dem_schottentor-altar_st_martha">
+      <orgName><reg source="QGW_II_I_register_pg_551">S. Marthenaltar</reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__wien-st_maria_magdalena_vor_dem_schottentor-messe_pogenstainer">
+      <orgName><reg source="QGW_II_II_register_pg_551">Pogenstainer-Messe</reg></orgName>
+     </org>
+     <org type="Messe"
+      xml:id="org__wien-st_maria_magdalena_vor_dem_schottentor-messe_heinrich_von_st_poelten">
+      <orgName><reg source="QGW_II_II_register_pg_551">Messe von Heinrich von St.
+       Poelten</reg></orgName>
+     </org>
+    </org>
+    <org type="Kloster_f" xml:id="org__wien-st_klara">
+     <trait>
+      <label>Observance</label>
+      <desc>OSCl</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_538">St. Klara</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Klarakloster</idno>
+     <location>
+      <geo decls="LatLng">48.2052 16.3694</geo>
+     </location>
+     <org type="Altar" xml:id="org__wien-st_klara-altar_neu">
+      <orgName><reg source="QGW_II_I_register_pg_538">Neuer Altar</reg></orgName>
+      <org type="Messe" xml:id="org__wien-st_klara-altar_neu-messe_pleintinger">
+       <orgName><reg source="QGW_II_I_register_pg_495">Pleintingermesse</reg></orgName>
+       <note>Siehe Regest 1173</note>
+      </org>
+     </org>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__wien-st_johann_in_der_kaerntnerstrasse">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_534">St. Johanneskapelle-in der Kärntnerstrasse</reg>
+     </orgName>
+    </org>
+    <org type="Kloster_m" xml:id="org__rein-zisterzienser">
+     <trait>
+      <label>Observance</label>
+      <desc>OCist</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_564">Rein-Zisterzienser</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Zisterzienser</idno>
+     <location>
+      <geo decls="LatLng">48.2096 16.3773</geo>
+     </location>
+    </org>
+    <org type="Kloster_m" xml:id="org__wien-schotten">
+     <trait>
+      <label>Observance</label>
+      <desc>OSB</desc>
+     </trait>
+     <orgName>
+      <reg source="QGW_II_I_register_pg_570">Schotten</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Schottenstift</idno>
+     <location>
+      <geo decls="LatLng">48.2122 16.3644</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__wien-st_martin_kapelle_bei_den_dominikanern">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_">St. Martinskapelle bei den Dominikanern</reg>
+     </orgName>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__wien-st_michael">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_553">St. Michael</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Michaelerkirche</idno>
+     <location>
+      <geo decls="LatLng">48.2081 16.3669</geo>
+     </location>
+     <org type="Messe" xml:id="org__wien-st_michael-messe_zergadmer_niklas"/>
+     <org type="Messe" xml:id="org__wien-st_michael-messe_prunner_leopold"/>
+     <org type="Messe" xml:id="org__wien-st_michael-messe_gelwaicz_niklas"/>
+     <org type="Messe" xml:id="org__wien-st_michael-messe_chienast_heinrich"/>
+     <org type="Messe" xml:id="org__wien-st_michael-messe_chremser_niklas"/>
+     <org type="Messe" xml:id="org__wien-st_michael-messe_gutauer_georg"/>
+     <org type="Messe" xml:id="org__wien-st_michael-messe_otto_der_furer"/>
+     <org type="Messe" xml:id="org__wien-st_michael-messe_jost_der_goldschmied"/>
+     <org type="Messe" xml:id="org__wien-st_michael-messe_staindlein"/>
+     <org type="Altar" xml:id="org__wien-st_michael-altar_st_andreas">
+      <orgName><reg source="QGW_II_I_register_pg_553">S. Andreasaltar</reg></orgName>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_michael-altar_st_jakob">
+      <orgName><reg source="QGW_II_II_register_pg_487">S. Jacobsaltar</reg></orgName>
+      <org type="Messe" xml:id="org__wien-st_michael-altar_st_jakob-messe_lorberer"/>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_michael-altar_st_georg_und_st_erasmus">
+      <orgName><reg source="QGW_II_III_register_pg_571">S. Georgs und S.
+       Erasmusaltar</reg></orgName>
+      <org type="Messe" xml:id="org__wien-st_michael-altar_st_georg_und_st_erasmus-messe_raklspurg">
+       <orgName><reg source="QGW_II_III_register_pg_571">Raklspurgmesse</reg></orgName>
+      </org>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_michael-altar_gottesleichnam">
+      <orgName><reg source="QGW_II_I_register_pg_553"/>Gottesleichnamsaltar</orgName>
+      <org type="Messe" xml:id="org__wien-st_michael-altar_gottesleichnam-messe_eslarn">
+       <orgName><orig>Elsarnmesse</orig></orgName>
+      </org>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_michael-altar_st_wolfgang">
+      <orgName><reg source="QGW_II_III_register_pg_571">St. Wolfgangs-Altar</reg></orgName>
+      <org type="Messe" xml:id="org__wien-st_michael-altar_st_wolfgang-messe_reichel">
+       <orgName><reg source="QGW_II_III_register_pg_571">Reichelmesse auf dem Letter</reg></orgName>
+      </org>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_michael-altar_heiligenkreuz">
+      <orgName><reg source="QGW_II_I_register_pg_553">Heiligenkreuzaltar</reg></orgName>
+     </org>
+     <org type="Zeche_Bruderschaft" xml:id="org__wien-st_michael-zeche_spielleute"/>
+     <org type="Zeche_Bruderschaft" xml:id="org__wien-st_michael-zeche_gottesleichnam"/>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__wien-st_margarethe_in_der_muenzerstraße">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_549">St. Margarethenkapelle in der Münzerstraße</reg>
+     </orgName>
+    </org>
+    <org type="Orden" xml:id="org__deutsche_herren">
+     <trait>
+      <label>Observance</label>
+      <desc>OT</desc>
+     </trait>
+     <orgName><reg>Deutsche Herren (Orden)</reg></orgName>
+     <note>Deutscher Orden</note>
+     <org type="Orden" xml:id="org__deutsche_herren-ballei_boehmen_und_maehren">
+      <trait>
+       <label>Observance</label>
+       <desc>OT</desc>
+      </trait>
+     </org>
+     <org type="Kloster_m" xml:id="org__wien-deutsche_herren">
+      <trait>
+       <label>Observance</label>
+       <desc>OT</desc>
+      </trait>
+      <orgName>
+       <reg source="QGW_II_I_register_pg_502">Deutsche Herren</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Deutscher_Orden#tab=Adressen</idno>
+      <location>
+       <geo decls="LatLng">48.2076 16.3736</geo>
+      </location>
+     </org>
+    </org>
+    <org type="Zeche_Bruderschaft" xml:id="org__wien-zeche_schuster">
+     <orgName>
+      <orig>Schusterzech zu Wienn</orig>
+     </orgName>
+    </org>
+    <org type="Zeche_Bruderschaft" xml:id="org__wien-zeche_binder">
+     <orgName>
+      <orig>Binderzeche zu Wienn</orig>
+     </orgName>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__wien-st_koloman-kapelle">
+     <orgName>
+      <reg>Kolomankirche</reg>
+      <reg>Kolomankapelle</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.wien.gv.at/Kolomankirche</idno>
+     <org type="Altar" xml:id="org__wien-st_koloman-altar_st_christoph">
+      <orgName>
+       <reg>St. Christoph-Altar</reg>
+      </orgName>
+     </org>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__wien-st_peter">
+     <orgName>
+      <reg source="QGW_II_II_register_pg_438">S. Peter (I. Bezirk)</reg>
+     </orgName>
+     <idno type="URI">https://de.wikipedia.org/wiki/Peterskirche_(Wien (W))</idno>
+     <location>
+      <geo decls="LatLng">48.2093 16.3695</geo>
+     </location>
+     <org type="Altar" xml:id="org__wien-st_peter-altar_st_bartholomaeus">
+      <orgName><reg source="QGW_II_II_register_pg_438">S. Bartholomäusaltar</reg></orgName>
+      <org type="Messe" xml:id="org__wien-st_peter-altar_st_bartholomaeus-messe_schrot">
+       <orgName><reg source="QGW_II_II_register_pg_438">Schrotmesse</reg></orgName>
+      </org>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_peter-altar_st_maria">
+      <orgName><reg source="QGW_II_I_register_pg_438">Frauenaltar</reg></orgName>
+      <org type="Messe" xml:id="org__wien-st_peter-altar_st_maria-messe_straiherin">
+       <orgName><reg source="QGW_II_I_register_pg_493">Messe der Straiherin</reg></orgName>
+      </org>
+      <org type="Messe" xml:id="org__wien-st_peter-altar_st_maria-messe_ras">
+       <orgName><reg source="QGW_II_I_register_pg_493">Rasstiftung</reg></orgName>
+      </org>
+      <org type="Messe" xml:id="org__wien-st_peter-altar_st_maria-messe_elsarn">
+       <orgName><reg source="QGW_II_II_register_pg_438">Eslarnmesse</reg></orgName>
+      </org>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_peter-altar_st_katharina">
+      <orgName><reg source="QGW_II_I_register_pg_493">St Katharinenaltar</reg></orgName>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_peter-altar_st_erhard">
+      <orgName><reg source="QGW_II_I_register_pg_493">St. Erhards Altar</reg></orgName>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_peter-kapelle_st_valentin">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_493">Valentinskapelle (St. Peter)</reg>
+       <idno type="URI">https://www.geschichtewiki.wien.gv.at/Valentinskapelle_(1)</idno>
+      </orgName>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_peter-altar_zehntausend_ritter_und_eilftausend_maid">
+      <orgName><reg source="QGW_II_I_register_pg_493">Zehntausend Ritter und Eilftausend Maid
+        Altar</reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__wien-st_peter-altar_st_maria-messe_chastner">
+      <orgName><reg source="QGW_II_I_register_pg_438">Chastnermesse</reg></orgName>
+     </org>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__wien-st_stephan">
+     <orgName>
+      <reg source="QGW_II_II_register_pg_506-509">St. Stephan</reg>
+     </orgName>
+     <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Stephansdom</idno>
+     <location>
+      <address>
+       <addrLine corresp="pl__wien-st_stephan"/>
+      </address>
+     </location>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_stephan-kapelle_st_katharina">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_508-509">St. Katharienkapelle (unter dem neuen Turme)</reg>
+      </orgName>
+      <org type="Altar" xml:id="org__wien-st_stephan-kapelle_st_katharina-altar_st_katharina">
+       <orgName>
+        <reg source="QGW_II_I_register_pg_508-509">St. Katharienkapelle (unter dem neuen
+         Turme)</reg>
+       </orgName>
+       <org type="Messe"
+        xml:id="org__wien-st_stephan-kapelle_st_katharina-altar_st_katharina-messe_hutstokch">
+        <orgName>
+         <reg source="QGW_II_I_register_pg_508-509">Hutstokchmesse</reg>
+        </orgName>
+       </org>
+      </org>
+     </org>
+     <org type="Kirche_Kapelle"
+      xml:id="org__wien-st_stephan-kapelle_st_erasmus_im_neuen_karner_auf_dem_st_stephansfriedhof">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_578">St. Erasmus im neuen Karner auf dem St.
+        Stephansfriedhof</reg>
+      </orgName>
+      <org type="Messe"
+       xml:id="org__wien-st_stephan-kapelle_st_erasmus_im_neuen_karner_auf_dem_st_stephansfriedhof-messe_schuerl">
+       <orgName><reg source="QGW_II_I_register_pg_578">Schürlmesse</reg></orgName>
+      </org>
+      <org type="Zeche_Bruderschaft"
+       xml:id="org__wien-st_stephan-kapelle_st_erasmus_im_neuen_karner_auf_dem_st_stephansfriedhof-zeche_schreiber">
+       <orgName>
+        <reg source="QGW_II_I_register_pg_571">Schreiberzeche auf dem Neuen Karner</reg>
+       </orgName>
+      </org>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_stephan-kapelle_st_achatius">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_484">Achatiuskapelle (St. Stephan)</reg>
+       <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Achatiuskapelle</idno>
+       <location>
+        <geo decls="LatLng">48.2092 16.3732</geo>
+       </location>
+      </orgName>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_stephan-kapelle_tierna">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_578">Tiernakapelle, geweiht zu Ehren des hl. Morandus (St.
+        Stephan)</reg>
+       <idno type="URI"/>
+       <location>
+        <geo/>
+       </location>
+      </orgName>
+      <org type="Messe" xml:id="org__wien-st_stephan-kapelle_tierna-messe_tierna">
+       <orgName><reg>Tiernamesse</reg></orgName>
+      </org>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_stephan-kapelle_herzog">
+      <orgName>
+       <reg source="QGW_II_II_register_pg_508">Herzogskapelle (St. Stephan)</reg>
+       <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Eligiuskapelle</idno>
+       <location>
+        <geo decls="LatLng">48.2087 16.3726</geo>
+       </location>
+      </orgName>
+      <org type="Altar" xml:id="org__wien-st_stephan-kapelle_herzog-altar_st_blasius">
+       <orgName><reg>Blasienaltar</reg></orgName>
+       <org type="Messe" xml:id="org__wien-st_stephan-kapelle_herzog-altar_st_blasius-messe_graf">
+        <orgName><reg source="QGW_II_II_register_pg_508">Grafmesse</reg></orgName>
+       </org>
+       <org type="Messe"
+        xml:id="org__wien-st_stephan-kapelle_herzog-altar_st_blasius-messe_poschin_dorothea">
+        <orgName><reg>Messe Dorothea die Poschin</reg></orgName>
+       </org>
+      </org>
+     </org>
+     <org type="Zeche_Bruderschaft" xml:id="org__wien-st_stephan-zeche_st_markus_kaufleute">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_578">St. Markuszeche der Kaufleute (St. Stephan)</reg>
+      </orgName>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_stephan-altar_allerheiligen">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_577">Allerheiligenaltar</reg>
+      </orgName>
+      <org type="Messe" xml:id="org__wien-st_stephan-altar_allerheiligen-messe_sindram">
+       <orgName>
+        <reg source="QGW_II_I_register_pg_577">Sindrammesse</reg>
+        <reg source="QGW_II_II_register_pg_577">Meese der Syndramin</reg>
+       </orgName>
+      </org>
+      <org type="Messe" xml:id="org__wien-st_stephan-altar_allerheiligen-messe_chessler">
+       <orgName>
+        <reg>Messe Heinrich Chessler</reg>
+       </orgName>
+      </org>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_stephan-altar_zwoelfapostel">
+      <orgName>
+       <reg source="QGW_II_II_register_pg_506">Zwölfbotenaltar</reg>
+       <reg source="QGW_II_II_register_pg_506">Apostelaltar</reg>
+       <reg>Zwölfapostelaltar</reg>
+      </orgName>
+      <org type="Messe" xml:id="org__wien-st_stephan-altar_zwoelfapostel-messe_sirfeier">
+       <orgName><reg source="QGW_II_II_register_pg_507">Sirfeiermesse</reg></orgName>
+      </org>
+      <org type="Messe" xml:id="org__wien-st_stephan-altar_zwoelfapostel-messe_ybbs">
+       <orgName><reg source="QGW_II_II_register_pg_507">Ybbsmesse</reg></orgName>
+      </org>
+      <org type="Messe" xml:id="org__wien-st_stephan-altar_zwoelfapostel-messe_reidegker">
+       <orgName><reg source="QGW_II_II_register_pg_507">Reidegkermesse</reg></orgName>
+      </org>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_stephan-altar_dreikoenige">
+      <orgName><reg source="QGW_II_I_register_pg_578">Dreikönigsaltar</reg></orgName>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_stephan-altar_frauen">
+      <orgName><reg source="QGW_II_I_register_pg_578">Frauenaltar / Marienaltar</reg></orgName>
+      <org type="Messe" xml:id="org__wien-st_stephan-altar_frauen-jahrtag_johann_auf_der_saeule">
+       <orgName><reg source="QGW_II_I_register_pg_578">Jahrtag des Johann auf der Säule, unter
+         Aufsicht des Kirchmeister Jakob Echrer, QGW II I 1219-20 </reg></orgName>
+      </org>
+      <org type="Messe" xml:id="org__wien-st_stephan-altar_frauen-messe_albertinus_bucharzt">
+       <orgName><orig>Messe Albertinus der pucharczt</orig></orgName>
+      </org>
+      <org type="Messe" xml:id="org__wien-st_stephan-altar_frauen-messe_flusthart">
+       <orgName><reg source="QGW_II_II_register_pg_507">Flusthartmesse</reg></orgName>
+      </org>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_stephan-altar_st_dorothea">
+      <orgName><reg source="QGW_II_I_register_pg_577">St. Dorotheenaltar</reg></orgName>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_stephan-altar_st_markus">
+      <orgName><reg source="QGW_II_I_register_pg_577">St. Markusaltar</reg></orgName>
+      <org type="Messe" xml:id="org__wien-st_stephan-altar_st_markus-messe_kaufleute">
+       <orgName><reg source="QGW_II_I_register_pg_577">Ewige Kaufleutemesse auf dem
+         Markusaltar</reg></orgName>
+      </org>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_stephan-kapelle_st_sigmund_und_st_wolfgang">
+      <orgName><reg source="QGW_II_II_register_pg_578">St. Sigmunds- und
+       Wolfgangskapelle</reg></orgName>
+      <note>Kapelle oder Altar???</note>
+      <org type="Messe"
+       xml:id="org__wien-st_stephan-kapelle_st_sigmund_und_st_wolfgang-messe_wuerfel">
+       <orgName><reg source="QGW_II_II_register_pg_578">Würfelmesse</reg></orgName>
+      </org>
+     </org>
+     <org type="Altar" xml:id="org__st_stephan-altar_fron">
+      <orgName><reg source="QGW_II_I_register_pg_578">Fronaltar</reg></orgName>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_stephan-altar_st_martin">
+      <orgName><reg source="QGW_II_I_register_pg_578">St. Martinaltar</reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__wien-st_stephan-altar_st_martin-messe_chranvogel">
+      <orgName><reg source="QGW_II_I_register_pg_507">Chranvogelmesse</reg></orgName>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_stephan-altar_st_veit">
+      <orgName><reg source="QGW_II_II_register_pg_507">Veitsaltar</reg></orgName>
+      <org type="Messe" xml:id="org__wien-st_stephan-altar_st_veit-messe_kienmarkt">
+       <orgName><reg source="QGW_II_II_register_pg_507">Kienmarktmesse</reg></orgName>
+      </org>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_stephan-altar_st_ulrich">
+      <orgName><reg source="QGW_II_II_register_pg_578">Ulrichsaltar</reg></orgName>
+      <org type="Messe" xml:id="org__wien-st_stephan-altar_st_ulrich-messe_fuechsel">
+       <orgName><reg source="QGW_II_II_register_pg_507">Füchselmesse</reg></orgName>
+      </org>
+      <org type="Messe" xml:id="org__wien-st_stephan-altar_st_ulrich-messe_graf">
+       <orgName><reg source="QGW_II_II_register_pg_578">Grafenmesse</reg></orgName>
+      </org>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_stephan-altar_st_katharina">
+      <orgName><reg source="QGW_II_II_register_pg_578">Katharinaaltar</reg></orgName>
+      <org type="Messe" xml:id="org__wien-st_stephan-altar_st_katharina-messe_kurzmann">
+       <orgName><reg source="QGW_II_II_register_pg_508">Kurzmannmesse</reg></orgName>
+      </org>
+     </org>
+     <org type="Altar" xml:id="org__wien-st_stephan-altar_st_margarethe">
+      <orgName><reg source="QGW_II_II_register_pg_578">St. Margarethenaltar</reg></orgName>
+      <org type="Messe" xml:id="org__wien-st_stephan-altar_st_margarethe-messe_urbetsch">
+       <orgName><reg source="QGW_II_II_register_pg_578">Urbetschmesse</reg></orgName>
+      </org>
+     </org>
+     <org type="Messe" xml:id="org__wien-st_stephan-messe_atzenbrugger">
+      <orgName><reg source="QGW_II_II_register_pg_508">Atzenbruggermesse</reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__wien-st_stephan-messe_purkhartsperger_heinrich">
+      <orgName><reg source="QGW_II_III_register_pg_508">Messe und Kaplaneistat des Heinrich
+        Purkharsperger</reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__wien-st_stephan-messe_nussdorfer_georg">
+      <orgName><orig>kaplaneystat, die Jorg Nustorffer dacz Sand Steffan zu Wienn gestifft
+        hat</orig></orgName>
+     </org>
+     <org type="Messe" xml:id="org__st_stephan-messe_geukramer">
+      <orgName><reg source="QGW_II_II_register_pg_508">Geukramermesse</reg></orgName>
+     </org>
+     <org type="Messe" xml:id="org__wien-st_stephan-messe_guelher">
+      <orgName><reg source="QGW_II_II_register_pg_578">Guelhermesse</reg></orgName>
+      <org type="Messe" xml:id="org__wien-st_stephan-messe_urbetsch">
+       <orgName><reg>Urbetschmesse</reg></orgName>
+       <org type="Messe" xml:id="org__wien-st_stephan-messe_niklas_von_leiss">
+        <orgName><reg source="QGW_II_II_register_pg_578">Messe Niklas von Leiss</reg></orgName>
+       </org>
+       <org type="Messe" xml:id="org__wien-st_stephan-messe_eberhard_chastner">
+        <orgName><reg source="QGW_II_II_register_pg_">Messe von Eberhard Chastner,
+          QGW_II_I_1473</reg></orgName>
+       </org>
+      </org>
+      <org type="Messe" xml:id="org__wien-st_stephan-messe_stainpekch">
+       <orgName><reg source="QGW_II_II_register_pg_578">Stainpekchmesse</reg></orgName>
+      </org>
+      <!-- Eine 2. Strobeinmesse bei Rathauskapelle St. Maria-->
+      <org type="Messe" xml:id="org__wien-st_stephan-messe_strobein">
+       <orgName><reg source="QGW_II_II_register_pg_578">Strobeinmesse</reg></orgName>
+      </org>
+      <org type="Messe" xml:id="org__wien-st_stephan-kaplanei_georg_nussdorfer">
+       <orgName><reg source="QGW_II_II_register_pg_578">Kaplanei Georg Nussdorfer</reg></orgName>
+      </org>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_ruprecht_kapelle">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_566">St.-Ruprechtskapelle</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Ruprechtskirche</idno>
+      <location>
+       <geo decls="LatLng">48.2119 16.3744</geo>
+      </location>
+      <org type="Messe" xml:id="org__wien-st_ruprechtskapelle-messe_ansmalz">
+       <orgName><reg source="QGW_II_II_register_pg_566">Ansmalzmesse</reg></orgName>
+       <note>Nicht bei Uhlirz, aber in No. 1262 QGW_II_I</note>
+      </org>
+      <org type="Altar" xml:id="org__wien-st_ruprechtskapelle-altar_st_maria">
+       <orgName><reg source="QGW_II_III_register_pg_581">Frauenaltar</reg></orgName>
+      </org>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-allerheiligen_kapelle_in_der_burg">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_500">Allerheiligenkapelle in der Burg</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien
+       (W).gv.at/Allerheiligenkapelle_(1,_Hofburg)</idno>
+      <location>
+       <geo decls="LatLng">48.2056 16.3646</geo>
+      </location>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_johann_in_der_burg">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_500">Unser Frauen- und Johanneskapelle in der Burg</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.wien.gv.at/Johanneskapelle_(1,_Am_Hof)</idno>
+      <location>
+       <geo decls="LatLng">48.2056 16.3646</geo>
+      </location>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_johann_in_der_siechenals">
+      <orgName>
+       <reg source="QGW_II_II_register_pg_470">St. Johannes in der Siechenals</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Johannes_in_der_Siechenals</idno>
+      <location>
+       <geo decls="LatLng">48.2213 16.3536</geo>
+      </location>
+      <org type="Altar" xml:id="org__wien-st_johann_in_der_siechenals-altar_st_maria">
+       <orgName>
+        <reg source="QGW_II_II_register_pg_470">Unser Frauen Altar</reg>
+       </orgName>
+       <org type="Altar" xml:id="org__wien-st_johann_in_der_siechenals-altar_st_maria-messe_flekch">
+        <orgName>
+         <reg source="QGW_II_II_register_pg_470">Flekchmesse</reg>
+        </orgName>
+       </org>
+      </org>
+     </org>
+     <org type="Spital_Siechenhaus" xml:id="org__wien-st_hiob_zum_klagbaum">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_538">St. Hiob-zum Klagbaum</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Zum_Klagbaum</idno>
+      <location>
+       <geo decls="LatLng">48.1915 16.3660</geo>
+      </location>
+      <org type="Zeche_Bruderschaft" xml:id="org__wien-st_hiob_zum_klagbaum-zeche_st_maria">
+       <orgName>
+        <reg source="QGW_II_I_register_pg_538">Frauenzeche</reg>
+        <orig>Unser Frawn zech</orig>
+       </orgName>
+      </org>
+     </org>
+     <org type="Spital_Siechenhaus" xml:id="org__wien-st_lazarus_siechenhaus">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_545, 551">St. Lazarus-Siechenhaus (St. Marx)</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien
+       (W).gv.at/Spital_zu_St._Marx#tab=Adressen</idno>
+      <location>
+       <geo decls="LatLng">48.1897 16.4011</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__hernals-pfarre">
+      <org type="Kirche_Kapelle" xml:id="org__hernals-st_bartholomaeus">
+       <orgName>
+        <reg source="QGW_II_I_register_pg_">Hernals-Pfarre St. Bartholomäus</reg>
+       </orgName>
+       <idno type="URI">https://www.geschichtewiki.Wien
+        (W).gv.at/Hernalser_Kirche#tab=Adressen</idno>
+       <location>
+        <geo decls="LatLng">48.2171 16.3319</geo>
+       </location>
+      </org>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_maria_am_gestade">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_550">Marienkapelle am Gestade, auf der Stetten</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Maria_am_Gestade</idno>
+      <location>
+       <geo decls="LatLng">48.2128 16.3705</geo>
+      </location>
+      <org type="Messe" xml:id="org__wien-st_maria_am_gestade-messe_niklas_chlokcher"> </org>
+      <org type="Messe" xml:id="org__wien-org__marienkapelle_am_gestade-messe_lichtenstein">
+       <orgName><reg source="QGW_II_I_register_pg_550">Ewiges Frühamt und Selgret von Johann von
+         Lichtenstein von Nikolsburg und seinen Brüdern Gnaemhertel</reg></orgName>
+      </org>
+      <org type="Altar" xml:id="org__wien-st_maria_am_gestade-altar_elftausend_jungfrauen"/>
+      <org type="Altar" xml:id="org__wien-st_maria_am_gestade-altar_st_johannis_baptist">
+       <orgName>
+        <reg source="QGW_II_I_register_pg_550">St. Johannis Baptist-Altar</reg>
+       </orgName>
+      </org>
+      <org type="Messe" xml:id="org__wien-st_maria_am_gestade-altar_st_johannis_baptist-messe_zotl"/>
+      <org type="Messe" xml:id="org__wien-st_maria_am_gestade-messe_bettziechen"/>
+      <org type="Altar" xml:id="org__wien-st_maria_am_gestade-altar_st_andreas_und_maria_magdalena">
+       <orgName>
+        <reg source="QGW_II_I_register_pg_550">St. Andreas und Maria Magdalena-Altar</reg>
+       </orgName>
+      </org>
+      <org type="Messe"
+       xml:id="org__wien-st_maria_am_gestade-altar_st_andreas_und_maria_magdalena-messe_zotl"> </org>
+      <org type="Messe" xml:id="org__wien-st_maria_am_gestade-altar_st_hieronymus-messe_strobein">
+       <orgName><reg source="QGW_II_I_register_pg_550">Strobein-Messe</reg></orgName>
+      </org>
+      <org type="Messe" xml:id="org__wien-st_maria_am_gestade-altar_st_hieronymus-messe_grinzing">
+       <orgName><reg source="QGW_II_II_register_pg_485">Grinzingmesse</reg></orgName>
+      </org>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_agnes_auf_der_himmelpforte">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_528">St. Agnes-auf der Himmelpforte</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Himmelpfortkloster</idno>
+      <location>
+       <geo decls="LatLng">48.2057 16.3725</geo>
+      </location>
+      <org type="Altar" xml:id="org__wien-st_agnes_auf_der_himmelpforte-altar_dreikoenige">
+       <orgName><reg source="QGW_II_II_register_pg_467">Dreikönigsaltar</reg></orgName>
+      </org>
+      <org type="Altar" xml:id="org__wien-st_agnes_auf_der_himmelpforte-altar_kreuz">
+       <orgName><reg source="QGW_II_II_register_pg_467">Kreuzaltar</reg></orgName>
+      </org>
+      <org type="Altar" xml:id="org__wien-st_agnes_auf_der_himmelpforte-altar_st_paul">
+       <orgName><reg source="QGW_II_I_register_pg_528" type="norm">St. Paulsaltar</reg></orgName>
+      </org>
+      <org type="Messe"
+       xml:id="org__wien-st_agnes_auf_der_himmelpforte-altar_st_paul-messe_gnaemhertel">
+       <orgName><reg source="QGW_II_II_register_pg_528">Messe von Friedrich von
+        Gnaemhertel</reg></orgName>
+      </org>
+     </org>
+     <org type="Universität" xml:id="org__wien-universitaet">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_">Universität Wien (W)</reg>
+       <orig>Magister und Scholaren der Universität Wien (W)</orig>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Universit%C3%A4t_Wien
+       (W)_(Institution)</idno>
+      <location>
+       <geo decls="LatLng">48.2090 16.3772</geo>
+      </location>
+     </org>
+     <org type="Spital_Siechenhaus" xml:id="org__wien-heiligengeistspital">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_525">Heiligengeistspital</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Heiligengeistspital</idno>
+      <location>
+       <geo decls="LatLng">48.1995 16.3701</geo>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__wien-waagimmo_auf_dem_haarmarkt">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_583">Waaghaus-auf dem Haarmarkt</reg>
+      </orgName>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_georg_kapelle_bei_den_schotten">
+      <orgName>
+       <reg source="QGW_II_II_register_pg_447">St. Georgskapelle-bei den Schotten</reg>
+       <add>im Domprobsthof</add>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Freisinger_Hof</idno>
+      <org type="Kirche_Kapelle" xml:id="org__wien-st_georg_kapelle_bei_den_schotten-altar_frauen">
+       <orgName>
+        <orig>Frauenaltar (St. Maria)</orig>
+       </orgName>
+       <org type="Kirche_Kapelle"
+        xml:id="org__wien-st_georg_kapelle_bei_den_schotten-altar_frauen-messe_leubman_jakob">
+        <orgName>
+         <orig>Messe Jakob Leubman</orig>
+        </orgName>
+       </org>
+      </org>
+     </org>
+     <org type="Kloster_m" xml:id="org__st_lambrecht-benediktiner">
+      <trait>
+       <label>Observance</label>
+       <desc>OSB</desc>
+      </trait>
+      <orgName>
+       <reg source="QGW_II_I_register_pg_">St. Lambrecht-Benediktiner</reg>
+      </orgName>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_andreas_kapelle_im_gereut">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_">St. Andreaskapelle im Gereut</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Haimonen</idno>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_philipp_und_st_jakob_kapelle">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_494">St. Philipps- und Jakobskapelle</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien
+       (W).gv.at/Philipp-_und_Jakob-Kapelle_(1)</idno>
+      <org type="Altar" xml:id="org__wien-st_philipp_und_st_jakob_kapelle-altar_st_maria">
+       <orgName><reg source="QGW_II_II_register_pg_494">Frauenaltar</reg></orgName>
+       <org type="Messe"
+        xml:id="org__wien-st_philipp_und_st_jakob_kapelle-altar_st_maria-messe_leonhard_poll_QGW_II_I_889_a">
+        <orgName><reg source="QGW_II_II_register_pg_494">Messe von Leonhard Poll</reg></orgName>
+       </org>
+       <org type="Messe"
+        xml:id="org__wien-st_philipp_und_st_jakob_kapelle-altar_st_maria-messe_leonhard_poll_QGW_II_I_889_b">
+        <orgName><reg source="QGW_II_II_register_pg_494">Messe von Leonhard Poll</reg></orgName>
+       </org>
+       <org type="Messe"
+        xml:id="org__wien-st_philipp_und_st_jakob_kapelle-altar_st_maria-messe_siegfried_poll">
+        <orgName><reg source="QGW_II_II_register_pg_494">Messe von Siegfried Poll</reg></orgName>
+       </org>
+      </org>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_anton_auf_der_wieden">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_487">St. Anton-Kapelle auf der Wieden</reg>
+      </orgName>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-dreifaltigkeitskapelle">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_505">Dreifaltigkeitskapelle</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien
+       (W).gv.at/Dreifaltigkeitskapelle_(1,_Judengasse_10-12)</idno>
+      <location>
+       <geo decls="LatLng">48.2118 16.3739</geo>
+      </location>
+      <org type="Altar" xml:id="org__wien-dreifaltigkeitskapelle-altar_st_jakob">
+       <orgName/>
+      </org>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_pankraz">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_">St. Pankrazkapelle</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Pankrazkapelle</idno>
+      <location>
+       <geo decls="LatLng">48.2106 16.3671</geo>
+      </location>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_johann_im_muenzhof">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_">St. Johanneskapelle im Münzhof</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Hauptm%C3%BCnzamt</idno>
+      <location>
+       <geo decls="LatLng">48.2037 16.3829</geo>
+      </location>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_niklas_dacz_den_roeren">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_558">St. Niklaskapelle dacz den Rören (im Hause Konrad
+        Chrannest)</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Niklaskapelle</idno>
+      <location>
+       <geo decls="LatLng">48.2102 16.3693</geo>
+      </location>
+     </org>
+     <org type="Kirche_Kapelle"
+      xml:id="org__wien-st_thomas_kapelle_im_hause_bertholds_des_pollen_in_der_muenzerstraße">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_">St. Thomas Kapelle im Hause Bertholds des Pollen in der
+        Münzerstraße</reg>
+      </orgName>
+     </org>
+     <org type="Stadt" xml:id="org__wien">
+      <orgName>
+       <reg>Wien</reg>
+       <note>Bürgermeister, Rat (und Gemein)</note>
+      </orgName>
+      <location>
+       <address>
+        <addrLine corresp="pl__wien"/>
+       </address>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__linz">
+      <orgName>
+       <reg>Linz</reg>
+       <note>Bürgermeister, Rat (und Gemein)</note>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__lindau">
+      <orgName>
+       <reg>Lindau</reg>
+       <note>Bürgermeister, Rat (und Gemein)</note>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__korneuburg">
+      <orgName>
+       <reg>Korneuburg</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__enns">
+      <orgName>
+       <reg>Enns</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__stein">
+      <orgName>
+       <reg>Stein</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.40163 15.58102</geo>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__klosterneuburg">
+      <orgName>
+       <reg>Bürgermeister Rat und Bürger</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Kloster_m" xml:id="org__wien-karmeliter">
+      <trait>
+       <label>Observance</label>
+       <desc>OCarm</desc>
+      </trait>
+      <orgName>
+       <reg source="QGW_II_I_register_pg_">Karmeliter-Weissenbrüder</reg>
+      </orgName>
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Karmeliten</idno>
+      <location>
+       <geo decls="LatLng">48.2109 16.3682</geo>
+      </location>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_niklas_vor_stubentor_kapelle">
+      <orgName><reg>armer alter St. Niklas (außerhalb d. Klosters)</reg></orgName>
+      <idno type="URI">https://www.geschichtewiki.wien.gv.at/Nikolaikirche_(3)</idno>
+      <location>
+       <geo/>
+      </location>
+      <org type="Altar" xml:id="org__wien-st_niklas_vor_stubentor_kapelle-altar_fron">
+       <orgName><reg source="QGW_II_II_register_pg_558">Fronaltar</reg></orgName>
+       <org type="Messe"
+        xml:id="org__wien-st_niklas_vor_stubentor_kapelle-altar_fron-messe_otto_mayr">
+        <orgName><reg source="QGW_II_II_register_pg_558">Messe von Otto Mayr</reg></orgName>
+       </org>
+      </org>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_niklas_in_der_deutschherrengasse">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_558">St. Niklaskapelle in der Deutschherrenstrasse, auf dem
+        Anger, Elftausendmaidaltar</reg>
+      </orgName>
+      <idno type="URI"/>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Zeche_Bruderschaft" xml:id="org__wien-zeche_bader"/>
+     <org type="Kirche_Kapelle" xml:id="org__wien-gottesleichnam_kapelle_vor_dem_werdertor">
+      <org type="Messe" xml:id="org__wien-gottesleichnam_kapelle_vor_dem_werdertor-messe_stettner">
+       <orgName><reg source="QGW_II_II_register_pg_518">Messe von Ulrich Stettner
+         (QGW_II_I_1084)</reg></orgName>
+      </org>
+     </org>
+     <org type="Kloster_f" xml:id="org__wien-st_hieronymus">
+      <trait>
+       <label>Observance</label>
+       <desc>OSMM</desc>
+      </trait>
+      <idno type="URI">https://www.geschichtewiki.Wien
+       (W).gv.at/B%C3%BC%C3%9Ferinnenkloster_zu_St._Hieronymus</idno>
+      <location>
+       <geo decls="LatLng">48.2062 16.3744</geo>
+      </location>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_hieronymus_kapelle">
+      <idno type="URI"/>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Spital_Siechenhaus" xml:id="org__wien-st_martin_vor_dem_widmertor">
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Martinspital</idno>
+      <location>
+       <geo decls="LatLng">48.2025 16.3621</geo>
+      </location>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_dorothea_kapelle">
+      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Dorotheerkloster_(1)</idno>
+      <location>
+       <geo decls="LatLng">48.2067 16.3693</geo>
+      </location>
+     </org>
+     <org type="Kloster_m" xml:id="org__wien-zisterzienser">
+      <trait>
+       <label>Observance</label>
+       <desc>OCist</desc>
+      </trait>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wilfleinsdorf-kirche">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_">Wilfleinsdorf-Kirche</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.0166 16.7166</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__wullersdorf-pfarre">
+      <location>
+       <geo decls="LatLng">48.6349 16.1166</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__stamhaim-pfarre">
+      <orgName><reg source="QGW_II_II_register_pg_505">Stamhaim</reg>
+       <orig>Stainhaim</orig></orgName>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__gars-pfarre">
+      <orgName><reg>Gars</reg>
+       <orig>Gars</orig></orgName>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__mannswoerth-pfarre">
+      <orgName><reg source="QGW_II_I_register_pg_549">Mannswörth (NÖ)</reg>
+       <orig>Manswerd</orig></orgName>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__fischamend-pfarre">
+      <location>
+       <geo decls="LatLng">48.11573, 16.61395</geo>
+      </location>
+     </org>
+     <org type="Kloster_f" xml:id="org__ybbs-zisterzienserinnen">
+      <trait>
+       <label>Observance</label>
+       <desc>OCist</desc>
+      </trait>
+      <orgName>
+       <reg source="QGW_II_I_register_pg_531">Ybbs-Zisterzienserinnenkloster</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.1770 15.0783</geo>
+      </location>
+     </org>
+     <org type="Kloster_m" xml:id="org__zwettl-zisterzienser">
+      <trait>
+       <label>Observance</label>
+       <desc>OCist</desc>
+      </trait>
+      <location>
+       <geo decls="LatLng">48.6166 15.2000</geo>
+      </location>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__wien-st_ulrich">
+      <idno type="URI">https://www.geschichtewiki.wien.gv.at/St._Ulrich_(Vorstadt)</idno>
+      <orgName>
+       <reg source="QGW_II_I_register_pg_531">St. Ulrich Wien</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Kloster_m" xml:id="org__raab-dominikaner">
+      <idno/>
+      <orgName>
+       <reg source="QGW_II_I_register_pg_562">Raab Prediger</reg>
+      </orgName>
+      <trait>
+       <label>Observance</label>
+       <desc>OP</desc>
+      </trait>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__krems">
+      <orgName>
+       <reg>Krems</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.40921 15.61415</geo>
+      </location>
+     </org>
+     <org type="Kloster_f" xml:id="org__goettweig-benediktinerinnen">
+      <idno/>
+      <orgName>
+       <reg source="FRA_II_55_register_pg_536">Göttweig-Benediktinerinnen</reg>
+      </orgName>
+      <trait>
+       <label>Observance</label>
+       <desc>OSB</desc>
+      </trait>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Kloster_m" xml:id="org__kleinmariazell-benediktiner">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_598">Kleinmariazell Benediktiner</reg>
+      </orgName>
+      <trait>
+       <label>Observance</label>
+       <desc>OSB</desc>
+      </trait>
+      <location>
+       <geo decls="LatLng">48.03597 15.97412</geo>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__mautern">
+      <orgName>
+       <reg>Mautern</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.39319 15.57793</geo>
+      </location>
+     </org>
+     <!-- Anlegen von Organisationen, die keine Städte sind, aber ähnliche Ämter (z.B. Richter) aufweisen -->
+     <org type="Gemeinde" xml:id="org__palt-gemeinde">
+      <orgName>
+       <reg>Palt</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.38464 15.6138</geo>
+      </location>
+     </org>
+     <org type="pfarre" xml:id="org__prunn-pfarre">
+      <orgName>
+       <reg>Prunn</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Gemeinde" source="QGW_II_III_register_pg_579" xml:id="org__riegersburg-gemeinde">
+      <orgName>
+       <reg>Reigersburg (Steiermark)</reg>
+       <orig>Rakerspurg</orig>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__weikendorf-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_731">Weikendorf-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.34438 16.76651</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__nalb-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_652">Nalb-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__kilb-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_596">Kilb-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.10101 15.4085</geo>
+      </location>
+      <org type="Kirche_Kapelle" xml:id="org__kilb-st_simon_und_st_judas_kirche">
+       <orgName><reg source="FRA_II_55_register_pg_596">Kirche zu den hl. Simon und
+        Judas</reg></orgName>
+      </org>
+     </org>
+     <org type="Pfarre" xml:id="org__goettweig-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_537">Göttweig-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.35 15.61667</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__kottes-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_606">Kottes-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.41667 15.3</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__pottenstein-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_472">Pottenstein-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">47.95852 16.05651</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__nappersdorf-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_653">Nappersdorf-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.61667 16.18333</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__plank-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_466">Plank-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.55723 15.68669</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__gross-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_550">Groß-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.57194 15.99</geo>
+      </location>
+      <org type="Kirche_Kapelle" xml:id="org__gross-kirche_st_veit">
+       <orgName><reg source="FRA_II_55_register_pg_550">Groß-Veitskirche</reg></orgName>
+      </org>
+     </org>
+     <org type="Pfarre" xml:id="org__frauendorf-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_516">Frauendorf-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.56667 15.93333</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__rohrbach-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_681">Rohrbach-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.06179 15.74976</geo>
+      </location>
+      <note>an der Gölsen</note>
+     </org>
+     <org type="Pfarre" xml:id="org__guntramsdorf-pfarre">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_521-522">Guntramsdorf-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+      <note/>
+     </org>
+     <org type="Pfarre" xml:id="org__dornbach-pfarre">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_504-505">Dornbach-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+      <note/>
+     </org>
+     <org type="Gemeinde" xml:id="org__perchtoldsdorf">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_491-492">Perchtoldsorf</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+      <note/>
+     </org>
+     <org type="Gemeinde" xml:id="org__poetzleinsdorf">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_498">Pötzleinsdorf</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+      <note/>
+     </org>
+     <org type="Reich" xml:id="org__heiliges_roemisches_reich">
+      <orgName>
+       <reg>Heilige Römische Reich</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+      <note/>
+     </org>
+     <org type="Stadt" xml:id="org__hardegg">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_523">Hardegg</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+      <note/>
+     </org>
+     <org type="Stadt" xml:id="org__magdeburg">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_548">Magdeburg</reg>
+       <orig>Maidburg</orig>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+      <note/>
+     </org>
+     <org type="Stadt" xml:id="org__regensburg">
+      <orgName><reg>Regensburg</reg></orgName>
+      <location>
+       <geo decls="LatLng">49.0151 12.1016</geo>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__oberranna-gemeinde">
+      <orgName>
+       <reg>Oberranna</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.38333 15.35</geo>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__kottes-gemeinde">
+      <orgName>
+       <reg>Kottes</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.41667 15.3</geo>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__passau">
+      <orgName>
+       <reg>Passau</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.5665 13.43122</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__kapelln-pfarre">
+      <location>
+       <geo decls="LatLng">48.25817 15.75731</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__pyhra-pfarre">
+      <location>
+       <geo decls="LatLng">48.14421 15.69782</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__wilhelmsburg-pfarre">
+      <location>
+       <geo decls="LatLng">48.09691 15.61266</geo>
+      </location>
+     </org>
+     <org type="Kloster_m" xml:id="org__st_andrae-augustiner_chorherren">
+      <trait>
+       <label>Observance</label>
+       <desc>CanReg</desc>
+      </trait>
+      <orgName>
+       <reg source="FRA_II_55_register_pg_438">St. Andrä-Augustinerchorherren</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.2969 15.71732</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__herzogenburg-pfarre">
+      <location>
+       <geo decls="LatLng">48.29053 15.73137</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__tulln-pfarre">
+      <location>
+       <geo decls="LatLng">48.32829 16.05858</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__boeheimkirchen-pfarre">
+      <location>
+       <geo decls="LatLng">48.19779 15.76178</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__mautern-pfarre">
+      <location>
+       <geo decls="LatLng">48.39319 15.57793</geo>
+      </location>
+     </org>
+     <org type="OTHER" xml:id="org__vatikan">
+      <orgName>
+       <reg>Vatikan (Rom)</reg>
+       <orig>Papst</orig>
+      </orgName>
+      <idno>https://www.geonames.org/3164670/state-of-the-vatican-city.html</idno>
+      <location>
+       <geo decls="LatLng">41.90225 12.4533</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__mauer-pfarre">
+      <org type="Kirche_Kapelle" xml:id="org__mauer-kirche_st_maria">
+       <orgName><reg source="FRA_II_55_register_pg_637">Kirche zur hl. Maria</reg></orgName>
+       <org type="altar" xml:id="org__mauer-kirche_st_maria-altar_st_maria">
+        <orgName><reg source="FRA_II_55_register_pg_637">Marienaltar</reg></orgName>
+       </org>
+      </org>
+     </org>
+     <org type="Pfarre" xml:id="org__haindorf-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_556">Haindorf-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.18028 15.48774</geo>
+      </location>
+      <org type="Kirche_Kapelle" xml:id="org__haindorf-kirche_st_peter">
+       <orgName><reg source="FRA_II_55_register_pg_556">Haindorf-Peterskirche</reg></orgName>
+      </org>
+     </org>
+     <org type="Pfarre" xml:id="org__sitzendorf-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_704">Sitzendorf-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.59841 15.94254</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__schoengrabern-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_695">Schöngrabern-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.6 16.05</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__stein-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_712">Stein-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.40163 15.58102</geo>
+      </location>
+     </org>
+     <org type="town" xml:id="org__salzburg">
+      <orgName>
+       <reg>Salzburg</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">47.79941 13.04399</geo>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__prag">
+      <orgName>
+       <reg>Prag</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">50.08804 14.42076</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__duernbach-pfarre">
+      <orgName>
+       <reg source="NULL">Dürnbach-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.12055 15.16736</geo>
+      </location>
+     </org>
+     <org type="Dioezese_Erzdioezese" xml:id="org__chur-dioezese">
+      <location>
+       <geo decls="LatLng">46.84986 9.53287</geo>
+      </location>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__eisenburg-domkapitel">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_499">Eisenburg-Domkapitel</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">47.04928 16.79954</geo>
+      </location>
+     </org>
+     <org type="Kloster_m" xml:id="org__baumgartenberg-zisterzienser">
+      <trait>
+       <label>Observance</label>
+       <desc>OCist</desc>
+      </trait>
+      <orgName>
+       <reg source="FRA_II_55_register_pg_453">Baumgartenberg-Zisterzienser</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.20866 14.74365</geo>
+      </location>
+     </org>
+     <org type="Kloster_m" xml:id="org_ardagger-augustinerchorherren">
+      <trait>
+       <label>Observance</label>
+       <desc>CanReg</desc>
+      </trait>
+      <orgName>
+       <reg source="FRA_II_55_register_pg_440">Ardagger-Augustinerchorherren</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.15 14.83333</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__kleinzell-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_598">Kleinzell-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">47.9599 15.72197</geo>
+      </location>
+      <org type="Kirche_Kapelle" xml:id="org__kleinzell-kirche_st_maria">
+       <orgName><reg source="FRA_II_55_register_pg_598">Kleinzell-Marienkirche</reg></orgName>
+      </org>
+     </org>
+     <org type="Pfarre" xml:id="org__hausleiten-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_562">Hausleiten-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.38333 16.1</geo>
+      </location>
+     </org>
+     <org type="Dioezese_Erzdioezese" xml:id="org__olmuetz-dioezese">
+      <location>
+       <geo decls="LatLng">49.59552 17.25175</geo>
+      </location>
+     </org>
+     <!-- Bischof von Passau? wenn dann passau_bischof -->
+     <org type="Hof" xml:id="org__passau-dioezese-hof">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_">des Bischofs von Passau</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.5665 13.43122</geo>
+      </location>
+     </org>
+     <!-- stimmt was nicht -->
+     <org type="Pfarre" xml:id="org__huerm-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_580">Hürm-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.15559 15.40792</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__hofstetten-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_574">Hofstetten-Pfarre</reg>
+      </orgName>
+      <org type="Kirche_Kapelle" xml:id="org__hofstetten-pfarrkirche">
+       <orgName><reg source="FRA_II_55_register_pg_574">Hofstetten-Pfarrkirche</reg></orgName>
+       <location>
+        <geo decls="LatLng">48.08646 15.50437</geo>
+       </location>
+      </org>
+     </org>
+     <org type="Pfarre" xml:id="org__pillichsdorf-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_464">Pillichsdorf-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.3515 16.54114</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__albrechtsberg-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_435">Albrechtsberg-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.45362 15.35902</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__walterskirchen-pfarre">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_728">Walterskirchen-Pfarre</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.65 16.66667</geo>
+      </location>
+     </org>
+     <org type="Kloster_m" xml:id="org__rot-benediktiner">
+      <trait>
+       <label>Observance</label>
+       <desc>OSB</desc>
+      </trait>
+      <orgName>
+       <reg source="FRA_II_55_register_pg_682">Rot-Benediktiner</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+      <!-- Kloster Rot ist nur als Prämonstratenser-Abtei auffindbar, bei Fuchs jedoch als Benediktinerkloster gelistet. Die Äbteliste auf https://de.wikipedia.org/wiki/Reichsabtei_Rot_an_der_Rot listet ferner nicht die gleichen Namen wie Fuchs, ein Benediktinerkloster Rot allerdings nicht auffindbar. -->
+     </org>
+     <org type="Kloster_m" xml:id="org__garsten-benediktiner">
+      <trait>
+       <label>Observance</label>
+       <desc>OSB</desc>
+      </trait>
+      <orgName>
+       <reg source="FRA_II_55_register_pg_525">Garsten-Benediktiner</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">47.99871 14.40349</geo>
+      </location>
+     </org>
+     <org type="Kloster_m" xml:id="org__st_florian-augustiner_chorherren">
+      <trait>
+       <label>Observance</label>
+       <desc>CanReg</desc>
+      </trait>
+      <orgName>
+       <reg source="FRA_II_55_register_pg_513">St. Florian-Augustinerchorherren</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">8.20568 14.37836</geo>
+      </location>
+     </org>
+     <org type="Markgrafschaft" xml:id="org__brandenburg-markgrafschaft">
+      <orgName>
+       <reg>Brandenburg-Markgrafschaft</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__goettweig-st_benedikt">
+      <orgName>
+       <reg source="FRA_II_55_register_pg_536">Göttweig-St. Benedikt</reg>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.3500 15.6166</geo>
+      </location>
+     </org>
+     <org type="Kloster_m" xml:id="org__stein-minoriten">
+      <trait>
+       <label>Observance</label>
+       <desc>OFMConv</desc>
+      </trait>
+      <orgName>
+       <reg source="FRA_II_55_register_pg_712">Stein-Minoriten</reg>
+      </orgName>
+      <idno/>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__furth-gemeinde">
+      <orgName>
+       <reg>Furth</reg>
+       <note/>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.37385 15.61408</geo>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__schwechat-gemeinde">
+      <orgName>
+       <reg>Schwechat</reg>
+       <note/>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.13333 16.46667</geo>
+      </location>
+     </org>
+     <org type="Kirche_Kapelle" xml:id="org__schwechat-st_jakob">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_571">Schwechat-St. Jakob</reg>
+      </orgName>
+     </org>
+     <org type="Pfarre" xml:id="org__dobersberg-pfarre">
+      <orgName>
+       <reg>Dobersberg</reg>
+       <note/>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.92847 15.31026</geo>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__wels">
+      <orgName>
+       <reg>Wels</reg>
+       <note/>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.16667 14.03333</geo>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__ernstbrunn-gemeinde">
+      <orgName>
+       <reg>Ernstbrunn</reg>
+       <note/>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.53286 16.34161</geo>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__weidling-gemeinde">
+      <orgName>
+       <reg>Weidling</reg>
+       <note/>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.40764 13.65201</geo>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__heidenreichstein-gemeinde">
+      <orgName>
+       <reg>Heidenreichstein</reg>
+       <note/>
+      </orgName>
+      <location>
+       <geo decls="LatLng">48.86667 15.11667</geo>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__moedling-gemeinde">
+      <orgName>
+       <reg>Mödling</reg>
+       <note/>
+      </orgName>
+      <idno type="URI">https://www.geonames.org/2771335/moedling.html</idno>
+      <location>
+       <geo decls="LatLng">48.08605 16.28921</geo>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__enzersdorf-gemeinde">
+      <orgName>
+       <reg>Enzersdorf</reg>
+       <note/>
+      </orgName>
+      <idno type="URI">https://www.geonames.org/2777836/gross-enzersdorf.html</idno>
+      <location>
+       <geo decls="LatLng">48.20278 16.55083</geo>
+      </location>
+     </org>
+     <org type="Koenigreich" xml:id="org__boehmen-koenigreich">
+      <orgName>
+       <reg>Böhmen-Königreich</reg>
+      </orgName>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__achau-gemeinde">
+      <orgName>
+       <reg>Achau</reg>
+       <note/>
+      </orgName>
+      <idno type="URI">https://www.geonames.org/7871849/achau.html</idno>
+      <location>
+       <geo decls="LatLng">48.07903 16.38772</geo>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__laxenburg-gemeinde">
+      <orgName>
+       <reg source="QGW_II_I_register_pg_545">Laxenburg</reg>
+       <reg source="QGW_II_I_register_pg_545">Lochsendorf</reg>
+       <reg source="QGW_II_I_register_pg_545">Lachsendorf</reg>
+       <note/>
+      </orgName>
+      <idno type="URI">https://www.geonames.org/2772810/laxenburg.html</idno>
+      <location>
+       <geo decls="LatLng">48.06833 16.35607</geo>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__muenchendorf-gemeinde">
+      <orgName>
+       <reg>Münchendorf</reg>
+       <note/>
+      </orgName>
+      <idno type="URI">https://www.geonames.org/2771042/muenchendorf.html</idno>
+      <location>
+       <geo decls="LatLng">48.03333 16.38333</geo>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__himberg-gemeinde">
+      <orgName>
+       <reg>Himberg</reg>
+       <note/>
+      </orgName>
+      <idno type="URI">https://www.geonames.org/2776401/himberg.html</idno>
+      <location>
+       <geo decls="LatLng">48.08333 16.43333</geo>
+      </location>
+     </org>
+     <org type="Pfarre" xml:id="org__himberg-pfarre">
+      <orgName>
+       <reg source="QGW_II_II_register_pg_467">Himberg</reg>
+       <orig>Hindperg</orig>
+       <note/>
+      </orgName>
+      <idno type="URI">https://www.geonames.org/2776401/himberg.html</idno>
+      <location>
+       <geo decls="LatLng">48.08333 16.43333</geo>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__ebersdorf-gemeinde">
+      <orgName>
+       <reg>Ebersdorf</reg>
+       <note>II. und XI. Bezirk</note>
+      </orgName>
+      <idno type="URI"/>
+      <location>
+       <geo/>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__orth-gemeinde">
+      <orgName>
+       <reg>Orth</reg>
+       <note>Nicht Pfarre</note>
+      </orgName>
+      <idno type="URI">https://www.geonames.org/2769409/orth-an-der-donau.html</idno>
+      <location>
+       <geo decls="LatLng">48.14524, 16.70089</geo>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__waidhofen_an_der_ybbs">
+      <orgName>
+       <reg>Waidhofen</reg>
+       <note/>
+      </orgName>
+      <idno type="URI">https://www.geonames.org/6621168/waidhofen-an-der-ybbs-stadt.html</idno>
+      <location>
+       <geo decls="LatLng">47.95999 14.77438</geo>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__ofen">
+      <orgName>
+       <reg>Ofen</reg>
+       <note/>
+      </orgName>
+      <idno type="URI">https://www.geonames.org/3054667/buda.html</idno>
+      <location>
+       <geo decls="LatLng">47.5 19.03333</geo>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__langenlois-gemeinde">
+      <orgName>
+       <reg>Langenlois</reg>
+       <note/>
+      </orgName>
+      <idno type="URI">https://www.geonames.org/2773010/langenlois.html</idno>
+      <location>
+       <geo decls="LatLng">48.46667 15.66667</geo>
+      </location>
+     </org>
+     <org type="Gemeinde" xml:id="org__laab-gemeinde">
+      <orgName>
+       <reg>Laab</reg>
+       <note/>
+      </orgName>
+      <idno type="URI">https://www.geonames.org/2773223/laab-im-walde.html</idno>
+      <location>
+       <geo decls="LatLng">48.15486 16.17359</geo>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__kuttenberg">
+      <orgName>
+       <reg>Kuttenberg</reg>
+       <reg>Kutná Hora</reg>
+       <note/>
+      </orgName>
+      <location>
+       <geo decls="LatLng">49.94839 15.26816</geo>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__bruenn">
+      <orgName>
+       <reg>Brünn</reg>
+       <reg>Brno</reg>
+       <note>Mähren, Sitz des Münzmeister Martin</note>
+      </orgName>
+      <location>
+       <geo decls="LatLng">49.19522 16.60796</geo>
+      </location>
+     </org>
+     <org type="Stadt" xml:id="org__muehldorf-gemeinde">
+      <orgName>
+       <reg>Mühldorf</reg>
+       <reg/>
+       <note>QGW_II_I_register_pg_555</note>
+      </orgName>
+      <location>
+       <geo decls="LatLng">47.89689 13.95049 Möglich</geo>
+      </location>
+     </org>
+    </org>
+    <org type="Pfarre" xml:id="org__gumpoldskirchen-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_521">Gumpoldskirchen-Pfarre</reg>
+     </orgName>
+     <location>
+      <geo/>
+     </location>
+     <note/>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__rom-st_prassede">
+     <orgName>
+      <reg>Rom-Santa Prassede</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">41.890996436 12.49249803</geo>
+     </location>
+    </org>
+    <org type="Gemeinde" xml:id="org__weigelsdorf-gemeinde">
+     <orgName>
+      <reg>Weigelsdorf</reg>
+      <note/>
+     </orgName>
+     <idno type="URI">https://www.geonames.org/2761734/weigelsdorf.html</idno>
+     <location>
+      <geo decls="LatLng">47.95 16.4</geo>
+     </location>
+    </org>
+    <org type="Zeche_Bruderschaft" xml:id="org__wien-st_laurenz-zeche_simmering">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_573">S. Laurenz-Zeche in Simmering</reg>
+     </orgName>
+    </org>
+    <org type="Stadt" xml:id="org__tulln">
+     <orgName>
+      <reg>Tulln</reg>
+      <note/>
+     </orgName>
+     <idno type="URI">https://www.geonames.org/2763266/tulln.html</idno>
+     <location>
+      <geo decls="LatLng">48.32829 16.05858</geo>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__hainburg">
+     <orgName>
+      <reg>Hainburg</reg>
+      <note/>
+     </orgName>
+     <idno type="URI">https://www.geonames.org/2776988/hainburg-an-der-donau.html</idno>
+     <location>
+      <geo decls="LatLng">48.14627 16.94504</geo>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__straubing">
+     <orgName>
+      <reg>Straubing</reg>
+      <note/>
+     </orgName>
+     <idno type="URI">https://www.geonames.org/2826099/straubing.html</idno>
+     <location>
+      <geo decls="LatLng">48.88126 12.57385</geo>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__steyr">
+     <orgName>
+      <reg>Steyr</reg>
+      <note/>
+     </orgName>
+     <idno type="URI">https://www.geonames.org/2764359/steyr.html</idno>
+     <location>
+      <geo decls="LatLng">48.04274 14.42127</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__st_lorenzen-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_548">Pfarre St. Lorenzen im Mürztal</reg>
+     </orgName>
+     <idno>https://www.geonames.org/2766576/sankt-lorenzen-im-muerztal.html</idno>
+     <location>
+      <geo decls="LatLng">47.48333 15.36667</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__ferrara-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_511">Pfarre Ferrara</reg>
+     </orgName>
+     <idno>https://www.geonames.org/6299592/ferrara.html</idno>
+     <location>
+      <geo decls="LatLng">44.83333 11.61667</geo>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__eggenburg">
+     <orgName>
+      <reg>Eggenburg</reg>
+      <note/>
+     </orgName>
+     <idno type="URI">https://www.geonames.org/2780360/eggenburg.html</idno>
+     <location>
+      <geo decls="LatLng">48.63892 15.81903</geo>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__marchegg">
+     <orgName>
+      <reg>Marchegg</reg>
+      <note/>
+     </orgName>
+     <idno type="URI">https://www.geonames.org/7872866/marchegg.html</idno>
+     <location>
+      <geo decls="LatLng">48.2542 16.9008</geo>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__ybbs">
+     <orgName>
+      <reg>Ybbs</reg>
+      <note/>
+     </orgName>
+     <idno type="URI">https://www.geonames.org/2760772/ybbs-an-der-donau.html</idno>
+     <location>
+      <geo decls="LatLng">48.16667 15.08333</geo>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__freistadt">
+     <orgName>
+      <reg>Freistadt</reg>
+      <note/>
+     </orgName>
+     <idno type="URI">https://www.geonames.org/2779275/freistadt.html</idno>
+     <location>
+      <geo decls="LatLng">48.51103 14.50453</geo>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__koeln">
+     <orgName>
+      <reg>Köln</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">50.938056 6.956944</geo>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__voecklabruck">
+     <orgName>
+      <reg>Vöcklabruck</reg>
+      <note/>
+     </orgName>
+     <idno type="URI">https://www.geonames.org/2762343/voecklabruck.html</idno>
+     <location>
+      <geo decls="LatLng">48.00279 13.65652</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__hainburg-burgkapelle">
+     <orgName>
+      <reg>Hainburg Burgkapelle</reg>
+      <note/>
+     </orgName>
+     <idno type="URI"/>
+     <location>
+      <geo/>
+     </location>
+    </org>
+    <org type="Herzogtum" xml:id="org__kaernten-herzogtum">
+     <orgName>
+      <reg>Kärnten-Herzogtum</reg>
+     </orgName>
+     <location>
+      <geo/>
+     </location>
+    </org>
+    <org type="Herzogtum" xml:id="org__steiermark-herzogtum">
+     <orgName>
+      <reg>Steiermark-Herzogtum</reg>
+     </orgName>
+     <location>
+      <geo/>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__bruck_an_der_mur-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_499">Pfarre Bruck an der Mur</reg>
+     </orgName>
+     <idno>https://www.geonames.org/2781371/bruck-an-der-mur.html</idno>
+     <location>
+      <geo decls="LatLng">47.4166 15.2833</geo>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__venedig">
+     <orgName>
+      <reg>Venedig</reg>
+      <note/>
+     </orgName>
+     <idno type="URI">https://www.geonames.org/3164603/venice.html</idno>
+     <location>
+      <geo decls="LatLng">45.43713, 12.33265</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__gobelsburg-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_518">Pfarre Gobelsburg</reg>
+     </orgName>
+     <idno>https://www.geonames.org/2778415/gobelsburg.html</idno>
+     <location>
+      <geo decls="LatLng">48.46057 15.70032</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__huetteldorf-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_518">Pfarre Hütteldorf NÖ</reg>
+     </orgName>
+     <idno>https://www.geonames.org/2775372/huetteldorf.html</idno>
+     <location>
+      <geo decls="LatLng">48.30432 15.86306</geo>
+     </location>
+    </org>
+    <org type="Kirche_Kapelle" xml:id="org__huetteldorf_pfarrkirche">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_530">Pfarrkirche Hütteldorf NÖ</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.30432 15.86306</geo>
+     </location>
+    </org>
+    <org type="Altar" xml:id="org__huetteldorf_pfarrkirche-altar-st_peter">
+     <orgName><reg source="QGW_II_II_register_pg_530">St. Petersaltar Pfarrkiche Hütteldorf
+      NÖ</reg></orgName>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__aquilea-dioezese">
+     <location>
+      <geo decls="LatLng">45.7683 13.36779</geo>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__graz">
+     <orgName>
+      <reg>Graz</reg>
+      <note/>
+     </orgName>
+     <idno type="URI">https://www.geonames.org/2778067/graz.html</idno>
+     <location>
+      <geo decls="LatLng">47.06667 15.45</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__asparn_an_der_zaya-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_488">Pfarre Asparn an der Zaya NÖ</reg>
+     </orgName>
+     <idno>https://www.geonames.org/2782319/asparn-an-der-zaya.html</idno>
+     <location>
+      <geo decls="LatLng">48.58333 16.5</geo>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__laufen">
+     <orgName>
+      <reg source="QGW_II_II_register_pg_481">Laufen (Bayern)</reg>
+      <orig>Lauffen</orig>
+     </orgName>
+     <idno>https://www.geonames.org/2880129/laufen.html</idno>
+     <location>
+      <geo decls="LatLng">47.93568 12.92856</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__herzogbierbaum-pfarre">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_527">Herzogbierbaum-Pfarre</reg>
+     </orgName>
+     <idno>https://www.geonames.org/2776471/herzogbirbaum.html</idno>
+     <location>
+      <geo decls="LatLng">48.51667 16.25</geo>
+     </location>
+    </org>
+    <org type="Dioezese_Erzdioezese" xml:id="org__alexandria">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_485">Alexandria</reg>
+     </orgName>
+    </org>
+    <org type="Pfarre" xml:id="org__ernstbrunn-pfarre">
+     <orgName>
+      <reg>Ernstbrunn</reg>
+      <note/>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.53286 16.34161</geo>
+     </location>
+    </org>
+    <org type="Pfarre" xml:id="org__langenwang-pfarre">
+     <orgName>
+      <reg>Langenwang (Steiermark)</reg>
+      <note/>
+     </orgName>
+     <idno>https://www.geonames.org/2773000/langenwang.html</idno>
+     <location>
+      <geo decls="LatLng">47.56667 15.61667</geo>
+     </location>
+    </org>
+    <org type="Stadt" xml:id="org__zittau" resp="bg">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_592">Zittau</reg>
+      <orig>Zittau</orig>
+      <orig>Sittaw</orig>
+     </orgName>
+     <location>
+      <geo decls="LatLng">50.89772 14.80764</geo>
+     </location>
+     <idno>https://www.geonames.org/2804008/zittau.html</idno>
+    </org>
+    <org type="Pfarre" xml:id="org__heidenreichstein-pfarre" resp="cs">
+     <orgName>
+      <reg>Heidenreichstein</reg>
+      <note/>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.86667 15.11667</geo>
+     </location>
+     <idno>https://www.geonames.org/2776603/heidenreichstein.html</idno>
+    </org>
+    <org type="Pfarre" xml:id="org__enzersdorf-pfarre" resp="cs">
+     <orgName>
+      <reg>Enzersdorf</reg>
+      <note/>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.20278 16.55083</geo>
+     </location>
+     <idno>https://www.geonames.org/2777836/gross-enzersdorf.html</idno>
+     <!-- Stimmt hier die Geo-Referenz auf Groß Enzersdorf? -->
+    </org>
+    <org type="Pfarre" xml:id="org__emmersdorf-pfarre" resp="bg">
+     <orgName>
+      <reg>Emmersdorf</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.25556 15.3261</geo>
+     </location>
+     <idno>https://www.geonames.org/7871835/emmersdorf-an-der-donau.html</idno>
+    </org>
+    <org type="Pfarre" xml:id="org__untersiebenbrunn-pfarre" resp="bg">
+     <orgName>
+      <orig>Niedersiebenbrunn</orig>
+      <reg>Untersiebenbrunn</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.25749 16.75637</geo>
+     </location>
+     <idno>https://www.geonames.org/7872872/untersiebenbrunn.html</idno>
+    </org>
+    <org type="Gemeinde" xml:id="org__st_veit-gemeinde">
+     <orgName>
+      <reg source="QGW_II_II_register_pg_551">St. Veit</reg>
+      <orig/>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.18766 16.2735</geo>
+      <geo decls="LatLng">48.19035 16.26552</geo>
+     </location>
+     <idno type="URL">https://www.geonames.org/2601119/unter-sankt-veit.html</idno>
+     <idno type="URL">https://www.geonames.org/2601120/ober-sankt-veit.html</idno>
+    </org>
+    <org type="Stadt" xml:id="org__breslau" resp="bg">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_499">Breslau</reg>
+      <orig>Breslau</orig>
+      <orig>Bresslaw</orig>
+     </orgName>
+     <location>
+      <geo decls="LatLng">51.1 17.03333</geo>
+     </location>
+     <idno>https://www.geonames.org/3081368/wroclaw.html</idno>
+    </org>
+    <org type="Pfarre" xml:id="org__lanzendorf-pfarre" resp="la">
+     <orgName>
+      <orig>gen Lanzendorf hinz Unser Fraun</orig>
+      <reg>Lanzendorf</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.11148, 16.43251</geo>
+     </location>
+     <idno>https://www.geonames.org/7873071/lanzendorf.html</idno>
+    </org>
+    <org type="Kollegium" xml:id="org__wien-st_niklas-kollegium" resp="bg">
+     <orgName>
+      <orig>Sand Pernhart in der Sünnigerstrazze</orig><!-- die orig-Schreibweisen müsst ihr nicht aufnehmen (nur in Einzelfällen), die sind durch den Tag eh erfasst -->
+      <reg>St. Niklas-Kollegium</reg>
+     </orgName>
+     <location>
+      <geo/>
+     </location>
+     <idno/>
+    </org>
+    <org type="Gemeinde" xml:id="org__oberhautzental-gemeinde" resp="cs">
+     <orgName>
+      <reg>Oberhautzental</reg>
+      <orig>Obern Hawczental</orig>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.446 16.12184</geo>
+     </location>
+     <idno>https://www.geonames.org/11550316/oberhautzental.html</idno>
+    </org>
+    <org type="Gemeinde" xml:id="org__unterhautzental-gemeinde" resp="cs">
+     <orgName>
+      <reg>Unterhautzental</reg>
+      <orig>Nydern Hawczental</orig>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.43256 16.14222</geo>
+     </location>
+     <idno>https://www.geonames.org/11550317/unterhautzental.html</idno>
+    </org>
+    <org type="Pfarre" xml:id="org__oberhautzental-pfarre" resp="cs">
+     <orgName>
+      <reg>Oberhautzental</reg>
+      <orig>Obern Hawczental</orig>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.446 16.12184</geo>
+     </location>
+     <idno>https://www.geonames.org/11550316/oberhautzental.html</idno>
+    </org>
+    <org type="Pfarre" xml:id="org__pischelsdorf-pfarre" resp="bg">
+     <orgName>
+      <orig>Pischostorf</orig>
+      <reg>Pischelsdorf</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48 16.56667</geo>
+     </location>
+     <idno>https://www.geonames.org/2768761/pischelsdorf.html</idno>
+    </org>
+    <org type="Pfarre" xml:id="org__wuernitz-pfarre" resp="cs">
+     <orgName>
+      <orig>Würnitz</orig>
+      <orig>Burnicz</orig>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.41667 16.41667</geo>
+     </location>
+     <idno>https://www.geonames.org/2760794/wuernitz.html</idno>
+    </org>
+    <org type="Pfarre" xml:id="org__muenchendorf-pfarre" resp="bg">
+     <orgName>
+      <orig>Mynkchendorff</orig>
+      <reg>Münchendorf</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.03333 16.38333</geo>
+     </location>
+     <idno>https://www.geonames.org/2771042/muenchendorf.html</idno>
+    </org>
+    <org type="Pfarre" xml:id="org__theras-pfarre" resp="cs">
+     <orgName>
+      <orig>Teras</orig>
+      <reg>Theras</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.73083 15.78993</geo>
+     </location>
+     <idno>https://www.geonames.org/2763702/theras.html</idno>
+    </org>
+    <org type="Gemeinde" xml:id="org__ptuj-gemeinde" resp="cs">
+     <orgName>
+      <orig>Pettau</orig>
+      <reg>Ptuj</reg>
+     </orgName>
+     <location>
+      <geo decls="LatLng">46.42005 15.87018</geo>
+     </location>
+     <idno>https://www.geonames.org/3192241/ptuj.html</idno>
+    </org>
+    <org type="Gemeinde" xml:id="org__starnberg-gemeinde" resp="cs">
+     <orgName>
+      <reg>Starnberg</reg>
+      <orig>Starchenberg</orig>
+     </orgName>
+     <location>
+      <geo decls="LatLng">48.47841 13.84166</geo>
+     </location>
+     <idno>https://www.geonames.org/11612037/starnberg.html</idno>
+    </org>
+    <org type="Stadt" xml:id="org__cividale" resp="cs">
+     <orgName>
+      <reg source="QGW_II_I_register_pg_592">Cividale</reg>
+      <orig/>
+     </orgName>
+     <location>
+      <geo decls="LatLng">46.09019 13.42861</geo>
+     </location>
+     <idno>https://www.geonames.org/3178605/cividale-del-friuli.html</idno>
+    </org>
+   </listOrg>
+  </body>
+ </text>
+</TEI>

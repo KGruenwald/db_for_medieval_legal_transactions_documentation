@@ -1,0 +1,2324 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cei="http://www.monasterium.net/NS/cei">
+ <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Wiener Urkunden Placelist </title>
+         </titleStmt>
+         <publicationStmt>
+            <p> Original Data: Copyright (c) :: Korbinian Gruenwald </p>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <p> born Digital </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace xml:id="listplace">
+
+            <!-- Settlements/towns -->
+
+            <place xml:id="pl__duesseldorf" type="settlement">
+               <placeName>Düsseldorf</placeName>
+               <location>
+                  <geo decls="LatLng">51.225556 6.782778</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2934246</idno>
+            </place>
+            <place xml:id="pl__magdeburg" type="settlement">
+               <placeName>Magdeburg</placeName>
+               <location>
+                  <geo decls="LatLng"/>
+               </location>
+               <idno type="URL"/>
+            </place>
+            <place xml:id="pl__stockstal_niederösterreich" type="settlement">
+               <placeName>
+                  <placeName><reg source="QGW_II_I_register_pg_579">(Ober-/Nieder-)Stockstal
+                        (NÖ)</reg></placeName>
+                  <location>
+                     <geo decls="LatLng"/>
+                  </location>
+                  <idno type="URL"/>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">51.225556 6.782778</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2934246</idno>
+            </place>
+            <place xml:id="pl__wiener_neustadt" type="settlement">
+               <placeName>Wiener Neustadt</placeName>
+               <location>
+                  <geo decls="LatLng">47.80485 16.23196</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2761353/wiener-neustadt.html</idno>
+            </place>
+            <place xml:id="pl__augsburg" type="settlement">
+               <placeName>Augsburg</placeName>
+               <location>
+                  <geo decls="LatLng">48.37154 10.89851</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2954172/augsburg.html</idno>
+            </place>
+            <place xml:id="pl__passau" type="settlement">
+               <placeName>Passau</placeName>
+               <location>
+                  <geo decls="LatLng">48.5665 13.43122</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2855328/passau.html</idno>
+            </place>
+            <place xml:id="pl__wien" type="settlement" resp="kg">
+               <placeName>Wien</placeName>
+               <location>
+                  <geo decls="LatLng">48.20849 16.37208</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2761369/vienna.html</idno>
+            </place>
+            <place xml:id="pl__nuernberg" type="settlement">
+               <placeName><reg>Nürnberg</reg></placeName>
+               <location>
+                  <geo decls="LatLng">49.45421 11.07752</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2861650/nuernberg.html</idno>
+            </place>
+            <place xml:id="pl__regensburg" type="settlement">
+               <placeName><reg>Regensburg</reg></placeName>
+               <location>
+                  <geo decls="LatLng">49.01513 12.10161</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2849483/regensburg.html</idno>
+            </place>
+            <place xml:id="pl__heiligenstadt" type="settlement">
+               <placeName><reg source="QGW_II_I_register_pg_573">Heiligenstadt</reg></placeName>
+               <location>
+                  <geo decls="LatLng">48.25 16.36667</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/3333500/heiligenstadt.html</idno>
+            </place>
+            <place xml:id="pl__gumpoldskirchen" type="settlement">
+               <placeName><reg type="norm" source="QGW_II_I_register_pg_521">Gumpoldskirchen</reg></placeName>
+               <location>
+                  <geo decls="LatLng">48.04439 16.27901</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/7872977/gumpoldskirchen.html</idno>
+            </place>
+            <place xml:id="pl__bruenn" type="settlement">
+               <placeName><reg type="norm" source="QGW_II_I_register_pg_500">Brünn</reg></placeName>
+               <location>
+                  <geo decls="LatLng">49.19522 16.60796</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/3078610/brno.html</idno>
+               <note>Mähren</note>
+               <note>Brno, Tschechien</note>
+            </place>
+            <place xml:id="pl__zwettl" type="settlement">
+               <placeName><reg type="norm" source="QGW_II_I_register_pg_592">Zwettl</reg></placeName>
+               <location>
+                  <geo decls="LatLng">48.6 15.15</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2760417/zwettl-niederoesterreich.html</idno>
+            </place>
+            <place xml:id="pl__erdberg" type="settlement">
+               <placeName><reg type="norm" source="QGW_II_I_register_pg_509">Erdberg</reg></placeName>
+               <location>
+                  <geo/>
+               </location>
+               <idno type="URL"/>
+               <note>Erdberg bei Wien</note>
+            </place>
+            <place xml:id="pl__bistritz" type="settlement">
+               <placeName>
+                  <reg type="norm" source="QGW_II_I_register_pg_509">Bistritz</reg>
+                  <addName><orig>Nosen</orig></addName>
+                  <addName><orig>Nasen</orig></addName>
+               </placeName>
+               <location>
+                  <geo/>
+               </location>
+               <idno type="URL"/>
+               <note/>
+            </place>
+            <place xml:id="pl__moedling" type="settlement">
+               <placeName>
+                  <reg type="norm" source="QGW_II_I_register_pg_554-555">Mödling</reg>
+                  <addName><orig>Medlich</orig></addName>
+                  <addName><orig>Medlikch</orig></addName>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.08605 16.28921</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2771335/moedling.html</idno>
+               <note>Mödling bei Wien</note>
+            </place>
+            <place xml:id="pl__klosterneuburg" type="settlement">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_538-539">Klosterneuburg</reg>
+                  <addName/>
+                  <addName/>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.30521 16.32522</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2773913/klosterneuburg.html</idno>
+               <note/>
+            </place>
+            <place xml:id="pl__strasburg" type="settlement">
+               <placeName>
+                  <reg>Strasburg</reg>
+                  <addName/>
+                  <addName/>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.58392 7.74553</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2973783/strasbourg.html</idno>
+               <note/>
+            </place>
+            <place xml:id="pl__ottakring" type="settlement">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_561">Ottakring</reg>
+                  <addName/>
+                  <addName/>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.21667 16.3</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2769359/ottakring.html</idno>
+               <note/>
+            </place>
+            <place xml:id="pl__perchtoldsdorf" type="settlement">
+               <placeName>
+                  <reg>Perchtoldsdorf</reg>
+                  <addName/>
+                  <addName/>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.11935 16.26607</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2769110/perchtoldsdorf.html</idno>
+               <note/>
+            </place>
+            <place xml:id="pl__st_poelten" type="settlement">
+               <placeName>
+                  <reg type="norm" source="QGW_II_II_register_pg_440-441">St. Pölten</reg>
+                  <addName/>
+                  <addName/>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.2 15.63333</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2766429/sankt-poelten.html</idno>
+               <note/>
+            </place>
+            <place xml:id="pl__st_veit" type="settlement">
+               <placeName>
+                  <reg type="norm" source="QGW_II_II_register_pg_551">St. Veit</reg>
+                  <addName/>
+                  <addName/>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.18766 16.2735</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2601119/unter-sankt-veit.html</idno>
+               <note/>
+            </place>
+            <place xml:id="pl__aachen" type="settlement">
+               <placeName>
+                  <reg type="norm" source="QGW_II_II_register_pg_430">Aachen</reg>
+                  <addName>Ach</addName>
+                  <addName>Aiche</addName>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">50.77664 6.08342</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/3247449/aachen.html</idno>
+               <note/>
+            </place>
+            <place xml:id="pl__linz" type="settlement">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_548">Linz</reg>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.30639 14.28611</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2772400/linz.html</idno>
+               <note/>
+            </place>
+            <place xml:id="pl__lengenfeld_QGW_II_II_register_pg_482" type="settlement">
+               <placeName>
+                  <reg type="norm" source="QGW_II_II_register_pg_482">Lengenfeld</reg>
+               </placeName>
+               <location>
+                  <geo/>
+               </location>
+               <idno type="URL"/>
+               <note>Bayern</note>
+            </place>
+            <place xml:id="pl__nussdorf" type="settlement">
+               <placeName>
+                  <reg>Nussdorf</reg>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.25897 16.36448</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2770400/nussdorf.html</idno>
+               <note>Wien</note>
+            </place>
+            <place xml:id="pl__niederranna" type="settlement">
+               <placeName>
+                  <reg>Niederranna</reg>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.37649 15.34978</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2770533/niederranna.html</idno>
+               <note>Krems</note>
+            </place>
+            <place xml:id="pl__sievering" type="settlement">
+               <placeName>
+                  <reg>Sievering</reg>
+                  <orig>Sufring</orig>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.25 16.33333</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2600996/sievering.html</idno>
+               <note>Krems</note>
+            </place>
+            <place xml:id="pl__stein" type="settlement">
+               <placeName>
+                  <reg>Stein</reg>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.40163 15.58102</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2764553/stein-an-der-donau.html</idno>
+               <note>an der Donau</note>
+            </place>
+            <place xml:id="pl__gars" type="settlement">
+               <placeName>
+                  <reg>Gars</reg>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.59769 15.66073</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2778845/gars-am-kamp.html</idno>
+               <note>am Kamp</note>
+            </place>
+            <place xml:id="pl__hoeflein_an_der_teuffenris" type="settlement">
+               <placeName>
+                  <reg>Höflein an der Teuffenris</reg>
+               </placeName>
+               <location>
+                  <geo/>
+               </location>
+               <idno type="URL"/>
+               <note/>
+            </place>
+            <place xml:id="pl__krems" type="settlement">
+               <placeName>
+                  <reg>Krems</reg>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.40921 15.61415</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2773549/krems-an-der-donau.html</idno>
+               <note>an der Donau</note>
+            </place>
+            <place xml:id="pl__gross" type="settlement">
+               <placeName>
+                  <reg>Groß</reg>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.57194 15.99</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2777910/gross.html</idno>
+               <note/>
+            </place>
+            <place xml:id="pl__hainfeld" type="settlement">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_523">Hainfeld</reg>
+               </placeName>
+               <location>
+                  <geo/>
+               </location>
+               <idno type="URL"/>
+               <note/>
+            </place>
+            <place xml:id="pl__dornbach" type="settlement">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_504-505">Dornbach</reg>
+               </placeName>
+               <location>
+                  <geo/>
+               </location>
+               <idno type="URL"/>
+               <note/>
+            </place>
+            <place xml:id="pl__meidling" type="settlement">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_552">Meidling</reg>
+                  <orig>Meuerling</orig>
+               </placeName>
+               <location>
+                  <geo/>
+               </location>
+               <idno type="URL"/>
+               <note/>
+            </place>
+            <place xml:id="pl__enns" type="settlement">
+               <placeName>
+                  <reg>Enns</reg>
+                  <addName/>
+                  <addName/>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.21415 14.47783</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/7872050/enns.html</idno>
+               <note/>
+            </place>
+            <place xml:id="pl__eferding" type="settlement">
+               <placeName>
+                  <reg source="QGW_II_III_register_pg_534">Eferding</reg>
+                  <addName/>
+                  <addName/>
+               </placeName>
+               <location>
+                  <geo/>
+               </location>
+               <idno type="URL"/>
+               <note/>
+            </place>
+            <place xml:id="pl__karlburg" type="settlement">
+               <placeName>
+                  <reg>Karlburg</reg>
+                  <addName/>
+                  <addName/>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.05495 17.14457</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/3057792/rusovce.html</idno>
+               <note/>
+            </place>
+            <place xml:id="pl__doebling" type="settlement">
+               <placeName>
+                  <reg>Döbling</reg>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.25 16.33306</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2780893/gemeindebezirk-doebling.html</idno>
+               <note/>
+            </place>
+            <place xml:id="pl__kottes" type="settlement">
+               <placeName>
+                  <reg>Kottes</reg>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.41667 15.3</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2773657/kottes.html</idno>
+               <note/>
+            </place>
+
+            <!-- streets -->
+            <!-- streets -->
+            <!-- streets -->
+            <!-- streets -->            
+            <place xml:id="pl__wien-alserstrasse_vor_schottentor" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_486">Alserstrasse (VIII., IX., XVII.
+                     Bezirk)</reg>
+               </placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__schottentor">vor Schottentor</addrLine>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-altdonau" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_432">Altdonau</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-alter_fleischmarkt" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_512">Alter Fleischmarkt</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-anger" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_432">auf dem Anger (I. Bezirk)</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-baeckerstrasse_hintere" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_489">Hintere Bäckerstrasse (I. Bezirk)</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-baeckerstrasse_vordere" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_489">Vordere Bäckerstrasse (I. Bezirk)</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-peurertor" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_439">Peurertor (I. Bezirk)</reg>
+                  <orig>Peilertor</orig>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-steig_bei_den_predigern" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_505">auf dem Steig, bei den Predigern</reg>
+                  <orig>auf dem Steig</orig>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-fleischbaenke" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_512">Fleischbänke</reg>
+                  <orig>bei den Fleischbänken</orig>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-geraeut_vor_stubentor" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_459">im Geräut, vor Stubentor</reg>
+               </placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__stubentor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-goettweigerhof" type="street">
+               <placeName>Göttweiger Hof</placeName>
+               <location>
+                  <address>
+                     <addrLine>Weihburggasse 4, 1010 Wien</addrLine>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-goldschmiedgasse" type="street">
+               <placeName>
+                  <reg source="QGW_II_III_register_pg_544">Goldschmiedgasse, bei S. Stephan</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-gottesacker_vor_kaertnertor" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_460">Gottesacker vor Kernertor</reg>
+               </placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__kaerntnertor">Weihburggasse 4, 1010 Wien</addrLine>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-graben" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_519">(am) Graben</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-gruennkcherhof" type="street">
+               <placeName>
+                  <orig>Grünnkcher hof</orig>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-haarmarkt" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_463">Haarmarkt (I.Bezirk)</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-huehnergesslein" type="street">
+               <placeName>
+                  <reg>im Hühnergesslein</reg>
+               </placeName>
+               <idno/>
+            </place>
+            <place xml:id="pl__wien-hochstrasse" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_468">Hochstrass (I. Bezirk)</reg>
+               </placeName>
+               <idno/>
+            </place>
+            <place xml:id="pl__wien-hoher_markt" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_529">Hohermarkt (I.Bezirk)</reg>
+                  <orig>forum</orig>
+                  <orig>altum forum</orig>
+               </placeName>
+               <place xml:id="pl__wien-hoher_markt_fischmarkt" type="street">
+                  <placeName><reg source="QGW_II_I_register_pg_512">Fischmarkt, an dem
+                        hohenmarkt</reg></placeName>
+               </place>
+               <place xml:id="pl__wien-hoher_markt_wentkremen" type="street">
+                  <placeName><reg source="QGW_II_II_register_pg_515">unter den Wentkremen, an dem
+                        hohenmarkt</reg></placeName>
+               </place>
+            </place>
+            <place xml:id="pl__wien-judengasse" type="street">
+               <placeName><reg>Judengasse</reg></placeName>
+            </place>
+            <place xml:id="pl__wien-juristenschule" type="street">
+               <placeName><reg source="QGW_II_I_register_pg_534">Juristenschul</reg></placeName>
+            </place>
+            <place xml:id="pl__wien-kaerntnertor" type="street">
+               <placeName><reg source="QGW_II_II_register_pg_473">Kärntnerthor</reg>
+                  <orig>Kernertor</orig></placeName>
+            </place>
+            <place xml:id="pl__wien-kaerntnerstrasse" type="street">
+               <placeName><reg source="QGW_II_II_register_pg_473">Kärntnerstrasse (I.Bezirk)</reg>
+                  <orig>Kernerstrass</orig></placeName>
+            </place>
+            <place xml:id="pl__wien-kienmarkt" type="street">
+               <placeName><reg source="QGW_II_II_register_pg_475">Kienmarkt (I.Bezirk)</reg>
+                  <orig/></placeName>
+            </place>
+            <place xml:id="pl__wien-kohlmarkt" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_475">Kohlmarkt (I.Bezirk)</reg>
+                  <orig>alter Kohlmarkt</orig>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-krafthof" type="street">
+               <placeName><reg source="QGW_II_III_register_pg_561">Krafthof</reg></placeName>
+            </place>
+            <place xml:id="pl__wien-kumpfgasse" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_479">Kumpfgasse (I. Bezirk)</reg>
+                  <orig>Kumphgessl</orig>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-kumphlukche_vor_kernertor" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_479">Kumphlukche vor Kernertor</reg>
+                  <orig>in der Kumphlukchen</orig>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-laimgrub_vor_widmertor" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_505">in der Laimgrub, vor Widmertor</reg>
+                  <orig>in der Laimgrub</orig>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-mietstat_vor_kaerntnertor" type="street">
+               <placeName><reg source="QGW_II_II_register_pg_488">Mietstat vor Kernertor</reg>
+               </placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__kaerntnertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-moering" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_555">Möring (I. Bezirk)</reg>
+                  <orig>auf der Morin</orig>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-neuer_markt" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_557">Neuermarkt (I.Bezirk)</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-neuer_platz" type="street">
+               <placeName><reg>an dem neuen Platz</reg></placeName>
+            </place>
+            <place xml:id="pl__wien-pippingerstrasse" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_495">Pippingerstrasse (I.Bezirk)</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-riemerstrasse" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_566">Riemerstrass (I. Bezirk)</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-roterturm" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_496">Roterturm</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-salzgries" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_498">am Salzgries</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-scheffstrasse" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_568">Scheffstrasse (III.Bezirk)</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-schenkenstrasse" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_500">Schenkenstrasse (I.Bezirk)</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-schottentor" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_570">Schottentor</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-schulstrasse_vordere" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_571">Schulstrass (I. Bezirk)</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-schulstrasse_hintere" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_571">Schulstrass (I. Bezirk), Hintere</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-siebenherbergen_vor_kaertnertor" type="street">
+               <placeName>
+                  <orig>bei den Sibenherbergen vor Kernertor zenagst der Prugken</orig>
+               </placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__kaerntnertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-singerstrasse" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_503">Singerstrasse (I. Bezirk)</reg>
+                  <orig>Súnigerstrass</orig>
+               </placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__kaerntnertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-st_johannssstrasse" type="street">
+               <placeName>
+                  <reg source="QGW_II_III_register_pg_556">S. Johanns Strasse (I.Bezirk)</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-st_koloman" type="street">
+               <placeName>
+                  <reg source="QGW_II_III_register_pg_556">S. Koloman auf dem Gottesacker vor
+                     Kartnertor</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-st_laurenz" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_545">S. Laurenz, Prediger-Nonnenkloster am alten
+                     Fleischmarkt</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-st_maria_im_rathaus" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_550">S. Maria - Kapelle im Rathaus</reg>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.2116 16.3693</geo>
+               </location>
+            </place>
+            <place xml:id="pl__wien-st_niklas_vor_dem_stubentor" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_558">St. Niklas-vor dem Stubentor</reg>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.2042 16.3925</geo>
+               </location>
+            </place>
+            <place xml:id="pl__wien-st_pankraz" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_435">S. Pancratius</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-st_stephan" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_507">S. Stephan (Allerheiligen Pfarr- und
+                     Domkirche, I. Bezirk)</reg>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.20847 16.37265</geo>
+                  <address>
+                     <addrLine/>
+                  </address>
+               </location>
+               <idno type="URI">https://www.geonames.org/6324757/stephansdom.html</idno>
+               <place xml:id="pl__wien-st_stephan-freithof" type="street">
+                  <placeName>
+                     <reg source="QGW_II_II_register_pg_509">Freithof (S. Stephan)</reg>
+                  </placeName>
+               </place>
+            </place>
+            <!-- BSP -->
+            <place xml:id="pl__wien-stubentor" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_510">Stubenthor</reg>
+                  <orig/>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.2071 16.3801</geo>
+                  <address>
+                     <addrLine/>
+                  </address>
+               </location>
+               <idno type="URI"/>
+            </place>
+            <place xml:id="pl__wien-strauchgasse" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_510">Strauchgasse (I.Bezirk)</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-tanczstat_vor_werdertor" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_445">Tanczstat (I. Bezirk)</reg>
+                  <orig>vor Werdertor an der Tanczstat gegen der wachtkamer uber</orig>
+               </placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__schottentor">vor Schottentor</addrLine>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-taschenhaus_hoher_markt" type="street">
+               <placeName>
+                  <reg source="QGW_II_III_register_pg_530">Taschenhaus am Hohenmarkt (I. Bezirk)</reg>
+               </placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__schottentor">vor Schottentor</addrLine>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-teinfaltstrasse" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_446">Teinfaltstrasse(I.Bezirk)</reg>
+                  <orig>Tunfoltstrass</orig>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-tiefer_graben" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_446">Tiefer Graben (I.Bezirk)</reg>
+                  <orig>Teuffergraben</orig>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-unter_den_hafnern" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_522">unter den Hafnern</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-unter_den_sattlern" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_567">unter den Sattlern</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-walichstrasse" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_513">Wallnerstrasse (I. Bezirk)</reg>
+                  <reg source="QGW_II_II_register_pg_513">Walichstrass</reg>
+               </placeName>
+               <idno/>
+            </place>
+            <place xml:id="pl__wien-weidenstrasse" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_514">Weidenstrasse vor Widmertor</reg>
+               </placeName>
+               <idno/>
+            </place>
+            <place xml:id="pl__wien-weihenburg" type="street">
+               <placeName>
+                  <reg source="QGW_II_II_register_pg_514">Weihenburg</reg>
+                  <orig>in der Weihenpurkch</orig>
+               </placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__widmertor">vor</addrLine>
+                     <addrLine corresp="pl__kaerntnertor">vor</addrLine>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-werdertor" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_586">Werderthor</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-widmertor" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_587">Widmertor</reg>
+               </placeName>
+            </place>
+            <place xml:id="pl__wien-wiltwerkerstrasse" type="street">
+               <placeName>
+                  <reg source="QGW_II_I_register_pg_587">Wiltwercherstrasse</reg>
+               </placeName>
+            </place>
+
+            <!-- immovables -->
+            <!-- immovables -->
+            <!-- immovables -->
+            <!-- immovables -->
+ <place xml:id="pl__wien-immo_alserstrasse_vor_schottentor_1" type="immo">
+               <placeName><reg>Johann Auer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alserstrasse_vor_schottentor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_alserstrasse_vor_schottentor_2" type="immo">
+               <placeName><orig>Niclasen Pernharts des Fürer haws</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alserstrasse_vor_schottentor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_alserstrasse_vor_schottentor_3" type="immo">
+               <placeName><orig>des Officials haus das yecz der stat mautthaus
+                  ist</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alserstrasse_vor_schottentor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_alserstrasse_vor_schottentor_4" type="immo">
+               <placeName><reg>Johann und Katharina Spannberger Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alserstrasse_vor_schottentor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_alserstrasse_vor_schottentor_5" type="immo">
+               <placeName><orig>des Rauscher haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alserstrasse_vor_schottentor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_alserstrasse_vor_schottentor_6" type="immo">
+               <placeName><reg>Niklas und Dorothea Piberstein Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alserstrasse_vor_schottentor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_alserstrasse_vor_schottentor_7" type="immo">
+               <placeName><orig>Brandstatt bei Johann Auer Haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alserstrasse_vor_schottentor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_alter_fleischmarkt_1" type="immo">
+               <placeName><reg>Agatha Hulber dritt tail Haus vormals Micheln Stadl</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alter_fleischmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_alter_fleischmarkt_2" type="immo">
+               <placeName><orig>Wolfgang Holczer Haus und zuhaus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alter_fleischmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_alter_fleischmarkt_3" type="immo">
+               <placeName><reg>Stephan Hittendorfer, des peler, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alter_fleischmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_alter_fleischmarkt_4" type="immo">
+               <placeName><orig>der stat newem kassten</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alter_fleischmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_alter_fleischmarkt_5" type="immo">
+               <placeName><orig>der studenten von Bresslaw haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alter_fleischmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_alter_fleischmarkt_6" type="immo">
+               <placeName><reg>Heinrich Rigel Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alter_fleischmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_alter_fleischmarkt_7" type="immo">
+               <placeName><reg>Heinrich Gschoff Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alter_fleischmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-garten_alter_fleischmarkt_1" type="immo">
+               <placeName><orig>Wolfgang Holczer gertl mit der stetten</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-alter_fleischmarkt"/>
+                     <addrLine corresp="pl__wien-unter_den_hafnern"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_anger_1" type="immo">
+               <placeName><orig>Jorg und Jacob, gepruder die Münich, Haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-anger"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_anger_2" type="immo">
+               <placeName><orig>der Newnperger hof</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-anger"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_baeckerstrasse_hintere_1" type="immo">
+               <placeName><reg>Leonhard Grünpacher Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-baeckerstrasse_hintere"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_baeckerstrasse_vordere_1" type="immo">
+               <placeName><reg>Stephan Vink Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-baeckerstrasse_vordere"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_baeckerstrasse_vordere_2" type="immo">
+               <placeName><reg>Niklas vom Stein, der fleischhacker, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-baeckerstrasse_vordere"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_baeckerstrasse_hintere_2" type="immo">
+               <placeName><reg source="QGW_II_III_register_pg_524">der Pirchnerin
+                  haws</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-baeckerstrasse_hintere"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_peurertor_1" type="immo">
+               <placeName><reg>Ulrich Pernauer des gurtler Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-peurertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_fleischbaenke_1" type="immo">
+               <placeName><reg>Servatius und Dorothea Waczla Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-fleischbaenke"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_fleischbaenke_2" type="immo">
+               <placeName><reg>Michael Salzer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-fleischbaenke"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_goldschmiedgasse_1" type="immo">
+               <placeName>
+                  <reg>Niklas Lainbacher, der apotheker, Haus</reg>
+               </placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-goldschmiedgasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_goldschmiedgasse_2" type="immo">
+               <placeName>
+                  <reg>Stephan Pusenperger, der zinngiesser, Haus</reg>
+               </placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-goldschmiedgasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_gottesacker_vor_kaertnertor_1" type="immo">
+               <placeName><reg>Heinrich Wurm, der pekch, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-gottesacker_vor_kaertnertor"/>
+                     <addrLine corresp="pl__wien-kaerntnertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_geraeut_vor_stubentor_1" type="immo">
+               <placeName><orig>Fridreichs kochs haus und hofstat weingarten</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-graben"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_graben_1" type="immo">
+               <placeName><reg>Kaspar Hermann Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-graben"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_graben_2" type="immo">
+               <placeName><reg>Stephan Auer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-graben"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_haarmarkt_1" type="immo">
+               <placeName><reg>Dorothea und Albrecht Liebhart Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-haarmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_haarmarkt_2" type="immo">
+               <placeName><reg>Johann Hermann Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-haarmarkt"/>
+                     <addrLine corresp="pl__wien-alter_fleischmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_haarmarkt_3" type="immo">
+               <placeName><reg>Georg von Nikolsburg Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-haarmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_haarmarkt_4" type="immo">
+               <placeName><reg>weilent Ulrich von Steir Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-haarmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_haarmarkt_5" type="immo">
+               <placeName><orig>Badstube genant die Perlabin</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-haarmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_hochstrasse_1" type="immo">
+               <placeName><reg>Johann Stremphl und Stephan Sorgenfrey, der huter,
+                  Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-hochstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_hoher_markt_1" type="immo">
+               <placeName><reg>Elisabeth und Stephan Goltpach Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-hoher_markt"/>
+                     <addrLine corresp="pl__wien-hoher_markt_fischmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_hoher_markt_2" type="immo">
+               <placeName><orig>Steffans Fúgenstaler haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-hoher_markt"/>
+                     <addrLine corresp="pl__wien-hoher_markt_fischmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_hoher_markt_3" type="immo">
+               <placeName><reg>Johann Payr, des schuster, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-hoher_markt"/>
+                     <addrLine corresp="pl__wien-hoher_markt_fischmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_hoher_markt_4" type="immo">
+               <placeName><orig>Waitzen des Kursner haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-hoher_markt"/>
+                     <addrLine corresp="pl__wien-hoher_markt_fischmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_hoher_markt_5" type="immo">
+               <placeName><orig>Niklas Sawr des schuster haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-hoher_markt"/>
+                     <addrLine corresp="pl__wien-hoher_markt_fischmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_hoher_markt_6" type="immo">
+               <placeName><orig>Kathrey, Wentzlaben Grat des schuster hausfrau, halbs
+                  haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-hoher_markt"/>
+                     <addrLine corresp="pl__wien-hoher_markt_fischmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_hoher_markt_7" type="immo">
+               <placeName><reg source="QGW_II_II_register_pg_503">Matthias Vogpurger haus, genant
+                     des Silbrein Hensleins Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-hoher_markt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_hoher_markt_8" type="immo">
+               <placeName><orig>dem Schrein haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-hoher_markt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_huehnergesslein_1" type="immo">
+               <placeName><reg>Andreas Vischel Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-huehnergesslein"/>
+                  </address>
+               </location>
+               <!--
+               <event ref="ev__immo_im_huehnergesslein_1_burgrecht_1">
+                  <label>Burgrecht</label>
+               </event>
+               <event ref="ev__immo_im_huehnergesslein_1_satz_1">
+                  <label>Satz</label>
+               </event>
+               -->
+            </place>
+            <place xml:id="pl__wien-immo_huehnergesslein_2" type="immo">
+               <placeName><reg>Stephan Imbrung Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-huehnergesslein"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_huehnergesslein_3" type="immo">
+               <placeName><reg>Johann Herolt Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-huehnergesslein"/>
+                     <addrLine corresp="pl__wien-taschenhaus_hoher_markt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_huehnergesslein_4" type="immo">
+               <placeName><reg>Leopold Weiss Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-huehnergesslein"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_judengasse_am_neuen_platz_1" type="immo">
+               <placeName><reg>Berthold Mermann Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-judengasse"/>
+                     <addrLine corresp="pl__wien-neuer_platz"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_judengasse_am_neuen_platz_2" type="immo">
+               <placeName><orig>Jacoben des Smalen Haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-judengasse"/>
+                     <addrLine corresp="pl__wien-neuer_platz"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_judengasse_am_neuen_platz_3" type="immo">
+               <placeName><orig>Erhart von Prag des peutler haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-judengasse"/>
+                     <addrLine corresp="pl__wien-neuer_platz"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_judengasse_am_neuen_platz_4" type="immo">
+               <placeName><orig>Jakob Huter haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-judengasse"/>
+                     <addrLine corresp="pl__wien-neuer_platz"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kaerntnerstrasse_1" type="immo">
+               <placeName><reg>Friedrich Pierpaumer halbes Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kaerntnerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kaerntnerstrasse_2" type="immo">
+               <placeName><reg>Jakob Straiffing und Peter Obrcht, weilent Erhard Neunkirchner,
+                     Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kaerntnerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kaerntnerstrasse_3" type="immo">
+               <placeName><reg>Heinrich Stoll Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kaerntnerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kaerntnertor_1" type="immo">
+               <placeName><reg>Johann Kieler Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kaerntnertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kaerntnertor_2" type="immo">
+               <placeName><reg>Ulrich Floederl, der schlosser, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kaerntnertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kienmarkt_1" type="immo">
+               <placeName><reg>Michael Viregk Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kienmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kienmarkt_2" type="immo">
+               <placeName><reg>Lorenz Swancz Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kienmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kienmarkt_3" type="immo">
+               <placeName><reg>Margarethe und Johann Hölczel Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kienmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kienmarkt_4" type="immo">
+               <placeName><orig>Jorgen von Gelestorf sun haus</orig>
+               <reg>Johann Göllersdorfer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kienmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kienmarkt_5" type="immo">
+               <placeName><reg>Leonhard Kriech Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kienmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kienmarkt_6" type="immo">
+               <placeName><reg>Martin, der wachsgiesser, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kienmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kienmarkt_7" type="immo">
+               <placeName><reg>Fridreichen von Minden, der kursner, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kienmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kienmarkt_8" type="immo">
+               <placeName><reg>Georg Schuchler Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kienmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kienmarkt_9" type="immo">
+               <placeName><reg>Johann Wepekch Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kienmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kienmarkt_10" type="immo">
+               <placeName><reg>Laurenz Sixt Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kienmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_krafthof_1" type="immo">
+               <placeName><reg>Niklas Graefenauer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-krafthof"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_krafthof_2" type="immo">
+               <placeName><reg>Johann Nagler Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-krafthof"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_krafthof_3" type="immo">
+               <placeName><reg>Konrad und Anna Schersmid Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-krafthof"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_krafthof_4" type="immo">
+               <placeName><reg>Johann Freisleben, der nagler, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-krafthof"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kohlmarkt_1" type="immo">
+               <placeName><reg>Johann und Barbara Unverdrossen (halbes) Haus (mit Zugehorung),
+                     vormals Jakob von Brünn des schneider Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kohlmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kohlmarkt_2" type="immo">
+               <placeName><reg>Johann Schuchl des goldschmieds Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kohlmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kohlmarkt_4" type="immo">
+               <placeName><reg>Niklas Vorstl, der wundarzt, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kohlmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kohlmarkt_5" type="immo">
+               <placeName><reg>Ulrich Fochter Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kohlmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kohlmarkt_6" type="immo">
+               <placeName><reg>Heinrich und Margarethe Eschlbach Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kohlmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kohlmarkt_7" type="immo">
+               <placeName><orig>des Fuchsleins haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kohlmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kohlmarkt_8" type="immo">
+               <placeName><reg>Johann Unverdrossen, der plattner, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kohlmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kohlmarkt_9" type="immo">
+               <placeName><reg>Simon und Barbara Brunner Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kohlmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kohlmarkt_10" type="immo">
+               <placeName><reg>Paul Haid, der schuster, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kohlmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kohlmarkt_11" type="immo">
+               <placeName><reg>Andreas und Margarethe Meichsner Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kohlmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kohlmarkt_12" type="immo">
+               <placeName><reg>Hartmann Tannauer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kohlmarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kumpfgasse_1" type="immo">
+               <placeName><orig>des Widhakcher haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kumpfgasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kumphlukche_vor_kernertor_1" type="immo">
+               <placeName><reg>Konrad und Margarethe von Tyrna Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kumphlukche_vor_kernertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kumphlukche_vor_kernertor_2" type="immo">
+               <placeName><orig>Hainreichs Krumbnawer haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kumphlukche_vor_kernertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_kumphlukche_vor_kernertor_3" type="immo">
+               <placeName><reg>Johann und Katharina Freinsteter Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kaerntnertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-stadl_kumphlukche_vor_kernertor_1" type="immo">
+               <placeName><reg>Herczogen stadl</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kaerntnertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_laimgrub_vor_widmertor_1" type="immo">
+               <placeName><reg>Johann Weinperger Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-laimgrub_vor_widmertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_laimgrub_vor_widmertor_2" type="immo">
+               <placeName><reg>Georg Salczer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-laimgrub_vor_widmertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_mietstat_vor_kaerntnertor_1" type="immo">
+               <placeName>
+                  <reg>Ulrich und Barbara Meichsner Haus</reg>
+                  <reg source="QGW_II_II_pg_488">Haus an der Mietstat</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kaerntnertor"/>
+                     <addrLine corresp="pl__wien-mietstat_vor_kaerntnertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_mietstat_vor_kaerntnertor_2" type="immo">
+               <placeName><orig>des Kuphersmids haws</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-kaerntnertor"/>
+                     <addrLine corresp="pl__wien-mietstat_vor_kaerntnertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_moering_unter_den_schlossern_am_graben_1" type="immo">
+               <placeName><reg>Friedrich im Hof, der Schlosser, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-moering"/>
+                     <addrLine corresp="pl__wien-graben"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_moering_unter_den_schlossern_am_graben_2" type="immo">
+               <placeName><orig>Niclasen Légler haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-moering"/>
+                     <addrLine corresp="pl__wien-graben"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_neuer_markt_1" type="immo">
+               <placeName><reg>Konrad u. Brigitta Eggenfelder Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-neuer_markt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_neuer_markt_2" type="immo">
+               <placeName><reg>Thomas Kunter Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-neuer_markt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_pippingerstrasse_1" type="immo">
+               <placeName><reg>Johann und Agnes Hinlauf Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-pippingerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_pippingerstrasse_2" type="immo">
+               <placeName><reg>Georg von Ror, der fleischacker, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-pippingerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_riemerstrasse_1" type="immo">
+               <placeName><reg>Michael und Dorothea Toller Ramhof</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-riemerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_riemerstrasse_4" type="immo">
+               <placeName><reg>Meinhard Riemer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-riemerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_riemerstrasse_2" type="immo">
+               <placeName><reg>Simon Vankch Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-riemerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_riemerstrasse_3" type="immo">
+               <placeName><reg>Johann Winter, der kramer, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-riemerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_riemerstrasse_5" type="immo">
+               <placeName><reg>Michael Praunsperger, der riemer, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-riemerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_roterturm_1" type="immo">
+               <placeName><reg>Stephan und Barbara Holfus Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-roterturm"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_roterturm_2" type="immo">
+               <placeName><orig>weilent des Snitzer haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-roterturm"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_roterturm_3" type="immo">
+               <placeName><reg>Thomas Praitenweidacher Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-roterturm"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_roterturm_4" type="immo">
+               <placeName><orig>weilent Ulreichs von Steir haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-roterturm"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_salzgries_1" type="immo">
+               <placeName><reg>Johann Würer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-salzgries"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_salzgries_2" type="immo">
+               <placeName><reg>Liebhard Weiss Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-salzgries"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_salzgries_3" type="immo">
+               <placeName><reg>Stephan und Katharina Radendorfer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-salzgries"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_salzgries_4" type="immo">
+               <placeName><reg>Johann Zwettler am Salzgriess Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-salzgries"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_salzgries_5" type="immo">
+               <placeName><reg>Michael Paumgartner, der flötzer, am Salzgriess
+                  Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-salzgries"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_schenkenstrasse_1" type="immo">
+               <placeName><reg>Niklas und Katharina Vaschang Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-schenkenstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_schenkenstrasse_2" type="immo">
+               <placeName><reg>Ulrich Peck Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-schenkenstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_schenkenstrasse_3" type="immo">
+               <placeName><reg>Ulrich Lang, der pekch, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-schenkenstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_schenkenstrasse_4" type="immo">
+               <placeName><reg>Burkhard Kienberger Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-schenkenstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_scheffstrasse_1" type="immo">
+               <placeName><reg>Johann und Klara Tinpeck Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-scheffstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_scheffstrasse_2" type="immo">
+               <placeName><reg>Wolfgang von Asparn Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-scheffstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_schulstrasse_vordere_1" type="immo">
+               <placeName><reg>Johann und Dorothea Ofner halbes Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-schulstrasse_vordere"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_schulstrasse_vordere_2" type="immo">
+               <placeName><reg>Peter Engelhartsstetter Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-schulstrasse_vordere"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_schulstrasse_vordere_3" type="immo">
+               <placeName><reg>Johann und Dorothea Ofner Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-schulstrasse_vordere"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_schulstrasse_vordere_4" type="immo">
+               <placeName><orig>des Phanczagls haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-schulstrasse_vordere"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_siebenherbergen_vor_kaertnertor_1" type="immo">
+               <placeName><reg>Georg Krumpp, der binder, Haus und Garten daran</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-siebenherbergen_vor_kaertnertor"/>
+                     <addrLine corresp="pl__wien-st_koloman"/>
+                     <addrLine corresp="pl__wien-gottesacker_vor_kaertnertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_siebenherbergen_vor_kaertnertor_2" type="immo">
+               <placeName><reg>Georg Krumpp, der binder, <orig>hofmarch, daz emaln ain haus gewesen
+                        ist</orig></reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-siebenherbergen_vor_kaertnertor"/>
+                     <addrLine corresp="pl__wien-st_koloman"/>
+                     <addrLine corresp="pl__wien-gottesacker_vor_kaertnertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_singerstrasse_1" type="immo">
+               <placeName><reg>Johann Züchtig Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-singerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_singerstrasse_2" type="immo">
+               <placeName><reg>Johann Maurperger des münzer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-singerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_singerstrasse_3" type="immo">
+               <placeName><reg>Jakob Rechwein Ramhof</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-singerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_st_johannsstrasse_1" type="immo">
+               <placeName><orig>des Grünpekchen haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-st_johannssstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_st_johannsstrasse_2" type="immo">
+               <placeName><reg>Johann und Agnes Teuffenpekch Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-st_johannssstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_st_johannsstrasse_3" type="immo">
+               <placeName><orig>Jakob Kreuss halbs haus, das ettwan ain ramhof gewesen ist
+                  </orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-st_johannssstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_st_johannsstrasse_4" type="immo">
+               <placeName><reg>Michael des Münzer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-st_johannssstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_st_johannsstrasse_5" type="immo">
+               <placeName><reg>Niklas und Elsbeth Salczburger Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-st_johannssstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_st_johannsstrasse_6" type="immo">
+               <placeName><reg>Gilg Kunter Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-st_johannssstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_st_pankraz_1" type="immo">
+               <placeName><reg>Ulrich Hesler Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-st_pankraz"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_st_pankraz_2" type="immo">
+               <placeName><reg>Andreas Weinperger Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-st_pankraz"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_st_pankraz_3" type="immo">
+               <placeName><reg>Georg und Elisabeth Zwettler Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-st_pankraz"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_st_pankraz_4" type="immo">
+               <placeName><reg>Michael Hiltprant, der schmied, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-st_pankraz"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_steig_bei_den_predigern_1" type="immo">
+               <placeName><reg>Jakob Schutwempl, der fasszieher, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-steig_bei_den_predigern"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_steig_bei_den_predigern_2" type="immo">
+               <placeName><reg>Peter von Asparn Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-steig_bei_den_predigern"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_steig_bei_den_predigern_3" type="immo">
+               <placeName><reg>Peter von Nussdorf, der schneider, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-steig_bei_den_predigern"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_strauchgasse_1" type="immo">
+               <placeName><reg>Johann Weilhaimer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-strauchgasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_strauchgasse_2" type="immo">
+               <placeName><reg>Heinrich Maler Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-strauchgasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_stubentor_1" type="immo">
+               <placeName><orig>des Panczawn haws</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-stubentor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_stubentor_2" type="immo">
+               <placeName><reg>Dorothea und Martin vom Perg Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-stubentor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_stubentor_3" type="immo">
+               <placeName><reg>Diemut und Johann Galer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-stubentor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_stubentor_4" type="immo">
+               <placeName><reg>Simon Haubner Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-stubentor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_tanczstat_vor_werdertor_1" type="immo">
+               <placeName><reg>Margarethe und Johann Herl Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-werdertor"/>
+                     <addrLine corresp="pl__wien-tanczstat_vor_werdertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_tanczstat_vor_werdertor_2" type="immo">
+               <placeName><orig>Jacoben Smekchenwagen des vischer haus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-werdertor"/>
+                     <addrLine corresp="pl__wien-tanczstat_vor_werdertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_tiefer_graben_1" type="immo">
+               <placeName><reg>Dorothea und Pankraz Widmer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-tiefer_graben"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_tiefer_graben_2" type="immo">
+               <placeName><reg>Thomas Trager Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-tiefer_graben"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_teinfaltstrasse_1" type="immo">
+               <placeName><reg>Johann Frey, der parhander, Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-teinfaltstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_teinfaltstrasse_2" type="immo">
+               <placeName><reg>Johann Höphl haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-teinfaltstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_tiefer_graben_3" type="immo">
+               <placeName><reg>Egidius Zimmermann Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-tiefer_graben"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_unter_den_sattlern_1" type="immo">
+               <placeName><reg>Konrad Phuntimaschen (halbes) Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-unter_den_sattlern"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_walichstrasse_1" type="immo">
+               <placeName><reg>Lorenz Krakauer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-walichstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_walichstrasse_2" type="immo">
+               <placeName><reg>Johann Peinhekchl des brunner Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-walichstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_walichstrasse_3" type="immo">
+               <placeName><reg>Lorenz Swarcz Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-walichstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_walichstrasse_4" type="immo">
+               <placeName><orig>des Gréfenperger háws</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-walichstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_weidenstrasse_1" type="immo">
+               <placeName><reg>Elisabth Hubner (vormals Linczer) Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-weidenstrasse"/>
+                     <addrLine corresp="pl__wien-widmertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_weidenstrasse_2" type="immo">
+               <placeName><orig>Petern des Letzelter haws</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-weidenstrasse"/>
+                     <addrLine corresp="pl__wien-widmertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_weidenstrasse_3" type="immo">
+               <placeName><reg>Michael und Katharina Haffner Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-weidenstrasse"/>
+                     <addrLine corresp="pl__wien-kaerntnertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_weidenstrasse_4" type="immo">
+               <placeName><reg>Albrecht Ladner Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-weidenstrasse"/>
+                     <addrLine corresp="pl__wien-kaerntnertor"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_weihenburg_1" type="immo">
+               <placeName><orig>genant der Alt Techanthof</orig><reg>Konrad und Anna Schröfl
+                     Haus</reg><reg>Johann Kanstdorffer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-weihenburg"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_weihenburg_2" type="immo">
+               <placeName><orig>des abts von Altenburg haws</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-weihenburg"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_weihenburg_3" type="immo">
+               <placeName><orig>Elspeth die Kolpekchin haws</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-weihenburg"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_weihenburg_4" type="immo">
+               <placeName><reg>Ulrich Feldsberger Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-weihenburg"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_weihenburg_5" type="immo">
+               <placeName><reg>Kunigund, Hannsen des Hagen seligen witib, haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-weihenburg"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_wiltwerkerstrasse_1" type="immo">
+               <placeName type="reg">Alexander Gehart Haus</placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-wiltwerkerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_wiltwerkerstrasse_2" type="immo">
+               <placeName type="reg">Niklas Zingk Haus</placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-wiltwerkerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_wiltwerkerstrasse_3" type="immo">
+               <placeName><reg>Anna Leinburger Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-wiltwerkerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_wiltwerkerstrasse_4" type="immo">
+               <placeName><orig>Óttinger zuhaws</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-wiltwerkerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_wiltwerkerstrasse_5" type="immo">
+               <placeName><reg>Andreas Gundorffer Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-wiltwerkerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_wiltwerkerstrasse_6" type="immo">
+               <placeName><reg>Christina und Stephan Reschhover Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-wiltwerkerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_wiltwerkerstrasse_7" type="immo">
+               <placeName><reg>Elisabeth Rauch / Hartkirchener Haus</reg></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-wiltwerkerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-immo_wiltwerkerstrasse_8" type="immo">
+               <placeName><orig>des Rechweins zuhaus</orig></placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-wiltwerkerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__wien-stein-goettweigerhof">
+               <placeName>Stein-Göttweiger Hof</placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="pl__wien-">Göttweigerhofgasse, Stein an der Donau</addrLine>
+                  </address>
+                  <geo decls="LatLng">48.40163 15.58102</geo>
+               </location>
+            </place>
+            <place xml:id="pl__laxenburg" type="settlement">
+               <placeName>
+                  <reg>Laxenburg</reg>
+               </placeName>
+               <location>
+                  <geo decls="LatLng">48.06833 16.35607</geo>
+               </location>
+               <idno type="URL">https://www.geonames.org/2772810/laxenburg.html</idno>
+               <note/>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eintrag vom 1448-04-29</title>
+            <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von
+               Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
+            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+            <respStmt>
+               <resp>Transkription</resp>
+               <name>
+                  <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher>
+            <availability default="false">
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>CC-BY</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format. Adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc type="invetory" status="draft">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Grundbücher</repository>
+                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from="[170v]" to=" [171r]"/>
+                     <p>[170v] - [171r]</p>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notAfter="1448-04-29">1448-04-29</origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xmlns:xi="http://www.w3.org/2001/XInclude">
+         <projectDesc default="false">
+            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                  <row rend="header">
+                     <cell>Name der Formatvorlage</cell>
+                     <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                  </row>
+                  <row>
+                     <cell>Folioangabe</cell>
+                     <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                        Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden
+                        sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in
+                        lateinischen Zahlzeichen in Tinte</cell>
+                  </row>
+                  <row>
+                     <cell>Faksimilelink</cell>
+                     <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der
+                        Bilddatei</cell>
+                  </row>
+                  <row>
+                     <cell>Rubrik</cell>
+                     <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                  </row>
+                  <row>
+                     <cell>Urkundendatum</cell>
+                     <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                  </row>
+                  <row>
+                     <cell>Standard</cell>
+                     <cell>Text des Grundbucheintrags</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                  </row>
+                  <row>
+                     <cell>Nachtrag</cell>
+                     <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                  </row>
+                  <row>
+                     <cell>Seitenautor</cell>
+                     <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die
+                        interne Organisation)</cell>
+                  </row>
+                  <row>
+                     <cell>Durchgestrichen</cell>
+                     <cell>Durchgestrichen</cell>
+                  </row>
+                  <row>
+                     <cell>Hochgestellt</cell>
+                     <cell>Hochgestellt</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+               community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
+               wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0333.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="entry">
+            <p><rs type="event" ref="ev__SB_CD_00608"><rs type="fn" role="issuer"><rs type="person"
+                        ref="pe__johann_unverdrossen_SB_CD_00613">Hanns Unverdrossen, <roleName
+                           type="prof">helmsmid</roleName></rs>, und <rs type="person"
+                        ref="pe__barbara_SB_CD_00613">Barbara, sein <roleName type="kin"
+                           corresp="pe__johann_unverdrossen_SB_CD_00613"
+                     >hausfrau</roleName></rs>,</rs>
+                  <catchwords n="disp">habent verchaufft</catchwords> fünffthalb phund phening
+                     <catchwords n="disp">gelts purkrechts</catchwords>
+                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_kohlmarkt_1"
+                        >auf <roleName type="owner" corresp="pe__barbara_SB_CD_00613"
+                           ><add>irm</add></roleName>
+                        <roleName type="owner" corresp="pe__johann_unverdrossen_SB_CD_00613"
+                           >irm</roleName> haws, <roleName type="topo" corresp="pl__wien-kohlmarkt"
+                           >gelegen am Alten Kolmarkcht</roleName>, <rs type="event" ref="NULL"><rs
+                              type="fn" role="transactiongood_I"><rs type="place"
+                                 ref="pl__wien-immo_kohlmarkt_1">das</rs></rs>
+                           <rs type="fn" role="issuer">von <rs type="person"
+                                 ref="pe__jakob_von_brunn_schneider_QGW_II_II_3261">Jacoben von
+                                 Brúnn dem <roleName type="prof">sneider</roleName></rs></rs>
+                           <catchwords n="disp">mit kauff an sy komen ist</catchwords>
+                           <rs type="fn" role="recipient"><rs type="person"
+                                 ref="pe__barbara_SB_CD_00613"><add>sy</add></rs>
+                              <rs type="person" ref="pe__johann_unverdrossen_SB_CD_00613"
+                                    ><add>sy</add></rs></rs></rs>, <roleName type="topo"
+                           corresp="pl__wien-immo_kohlmarkt_2">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_kohlmarkt_2"><roleName type="owner"
+                              corresp="pe__johann_schuchl_SB_CD_00617"><rs type="person"
+                                 ref="pe__johann_schuchl_SB_CD_00617">Hannsen Schúchl des <roleName
+                                    type="prof">goltsmids</roleName></rs></roleName> haus</rs>, <rs
+                           type="event" ref="ev__SB_CD_00608_men_1"><rs type="fn" role="issuer"><rs
+                                 type="place" ref="pl__wien-immo_kohlmarkt_1">davon</rs> man</rs>
+                           <catchwords n="disp">jerlich dint</catchwords>
+                           <rs type="fn" role="recipient"><rs type="person"
+                                 ref="pe__georg_schrot_QGW_II_II_3733"><roleName type="title"
+                                    >hern</roleName> Jorgen Schrot, <roleName type="off"
+                                    corresp="org__wien-st_peter">kapplan</roleName> Sand Peters
+                                 cappellen zu Wienn und <roleName type="off"
+                                    corresp="org__wien-st_peter-altar_st_maria-messe_chastner"
+                                    >verweser</roleName> der mess die weilent Eberhart Kasstner
+                                 daselbs zu stifften geschafft hat</rs></rs>, <rs type="fn"
+                              role="transactiongood_II">zehen phund phening</rs>
+                           <catchwords n="disp">zu purkrecht</catchwords> die abczulosen sind mit
+                           hundert phund pheningen nach lautt ains purkrechtbriefs und nicht
+                           mer</rs></rs>.</rs>
+                  <rs type="fn" role="transactiongood_II">Umb sechsunddreissig phund phening</rs>,
+                     <rs type="fn" role="recipient"><rs type="person"
+                        ref="pe__konrad_mospach_SB_CD_00608"><roleName type="title"
+                           >bruder</roleName> Kunraten Mospach, <roleName type="off"
+                           corresp="org__wien-minoriten">prior</roleName></rs>, und dem <rs
+                        type="org" ref="org__wien-minoriten">convent des klosters zu den
+                        Weissenbrudern</rs> und irn nachkomen</rs> und sind zu dienn zu drein tégen
+                  und wider abczukauffen miteinander und den nägsten dinst damit, ut littera sonat.
+                  Actum an Montag vor Philippi et Jacobi apostolorum, anno etc. xlviiio.</rs></p>
+            <p rend="Summa">Summa lxxii d.</p>
+            <p rend="Nachtrag">Das purkrecht ist abgelost und zu dem puch erlegt worden feria sexta
+               ante Jeori, anno etc. liido.</p>
+         </div>
+         <div type="lists">
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
+            <include xmlns="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>
