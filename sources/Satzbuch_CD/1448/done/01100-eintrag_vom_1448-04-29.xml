@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
@@ -125,16 +125,17 @@
                   <rs type="fn" role="transactiongood_I"><rs type="place"
                         ref="pl__wien-immo_hoher_markt_6"><roleName type="owner"
                            corresp="pe__katharina_SB_CD_01100">ir</roleName> halbs haus, <roleName
-                           type="topo" corresp="pl__wien-hoher_markt">gelegen am Hohenmarkcht</roleName>
+                           type="topo" corresp="pl__wien-hoher_markt">gelegen am
+                           Hohenmarkcht</roleName>
                         <roleName type="topo" corresp="pl__wien-hoher_markt_wentkremen">undern
                            Wentkremen</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_hoher_markt_5">zenagst</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_hoher_markt_5">zenagst <add>an
+                              aim tail</add></roleName>
                         <rs type="place" ref="pl__wien-immo_hoher_markt_5"><roleName type="owner"
                               corresp="pe__niklas_saur_SB_CD_01100"><rs type="person"
                                  ref="pe__niklas_saur_SB_CD_01100">Niclasen Sawr <roleName
-                                    type="prof">schuster</roleName></rs></roleName> haus</rs>
-                        <roleName type="topo" corresp="pl__wien-immo_hoher_markt_5">an aim
-                           tail</roleName></rs>.</rs>
+                                    type="prof">schuster</roleName></rs></roleName> haus</rs> an aim
+                        tail</rs>.</rs>
                   <rs type="fn" role="recipient">Den <rs type="person"
                         ref="pe__erasmus_vinkch_QGW_II_II_3328"><roleName type="title"
                            >erbern</roleName> Erasm Vinkch <roleName type="prof"
@@ -152,21 +153,21 @@
                      <roleName type="kin" corresp="pe__heinrich_unverdrossen_SB_CD_01100"
                         >tochter</roleName></rs>, und irn erben, <rs type="fn"
                      role="transactiongood_II">umb dreissig Ungrisch guldein in gold die <rs
-                        type="event" ref="NULL">ir der benant ir vater seliger geschafft hat nach
-                        lautt seins gescheffts, das im statpuch geschriben stet</rs></rs> und sind
-                  zu beczalen wann die benant Anna vogtper wirt an alles vercziehen. Actum an Montag
-                  ante Philippi et Jacobi, anno etc. xlviii<hi rend="super">o</hi>.</rs></p>
+                        ref="ev__SB_CD_01100_men_1">ir der benant ir vater seliger geschafft hat
+                        nach lautt seins gescheffts, das im statpuch geschriben stet</rs></rs> und
+                  sind zu beczalen wann die benant Anna vogtper wirt an alles vercziehen. Actum an
+                  Montag ante Philippi et Jacobi, anno etc. xlviii<hi rend="super">o</hi>.</rs></p>
             <p rend="Summa">Summa lii d.</p>
          </div>
          <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
          </div>
       </body>
    </text>

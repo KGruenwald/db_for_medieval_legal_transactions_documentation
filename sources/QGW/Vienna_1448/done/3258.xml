@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tei version of 3258 exported from monasterium.net </title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest-->
+         <sourceDesc default="false">
+            <bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2,
+               Nr. 3258 As published in HAUrk by Wiener Stadt- und Landesarchiv </bibl>
+            <msDesc status="draft">
+               <msIdentifier>
+                  <repository>Wiener Stadt- und Landesarchiv</repository>
+                  <idno>3258</idno>
+                  <altIdentifier type="old">
+                     <idno>517495</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <listBibl default="false">
+                        <bibl default="false" status="draft">Camesina, Regesten 83 n° 382
+                           Regest.</bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <sealDesc>
+                     <seal>
+                        <p>Zwei anhangende Siegel, grün u. Sch., 1. links abgeschlagen.Siegler:
+                           Meister Peter Pachmüller und Ulreich Hirssauer, Stadtschreiber. </p>
+                     </seal>
+                  </sealDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName>Wien</placeName>
+            <date when="14480626">1448 VI 26</date>
+            <origDate instant="false">zu Wienn, an mitichen vor sand Peter und sand Pauls tag, der
+               heiligen zwelfpoten.</origDate></creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03258_r.jpg"/>
+      </surface>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03258_v.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="abstract">
+            <p>
+               <rs type="event" ref="ev__QGW_II_II_3258"><rs type="fn" role="issuer"><rs
+                        type="person" ref="pe__agnes_QGW_II_II_3250_b">Agnes, <rs type="person"
+                           ref="pe__michael_fuechsel_QGW_II_I_1108">Micheln des Füchsel <roleName
+                              type="dead">witib</roleName></rs>, <roleName type="kin"
+                           corresp="pe__michael_fuechsel_QGW_II_I_1108"><add>witib</add></roleName>
+                        <roleName type="title_ref" corresp="org__wien">burgerin</roleName> zu Wienn,
+                           <roleName type="rep" corresp="pe__michael_fuechsel_QGW_II_I_1108"
+                              ><add>Testamentsvollstreckerin</add></roleName></rs></rs>
+                  <catchwords n="disp">beurkundet</catchwords>, <rs type="event" ref="NULL">dass <rs
+                        type="fn" role="issuer"><rs type="person"
+                           ref="pe__michael_fuechsel_QGW_II_I_1108">ihr Mann</rs></rs>
+                     <rs type="fn" role="transactiongood_I"><rs type="place"
+                           ref="pl__meidling-immo_1"><roleName type="owner"
+                              corresp="pe__michael_fuechsel_QGW_II_I_1108">seinen</roleName>
+                           Weingarten, <roleName type="topo" corresp="pl__meidling">zu Meurling in
+                              der Lainncz</roleName>
+                           <roleName type="topo" corresp="pl__meidling-immo_2">zenagst
+                                 <add>gelegen</add></roleName>
+                           <rs type="place" ref="pl__meidling-immo_2"><roleName type="owner"
+                                 corresp="pe__philipp_auf_dem_pach_QGW_II_II_3258"><rs type="person"
+                                    ref="pe__philipp_auf_dem_pach_QGW_II_II_3258">Philippen auf dem
+                                    Pach</rs></roleName> weingarten</rs> gelegen, <rs type="event"
+                              ref="NULL"><rs type="fn" role="issuer">von <rs type="place"
+                                    ref="pl__meidling-immo_1">dem</rs> man</rs>
+                              <rs type="fn" role="recipient"><rs type="org"
+                                    ref="org__klosterneuburg-augustinerchorfrauen">Unser Frauen
+                                    goczhaus zu Klosterneunburg</rs></rs>
+                              <rs type="fn" role="transactiongood_I"><measure>5 dn.</measure>
+                                 <catchwords n="fn">zu Grunddienst</catchwords></rs>
+                              <catchwords n="disp"><add>Grunddienst</add>
+                           dient</catchwords></rs></rs></rs>, <catchwords n="reason">laut
+                        letztwilliger, in das Stadtbuch eingetragener Anordnung</catchwords>
+                     <rs type="fn" role="recipient">zu <rs type="org"
+                           ref="org__wien-st_stephan-altar_st_ulrich-messe_fuechsel">der von ihnen
+                           auf dem St. Ulrichsaltar in der Stephanskirche gestifteten [295]
+                           Messe</rs></rs>
+                     <catchwords n="disp">gewidmet habe</catchwords>,</rs>
+                  <catchwords n="disp">und übergibt</catchwords> als Testamentsvollstreckerin <rs
+                     type="fn" role="other"><catchwords n="fn">mit Handen</catchwords> des <rs
+                        type="person" ref="pe__peter_pachmuellner_QGW_II_II_3258"><roleName
+                           type="title">Meisters</roleName> Peter Pachmüllner, <roleName type="prof"
+                           >lerer geistlicher rechten</roleName>, <roleName type="off"
+                           corresp="org__klosterneuburg-augustinerchorfrauen" select="pl__meidling"
+                           >Verwesers</roleName> der nach Klosterneuburg gehörigen Gründe und Güter
+                        zu <rs type="place" ref="pl__meidling">Meurling</rs></rs></rs>, <rs
+                     type="fn" role="transactiongood_I"><rs type="place">diesen Weingarten</rs></rs>
+                  <rs type="fn" role="recipient">ihrem <rs type="person"
+                        ref="pe__johann_fuechsel_QGW_II_II_3250"><roleName type="kin"
+                           corresp="pe__agnes_QGW_II_II_3250_b">Vetter</roleName> Hanns Füchsel,
+                           <roleName type="title_ref" corresp="org__wien-st_stephan"
+                           >Chorherrn</roleName> von St. Stephan und <roleName type="off"
+                           corresp="org__wien-st_stephan-altar_st_ulrich-messe_fuechsel"
+                           >Kaplan</roleName> der angeführten Messe</rs>, und <rs type="org"
+                        ref="org__wien-st_stephan-altar_st_ulrich-messe_fuechsel">seinen
+                        Nachfolgern</rs></rs>.</rs>
+            </p>
+         </div>
+         <div type="seal">
+            <p><rs type="event" ref="ev__QGW_II_II_3258"><rs type="fn" role="witness">Siegler: <rs
+                        type="person" ref="pe__peter_pachmuellner_QGW_II_II_3258"><roleName
+                           type="title">Meister</roleName> Peter Pachmüller</rs> und <rs
+                        type="person" ref="pe__ulrich_hirssauer_QGW_II_II_3239">Ulreich Hirssauer,
+                           <roleName type="off" corresp="org__wien"
+                     >Stadtschreiber</roleName></rs>.</rs></rs>
+            </p>
+         </div>
+         <div type="lists">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

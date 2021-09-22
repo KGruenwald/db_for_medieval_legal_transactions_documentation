@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tei version of 3246 exported from monasterium.net </title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest-->
+         <sourceDesc default="false">
+            <bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2,
+               Nr. 3246 As published in HAUrk by Wiener Stadt- und Landesarchiv </bibl>
+            <msDesc status="draft">
+               <msIdentifier>
+                  <repository>Wiener Stadt- und Landesarchiv</repository>
+                  <idno>3246</idno>
+                  <altIdentifier type="old">
+                     <idno>517483</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <listBibl default="false">
+                        <bibl default="false" status="draft">Camesina in den Mitth. des
+                           Alterthumsvereines 12, 13 n° 30.</bibl>
+                        <bibl default="false" status="draft">Jahrbuch der kais. Kunstsamml. 17b, n°
+                           15230 Regest.</bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <sealDesc>
+                     <seal>
+                        <p>Sieben anhangende Siegel: 1. beschädigt, grün u. Sch., 2. grün u. Sch.,
+                           3. spitzoval, roth u. Sch., 4. grün u. Sch., 5. spitzoval, schwarz u.
+                           Sch., 6., 7. grün u. Sch.Siegler: 1. <quote>Jacob Rechwein</quote>, 2.
+                              <quote>Ulrich Kerner</quote>, 3. die Aebtissin von St. Clara, 4. der
+                           Comthur von St. Johann, <quote>5</quote>. der Pfarrer von Heiligenstadt,
+                           6. <quote>Herman der Eibenstainer zu Nustorff, 7. Ulreich Hirssauer,
+                              statschreiber zu Wienn</quote>. </p>
+                     </seal>
+                  </sealDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName>Wien</placeName>
+            <date when="14480327">1448 III 27</date>
+            <origDate instant="false">zu Wienn, an sannd Ruepprechts tag, des heiligen
+               bischofs.</origDate></creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03246_r.jpg"/>
+      </surface>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03246_v.jpg"/>
+      </surface>
+   </facsimile>
+   <!-- geschefftsherren -->
+   <text>
+      <body>
+         <div type="abstract">
+            <p>
+               <rs type="event" ref="ev__QGW_II_II_3246"><rs type="fn" role="issuer"><rs
+                        type="person" ref="pe__stephan_von_eggenburg_QGW_II_II_3242"><roleName
+                           type="title">Maister</roleName> Stephan von Egenburg, <roleName
+                           type="prof">lerer in der heiligen geschrift</roleName>, <roleName
+                           type="title_ref" corresp="org__wien-st_stephan">korherr</roleName> dacz
+                        sannd Stephan zu Wienn <roleName type="rep"
+                           corresp="pe__ulrich_schrot_QGW_II_II_3242"
+                           ><add>Geschäftsherren</add></roleName></rs>, <rs type="person"
+                        ref="pe__jakob_rechwein_QGW_II_II_3242">Jacob Re/achwein, <roleName
+                           type="off" corresp="org__oesterreich-herzogtum">hu/ebschreiber</roleName>
+                        <roleName type="title_ref" corresp="org__wien"><add>burger</add></roleName>
+                        <roleName type="rep" corresp="pe__ulrich_schrot_QGW_II_II_3242"
+                              ><add>Geschäftsherren</add></roleName></rs>, und <rs type="person"
+                        ref="pe__ulrich_kerner_QGW_II_II_3242">Ulrich Ke/arner, baid <roleName
+                           type="title_ref" corresp="org__wien">burger</roleName> daselbs <roleName
+                           type="rep" corresp="pe__ulrich_schrot_QGW_II_II_3242"
+                              ><add>Geschäftsherren</add></roleName></rs>,</rs>
+                  <catchwords n="disp">stiften</catchwords> als Geschäftsherren Ulrichs Schrot in
+                  Ausführung seines in das Stadtbuch zu Wien eingetragenen Geschäftes <catchwords
+                     n="disp">eine ewige Messe</catchwords>
+                  <rs type="fn" role="recipient">auf <rs type="org"
+                        ref="org__wien-st_peter-altar_st_bartholomaeus">sannd Bartholomes altar in
+                        sannd Peters cappellen zu Wienn</rs> in der abseitten zenagst an den sagrer,
+                     welchen Altar sie aus des Erblassers Gut neu herstellen liessen,</rs> eine
+                  ewige Messe <rs type="fn" role="other"><catchwords n="fn">und verleihen
+                        sie</catchwords> dem <rs type="person"
+                        ref="pe__sigmund_obrecht_von_lengenfeld_QGW_II_II_3242"><roleName
+                           type="title">maister</roleName> Sigmunden Obrecht <roleName
+                           type="title_ref" corresp="pl__lengenfeld_QGW_II_II_register_pg_482">von
+                           Lengenfeld</roleName>, <roleName type="prof"
+                           ><add>priester</add></roleName>
+                        <roleName type="title_ref" corresp="org__passau-dioezese"
+                           >priester</roleName> Passauer bistumbs</rs>. Nach dessen Abgang sollen
+                        <rs type="org" ref="org__wien">Bürgermeister und Rath</rs> der Messe rechte
+                     Lehenherren sein und sie dem jeweiligen <rs type="org"
+                        ref="org__wien-dominikaner">eltisten maister artisten des Stands in des
+                        herzogen Collegy bei den Predigern hie zu Wienn</rs> verleihen.</rs>
+                  <catchwords n="disp">Für diese</catchwords>
+                  <rs type="fn" role="transactiongood_II"><rs type="org"
+                        ref="org__wien-st_peter-altar_st_bartholomaeus-messe_schrot">Messe, die
+                        viermal wöchentlich gelesen werden soll</rs>,</rs>
+                  <catchwords n="disp">widmen sie</catchwords> aus dem Nachlasse Schrot’s zwei
+                  Weingärten: von ersten <rs type="fn" role="other"><catchwords n="fn">mit
+                        handen</catchwords>
+                     <rs type="person" ref="pe__susanne_schweinbarthin_QGW_II_II_3246">der <roleName
+                           type="title">erwirdigen</roleName>
+                        <roleName type="title">geistlichen</roleName>
+                        <roleName type="title">frauen</roleName>
+                        <roleName type="title">swester</roleName> Susannen der Sweinbarterin,
+                           <roleName type="off" corresp="org__wien-st_klara">abbtessin</roleName>
+                        dacz sand Claren zu Wienn</rs></rs>, <rs type="fn" role="transactiongood_I"
+                        ><rs type="place" ref="pl__wien-immo_lange_gasse_1">ainen weingarten,
+                           <roleName type="topo" corresp="pl__wien-lange_gasse">gelegen oberhalb des
+                           Heiligen Geists in der Langengassen</roleName>, genant der Gries,
+                           <roleName type="topo" corresp="pl__wien-immo_lange_gasse_2">zenagst
+                              <add>an ainem tail</add></roleName>
+                        <rs type="place" ref="pl__wien-immo_lange_gasse_2">ainem <measure>halben
+                              jeuch</measure> weingarten, <roleName type="owner"
+                              corresp="org__wien-st_maria_magdalena_vor_dem_schottentor-messe_pogenstainer"
+                              >das zu des Pogenstainer messe hincz sand Maria Magdalena
+                              geho/eret</roleName></rs>, an ainem tail, <rs type="event" ref="NULL"
+                              ><rs type="fn" role="issuer"><rs type="place"
+                                 ref="pl__wien-immo_lange_gasse_1">davon</rs> man</rs>
+                           <catchwords n="disp">je/arlich dint</catchwords>
+                           <rs type="fn" role="recipient">den <rs type="org"
+                                 ref="org__wien-st_klara">geistlichen frauen hincz sand
+                              Claren</rs></rs>
+                           <rs type="fn" role="transactiongood_I">2 dn. <catchwords n="fn"><add>zu
+                                    gruntdinst</add></catchwords></rs>
+                           <catchwords n="disp">zu gruntdinst</catchwords></rs></rs>,</rs> darnach
+                  aber <rs type="fn" role="other"><catchwords n="fn">mit handen</catchwords> der <rs
+                        type="person" ref="pe__susanne_schweinbarthin_QGW_II_II_3246">egenanten
+                        abbtessin</rs>, auch des <rs type="person"
+                        ref="pe__andreas_giger_QGW_II_II_3246"><roleName type="title"
+                           >ersamen</roleName>
+                        <roleName type="title">geistlichen herren</roleName>
+                        <roleName type="title">bruder</roleName> Andre Giger, diezeit <roleName
+                           type="off" corresp="org__wien-st_johann_in_der_kaerntnerstrasse"
+                           >comenteur</roleName> des hauss zu sand Johannis in der Kernerstrass zu
+                        Wienn</rs>, und des <rs type="person" ref="pe__simon_heundl_QGW_II_II_3246"
+                           ><roleName type="title">ersamen</roleName>
+                        <roleName type="prof">geistlichen</roleName>
+                        <roleName type="title">herren</roleName>, <roleName type="title"
+                           >herrn</roleName> Simons Heundl, <roleName type="title_ref"
+                           corresp="org__klosterneuburg-augustiner_chorherren">korherr</roleName>
+                        Unser Frauen gotshaus zu Klosterneunburg, diezeit <roleName type="off"
+                           corresp="org__heiligenstadt-pfarre">pharrer</roleName> zu der
+                        Heiligenstat</rs>, und des <rs type="person"
+                        ref="pe__hermann_eibensteiner_zu_nussdorf_QGW_II_II_3246"><roleName
+                           type="title">edeln</roleName> Hermann Eibenstainer <roleName
+                           type="title_ref" corresp="pl__nussdorf">zu Nustorff</roleName></rs></rs>
+                  <rs type="fn" role="transactiongood_II"><rs type="place"
+                        ref="pl__grinzing-immo_peunten_1">ainen weingarten, <roleName type="topo"
+                           corresp="pl__grinzing-peunten">gelegen zu Grinczing ob des Tu/orns in den
+                           Peunten</roleName>, des <measure>zwai gancze jeuch</measure> ist,
+                           <roleName type="topo" corresp="pl__grinzing-immo_peunten_2">zenagst
+                              <add>an ainem tail</add></roleName>
+                        <rs type="place" ref="pl__grinzing-immo_peunten_2">der <roleName
+                              type="owner" corresp="org__wien-minoriten">geistlichen herren zu den
+                              Minnorn pru/edern zu Wienn</roleName> weingarten</rs> an ainem tail,
+                           <rs type="event" ref="NULL">da man <catchwords n="disp">alle jar
+                              dint</catchwords>
+                           <rs type="fn" role="issuer"><rs type="place"
+                                 ref="pl__grinzing-immo_peunten_1">von <measure>ainem ganczen
+                                    jeuch</measure> des egenanten weingartens</rs></rs>
+                           <rs type="fn" role="recipient">dem <rs type="org"
+                                 ref="org__wien-st_johann_in_der_kaerntnerstrasse" cert="medium"
+                                 >haus hinz sand Johanns zu Wienn</rs></rs>
+                           <rs type="fn" role="transactiongood_I"><measure>ainen emmer
+                                 weins</measure>
+                              <catchwords n="fn">zu perkrecht</catchwords>
+                           </rs><rs type="fn" role="transactiongood_I">und <measure>ainen
+                                 phening</measure>
+                              <catchwords n="fn">zu voitrecht</catchwords></rs></rs>, <rs
+                           type="event" ref="NULL">item <catchwords n="disp"><add>alle jar
+                                 dint</add></catchwords>
+                           <rs type="fn" role="issuer">von <rs type="place"
+                                 ref="pl__grinzing-immo_peunten_1"><measure>ainem virtail</measure>
+                                 des egenanten weingartens</rs></rs>
+                           <rs type="fn" role="recipient">den <rs type="org"
+                                 ref="org__wien-st_klara">geistlichen fraun zu sand Claren</rs></rs>
+                           <rs type="fn" role="transactiongood_I"><measure>siben ort</measure>
+                              <catchwords n="fn">zu voitrecht</catchwords></rs></rs>
+                        <rs type="event" ref="NULL">und <catchwords n="disp"><add>alle jar
+                                 dint</add></catchwords>
+                           <rs type="fn" role="issuer"><rs type="place"
+                                 ref="pl__grinzing-immo_peunten_1"><add>von ainem virtail des
+                                    egenanten weingartens</add></rs></rs>
+                           <rs type="fn" role="recipient">ainem jeden pharrer <rs type="org"
+                                 ref="org__heiligenstadt-pfarre">zu der Heiligenstat</rs></rs>
+                           <rs type="fn" role="transactiongood_I"><measure>ain virtail
+                                 weins</measure>
+                              <catchwords n="fn">zu perkrecht</catchwords></rs>
+                           <rs type="fn" role="transactiongood_I">und <measure>ain ort</measure>
+                              <catchwords n="fn">zu voitrecht</catchwords></rs></rs>
+                        <rs type="event" ref="NULL">und <catchwords n="disp"><add>alle jar
+                                 dint</add></catchwords>
+                           <rs type="fn" role="issuer"><rs type="place"
+                                 ref="pl__grinzing-immo_peunten_1"><add>von ainem virtail des
+                                    egenanten weingartens</add></rs></rs>
+                           <rs type="fn" role="recipient">dem <rs type="person"
+                                 ref="pe__hermann_eibensteiner_zu_nussdorf_QGW_II_II_3246"
+                                 >obgenanten Eibenstainer</rs></rs>
+                           <rs type="fn" role="transactiongood_I">auch <measure>ein virtail
+                                 weins</measure>
+                              <catchwords n="fn">zu perkrecht</catchwords></rs>
+                           <rs type="fn" role="transactiongood_I">und <measure>ain ort</measure>
+                              <catchwords n="fn">zu voitrecht</catchwords></rs>,</rs>
+                        <rs type="event" ref="NULL">item [293] <rs type="fn" role="issuer">von <rs
+                                 type="place" ref="pl__grinzing-immo_peunten_1"><measure>drein
+                                    virtailn</measure> des egenanten weingartens</rs></rs>
+                           <catchwords n="disp">dint man auch je/arlichen</catchwords>
+                           <rs type="fn" role="recipient">dem <rs type="person"
+                                 ref="pe__hermann_eibensteiner_zu_nussdorf_QGW_II_II_3246">benanten
+                                 Eibenstainer</rs></rs>
+                           <rs type="fn" role="transactiongood_I"><measure>5½ dn.</measure> zu sand
+                              Michels tag <catchwords n="fn">zu perkrecht</catchwords></rs></rs>
+                        <rs type="event" ref="NULL">und <catchwords n="disp"><add>alle jar
+                                 dint</add></catchwords>
+                           <rs type="fn" role="issuer"><rs type="place"
+                                 ref="pl__grinzing-immo_peunten_1"><add>von drein virtailn des
+                                    egenanten weingartens</add></rs></rs>
+                           <rs type="fn" role="recipient">dem <rs type="org"
+                                 ref="org__heiligenstadt-pfarre">egenanten pharrer zu der
+                                 Heiligenstat</rs></rs>
+                           <rs type="fn" role="transactiongood_I"><measure>dreu virtail
+                                 weins</measure> im lesen <catchwords n="fn">zu
+                                 perkrecht</catchwords></rs>
+                           <rs type="fn" role="transactiongood_I">und <measure>dreu ortt</measure>
+                              <catchwords n="fn">zu voitrecht</catchwords> und nicht
+                        mer</rs></rs></rs>.</rs></rs>
+            </p>
+         </div>
+         <div type="seal">
+            <p><rs type="event" ref="ev__QGW_II_II_3246"><rs type="fn" role="witness">Siegler: 1.
+                        <rs type="person" ref="pe__jakob_rechwein_QGW_II_II_3242">Jacob
+                        Rechwein</rs>, 2. <rs type="person" ref="pe__ulrich_kerner_QGW_II_II_3242"
+                        >Ulrich Kerner</rs>, 3. <rs type="person"
+                        ref="pe__susanne_schweinbarthin_QGW_II_II_3246">die Aebtissin von St.
+                        Clara</rs>, 4. <rs type="person" ref="pe__andreas_giger_QGW_II_II_3246">der
+                        Comthur von St. Johann</rs>, 5. <rs type="person"
+                        ref="pe__simon_heundl_QGW_II_II_3246">der Pfarrer von Heiligenstadt</rs>, 6.
+                        <rs type="person" ref="pe__hermann_eibensteiner_zu_nussdorf_QGW_II_II_3246"
+                        >Herman der Eibenstainer zu Nustorff</rs>, 7. <rs type="person"
+                        ref="pe__ulrich_hirssauer_QGW_II_II_3239">Ulreich Hirssauer, <roleName
+                           type="off" corresp="org__wien">statschreiber</roleName> zu
+                     Wienn</rs>.</rs></rs>
+            </p>
+         </div>
+         <div type="lists">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

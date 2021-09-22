@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3282a exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. a As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3282a</idno><altIdentifier type="old"><idno>517521</idno></altIdentifier></msIdentifier><msContents><msItem><listBibl default="false"><bibl default="false" status="draft">Concept als Beilage zu Urk. n° 3358. [301]</bibl></listBibl></msItem></msContents><physDesc><sealDesc><seal><p>Siegler: <quote>Hirssauer und Kerner</quote>. </p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <date when="14481204">1448 XII 04</date>
+            <origDate instant="false">Datum an mittichen sancte Barbare.</origDate></creation></profileDesc></teiHeader><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3282a"><rs type="fn" role="issuer"><rs type="person" ref="pe__hermann_edlerauer_QGW_II_II_3280a">Hermann Edlerauer,
+                           <rs type="person" ref="pe__reimprecht_von_wallsee_QGW_II_I_1319"><roleName type="title">hern</roleName> Reinprechts von Walsse</rs>
+                        <roleName type="off" corresp="pe__reimprecht_von_wallsee_QGW_II_I_1319" select="pl__wien">schaffer</roleName> zu Wienn</rs>,</rs>
+                  <catchwords n="disp">setzt</catchwords>
+                  <rs type="fn" role="recipient">seine <rs type="person" ref="pe__katharina_QGW_II_II_3280a"><roleName type="kin" corresp="pe__hermann_edlerauer_QGW_II_II_3280a">Frau</roleName> Kathrei,
+                           <rs type="person" ref="pe__ruprecht_refner_QGW_II_II_3280a">Ruprechts
+                           Refer, des <roleName type="prof">kursner</roleName>
+                           <roleName type="dead">seligen</roleName></rs>, <roleName type="kin" corresp="pe__ruprecht_refner_QGW_II_II_3280a">tochter</roleName></rs>,</rs>
+                  <catchwords n="disp">für den Fall kinderlosen Ablebens zur Erbin seines gesammten
+                     Besitzes ein</catchwords>. Er <catchwords n="disp">empfiehlt sein
+                     Geschäft</catchwords>
+                  <rs type="fn" role="other">
+                     <catchwords n="fn"><add>Gescheftsherren</add></catchwords> dem <rs type="person" ref="pe__thomas_wisent_QGW_II_II_3280a">Thoman Wisent
+                           <roleName type="off" corresp="org__wien"><add>rats der
+                           stat</add></roleName></rs> und dem <rs type="person" ref="pe__simon_poetel_QGW_II_II_2412">Simon Pötl, des <roleName type="off" corresp="org__wien">rats der stat</roleName> zu Wienn</rs></rs>.</rs>
+            </p></div><div type="seal"><p><rs type="event" ref="ev__QGW_II_II_3282a"><rs type="fn" role="witness">Siegler: <rs type="person" ref="pe__ulrich_hirssauer_QGW_II_II_3239">Hirssauer</rs> und
+                        <rs type="person" ref="pe__ulrich_kerner_QGW_II_II_3242">Kerner</rs>.</rs></rs>
+            </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

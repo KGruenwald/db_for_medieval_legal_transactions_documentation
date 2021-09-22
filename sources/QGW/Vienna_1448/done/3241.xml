@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3241 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3241 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3241</idno><altIdentifier type="old"><idno>517478</idno></altIdentifier></msIdentifier><msContents><msItem><listBibl default="false"><bibl default="false" status="draft">Camesina im Notizenblatt der Akademie 4 (1854), 132 n° 28.</bibl></listBibl></msItem></msContents><physDesc><sealDesc><seal><p>Anhangendes Siegel, roth u. Sch.</p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <placeName>Wien</placeName>
+            <date when="14480222">1448 II 22</date>
+            <origDate instant="false">Geben ze Wienn an sand Peters tag ad kathedram, nach Cristi gepurd 1400 und
+               darnach im 48. jaren. </origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03241_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03241_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3241"><rs type="fn" role="issuer"><rs type="person" ref="pe__leonhard_von_laymimg_QGW_II_II_3241">Leonart,
+                           <roleName type="off" corresp="org__passau-dioezese">bischove</roleName>
+                        ze Passau</rs>,</rs>
+                  <catchwords n="disp">gibt seinen Einspruch dagegen</catchwords>, dass die Leute
+                  der Stadt Wien <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_werdertor_1"><roleName type="owner" corresp="pe__leonhard_von_laymimg_QGW_II_II_3241">seinen</roleName>
+                        Garten vor dem Werderthor</rs></rs> mit Gräben durchfahren, darin Obstbäume
+                  abgeschlagen und in seinen Wäldern Holz gefällt und weggeführt haben, <catchwords n="disp">auf und überlässt</catchwords>
+                  <rs type="fn" role="transactiongood_I">den Graben sowie den Gartengrund ausserhalb
+                     desselben</rs>
+                  <rs type="fn" role="recipient">der <rs type="org" ref="org__wien">Stadt</rs></rs>,
+                     <catchwords n="disp">wogegen</catchwords> er <rs type="fn" role="transactiongood_II">einen Weg, der neben dem Garten perghalben
+                  führt</rs>, <catchwords n="disp">zu ainer erstattung erhält</catchwords>.</rs>
+            </p></div><div type="nota"><p>Auf der Rückseite: Rta. </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

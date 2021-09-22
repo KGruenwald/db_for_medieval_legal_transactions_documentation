@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3238 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3238 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3238</idno><altIdentifier type="old"><idno>517475</idno></altIdentifier></msIdentifier><msContents><msItem><listBibl default="false"><bibl default="false" status="draft">Jahrbuch der kais. Kunstsamnil. 17b, n° 15229 Regest.</bibl></listBibl></msItem></msContents><physDesc><sealDesc><seal><p>Zwei rückwärts aufgedrückte, beschädigte Siegel von grünem
+                           Wachse.Siegler: <quote>Michel der Ursperger</quote> und <quote>Peter
+                              Schüter, burger zu Sand Pölten</quote>. </p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <placeName>St. Pölten</placeName>
+            <date when="14480209">1448 II 09</date>
+            <origDate instant="false">zu Sannd Pölten, an freitag vor dem suntag, daran man singet Invocavit in der
+               Vassten.</origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03238_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03238_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3238"><rs type="fn" role="issuer"><rs type="person" ref="pe__magdalena_QGW_II_II_3238">Magdalen, <rs type="person" ref="pe__ulrich_floederl_QGW_II_II_3238">Ulrichs Flöderl, des <roleName type="prof">slosser</roleName>
+                           <roleName type="dead">seligen</roleName></rs>, <roleName type="kin" corresp="pe__ulrich_floederl_QGW_II_II_3238">tochter</roleName>, und <rs type="person" ref="pe__michael_ursperger_QGW_II_II_3238">Micheln des
+                           Ursperger, <roleName type="off" corresp="org__st_poelten">amptman</roleName> zu Sannd Pölten</rs>, <roleName type="kin" corresp="pe__michael_ursperger_QGW_II_II_3238">eliche
+                        hausfrau</roleName></rs>,</rs>
+                  <catchwords n="disp">theilt</catchwords>
+                  <rs type="fn" role="recipient">dem <rs type="org" ref="org__wien">Bürgermeister
+                        und Rathe der Stadt zu Wien sowie den Verwesern ihres Grundbuches</rs></rs>
+                  <catchwords n="disp">mit</catchwords>, <rs type="event" ref="ev__QGW_II_II_3238_men_1">dass <rs type="fn" role="issuer"><rs type="person" ref="pe__magdalena_QGW_II_II_3238">sie</rs></rs>
+                     <catchwords n="disp"><add>ihren Antheil</add></catchwords>
+                     <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_kaerntnerstrasse_4"><roleName type="owner" corresp="pe__magdalena_QGW_II_II_3238">ihren Antheil</roleName> an dem
+                           Hause <roleName type="topo" corresp="pl__wien-kaerntnerstrasse">in der
+                              Kernerstrass</roleName></rs></rs>
+                     <rs type="fn" role="recipient"><rs type="person" ref="pe__leonhard_floederl_QGW_II_II_3238">ihrem <roleName type="kin" corresp="pe__magdalena_QGW_II_II_3238">Bruder</roleName> Linhart
+                           Flöderl</rs></rs>
+                     <catchwords n="disp">übergeben habe</catchwords>.</rs></rs>
+            </p></div><div type="seal"><p><rs type="event" ref="ev__QGW_II_II_3238">Siegler: <rs type="person" ref="pe__michael_ursperger_QGW_II_II_3238">Michel der Ursperger
+                           <unclear instant="false"><roleName type="title_ref" corresp="org__st_poelten"><add>burger
+                              zu Sand Pölten</add></roleName></unclear></rs> und <rs type="person" ref="pe__peter_schueter_QGW_II_II_3238">Peter Schüter, <roleName type="title_ref" corresp="org__st_poelten">burger</roleName> zu Sand
+                     Pölten</rs>.</rs>
+            </p></div><div type="nota"><p>Indorsat: Magdalen, Micheln Ursperger zu Sand Pölten hausfraun, aufsantbrief gegen
+               Lienharten Flöderlen, anno 1448 . </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

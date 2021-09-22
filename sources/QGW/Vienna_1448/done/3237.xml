@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3237 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3237 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3237</idno><altIdentifier type="old"><idno>517474</idno></altIdentifier></msIdentifier><physDesc><sealDesc><seal><p>Zwei anhangende Siegel, grün u. Sch., 1. Bruchstück.</p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <placeName>Wien</placeName>
+            <date when="14480120">1448 I 20</date>
+            <origDate instant="false">zu Wienn, an sambstag vor sand Pauls tag.</origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03237_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03237_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3237"><rs type="fn" role="issuer"><rs type="person" ref="pe__stephan_weiss_QGW_II_II_3237">Stephan Weiss,
+                           <roleName type="title_ref" corresp="pl__wien-altdonau">gesessen zu
+                           Allttunau</roleName></rs>, und <rs type="person" ref="pe__katharina_QGW_II_II_3237">Kathrei, sein <roleName type="kin" corresp="pe__stephan_weiss_QGW_II_II_3237">hausfrau</roleName></rs>,</rs>
+                  <catchwords n="disp">übergeben</catchwords>
+                  <rs type="fn" role="recipient">dem <rs type="person" ref="pe__wolfhard_resch_QGW_II_II_3237">Wiener <roleName type="title_ref" corresp="org__wien">Bürger</roleName> Wolfharten Reschn</rs></rs>
+                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_rennweg_1">drei Achtel Weingarten <roleName type="topo" corresp="pl__wien-rennweg">am Rennweg</roleName>, <rs type="event" ref="NULL"><rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_rennweg_1">die</rs></rs>
+                           <rs type="fn" role="issuer"><rs type="person" ref="pe__stephan_weiss_QGW_II_II_3237"><add>sie</add></rs>
+                              <rs type="person" ref="pe__katharina_QGW_II_II_3237">sie</rs></rs>
+                           <rs type="fn" role="recipient"><rs type="person" ref="pe__wolfhard_resch_QGW_II_II_3237">ihm</rs></rs>
+                           <rs type="fn" role="other"><catchwords n="fn">laut des von</catchwords>
+                              <rs type="person" ref="pe__johann_goldner_QGW_II_II_3237">Hanns
+                                 Goldner, <roleName type="off" corresp="org__wien-st_philipp_und_st_jakob_kapelle">pharrer</roleName> sand Philipps und sand Jacobs capellen im
+                                 Chöllnerhof</rs>, <catchwords n="fn">geführten
+                                 Satzbuches</catchwords></rs>
+                           <rs type="fn" role="transactiongood_II">um eine Summe Geldes</rs>
+                           <catchwords n="disp">verpfändet und nicht ausgelöst
+                           haben</catchwords></rs></rs></rs>, <catchwords n="disp">und erklären
+                     einen früher</catchwords> über diesen Weingarten <catchwords n="disp">ausgestellten Kaufbrief für ungiltig</catchwords>.</rs>
+            </p></div><div type="seal"><p><rs type="event" ref="ev__QGW_II_II_3237"><rs type="fn" role="witness">Besiegelt mit
+                     den Siegeln <rs type="person" ref="pe__georg_koler_QGW_II_II_3237">Jorign
+                        Choler, <roleName type="title_ref" corresp="org__wien">burger</roleName> zu
+                        Wienn</rs>, und <rs type="person" ref="pe__wolfgang_charner_QGW_II_II_3237">Wolfgangs Karner</rs>.</rs></rs>
+            </p></div><div type="nota"><p>Indorsat: Steffan Weiss, Wolfhart Resch, Hanns Haunolt. </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

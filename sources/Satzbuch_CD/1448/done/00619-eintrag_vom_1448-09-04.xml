@@ -1,55 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">Eintrag vom 1448-09-04</title>
-            <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von
-               Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
-            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
-            <respStmt>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title type="main">Eintrag vom 1448-09-04</title><title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von
+               Eslorn, anno etc. xlviii<hi rend="super">o</hi></title><title type="sub">Digitale Edition der Wiener Grundbücher</title><respStmt>
                <resp>Transkription</resp>
                <name>
                   <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
                </name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
-               Andorfer</publisher>
-            <availability default="false">
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
+            </respStmt></titleStmt><publicationStmt><publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher><availability default="false"><licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>CC-BY</p>
                   <p>You are free to: Share — copy and redistribute the material in any medium or
                      format. Adapt — remix, transform, and build upon the material for any purpose,
                      even commercially.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc default="false">
-            <msDesc type="invetory" status="draft">
-               <msIdentifier>
-                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
-                  <repository>Grundbücher</repository>
-                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <locus from="clxxii" to=" [172v]"/>
-                     <p>clxxii - [172v]</p>
-                  </msItem>
-               </msContents>
-               <history>
+               </licence></availability></publicationStmt><sourceDesc default="false"><msDesc type="invetory" status="draft"><msIdentifier><institution>Wiener Stadt- und Landesarchiv (WStLA)</institution><repository>Grundbücher</repository><idno type="archive">WStLA 2.1.2.1.B1.34</idno></msIdentifier><msContents><msItem><locus from="clxxii" to=" [172v]"/><p>clxxii - [172v]</p></msItem></msContents><history>
                   <origin notAfter="1448-09-04">1448-09-04</origin>
-               </history>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
-         xmlns:xi="http://www.w3.org/2001/XInclude">
-         <projectDesc default="false">
-            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               </history></msDesc></sourceDesc></fileDesc><encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><projectDesc default="false"><p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
                   <row rend="header">
                      <cell>Name der Formatvorlage</cell>
@@ -101,76 +64,39 @@
                      <cell>Hochgestellt</cell>
                   </row>
                </table>
-            </p>
-            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+            </p><p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
                community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
                wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
-               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
-         </projectDesc>
-      </encodingDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0336.jpg"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="entry">
-            <p><rs type="fn" role="issuer"><rs type="person"
-                     ref="pe__heinrich_eschlbach_SB_CD_00618">Hainreich Eschlbach, der <roleName
-                        type="prof">brunner</roleName></rs>, und <rs type="person"
-                     ref="pe__margarethe_SB_CD_00618">Margreth, sein <roleName type="kin"
-                        corresp="pe__heinrich_eschlbach_SB_CD_00618">hausfrau</roleName></rs></rs>,
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p></projectDesc></encodingDesc></teiHeader><facsimile><graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0336.jpg"/></facsimile><text><body><div type="entry"><p><rs type="fn" role="issuer"><rs type="person" ref="pe__heinrich_eschlbach_SB_CD_00618">Hainreich Eschlbach, der <roleName type="prof">brunner</roleName></rs>, und <rs type="person" ref="pe__margarethe_SB_CD_00618">Margreth, sein <roleName type="kin" corresp="pe__heinrich_eschlbach_SB_CD_00618">hausfrau</roleName></rs></rs>,
                   <catchwords n="disp">habent verchaufft</catchwords>
-               <rs type="fn" role="transactiongood_I">ii tl. d.</rs>
+               <rs type="fn" role="transactiongood_I"><measure>ii tl. d.</measure>
+                  <catchwords n="fn"><add>zu purkrecht</add></catchwords></rs>
                <catchwords n="disp">geltes purkrechts</catchwords>
-               <rs type="fn" role="transactiongood_I">auf <rs type="place"
-                     ref="pl__wien-immo_kohlmarkt_6"><roleName type="owner"
-                        corresp="pe__heinrich_eschlbach_SB_CD_00618"><add>irm</add></roleName>
+               <rs type="fn" role="transactiongood_I">auf <rs type="place" ref="pl__wien-immo_kohlmarkt_6"><roleName type="owner" corresp="pe__heinrich_eschlbach_SB_CD_00618"><add>irm</add></roleName>
                      <roleName type="owner" corresp="pe__margarethe_SB_CD_00618">irm</roleName>
                      haus, <roleName type="topo" corresp="pl__wien-kohlmarkt">am Alten Kolmarkcht
                         gelegen</roleName>
-                     <roleName type="topo" corresp="pl__wien-immo_kohlmarkt_8">zenagst</roleName>
-                     <rs type="place" ref="pl__wien-immo_kohlmarkt_8"><roleName type="owner"
-                           corresp="pe__johann_unverdrossen_SB_CD_00619"><rs type="person"
-                              ref="pe__johann_unverdrossen_SB_CD_00619">Hannsen Unverdrossen des
+                     <roleName type="topo" corresp="pl__wien-immo_kohlmarkt_8">zenagst <add>an aim
+                           tail</add></roleName>
+                     <rs type="place" ref="pl__wien-immo_kohlmarkt_8"><roleName type="owner" corresp="pe__johann_unverdrossen_SB_CD_00619"><rs type="person" ref="pe__johann_unverdrossen_SB_CD_00619">Hannsen Unverdrossen des
                                  <roleName type="prof">plattner</roleName></rs></roleName> haus</rs>
-                     <roleName type="topo" corresp="pl__wien-immo_kohlmarkt_1">an aim tail</roleName>,
-                        <rs type="event" ref="ev__SB_CD_00618">davon man jerlich dint dem
+                     an aim tail, <rs type="event" ref="ev__SB_CD_00618">davon man jerlich dint dem
                         kirchmaister zu Sand Michel zu des Zergadmer jartag und selgret und zu des
                         Staindleins jartag vi ½ tl. d. zu purkrecht und nicht mer</rs></rs>.</rs>
-               <rs type="fn" role="recipient">Dem <rs type="person"
-                     ref="pe__leonhard_von_stein_SB_CD_00619"><roleName type="title"
-                        >ersamen</roleName>
+               <rs type="fn" role="recipient">Dem <rs type="person" ref="pe__leonhard_von_stein_SB_CD_00619"><roleName type="title">ersamen</roleName>
                      <roleName type="title">herren</roleName>
                      <roleName type="title">maister</roleName> Linharten von Stain, dieczeit
-                        <roleName type="off"
-                        corresp="org__wien-st_michael-altar_st_jakob-messe_lorberer"
-                        >caplan</roleName> der ewigen messe die weilent der Lorberer auf Sand Jacobs
-                     altar in Sand Michels kirchen zu Wienn gestifft hat</rs>, und seinen <rs
-                     type="org" ref="org__wien-st_michael-altar_st_jakob-messe_lorberer">nachkomen
+                        <roleName type="off" corresp="org__wien-st_michael-altar_st_jakob-messe_lorberer">caplan</roleName> der <rs type="event" ref="NULL">ewigen <catchwords n="disp">messe</catchwords> die <rs type="fn" role="issuer"><roleName type="dead">weilent</roleName> der <rs type="person" ref="pe__siegfried_lorber_QGW_II_I_1598" cert="high">Lorberer</rs></rs>
+                        <rs type="fn" role="recipient">auf <rs type="org" ref="org__wien-st_michael-altar_st_jakob">Sand Jacobs altar in Sand
+                              Michels kirchen zu Wienn</rs></rs>
+                        <catchwords n="disp">gestifft hat</catchwords></rs></rs>, und seinen <rs type="org" ref="org__wien-st_michael-altar_st_jakob-messe_lorberer">nachkomen
                      caplenen derselben mess</rs></rs>, <rs type="fn" role="transactiongood_II">umb
-                  xvi tl. d.</rs> und sind zu dienn zu drein tégen und wider abczukauffen
+                  <measure>xvi tl. d.</measure></rs> und sind zu dienn zu drein tégen und wider abczukauffen
                miteinander und den nagsten dinst damit, ut littera. Actum an Mitichen nach Egidi,
-               anno etc. xlviiio.</p>
-            <p rend="Summa">Summa xxxii d.</p>
-            <p rend="Nachtrag">Nota die genanten xvi tl d. habent die gerhaben anstat des
+               anno etc. xlviiio.</p><p rend="Summa">Summa xxxii d.</p><p rend="Nachtrag">Nota die genanten xvi tl d. habent die gerhaben anstat des
                Eschenbacher kinder zu den puch gelegt, an sand Mathens abent, ano etc. liido, ut reg
                stati in registro<note>
                   <p rend="footnote text"> ut reg stati in registro: An dieser Stelle hat der
                      Schreiber wohl zu „registratum“ tendiert, dann jedoch fälschlicherweise
                      „registrati“ geschrieben und dieses dann zu „in registro“ umgeändert.</p>
-               </note>.</p>
-         </div>
-         <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
-         </div>
-      </body>
-   </text>
-</TEI>
+               </note>.</p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

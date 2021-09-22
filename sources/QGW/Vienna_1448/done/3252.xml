@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3252 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3252 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3252</idno><altIdentifier type="old"><idno>517489</idno></altIdentifier></msIdentifier><physDesc><sealDesc><seal><p>Zwei rückwärts aufgedrückte, beschädigte Siegel von grünem
+                           Wachse.Siegler: der Aussteller und <quote>der edel Erhart
+                           Sibpeck</quote>. </p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <placeName>Wien</placeName>
+            <date when="14480607">1448 VI 07</date>
+            <origDate instant="false">zu Wienn, an freitag nach sannd Erasems tag.</origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03252_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03252_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3252"><rs type="fn" role="issuer"><rs type="person" ref="pe__albrecht_schweinbarther_QGW_II_II_3236">Albrecht
+                        Sweinbarter</rs></rs>
+                  <catchwords n="disp">verlängert</catchwords>
+                  <rs type="fn" role="recipient">dem <rs type="org" ref="org__wien">Bürgermeister
+                        und Rathe der Stadt zu Wien</rs></rs>
+                  <catchwords n="disp">den Termin für die Rückzahlung</catchwords>
+                  <rs type="fn" role="transactiongood_II">der <measure>1000 Gulden</measure></rs>,
+                  die er ihnen laut eines an sambstag vor dem suntag, daran man singet Reminiscere
+                  in der Vassten (März 4), nach Kristi geburd 1400 und im 47. jare nagstvergangen
+                  ausgestellten Schuldbriefes vorgestreckt hatte, auf ein ganzes Jahr.</rs>
+            </p></div><div type="seal"><p><rs type="event" ref="ev__QGW_II_II_3252">Siegler: der <rs type="person" ref="pe__albrecht_schweinbarther_QGW_II_II_3236">Aussteller</rs> und der <rs type="person" ref="pe__erhard_sibpekch_QGW_II_II_3252"><roleName type="title">edel</roleName> Erhart Sibpeck</rs>.</rs>
+            </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

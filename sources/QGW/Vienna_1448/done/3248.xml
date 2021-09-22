@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tei version of 3248 exported from monasterium.net </title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest-->
+         <sourceDesc default="false">
+            <bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2,
+               Nr. 3248 As published in HAUrk by Wiener Stadt- und Landesarchiv </bibl>
+            <msDesc status="draft">
+               <msIdentifier>
+                  <repository>Wiener Stadt- und Landesarchiv</repository>
+                  <idno>3248</idno>
+                  <altIdentifier type="old">
+                     <idno>517485</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc>
+                  <sealDesc>
+                     <seal>
+                        <p>Zwei anhangende Siegel, grün u. Sch.</p>
+                     </seal>
+                  </sealDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName>Wien</placeName>
+            <date when="14480430">1448 IV 30</date>
+            <origDate instant="false">zu Wienn, an eritag vor sannd Philipp und sand Jacobs tag, der
+               heiligen zwelfpotten.</origDate></creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03248_r.jpg"/>
+      </surface>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03248_v.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="abstract">
+            <p>
+               <rs type="event" ref="ev__QGW_II_II_3248"><rs type="fn" role="issuer"><rs
+                        type="person" ref="pe__friedrich_wurmprant_QGW_II_II_3248">Fridrich
+                        Wurmprant</rs></rs>
+                  <catchwords n="disp">stellt</catchwords> hinsichtlich <rs type="place"
+                     ref="pl__wien-immo_neulukchen_vor_widmertor_1">des Hauses, <roleName
+                        type="topo" corresp="pl__wien-neulukchen_vor_widmertor">gelegen vor
+                        Widmertor in der Neulukchen</roleName>
+                     <roleName type="topo" corresp="pl__wien-immo_neulukchen_vor_widmertor_2"
+                        >zenagst <add>an ainem tail</add></roleName>
+                     <rs type="place" ref="pl__wien-immo_neulukchen_vor_widmertor_2"><roleName
+                           type="owner" corresp="pe__johann_zehentner_QGW_II_II_3248"><rs
+                              type="person" ref="pe__johann_zehentner_QGW_II_II_3248">Hannsen des
+                              Zehentner</rs></roleName> haus</rs> an ainem tail</rs>, <rs
+                     type="event" ref="NULL"><rs type="fn" role="transactiongood_I"><rs type="place"
+                           ref="pl__wien-immo_neulukchen_vor_widmertor_1">das</rs></rs>
+                     <rs type="fn" role="recipient"><rs type="person"
+                           ref="pe__friedrich_wurmprant_QGW_II_II_3248">er</rs></rs> von <rs
+                        type="fn" role="issuer"><rs type="person"
+                           ref="pe__niklas_puckler_QGW_II_II_3248">Niclasen Puckler, dem <roleName
+                              type="prof">schuster</roleName>
+                           <roleName type="title_ref" corresp="pl__strasburg">von
+                              Straspurg</roleName></rs>, und <rs type="person"
+                           ref="pe__barbara_QGW_II_II_3248">Barbaren, seiner <roleName type="kin"
+                              corresp="pe__niklas_puckler_QGW_II_II_3248"
+                        >hausfraun</roleName></rs></rs>, <rs type="fn" role="transactiongood_II">umb
+                           <measure>45 lb dn. und ainen guldein</measure></rs> laut eines <rs
+                        type="fn" role="other"><catchwords n="fn">mit Einwilligung</catchwords> des
+                           <rs type="org" ref="org__wien">Bürgermeisters und Rathes</rs></rs>
+                     <rs type="fn" role="other">von dem <rs type="person"
+                           ref="pe__martin_QGW_II_II_3213"><roleName type="off"
+                              corresp="org__wien-schotten">Schottenabte</roleName> Mert <catchwords
+                              n="fn">gefertigten Kaufbriefes</catchwords></rs></rs>
+                     <catchwords n="disp">gekauft hatte</catchwords>,</rs>
+                  <catchwords n="disp">einen Revers aus</catchwords>.</rs>
+            </p>
+         </div>
+         <div type="seal">
+            <p><rs type="event" ref="ev__QGW_II_II_3248"><rs type="fn" role="witness">Besiegelt mit
+                     den Siegeln der <rs type="person" ref="pe__georg_prunntaler_QGW_II_II_3240"
+                        >Wiener <roleName type="title_ref" corresp="org__wien">Bürger</roleName>
+                        Jorgen Prunntaler</rs> und <rs type="person"
+                        ref="pe__niklas_marchegger_QGW_II_II_3248"><roleName type="title_ref"
+                           corresp="org__wien"><add>Bürger</add></roleName> Niclasen
+                        Marchegker.</rs></rs></rs>
+            </p>
+         </div>
+         <div type="lists">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

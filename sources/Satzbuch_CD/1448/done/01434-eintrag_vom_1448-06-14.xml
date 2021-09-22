@@ -1,55 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">Eintrag vom 1448-06-14</title>
-            <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von
-               Eslorn, anno etc. xlviii<hi rend="super">o</hi>.</title>
-            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
-            <respStmt>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title type="main">Eintrag vom 1448-06-14</title><title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von
+               Eslorn, anno etc. xlviii<hi rend="super">o</hi>.</title><title type="sub">Digitale Edition der Wiener Grundbücher</title><respStmt>
                <resp>Transkription</resp>
                <name>
                   <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
                </name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
-               Andorfer</publisher>
-            <availability default="false">
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
+            </respStmt></titleStmt><publicationStmt><publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher><availability default="false"><licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>CC-BY</p>
                   <p>You are free to: Share — copy and redistribute the material in any medium or
                      format. Adapt — remix, transform, and build upon the material for any purpose,
                      even commercially.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc default="false">
-            <msDesc type="invetory" status="draft">
-               <msIdentifier>
-                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
-                  <repository>Grundbücher</repository>
-                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <locus from=" [326v]" to="[327r]"/>
-                     <p> [326v] - [327r]</p>
-                  </msItem>
-               </msContents>
-               <history>
+               </licence></availability></publicationStmt><sourceDesc default="false"><msDesc type="invetory" status="draft"><msIdentifier><institution>Wiener Stadt- und Landesarchiv (WStLA)</institution><repository>Grundbücher</repository><idno type="archive">WStLA 2.1.2.1.B1.34</idno></msIdentifier><msContents><msItem><locus from=" [326v]" to="[327r]"/><p> [326v] - [327r]</p></msItem></msContents><history>
                   <origin notAfter="1448-06-14">1448-06-14</origin>
-               </history>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
-         xmlns:xi="http://www.w3.org/2001/XInclude">
-         <projectDesc default="false">
-            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               </history></msDesc></sourceDesc></fileDesc><encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><projectDesc default="false"><p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
                   <row rend="header">
                      <cell>Name der Formatvorlage</cell>
@@ -101,87 +64,42 @@
                      <cell>Hochgestellt</cell>
                   </row>
                </table>
-            </p>
-            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+            </p><p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
                community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
                wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
-               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
-         </projectDesc>
-      </encodingDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0643.jpg"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="entry">
-            <p>Niclas Grafenawer, der messrer, hat versaczt die uberteurung seines hauss, gelegen in
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p></projectDesc></encodingDesc></teiHeader><facsimile><graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0643.jpg"/></facsimile><text><body><div type="entry"><p>Niclas Grafenawer, der messrer, hat versaczt die uberteurung seines hauss, gelegen in
                des Kraffts hof hinder Sand Pangréczen zenagst Hannsen des Nagler haus, uber die iii
                tl. d. gelts purkrechts, so die kirchen zu Sand Steffan vor darauf hat, und uber die
-               vi tl. d., so der stat zu Wienn nachmalen darauf verschriben ist</p>
-            <p rend="Nachtrag">Erratum est.</p>
-            <p><rs type="event" ref="ev__SB_CD_01434"><rs type="fn" role="issuer"><rs type="person"
-                        ref="pe__niklas_graefenauer_SB_CD_01434">Niclas Grafenawer, der <roleName
-                           type="prof">messrer</roleName></rs>,</rs>
+               vi tl. d., so der stat zu Wienn nachmalen darauf verschriben ist</p><p rend="Nachtrag">Erratum est.</p><p><rs type="event" ref="ev__SB_CD_01434"><rs type="fn" role="issuer"><rs type="person" ref="pe__niklas_graefenauer_SB_CD_01434">Niclas Grafenawer, der <roleName type="prof">messrer</roleName></rs>,</rs>
                   <catchwords n="disp">hat versaczt <add>die uberteurung</add></catchwords>
-                  <rs type="fn" role="transactiongood_I">die uberteurung <rs type="place"
-                        ref="pl__wien-immo_krafthof_1"><roleName type="owner"
-                           corresp="pe__niklas_graefenauer_SB_CD_01434">seines</roleName> hauss,
-                           <roleName type="topo" corresp="pl__wien-krafthof">gelegen in des Kraffts hof
-                           hinder Sand Pangreczen</roleName>
+                  <rs type="fn" role="transactiongood_I">die uberteurung <rs type="place" ref="pl__wien-immo_krafthof_1"><roleName type="owner" corresp="pe__niklas_graefenauer_SB_CD_01434">seines</roleName> hauss,
+                           <roleName type="topo" corresp="pl__wien-krafthof">gelegen in des Kraffts
+                           hof hinder Sand Pangreczen</roleName>
                         <roleName type="topo" corresp="pl__wien-immo_krafthof_2">zenagst</roleName>
-                        <rs type="place" ref="pl__wien-immo_krafthof_2"><roleName type="owner"
-                              corresp="pe__johann_nagler_SB_CD_01434"><rs type="person"
-                                 ref="pe__johann_nagler_SB_CD_01434">Hannsen des
-                              Nagler</rs></roleName> haus</rs>, <rs type="event" ref="NULL"
-                              ><catchwords n="disp">uber die</catchwords>
-                           <rs type="fn" role="transactiongood_II">iii tl. d.</rs>
-                           <catchwords n="disp">gelts purkrechts</catchwords>, <rs type="fn"
-                              role="recipient">so die <rs type="org" ref="org__wien-st_stephan"
-                                 >kirchen zu Sand Steffan</rs></rs>
+                        <rs type="place" ref="pl__wien-immo_krafthof_2"><roleName type="owner" corresp="pe__johann_nagler_SB_CD_01434"><rs type="person" ref="pe__johann_nagler_SB_CD_01434">Hannsen des
+                              Nagler</rs></roleName> haus</rs>, <rs type="event" ref="NULL"><catchwords n="disp">uber die</catchwords>
+                           <rs type="fn" role="transactiongood_I"><measure>iii tl. d.</measure>
+                              <catchwords n="fn"><add>zu purkrecht</add></catchwords></rs>
+                           <catchwords n="disp">gelts purkrechts</catchwords>, <rs type="fn" role="recipient">so die <rs type="org" ref="org__wien-st_stephan">kirchen zu Sand Steffan</rs></rs>
                            <catchwords n="disp">vor darauf hat</catchwords>
-                           <rs type="fn" role="issuer"><add>darauf</add></rs></rs>, <rs type="event"
-                           ref="NULL"><catchwords n="disp">und uber die</catchwords>
-                           <rs type="fn" role="transactiongood_II">vi tl. d.</rs>, <rs type="fn"
-                              role="recipient">so seiner hausfraun Dorothen nagst erben</rs>
+                           <rs type="fn" role="issuer"><add>darauf</add></rs></rs>, <rs type="event" ref="NULL"><catchwords n="disp">und uber die</catchwords>
+                           <rs type="fn" role="transactiongood_II">vi tl. d.</rs>, <rs type="fn" role="recipient">so seiner hausfraun Dorothen nagst erben</rs>
                            <catchwords n="disp">darauf habent</catchwords>
                            <rs type="fn" role="issuer"><add>darauf</add></rs></rs></rs>.</rs>
-                  <rs type="fn" role="recipient"><rs type="person"
-                        ref="pe__johann_fries_SB_CD_01434">Henslein Fries, <rs type="person"
-                           ref="pe__ulrich_fries_SB_CD_01434">Urlreichs Fries des <roleName
-                              type="prof">Zéinstrickcher</roleName>
+                  <rs type="fn" role="recipient"><rs type="person" ref="pe__johann_fries_SB_CD_01434">Henslein Fries, <rs type="person" ref="pe__ulrich_fries_SB_CD_01434">Urlreichs Fries des <roleName type="prof">Zéinstrickcher</roleName>
                            <roleName type="dead">seligen</roleName></rs>
                         <roleName type="kin" corresp="pe__ulrich_fries_SB_CD_01434">sun</roleName>,
-                        der noch nicht vogtper ist</rs></rs>, <rs type="fn"
-                     role="transactiongood_II">umb virczig guldein Ungrisch in gold</rs>. Und sind
+                        der noch nicht vogtper ist</rs></rs>, <rs type="fn" role="transactiongood_II">umb virczig guldein Ungrisch in gold</rs>. Und sind
                   zu beczalen wenn der benant Hensl vogtper wirdet, darnach ynner der nagsten
                   jarsfrist. <rs type="event" ref="NULL">Wér aber, das er ungevogter abging, so
-                     sullen die benanten virczig gulden halb gevallen <rs type="person"
-                        ref="pe__katharina_SB_CD_01434">Kathrein des obgnanten Niclasen Grafenawer
-                           <roleName type="kin" corresp="pe__niklas_graefenauer_SB_CD_01434"
-                           >hausfrau</roleName>, die emalen den vorgenanten Ulreichen Fries
+                     sullen die benanten virczig gulden halb gevallen <rs type="person" ref="pe__katharina_SB_CD_01434">Kathrein des obgnanten Niclasen Grafenawer
+                           <roleName type="kin" corresp="pe__niklas_graefenauer_SB_CD_01434">hausfrau</roleName>, die emalen den vorgenanten Ulreichen Fries
                            <roleName type="kin" corresp="pe__ulrich_fries_SB_CD_01434">elichen
                            gehabt hat</roleName></rs>, und aus dem andern halben tail sullen
                      gevallen des egnanten Ulreichs Fries vater zehen guldein und desselben
                      Ulreichen geswistreiden auch zehen guldein nach lautt desselben Ulreichen
                      gescheffts, ut littera sonat.</rs> Actum an Freitag vor sand Veits tag, anno
-                  domini etc. xlviii<hi rend="super">o</hi>.</rs></p>
-            <p rend="Summa">Summa lxx d.</p>
-            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_01434">Nota die vorgnanten xx guldein
+                  domini etc. xlviii<hi rend="super">o</hi>.</rs></p><p rend="Summa">Summa lxx d.</p><p rend="Nachtrag"><rs type="event" ref="_nota">Nota die vorgnanten xx guldein
                   habent Hanns Fries der smid zu Pfafsteten und Jacob Fries satlergesell sein pruder
                   anstat Hainreich Fries irs vaters und irm geslastss von dem Grafenawer ingenomen
-                  und darumb ledig gesagt ut quittung, feria secunda ante Lucie, liii.</rs></p>
-         </div>
-         <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
-         </div>
-      </body>
-   </text>
-</TEI>
+                  und darumb ledig gesagt ut quittung, feria secunda ante Lucie, liii.</rs></p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

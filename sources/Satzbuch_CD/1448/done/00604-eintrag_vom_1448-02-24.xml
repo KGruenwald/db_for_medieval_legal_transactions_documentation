@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
@@ -122,12 +122,13 @@
                   <rs type="fn" role="transactiongood_I"><rs type="place"
                         ref="pl__wien-immo_alserstrasse_vor_schottentor_1"><roleName type="owner"
                            corresp="pe__johann_auer_SB_CD_00604">sein</roleName> haws, <roleName
-                           type="topo" corresp="pl__wien-alserstrasse_vor_schottentor">gelegen daselbs
-                           auf der Alsserstrass</roleName>
+                           type="topo" corresp="pl__wien-alserstrasse_vor_schottentor">gelegen
+                           daselbs auf der Alsserstrass</roleName>
                         <roleName type="topo" corresp="pl__wien-immo_alserstrasse_vor_schottentor_2"
                            >zenagst</roleName>
-                        <rs type="place" ref="pl__wien-immo_alserstrasse_vor_schottentor_2"><roleName
-                              type="owner" corresp="pl__wien-immo_alserstrasse_vor_schottentor_2"><rs
+                        <rs type="place" ref="pl__wien-immo_alserstrasse_vor_schottentor_2"
+                              ><roleName type="owner"
+                                 corresp="pe__niklas_pernhart_SB_CD_00604"><rs
                                  type="person" ref="pe__niklas_pernhart_SB_CD_00604">Niclasen
                                  Pernharts des <roleName type="prof"
                               >Fürer</roleName></rs></roleName> haws</rs></rs>, <rs type="place"
@@ -135,16 +136,17 @@
                            <roleName type="topo" corresp="pl__wien-alserstrasse_vor_schottentor"
                            >dapey</roleName>, <roleName type="topo"
                            corresp="pl__wien-immo_alserstrasse_vor_schottentor_3">zenagst</roleName>
-                        <rs type="place" ref="pl__wien-immo_alserstrasse_vor_schottentor_3">des Officials
-                           haus das yecz der stat mautthaus ist</rs>, <rs type="event" ref="NULL"
-                              ><rs type="fn" role="issuer">da man <rs type="place"
-                                 ref="pl__wien-immo_alserstrasse_vor_schottentor_1">von der
-                                 benanten prantstat</rs></rs>
+                        <rs type="place" ref="pl__wien-immo_alserstrasse_vor_schottentor_3">des
+                           Officials haus das yecz der stat mautthaus ist</rs>, <rs
+                           ref="ev__SB_CD_00604_men_1"><rs type="fn" role="issuer">da man <rs
+                                 type="place" ref="pl__wien-immo_alserstrasse_vor_schottentor_1">von
+                                 der benanten prantstat</rs></rs>
                            <catchwords n="disp">alle jar dint</catchwords>
                            <rs type="fn" role="recipient">der stat</rs>
-                           <rs type="fn" role="transactiongood_II">zwelf phening</rs>
+                           <rs type="fn" role="transactiongood_II"><measure>zwelf phening</measure>
+                              <catchwords n="fn"><add>zu purkrecht</add></catchwords></rs>
                            <catchwords n="disp">zu purkrecht</catchwords></rs></rs>, <rs
-                        type="event" ref="NULL"><catchwords n="disp">so dint</catchwords>
+                        ref="ev__SB_CD_00604_men_2"><catchwords n="disp">so dint</catchwords>
                         <rs type="fn" role="issuer">man auch <rs type="place"
                               ref="pl__wien-immo_alserstrasse_vor_schottentor_1">von dem egnanten
                               haws</rs>
@@ -156,7 +158,8 @@
                                  >hern</roleName> Wolfgangen <roleName type="off"
                                  corresp="org__wien-st_johann_in_der_siechenals">pfarrer</roleName>
                               Sand Johanns kirchen in der Siehenalss</rs></rs>
-                        <rs type="fn" role="transactiongood_II">vi s. d.</rs>
+                        <rs type="fn" role="transactiongood_II"><measure>vi s. d.</measure>
+                           <catchwords n="fn"><add>zu purkrecht</add></catchwords></rs>
                         <catchwords n="disp">zu purkrecht</catchwords> und nicht mer</rs></rs>. <rs
                      type="fn" role="recipient">Der <rs type="person"
                         ref="pe__elisabeth_QGW_II_II_3140"><roleName type="title">erbern</roleName>
@@ -173,17 +176,17 @@
                   der saczung über ain ganczes jar an alles vercziehen. Actum an sand Mathias abent
                   apostoli, anno etc. xlviii<hi rend="super">o</hi>.</rs></p>
             <p rend="Summa">Summa xxxii d.</p>
-            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00604">Habet cedulam.</rs></p>
+            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00604_nota">Habet cedulam.</rs></p>
          </div>
          <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
          </div>
       </body>
    </text>

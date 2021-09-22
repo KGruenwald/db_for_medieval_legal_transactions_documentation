@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
@@ -130,16 +130,15 @@
                               ref="pe__erhard_neunkircher_QGW_II_II_3274">
                               <roleName type="title">maister</roleName> Erharts Newnkircher des
                                  <roleName type="prof">glokengiesser</roleName></rs> gewesen
-                           ist</roleName>, <roleName type="topo" corresp="pl__wien-kaerntnerstrasse">gelegen in der
-                           Kernerstrass</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_kaerntnerstrasse_3"
-                           >zenegst</roleName>
-                        <rs type="place" ref="pl__wien-immo_kaerntnerstrasse_3"><roleName type="owner"
-                              corresp="pe__heinrich_stoll_SB_CD_00968"><rs type="person"
-                                 ref="pe__heinrich_stoll_SB_CD_00968">Hainrich Stolln des <roleName
-                                    type="prof">pekchen</roleName></rs></roleName> haus</rs>
-                        <roleName type="topo" corresp="pl__wien-immo_kaerntnerstrasse_3">an aim
-                           tail</roleName></rs>.</rs>
+                           ist</roleName>, <roleName type="topo" corresp="pl__wien-kaerntnerstrasse"
+                           >gelegen in der Kernerstrass</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_kaerntnerstrasse_3">zenegst
+                              <add>an aim tail</add></roleName>
+                        <rs type="place" ref="pl__wien-immo_kaerntnerstrasse_3"><roleName
+                              type="owner" corresp="pe__heinrich_stoll_SB_CD_00968"><rs
+                                 type="person" ref="pe__heinrich_stoll_SB_CD_00968">Hainrich Stolln
+                                 des <roleName type="prof">pekchen</roleName></rs></roleName>
+                           haus</rs> an aim tail</rs>.</rs>
                   <rs type="fn" role="recipient">Der <rs type="person"
                         ref="pe__dorothea_SB_CD_00968"><roleName type="title">erbern</roleName>
                         <roleName type="title">fraun</roleName> Dorothen, <rs type="person"
@@ -173,21 +172,21 @@
                   littera sonat. Actum an Mitichen ante Margarethe, anno etc. xlviii<hi rend="super"
                      >o</hi>.</rs></p>
             <p rend="Summa">Summa ½ tl. d.</p>
-            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00968">Nota der vorgnant saczbrief
-                  ligt hier im Raeturn zu der nagsten erben und der egnanten Dorothen
-               handen.</rs></p>
-            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00968">Nota der sacz ist
+            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00968_nota">Nota der vorgnant
+                  saczbrief ligt hier im Raeturn zu der nagsten erben und der egnanten Dorothen
+                  handen.</rs></p>
+            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00968_nota">Nota der sacz ist
                   umbgeschriben auf Petern Obrechten al ain.</rs></p>
          </div>
          <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
          </div>
       </body>
    </text>

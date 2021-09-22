@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3257 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3257 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3257</idno><altIdentifier type="old"><idno>517494</idno></altIdentifier></msIdentifier><msContents><msItem><listBibl default="false"><bibl default="false" status="draft">Camesina, Regesten 82 n° 381 Regest.</bibl></listBibl></msItem></msContents><physDesc><sealDesc><seal><p>Zwei anhangende Siegel, 1. schwarz u. Sch., 2. grün u. Sch.</p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <placeName>Wien</placeName>
+            <date when="14480626">1448 VI 26</date>
+            <origDate instant="false">zu Wienn, an mitichen vor sand Peter und sand Pauls tag, der heiligen
+               zwelfpoten.</origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03257_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03257_v.jpg"/></surface></facsimile><!-- tg checken --><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3257"><rs type="fn" role="issuer"><rs type="person" ref="pe__agnes_QGW_II_II_3250_b">Agnes, <rs type="person" ref="pe__michael_fuechsel_QGW_II_I_1108">Micheln des Füchsel</rs>
+                        <roleName type="kin" corresp="pe__michael_fuechsel_QGW_II_I_1108">witib</roleName>, <roleName type="title_ref" corresp="org__wien">burgerin</roleName> zu Wienn</rs>,</rs>
+                  <catchwords n="disp">gibt</catchwords>
+                  <rs type="fn" role="other"><catchwords n="fn">mit Handen</catchwords>
+                     <rs type="person" ref="pe__konrad_strobel_QGW_II_II_3257">Ku/onrats des Strobl,
+                           <roleName type="off" corresp="org__wien-st_martin_vor_dem_widmertor">Verwesers des gruntpuchs</roleName>, das da gehort zu dem spital dacz
+                        sand Mertten vor Widmertor zu Wienn</rs>,</rs>
+                  <rs type="fn" role="recipient">ihrem <rs type="person" ref="pe__johann_fuechsel_QGW_II_II_3250"><roleName type="kin" corresp="pe__agnes_QGW_II_II_3250_b">Vetter</roleName>
+                        <roleName type="title">hern</roleName> Hannsen Füchsel, <roleName type="title_ref" corresp="org__wien-st_stephan">korherr</roleName>
+                        Allerheiligen tumbkirchen dacz sand Stephan zu Wienn, <roleName type="off" corresp="org__wien-st_stephan-altar_st_ulrich-messe_fuechsel">Kaplan</roleName> der <rs type="event" ref="NULL"><rs type="fn" role="transactiongood_I"><rs type="org" ref="org__wien-st_stephan-altar_st_ulrich-messe_fuechsel">ewigen
+                                 Messe</rs></rs>, welche <rs type="fn" role="issuer"><rs type="person" ref="pe__agnes_QGW_II_II_3250_b">sie</rs> und <rs type="person" ref="pe__michael_fuechsel_QGW_II_I_1108">ihr
+                                    <roleName type="kin" corresp="pe__agnes_QGW_II_II_3250_b">Mann</roleName></rs></rs>
+                           <rs type="fn" role="recipient">auf <rs type="org" ref="org__wien-st_stephan-altar_st_ulrich">St. Ulrichs Altar in der
+                                 Stephanskirche</rs></rs>
+                           <catchwords n="disp"><add>Messe</add> gestiftet
+                        haben</catchwords></rs>,</rs> und <rs type="org" ref="org__wien-st_stephan-altar_st_ulrich-messe_fuechsel">seinen
+                        Nachfolgern</rs></rs> für <rs type="fn" role="transactiongood_II"><measure>100 lb dn.</measure></rs>
+                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__st_veit-immo_1">ein Joch Weingarten, <roleName type="topo" corresp="pl__st_veit">gelegen
+                           dacz Sand Veit an dem He/agkenperg</roleName>
+                        <roleName type="topo" corresp="pl__st_veit-immo_2">zenagst</roleName>
+                        <rs type="place" ref="pl__st_veit-immo_2"><roleName type="owner" corresp="pe__johann_gruntreich_QGW_II_II_3257"><rs type="person" ref="pe__johann_gruntreich_QGW_II_II_3257">Hannsen
+                              Gruntreich</rs></roleName> weingarten</rs>, <rs type="event" ref="NULL"><rs type="fn" role="issuer">von <rs type="place" ref="pl__st_veit-immo_1">dem</rs> man</rs>
+                           <rs type="fn" role="recipient"><rs type="org" ref="org__wien-st_martin_vor_dem_widmertor">dem
+                              Martinsspital</rs></rs>
+                           <rs type="fn" role="transactiongood_I">drei Eimer Wein <catchwords n="fn">zu Bergrecht</catchwords></rs> und <rs type="fn" role="transactiongood_I">6 dn. <catchwords n="fn">zu
+                                 Voitrecht</catchwords></rs>
+                           <catchwords n="disp">dient</catchwords></rs></rs></rs>.</rs>
+            </p></div><div type="seal"><p><rs type="event" ref="ev__QGW_II_II_3257"><rs type="fn" role="witness">Besiegelt mit
+                     den Siegeln des <rs type="org" ref="org__wien-st_martin_vor_dem_widmertor">Spitals</rs> und des <rs type="person" ref="pe__ulrich_hirssauer_QGW_II_II_3239"><roleName type="off" corresp="org__wien">Stadtschreibers</roleName> Ulreich
+                     Hirssauer</rs></rs>.</rs>
+            </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

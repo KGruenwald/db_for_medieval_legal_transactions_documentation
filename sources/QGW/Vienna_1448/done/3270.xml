@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3270 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3270 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3270</idno><altIdentifier type="old"><idno>517507</idno></altIdentifier></msIdentifier><physDesc><sealDesc><seal><p>Rückwärts aufgedrücktes Wappensiegel (Sava Fig. 108) von rothem Wachse
+                           unter Papierdecke.</p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <placeName>Wiener-Neustadt</placeName>
+            <date when="14480819">1448 VIII 19</date>
+            <origDate instant="false">Geben zu der Neunstat an montag nach Unserr Lieben Frauen tag Assumpcionis,
+               anno domini etc. xlviijvo, [298] unsers reichs im neundten jar.
+            </origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03270_a_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03270_a_v.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03270_b_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03270_b_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p><rs type="event" ref="ev__QGW_II_II_3270"><rs type="fn" role="issuer"><rs type="person" ref="pe__friedrich_v_herzog_von_oesterreich_QGW_II_I_3270">König Friedrich IV.</rs></rs>
+                  <catchwords n="disp">theilt</catchwords>
+                  <rs type="fn" role="recipient">dem <rs type="org" ref="org__wien">Bürgermeister,
+                        Richter und Rathe zu Wien</rs></rs>
+                  <catchwords n="disp">mit, dass er die Streitsache</catchwords> zwischen <rs type="fn" role="other"><rs type="person" ref="pe__barbara_QGW_II_II_3270">Barbaren der Hölczlin von Eistorff</rs> und <rs type="person" ref="pe__elisabeth_QGW_II_II_3270">Elsbethen, <rs type="person" ref="pe__johann_busko_QGW_II_II_3270">Janen des Busko</rs>
+                        <roleName type="kin" corresp="pe__johann_busko_QGW_II_II_3270">hausfraun</roleName></rs>, <catchwords n="fn">einerseits</catchwords></rs> und <rs type="fn" role="other"><rs type="person" ref="pe__ulrich_eitzinger_QGW_II_II_3270">Ulreich Eiczinger von Eiczing</rs>
+                     <catchwords n="fn">anderseits</catchwords></rs>
+                  <rs type="fn" role="transactiongood_III">über <rs type="place" ref="pl__wien-immo_st_maria_im_rathaus_1">die <roleName type="owner" corresp="pe__ulrich_wuerfel_QGW_II_I_1404">von <rs type="person" ref="pe__ulrich_wuerfel_QGW_II_I_1404">Ulreich dem Würffel <roleName type="dead" cert="high">hinterlassenen</roleName></rs></roleName>
+                        drei Haustheile <roleName type="topo" corresp="pl__wien-st_maria_im_rathaus">gegen Otten und Haimen capellen zu Wienn über</roleName></rs>
+                     <rs type="place" ref="pl__wien-immo_st_maria_im_rathaus_2"><add>die</add>
+                        <roleName type="owner" corresp="pe__ulrich_wuerfel_QGW_II_I_1404"><add>von
+                              Ulreich dem Würffel hinterlassenen</add></roleName>
+                        <add>drei Haustheile</add>
+                        <roleName type="topo" corresp="pl__wien-st_maria_im_rathaus"><add>gegen
+                              Otten und Haimen capellen zu Wienn über</add></roleName></rs>
+                     <rs type="place" ref="pl__wien-immo_st_maria_im_rathaus_3"><add>die</add>
+                        <roleName type="owner" corresp="pe__ulrich_wuerfel_QGW_II_I_1404"><add>von
+                              Ulreich dem Würffel hinterlassenen</add></roleName>
+                        <add>drei Haustheile</add>
+                        <roleName type="topo" corresp="pl__wien-st_maria_im_rathaus"><add>gegen
+                              Otten und Haimen capellen zu Wienn über</add></roleName></rs></rs>
+                  <catchwords n="disp">an sich gezogen habe</catchwords>.</rs>
+            </p></div><div type="nota"><p>Von anderer Hand: commissio domini regis in cons( ilio). </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

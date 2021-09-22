@@ -1,55 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">Eintrag vom 1448-12-20</title>
-            <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von
-               Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
-            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
-            <respStmt>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title type="main">Eintrag vom 1448-12-20</title><title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von
+               Eslorn, anno etc. xlviii<hi rend="super">o</hi></title><title type="sub">Digitale Edition der Wiener Grundbücher</title><respStmt>
                <resp>Transkription</resp>
                <name>
                   <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
                </name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
-               Andorfer</publisher>
-            <availability default="false">
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
+            </respStmt></titleStmt><publicationStmt><publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher><availability default="false"><licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>CC-BY</p>
                   <p>You are free to: Share — copy and redistribute the material in any medium or
                      format. Adapt — remix, transform, and build upon the material for any purpose,
                      even commercially.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc default="false">
-            <msDesc type="invetory" status="draft">
-               <msIdentifier>
-                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
-                  <repository>Grundbücher</repository>
-                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <locus from="clxxiii" to="[173v]"/>
-                     <p>clxxiii - [173v]</p>
-                  </msItem>
-               </msContents>
-               <history>
+               </licence></availability></publicationStmt><sourceDesc default="false"><msDesc type="invetory" status="draft"><msIdentifier><institution>Wiener Stadt- und Landesarchiv (WStLA)</institution><repository>Grundbücher</repository><idno type="archive">WStLA 2.1.2.1.B1.34</idno></msIdentifier><msContents><msItem><locus from="clxxiii" to="[173v]"/><p>clxxiii - [173v]</p></msItem></msContents><history>
                   <origin notAfter="1448-12-20">1448-12-20</origin>
-               </history>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
-         xmlns:xi="http://www.w3.org/2001/XInclude">
-         <projectDesc default="false">
-            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               </history></msDesc></sourceDesc></fileDesc><encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><projectDesc default="false"><p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
                   <row rend="header">
                      <cell>Name der Formatvorlage</cell>
@@ -101,81 +64,44 @@
                      <cell>Hochgestellt</cell>
                   </row>
                </table>
-            </p>
-            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+            </p><p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
                community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
                wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
-               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
-         </projectDesc>
-      </encodingDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0338.jpg"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="entry">
-            <p><rs type="event" ref="ev__SB_CD_00627"><rs type="fn" role="issuer"><rs type="person"
-                        ref="pe__heinrich_wurm_SB_CD_00627">Hainreich Wurm, <roleName type="prof"
-                           >pekch</roleName></rs></rs>, <catchwords n="disp">hat
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p></projectDesc></encodingDesc></teiHeader><facsimile><graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0338.jpg"/></facsimile><text><body><div type="entry"><p><rs type="event" ref="ev__SB_CD_00627"><rs type="fn" role="issuer"><rs type="person" ref="pe__heinrich_wurm_SB_CD_00627">Hainreich Wurm, <roleName type="prof">pekch</roleName></rs></rs>, <catchwords n="disp">hat
                      versaczt</catchwords>
-                  <rs type="fn" role="transactiongood_I"><rs type="place"
-                        ref="pl__wien-immo_gottesacker_vor_kaertnertor_1"><roleName type="owner"
-                           corresp="pe__heinrich_wurm_SB_CD_00627">sein</roleName> haus, <roleName
-                           type="topo" corresp="pl__wien-kaerntnertor">gelegen vor Kernertor</roleName>
-                        <roleName type="topo" corresp="pl__wien-gottesacker_vor_kaertnertor">zenagst dem
-                           gotzakcher</roleName>, <rs type="event" ref="NULL"><rs type="fn"
-                              role="issuer"><rs type="place"
-                                 ref="pl__wien-immo_gottesacker_vor_kaertnertor_1">davon</rs> man</rs>
+                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_gottesacker_vor_kaertnertor_1"><roleName type="owner" corresp="pe__heinrich_wurm_SB_CD_00627">sein</roleName> haus, <roleName type="topo" corresp="pl__wien-kaerntnertor">gelegen vor
+                           Kernertor</roleName>
+                        <roleName type="topo" corresp="pl__wien-gottesacker_vor_kaertnertor">zenagst
+                           dem gotzakcher</roleName>, <rs ref="ev__SB_CD_00627_men_1"><rs type="fn" role="issuer"><rs type="place" ref="pl__wien-immo_gottesacker_vor_kaertnertor_1">davon</rs>
+                              man</rs>
                            <catchwords n="disp">jerlich dint</catchwords>
-                           <rs type="fn" role="recipient">in der <rs type="org"
-                                 ref="org__wien-buergerspital">Purgerspital</rs> daselbs</rs> zehen
-                           pfening <catchwords n="disp">zu purkrecht</catchwords> und nicht
-                        mer</rs></rs>.</rs>
-                  <rs type="fn" role="recipient">Den <rs type="person"
-                        ref="pe__simon_lempl_QGW_II_II_4131"><roleName type="title"
-                           >erbern</roleName> Symon Lémpl <roleName type="prof"
-                           ><add>pekchen</add></roleName>
-                        <roleName type="rep" corresp="pe__erhard_smidpekch_QGW_II_II_3043"
-                              ><add>geschefftleuten</add></roleName>
+                           <rs type="fn" role="recipient">in der <rs type="org" ref="org__wien-buergerspital">Purgerspital</rs> daselbs</rs>
+                           <rs type="fn" role="transactiongood_I"><measure>zehen pfening</measure>
+                              <catchwords n="fn"><add>zu purkrecht</add></catchwords></rs>
+                           <catchwords n="disp">zu purkrecht</catchwords> und nicht
+                     mer</rs></rs>.</rs>
+                  <rs type="fn" role="recipient">Den <rs type="person" ref="pe__simon_lempl_QGW_II_II_4131"><roleName type="title">erbern</roleName> Symon Lémpl <roleName type="prof"><add>pekchen</add></roleName>
+                        <roleName type="rep" corresp="pe__erhard_smidpekch_QGW_II_II_3043"><add>geschefftleuten</add></roleName>
                         <roleName type="rep" corresp="pe__heinrich_smidpekch_SB_CD_00627"><add>zu
                               handen</add></roleName>
                         <roleName type="rep" corresp="pe__margarethe_SB_CD_00627"><add>zu
                               handen</add></roleName>
                         <roleName type="rep" corresp="pe__anna_QGW_II_II_3679"><add>zu
-                           handen</add></roleName></rs>, <rs type="person"
-                        ref="pe__wilhelm_von_freising_QGW_II_II_4106"><roleName type="title"
-                              ><add>erbern</add></roleName> Wilhalmen von Freising <roleName
-                           type="prof"><add>pekchen</add></roleName>
-                        <roleName type="rep" corresp="pe__erhard_smidpekch_QGW_II_II_3043"
-                              ><add>geschefftleuten</add></roleName>
+                           handen</add></roleName></rs>, <rs type="person" ref="pe__wilhelm_von_freising_QGW_II_II_4106"><roleName type="title"><add>erbern</add></roleName> Wilhalmen von Freising <roleName type="prof"><add>pekchen</add></roleName>
+                        <roleName type="rep" corresp="pe__erhard_smidpekch_QGW_II_II_3043"><add>geschefftleuten</add></roleName>
                         <roleName type="rep" corresp="pe__heinrich_smidpekch_SB_CD_00627"><add>zu
                               handen</add></roleName>
                         <roleName type="rep" corresp="pe__margarethe_SB_CD_00627"><add>zu
                               handen</add></roleName>
                         <roleName type="rep" corresp="pe__anna_QGW_II_II_3679"><add>zu
-                           handen</add></roleName></rs> und <rs type="person"
-                        ref="pe__niklas_pehem_SB_CD_00627"><roleName type="title"
-                           ><add>erbern</add></roleName> Niclasen Pehem, den <roleName type="prof"
-                           >pekchen</roleName>, <rs type="person"
-                           ref="pe__erhard_smidpekch_QGW_II_II_3043">Erharts Smidpekchen <roleName
-                              type="dead">seligen</roleName></rs>
-                        <roleName type="rep" corresp="pe__erhard_smidpekch_QGW_II_II_3043"
-                           >geschefftleuten</roleName>, <roleName type="rep"
-                           corresp="pe__heinrich_smidpekch_SB_CD_00627"><add>zu
+                           handen</add></roleName></rs> und <rs type="person" ref="pe__niklas_pehem_SB_CD_00627"><roleName type="title"><add>erbern</add></roleName> Niclasen Pehem, den <roleName type="prof">pekchen</roleName>, <rs type="person" ref="pe__erhard_smidpekch_QGW_II_II_3043">Erharts Smidpekchen <roleName type="dead">seligen</roleName></rs>
+                        <roleName type="rep" corresp="pe__erhard_smidpekch_QGW_II_II_3043">geschefftleuten</roleName>, <roleName type="rep" corresp="pe__heinrich_smidpekch_SB_CD_00627"><add>zu
                            handen</add></roleName>
                         <roleName type="rep" corresp="pe__margarethe_SB_CD_00627"><add>zu
                               handen</add></roleName>
                         <roleName type="rep" corresp="pe__anna_QGW_II_II_3679"><add>zu
                            handen</add></roleName></rs>
-                  </rs> zu handen <rs type="person" ref="pe__heinrich_smidpekch_SB_CD_00627"
-                     >Hainreichen <roleName type="kin" corresp="pe__erhard_smidpekch_QGW_II_II_3043"
-                           ><add>kinder</add></roleName></rs>, <rs type="person"
-                     ref="pe__margarethe_SB_CD_00627">Margrethen <roleName type="kin"
-                        corresp="pe__erhard_smidpekch_QGW_II_II_3043"
-                     ><add>kinder</add></roleName></rs> und <rs type="person"
-                     ref="pe__anna_QGW_II_II_3679">Annen, desselben Smidpekchen <roleName type="kin"
-                        corresp="pe__erhard_smidpekch_QGW_II_II_3043">kinder</roleName></rs>, und
+                  </rs> zu handen <rs type="person" ref="pe__heinrich_smidpekch_SB_CD_00627">Hainreichen <roleName type="kin" corresp="pe__erhard_smidpekch_QGW_II_II_3043"><add>kinder</add></roleName></rs>, <rs type="person" ref="pe__margarethe_SB_CD_00627">Margrethen <roleName type="kin" corresp="pe__erhard_smidpekch_QGW_II_II_3043"><add>kinder</add></roleName></rs> und <rs type="person" ref="pe__anna_QGW_II_II_3679">Annen, desselben Smidpekchen <roleName type="kin" corresp="pe__erhard_smidpekch_QGW_II_II_3043">kinder</roleName></rs>, und
                   iren erben, <rs type="fn" role="transactiongood_II">umb funfczig phund
                      phening</rs> und sind zu beczalen von den nagstkunfftigen Weichnachten uber ain
                   ganczs jar anvercziehen. Es sol auch der egnant Wúrm das obgenant junger kind
@@ -183,19 +109,4 @@
                   notdurfften als aim solhen kind zugepurt und das dann nach ausgang des jars
                   mitsambt dem obgnanten gelt den vorgnanten geschefftleuten wider uberantwurten und
                   geben an abslag und an alles vercziehen, act ut littera. Actum an sand Thomans
-                  abent, anno etc. xlviii<hi rend="super">o</hi>.</rs></p>
-            <p rend="Summa">Summa iii s. x d.</p>
-         </div>
-         <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
-         </div>
-      </body>
-   </text>
-</TEI>
+                  abent, anno etc. xlviii<hi rend="super">o</hi>.</rs></p><p rend="Summa">Summa iii s. x d.</p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

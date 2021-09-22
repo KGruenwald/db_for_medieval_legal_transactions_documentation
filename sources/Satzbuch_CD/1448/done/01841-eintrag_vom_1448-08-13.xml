@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
@@ -124,40 +124,39 @@
                            corresp="pe__ulrich_lang_SB_CD_01841">sein</roleName> haus, <roleName
                            type="topo" corresp="pl__wien-schenkenstrasse">gelegen in der
                            Schenkchenstrass</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_schenkenstrasse_4"
-                           >zenagst</roleName>
-                        <rs type="place" ref="pl__wien-immo_schenkenstrasse_4"><roleName type="owner"
-                              corresp="pe__burkhard_kienberger_QGW_II_III_4957"><rs type="person"
-                                 ref="pe__burkhard_kienberger_QGW_II_III_4957"><roleName
-                                    type="title">hern</roleName> Purkharts
-                              Kienberger</rs></roleName> haus</rs>
-                        <roleName type="topo" corresp="pl__wien-immo_schenkenstrasse_4">an aim
-                           tail</roleName> und <roleName type="topo"
-                           corresp="pl__wien-immo_schenkenstrasse_1">an dem andern zenagst</roleName>
-                        <rs type="place" ref="pl__wien-immo_schenkenstrasse_1"><roleName type="owner"
-                              corresp="pe__niklas_vaschang_SB_CD_01433">Niclasen des
+                        <roleName type="topo" corresp="pl__wien-immo_schenkenstrasse_4">zenagst
+                              <add>an aim tail</add></roleName>
+                        <rs type="place" ref="pl__wien-immo_schenkenstrasse_4"><roleName
+                              type="owner" corresp="pe__burkhard_kienberger_QGW_II_III_4957"><rs
+                                 type="person" ref="pe__burkhard_kienberger_QGW_II_III_4957"
+                                    ><roleName type="title">hern</roleName> Purkharts
+                                 Kienberger</rs></roleName> haus</rs> an aim tail und <roleName
+                           type="topo" corresp="pl__wien-immo_schenkenstrasse_1">an dem andern
+                           zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_schenkenstrasse_1"><roleName
+                              type="owner" corresp="pe__niklas_vaschang_SB_CD_01433">Niclasen des
                               Vaschang</roleName> haus</rs></rs>.</rs>
                   <rs type="fn" role="recipient">Dem <rs type="person"
                         ref="pe__michael_walther_QGW_II_II_3552"><roleName type="title"
                            >erbern</roleName> Micheln Walthern</rs> und seinen erben,</rs>
-                  <rs type="fn" role="transactiongood_II">umb zehn phund pfening</rs> und sind zu
-                  betzalen von dem angstkunftign unser fraun tag als sy geporn ist uber ain gantzes
-                  jar an alles vercziehen. Actum an Eritag nach sand Larenczen tag, anno etc.
-                     xlviii<hi rend="super">o</hi>.</rs></p>
+                  <rs type="fn" role="transactiongood_II">umb <measure>zehn phund
+                     pfening</measure></rs> und sind zu betzalen von dem angstkunftign unser fraun
+                  tag als sy geporn ist uber ain gantzes jar an alles vercziehen. Actum an Eritag
+                  nach sand Larenczen tag, anno etc. xlviii<hi rend="super">o</hi>.</rs></p>
             <p rend="Summa">Summa xx d.</p>
-            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_01841">Nota den vorgenant saz hat
-                  Micheln Walthern ledig gesagt an Freitag vor Bartholomei apostoli ano etc.
+            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_01841_nota">Nota den vorgenant saz
+                  hat Micheln Walthern ledig gesagt an Freitag vor Bartholomei apostoli ano etc.
                   xlviiii.</rs></p>
          </div>
          <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
          </div>
       </body>
    </text>

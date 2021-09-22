@@ -1,55 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">Eintrag vom 1448-04-03</title>
-            <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von
-               Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
-            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
-            <respStmt>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title type="main">Eintrag vom 1448-04-03</title><title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von
+               Eslorn, anno etc. xlviii<hi rend="super">o</hi></title><title type="sub">Digitale Edition der Wiener Grundbücher</title><respStmt>
                <resp>Transkription</resp>
                <name>
                   <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
                </name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
-               Andorfer</publisher>
-            <availability default="false">
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
+            </respStmt></titleStmt><publicationStmt><publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher><availability default="false"><licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>CC-BY</p>
                   <p>You are free to: Share — copy and redistribute the material in any medium or
                      format. Adapt — remix, transform, and build upon the material for any purpose,
                      even commercially.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc default="false">
-            <msDesc type="invetory" status="draft">
-               <msIdentifier>
-                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
-                  <repository>Grundbücher</repository>
-                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <locus from="clxx" to="[170v]"/>
-                     <p>clxx - [170v]</p>
-                  </msItem>
-               </msContents>
-               <history>
+               </licence></availability></publicationStmt><sourceDesc default="false"><msDesc type="invetory" status="draft"><msIdentifier><institution>Wiener Stadt- und Landesarchiv (WStLA)</institution><repository>Grundbücher</repository><idno type="archive">WStLA 2.1.2.1.B1.34</idno></msIdentifier><msContents><msItem><locus from="clxx" to="[170v]"/><p>clxx - [170v]</p></msItem></msContents><history>
                   <origin notAfter="1448-04-03">1448-04-03</origin>
-               </history>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
-         xmlns:xi="http://www.w3.org/2001/XInclude">
-         <projectDesc default="false">
-            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               </history></msDesc></sourceDesc></fileDesc><encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><projectDesc default="false"><p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
                   <row rend="header">
                      <cell>Name der Formatvorlage</cell>
@@ -101,73 +64,30 @@
                      <cell>Hochgestellt</cell>
                   </row>
                </table>
-            </p>
-            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+            </p><p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
                community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
                wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
-               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
-         </projectDesc>
-      </encodingDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0332.jpg"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="entry">
-            <p><rs type="event" ref="ev__SB_CD_00606"><rs type="fn" role="issuer"><rs type="person"
-                        ref="pe__johann_wuerer_QGW_II_II_2993">Hanns Würer <roleName type="off"
-                           corresp="org__wien">vorsprech</roleName></rs></rs>
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p></projectDesc></encodingDesc></teiHeader><facsimile><graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0332.jpg"/></facsimile><text><body><div type="entry"><p><rs type="event" ref="ev__SB_CD_00606"><rs type="fn" role="issuer"><rs type="person" ref="pe__johann_wuerer_QGW_II_II_2993">Hanns Würer <roleName type="off" corresp="org__wien">vorsprech</roleName></rs></rs>
                   <catchwords n="disp">hat versaczt</catchwords>
-                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_salzgries_1"
-                           ><roleName type="owner" corresp="pe__johann_wuerer_QGW_II_II_2993"
-                           >sein</roleName> haws, <roleName type="topo" corresp="pl__wien-salzgries"
-                           >gelegen am Saltzgriess</roleName>
+                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_salzgries_1"><roleName type="owner" corresp="pe__johann_wuerer_QGW_II_II_2993">sein</roleName> haws,
+                           <roleName type="topo" corresp="pl__wien-salzgries">gelegen am
+                           Saltzgriess</roleName>
                         <roleName type="topo" corresp="pl__wien-immo_salzgries_2">zenagst</roleName>
-                        <rs type="place" ref="pl__wien-immo_salzgries_2"><roleName type="owner"
-                              corresp="pe__liebhard_weiss_SB_CD_00606"><rs type="person"
-                                 ref="pe__liebhard_weiss_SB_CD_00606">Liepharts
-                              Weissen</rs></roleName> haws</rs>, <rs type="event"
-                           ref="ev__SB_CD_00606_men_1"><rs type="fn" role="issuer"><rs type="place"
-                                 ref="pl__wien-immo_salzgries_1">davon</rs> man</rs>
+                        <rs type="place" ref="pl__wien-immo_salzgries_2"><roleName type="owner" corresp="pe__liebhard_weiss_SB_CD_00606"><rs type="person" ref="pe__liebhard_weiss_SB_CD_00606">Liepharts
+                              Weissen</rs></roleName> haws</rs>, <rs ref="ev__SB_CD_00606_men_1"><rs type="fn" role="issuer"><rs type="place" ref="pl__wien-immo_salzgries_1">davon</rs> man</rs>
                            <catchwords n="disp">jerlich dint</catchwords>
-                           <rs type="fn" role="recipient"><rs type="person"
-                                 ref="pe__johann_resch_SB_CD_00606"><roleName type="title"
-                                    >hern</roleName> Hannsen Reschen, <roleName type="off"
-                                    corresp="org__wien-st_niklas_vor_dem_stubentor_zisterzienserinnen-messe_peter_chorherr_von_st_stephan"
-                                    >caplan</roleName> der mess die weilent her Peter korherr zu
+                           <rs type="fn" role="recipient"><rs type="person" ref="pe__johann_resch_SB_CD_00606"><roleName type="title">hern</roleName> Hannsen Reschen, <roleName type="off" corresp="org__wien-st_niklas_vor_dem_stubentor_zisterzienserinnen-messe_peter_chorherr_von_st_stephan">caplan</roleName> der mess die weilent her Peter korherr zu
                                  Sand Steffan pharrer zu Wurnitz in Sand Niclas kloster vor
-                                 Stubentor gestifft hat</rs></rs>, <rs type="fn"
-                              role="transactiongoood_II">sechs phund phening</rs>
+                                 Stubentor gestifft hat</rs></rs>, <rs type="fn" role="transactiongoood_I"><measure>sechs phund phening</measure>
+                              <catchwords n="fn"><add>zu purkrecht</add></catchwords></rs>
                            <catchwords n="disp">zu purkrecht</catchwords> und nicht
                      mer</rs></rs>.</rs>
-                  <rs type="fn" role="recipient">Dem <rs type="person"
-                        ref="pe__heinrich_hulger_QGW_II_II_3573"><roleName type="title"
-                           >erbern</roleName>
-                        <roleName type="title">herren</roleName>, <roleName type="title"
-                           >hern</roleName> Hainreichen Hulger, <roleName type="off"
-                           corresp="org__stamhaim-pfarre">pharrer</roleName> zu Stainhaim</rs>, und
+                  <rs type="fn" role="recipient">Dem <rs type="person" ref="pe__heinrich_hulger_QGW_II_II_3573"><roleName type="title">erbern</roleName>
+                        <roleName type="title">herren</roleName>, <roleName type="title">hern</roleName> Hainreichen Hulger, <roleName type="off" corresp="org__stamhaim-pfarre">pharrer</roleName> zu Stainhaim</rs>, und
                      seinen erben</rs>, <rs type="fn" role="transactiongood_II">umb<note>
                         <p rend="footnote text"> Umb: Über der Zeile eingefügt.</p>
                      </note> newnundzwainczig pfund und virunddreissig phening</rs> und sind zu
                   beczalen auf die nagstkunfftigen phingsten anvercziehen. Actum an Mitichen ante
-                  Ambrosi, anno etc. xlviiio.</rs></p>
-            <p rend="Summa">Summa lviii d.</p>
-            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00606">Hulger habet cedulam.</rs></p>
-            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00606">Den sacz hat der genant her
+                  Ambrosi, anno etc. xlviiio.</rs></p><p rend="Summa">Summa lviii d.</p><p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00606_nota">Hulger habet cedulam.</rs></p><p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00606_nota">Den sacz hat der genant her
                   Hainreich ledig gesagt, an Montag vor Invencionis sancti Stephani, anno etc. xx
-                  xlviiio.</rs></p>
-         </div>
-         <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
-         </div>
-      </body>
-   </text>
-</TEI>
+                  xlviiio.</rs></p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

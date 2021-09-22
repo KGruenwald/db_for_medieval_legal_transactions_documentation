@@ -122,23 +122,26 @@
                         ref="pe__barbara_SB_CD_00613">Barbara, sein <roleName type="kin"
                            corresp="pe__johann_unverdrossen_SB_CD_00613"
                      >hausfrau</roleName></rs></rs>, <catchwords n="disp">habent
-                     verchaufft</catchwords> vir phundt <catchwords n="disp">gelts
-                     purkrechts</catchwords>
-                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_kohlmarkt_1"
-                        >auf <roleName type="owner" corresp="pe__johann_unverdrossen_SB_CD_00613"
-                              ><add>irm</add></roleName>
+                     verchaufft</catchwords>
+                  <rs type="fn" role="transactiongood_I"><measure>vir phundt</measure>
+                     <catchwords n="fn"><add>zu purkrecht</add></catchwords></rs>
+                  <catchwords n="disp">gelts purkrechts</catchwords>
+                  <rs type="fn" role="transactiongood_I"><rs type="place"
+                        ref="pl__wien-immo_kohlmarkt_1">auf <roleName type="owner"
+                           corresp="pe__johann_unverdrossen_SB_CD_00613"><add>irm</add></roleName>
                         <roleName type="owner" corresp="pe__barbara_SB_CD_00613">irm</roleName>
                         halben haus mit seiner zugehorung, <roleName type="topo"
-                           corresp="pl__wien-kohlmarkt">ganczes gelegen am Alten Kolmarkcht</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_kohlmarkt_4">zenagst</roleName>
+                           corresp="pl__wien-kohlmarkt">ganczes gelegen am Alten
+                           Kolmarkcht</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_kohlmarkt_4">zenagst <add>an
+                              aim tail</add></roleName>
                         <rs type="place" ref="pl__wien-immo_kohlmarkt_4"><roleName type="owner"
                               corresp="pe__niklas_vorstl_QGW_II_II_3265"><rs type="person"
                                  ref="pe__niklas_vorstl_QGW_II_II_3265"><roleName type="title"
                                     >maister</roleName> Niclasen Vörstl des <roleName type="prof"
-                                    >wuntarczts</roleName></rs></roleName> haus</rs>
-                        <roleName type="topo" corresp="pl__wien-immo_kohlmarkt_4">an aim tail</roleName>,
-                           <rs type="event" ref="ev__SB_CD_00608_men_1"><rs type="fn" role="issuer"
-                                 ><rs type="place" ref="pl__wien-immo_kohlmarkt_1">davon</rs> man</rs>
+                                    >wuntarczts</roleName></rs></roleName> haus</rs> an aim tail,
+                           <rs ref="ev__SB_CD_00613_men_1"><rs type="fn" role="issuer"><rs
+                                 type="place" ref="pl__wien-immo_kohlmarkt_1">davon</rs> man</rs>
                            <catchwords n="disp">jerlich dint</catchwords>
                            <rs type="fn" role="recipient"><rs type="person"
                                  ref="pe__georg_schrot_QGW_II_II_3733"><roleName type="title"
@@ -149,11 +152,13 @@
                                     corresp="org__wien-st_peter-altar_st_maria-messe_chastner"
                                     >verweser</roleName> der mess so Eberhart Kasstner pey Peilertor
                                  in derselben capellen zu stifften geschafft hat</rs>,</rs>
-                           <rs type="fn" role="transactiongood_II">zehen phunt phening</rs> die
+                           <rs type="fn" role="transactiongood_II"><measure>zehen phunt
+                                 phening</measure>
+                              <catchwords n="fn"><add>zu purkrecht</add></catchwords></rs> die
                            abczulosen sind mit hundert phund pheningen nach lautt ains
                            purkrechtbriefs <catchwords n="disp"><add>zu
                            purkrecht</add></catchwords></rs>
-                        <rs type="event" ref="ev__SB_CD_00608">und <rs type="fn" role="issuer"><rs
+                        <rs ref="ev__SB_CD_00613_men_2">und <rs type="fn" role="issuer"><rs
                                  type="place" ref="pl__wien-immo_kohlmarkt_1"><add>davon</add></rs>
                               <add>man</add></rs>
                            <catchwords n="disp"><add>jerlich dint</add></catchwords>
@@ -163,43 +168,44 @@
                               phening</rs> die auch abczulosen sind mit sechsunddreissig phund
                            pheningen nach ains purkrechtbriefs lautt alles <catchwords n="disp">zu
                               purkrecht</catchwords> und nicht mer.</rs></rs></rs>
-                  <rs type="transactiongood_II">Umb drewunddreissig phunt und achczig phening, <rs
-                        type="event" ref="NULL"><rs type="fn" role="transactiongood_II">der
-                           zwayunddreissig phunt</rs>
+                  <rs type="fn" role="transactiongood_II">Umb <measure>drewunddreissig phunt und
+                        achczig phening</measure>, <rs ref="ev__SB_CD_00613_men_3"><rs type="fn"
+                           role="transactiongood_II">der zwayunddreissig phunt</rs>
                         <catchwords n="disp">sind emalen gelegen gewesen</catchwords>
-                        <rs type="fn" role="issuer">auf <rs type="place" ref="pl__wien-immo_peurertor_1"
-                                 ><roleName type="owner" corresp="pe__ulrich_pernauer_SB_CD_00613"
-                                    ><rs type="person" ref="pe__ulrich_pernauer_SB_CD_00613"
-                                    >Ulreichs Pernawer <roleName type="prof"
-                                 >gurtler</roleName></rs></roleName>
-                              <roleName type="topo" corresp="pl__wien-peurertor">pey Peilertor</roleName>
-                              haus</rs></rs></rs></rs>, <rs type="fn" role="recipient">dem <rs
-                        type="person" ref="pe__johann_huber_SB_CD_00613"><roleName type="title"
-                           >ersamen</roleName>
+                        <rs type="fn" role="issuer">auf <rs type="place"
+                              ref="pl__wien-immo_peurertor_1"><roleName type="owner"
+                                 corresp="pe__ulrich_pernauer_SB_CD_00613"><rs type="person"
+                                    ref="pe__ulrich_pernauer_SB_CD_00613">Ulreichs Pernawer
+                                       <roleName type="prof">gurtler</roleName></rs></roleName>
+                              <roleName type="topo" corresp="pl__wien-peurertor">pey
+                                 Peilertor</roleName> haus</rs></rs></rs></rs>, <rs type="fn"
+                     role="recipient">dem <rs type="person" ref="pe__johann_huber_SB_CD_00613"
+                           ><roleName type="title">ersamen</roleName>
                         <roleName type="title">herren</roleName>
                         <roleName type="title">maister</roleName> Hannsen Huber, <roleName
                            type="off" corresp="org__himberg-pfarre">pharrer</roleName> zu Hindperg,
                            <roleName type="off"
                            corresp="org__wien-st_michael-altar_gottesleichnam-messe_eslarn"
                            >caplan</roleName> Gotsleichnams altar under dem newen turren dacz Sand
-                        Michel der von Eslorn stifftung</rs>, und seinen nachkomen</rs> und sind zu
-                  dienn zu drin tegen und wider abczukauffen miteinander und den nagsten dinst
-                  damit, ut littera sonat. Actum an Mittichen vor sand Maria Magdalen tag, anno etc.
-                  xlviiio.</rs>
+                        Michel der von Eslorn stifftung</rs>, und <rs type="org"
+                        ref="org__wien-st_michael-altar_gottesleichnam-messe_eslarn">seinen
+                        nachkomen</rs></rs> und sind zu dienn zu drin tegen und wider abczukauffen
+                  miteinander und den nagsten dinst damit, ut littera sonat. Actum an Mittichen vor
+                  sand Maria Magdalen tag, anno etc. xlviiio.</rs>
             </p>
             <p rend="Summa">Summa lxvi d.</p>
             <p rend="Nachtrag">Das purkrecht ist abgelost und zu dem puch erlegt worden, feria sexta
                ante Irene anno etc. liido.</p>
          </div>
          <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
          </div>
       </body>
    </text>

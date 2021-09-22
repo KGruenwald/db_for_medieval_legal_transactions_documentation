@@ -127,17 +127,16 @@
                         ref="pe__margarethe_SB_CD_00615">Margret, sein <roleName type="kin"
                            corresp="pe__johann_hoelczel_SB_CD_00615">hausfrau</roleName></rs></rs>,
                      <catchwords n="disp">habent versaczt</catchwords>
-                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_kienmarkt_3"
-                           ><roleName type="owner" corresp="pe__margarethe_SB_CD_00615"
-                              ><add>ir</add></roleName>
+                  <rs type="fn" role="transactiongood_I"><rs type="place"
+                        ref="pl__wien-immo_kienmarkt_3"><roleName type="owner"
+                           corresp="pe__margarethe_SB_CD_00615"><add>ir</add></roleName>
                         <roleName type="owner" corresp="pe__johann_hoelczel_SB_CD_00615"
                            >ir</roleName> haus, <roleName type="topo" corresp="pl__wien-kienmarkt"
                            >gelegen am Kienmarkht</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_kienmarkt_4">zenagst</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_kienmarkt_4">zenagst <add>an
+                              aim tail</add></roleName>
                         <rs type="place" ref="pl__wien-immo_kienmarkt_4">Jorgen von Gelestorf sun
-                           haus</rs>
-                        <roleName type="topo" corresp="pl__wien-immo_kienmarkt_4">an aim
-                        tail</roleName></rs>.</rs>
+                           haus</rs> an aim tail</rs>.</rs>
                   <rs type="fn" role="recipient">Dem <rs type="person"
                         ref="pe__johann_von_eslarn_V_SB_CD_00615"><roleName type="title"
                            >erbern</roleName> Hannsen von Eslorn <roleName type="title_ref"
@@ -153,14 +152,14 @@
                anno etc. lmo.</p>
          </div>
          <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../data/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../data/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../data/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../data/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
          </div>
       </body>
    </text>

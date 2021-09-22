@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3273
+                                    exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3273 As published in HAUrk by
+                        Wiener Stadt- und Landesarchiv
+                     </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3273</idno><altIdentifier type="old"><idno>517510</idno></altIdentifier></msIdentifier><physDesc><sealDesc><seal><p>Rückwärts aufgedrücktes Wappensiegel (Sava Fig. 108) von rothem Wachse unter Papierdecke.</p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+                     <placeName>Wien</placeName>
+                     <date when="14480911">1448 IX 11</date>
+                  <origDate instant="false">Geben ze Wienn, an mittichen nach Unserr Lieben Frauen tag Nativitatis, anno etc.
+                        xlviij°, unsers reichs im neundten jar.
+                     </origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03273_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03273_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p>König Friedrich IV. verschiebt in Folge von Ueberhäufung mit Geschäften den auf den
+                     nächstvergangenen Mittwoch (!) angesetzten Tag in der Streitsache zwischen 
+                     Ulreich Eiczinger von Eiczing einer-, der 
+                     Hölczlin von Eistorf und Janen des Busken Hausfrau anderseits über die von Ulreich dem Würffel hinterlassenen drei Haustheile
+                     gegenüber der Otten- und Haimenkapelle auf den nächsten Mittwoch nach 
+                     sand Simon und sand Juda tag, der heiligen zwelfpoten (October 30).
+                  </p></div><div type="nota"><p>Von anderer Hand: 
+                        commissio domini regis in cons(
+                        ilio).
+                     </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

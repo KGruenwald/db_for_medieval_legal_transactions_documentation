@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">Eintrag vom 1448-09-20</title>
-            <title type="rubrik">Tempore dominorum Hainreich Haiden, consu<unclear instant="false"
-                  >lis</unclear>, et Hannse<unclear instant="false">n</unclear> von Eslorn, anno
-               etc. xlviii<hi rend="super">o</hi></title>
-            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
-            <respStmt>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title type="main">Eintrag vom 1448-09-20</title><title type="rubrik">Tempore dominorum Hainreich Haiden, consu<unclear instant="false">lis</unclear>, et Hannse<unclear instant="false">n</unclear> von Eslorn, anno
+               etc. xlviii<hi rend="super">o</hi></title><title type="sub">Digitale Edition der Wiener Grundbücher</title><respStmt>
                <resp>Transkription</resp>
                <name>
                   <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
@@ -17,43 +7,15 @@
                <name>
                   <rs type="person" ref="weinbergmaier_richard">Richard Weinbergmaier</rs>
                </name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
-               Andorfer</publisher>
-            <availability default="false">
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
+            </respStmt></titleStmt><publicationStmt><publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher><availability default="false"><licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>CC-BY</p>
                   <p>You are free to: Share — copy and redistribute the material in any medium or
                      format. Adapt — remix, transform, and build upon the material for any purpose,
                      even commercially.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc default="false">
-            <msDesc type="invetory" status="draft">
-               <msIdentifier>
-                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
-                  <repository>Grundbücher</repository>
-                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <locus from=" [58v]" to=" [59r]"/>
-                     <p> [58v] - [59r]</p>
-                  </msItem>
-               </msContents>
-               <history>
+               </licence></availability></publicationStmt><sourceDesc default="false"><msDesc type="invetory" status="draft"><msIdentifier><institution>Wiener Stadt- und Landesarchiv (WStLA)</institution><repository>Grundbücher</repository><idno type="archive">WStLA 2.1.2.1.B1.34</idno></msIdentifier><msContents><msItem><locus from=" [58v]" to=" [59r]"/><p> [58v] - [59r]</p></msItem></msContents><history>
                   <origin notAfter="1448-09-20">1448-09-20</origin>
-               </history>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
-         xmlns:xi="http://www.w3.org/2001/XInclude">
-         <projectDesc default="false">
-            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               </history></msDesc></sourceDesc></fileDesc><encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><projectDesc default="false"><p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
                   <row rend="header">
                      <cell>Name der Formatvorlage</cell>
@@ -105,87 +67,37 @@
                      <cell>Hochgestellt</cell>
                   </row>
                </table>
-            </p>
-            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+            </p><p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
                community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
                wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
-               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
-         </projectDesc>
-      </encodingDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0115.jpg"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="entry">
-            <p><rs type="event" ref="ev__SB_CD_00231"><rs type="fn" role="issuer"><rs type="person"
-                        ref="pe__klara_SB_CD_00231">Clara, <rs type="person"
-                           ref="pe__johann_tinpeck_QGW_II_II_2974">Hannsen Tynnpekchen des <roleName
-                              type="prof">prukmaisters</roleName>
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p></projectDesc></encodingDesc></teiHeader><facsimile><graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0115.jpg"/></facsimile><text><body><div type="entry"><p><rs type="event" ref="ev__SB_CD_00231"><rs type="fn" role="issuer"><rs type="person" ref="pe__klara_SB_CD_00231">Clara, <rs type="person" ref="pe__johann_tinpeck_QGW_II_II_2974">Hannsen Tynnpekchen des <roleName type="prof">prukmaisters</roleName>
                            <roleName type="dead">seligen</roleName></rs>
-                        <roleName type="kin" corresp="pe__johann_tinpeck_QGW_II_II_2974"
-                           >witib</roleName>
-                        <roleName type="rep" corresp="pe__jakob_SB_CD_00231"
-                           ><add>anstat</add></roleName>
-                        <roleName type="rep" corresp="pe__barbara_SB_CD_00231"
-                           ><add>anstat</add></roleName></rs>,</rs>
-                  <catchwords n="disp">hat</catchwords> anstat irselbs <rs type="person"
-                     ref="pe__jakob_SB_CD_00231">Jacoben <roleName type="kin"
-                        corresp="pe__klara_SB_CD_00231"><add>kinder</add></roleName></rs> und <rs
-                     type="person" ref="pe__barbara_SB_CD_00231">Berblein irer <roleName type="kin"
-                        corresp="pe__klara_SB_CD_00231">kinder</roleName></rs>, die noch nicht
+                        <roleName type="kin" corresp="pe__johann_tinpeck_QGW_II_II_2974">witib</roleName>
+                        <roleName type="rep" corresp="pe__jakob_SB_CD_00231"><add>anstat</add></roleName>
+                        <roleName type="rep" corresp="pe__barbara_SB_CD_00231"><add>anstat</add></roleName></rs>,</rs>
+                  <catchwords n="disp">hat</catchwords> anstat irselbs <rs type="person" ref="pe__jakob_SB_CD_00231">Jacoben <roleName type="kin" corresp="pe__klara_SB_CD_00231"><add>kinder</add></roleName></rs> und <rs type="person" ref="pe__barbara_SB_CD_00231">Berblein irer <roleName type="kin" corresp="pe__klara_SB_CD_00231">kinder</roleName></rs>, die noch nicht
                   vogtper sind, <catchwords n="disp">verchaufft</catchwords>
-                  <catchwords n="disp">von der merklichen geltschuld wegen</catchwords>, darinn sew
-                  der egnant maister Hanns seliger gelassen hat, funf phunt phening <catchwords
-                     n="disp">gelts purkrechts</catchwords> auf <rs type="transactiongood_I"><rs
-                        type="place" ref="pl__wien-immo_scheffstrasse_1"><roleName type="owner"
-                           corresp="pe__barbara_SB_CD_00231"><add>irm</add></roleName>
-                        <roleName type="owner" corresp="pe__klara_SB_CD_00231"
-                           ><add>irm</add></roleName>
+                  <catchwords n="reason">von der merklichen geltschuld wegen</catchwords>, darinn
+                  sew der egnant maister Hanns seliger gelassen hat, <rs type="fn" role="transactiongood_I"><measure>funf phunt phening</measure>
+                     <add>gelts purkrechts</add></rs>
+                  <rs type="fn" role="transactiongood_I"><catchwords n="fn">gelts
+                        purkrechts</catchwords> auf <rs type="place" ref="pl__wien-immo_scheffstrasse_1"><roleName type="owner" corresp="pe__barbara_SB_CD_00231"><add>irm</add></roleName>
+                        <roleName type="owner" corresp="pe__klara_SB_CD_00231"><add>irm</add></roleName>
                         <roleName type="owner" corresp="pe__jakob_SB_CD_00231">irm</roleName> haus,
-                           <rs type="event" ref="NULL">das ir und irn kindern der egnant maister
+                           <rs ref="ev__SB_CD_00231_men_1">das ir und irn kindern der egnant maister
                            Hanns seliger in geleichen tail geschafft hat,</rs>
                         <roleName type="topo" corresp="pl__wien-scheffstrasse">gelegen in der
                            Scheffstrass</roleName>
                         <roleName type="topo" corresp="pl__wien-immo_scheffstrasse_2">zenagst</roleName>
-                        <rs type="place" ref="pl__wien-immo_scheffstrasse_2"><roleName type="owner"
-                              corresp="pe__wolfgang_von_asparn_SB_CD_00231"><rs type="person"
-                                 ref="pe__wolfgang_von_asparn_SB_CD_00231">Wolfgangs von Asparn</rs>
-                              haus</roleName></rs></rs></rs>. Umb funfczig phund phening, die von
-                  der padstuben vor Werdertor gelegen herkomen sind. <rs type="fn" role="recipient"
-                     >Dem <rs type="person" ref="pe__niklas_kiliber_SB_CD_00231"><roleName
-                           type="title">erbern</roleName>
-                        <roleName type="title">herren</roleName>, <roleName type="title"
-                           >hern</roleName> Niclasen Chiliber, <roleName type="off"
-                           corresp="org__wien-st_johann_in_der_siechenals-altar_st_maria-messe_flekch"
-                           >caplan</roleName> der mess die Ulreich Flekch auf Unser Fraun altar in
-                        Sand Johanns cappellen daselbs, gelegen gestifft hat</rs>, und seinen
-                     nachkomen</rs>, und sind zu dienn zu drein tegen und wider abczukauffen
-                  miteinander und den nagsten dinst damit, ut littera. Actum an Freitag vor Sant
-                  Matheus tag, anno etc. xlviii<hi rend="super">o</hi>.</rs></p>
-            <p rend="Summa">Summa iii s. x d.</p>
-         </div>
-         <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
-         </div>
-         <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
-         </div>
-      </body>
-   </text>
-</TEI>
+                        <rs type="place" ref="pl__wien-immo_scheffstrasse_2"><roleName type="owner" corresp="pe__wolfgang_von_asparn_SB_CD_00231"><rs type="person" ref="pe__wolfgang_von_asparn_SB_CD_00231">Wolfgangs von Asparn</rs>
+                              haus</roleName></rs></rs>.</rs>
+                  <rs type="fn" role="transactiongood_II">Umb <measure>funfczig phund
+                        phening</measure>, <rs ref="ev__SB_CD_00231_men_2">die von der padstuben vor
+                        Werdertor gelegen herkomen sind</rs>.</rs>
+                  <rs type="fn" role="recipient">Dem <rs type="person" ref="pe__niklas_kiliber_SB_CD_00231"><roleName type="title">erbern</roleName>
+                        <roleName type="title">herren</roleName>, <roleName type="title">hern</roleName> Niclasen Chiliber, <roleName type="off" corresp="org__wien-gottesleichnam_kapelle_vor_dem_werdertor-altar_st_maria-messe_flekch">caplan</roleName> der <rs ref="ev__SB_CD_00231_men_3"><catchwords n="disp">mess</catchwords> die <rs type="fn" role="issuer"><rs type="person" ref="pe__ulrich_flekch_QGW_II_I_1195">Ulreich Flekch</rs></rs>
+                           <rs type="fn" role="recipient">auf <rs type="org" ref="org__wien-gottesleichnam_kapelle_vor_dem_werdertor-altar_st_maria">Unser Fraun altar in Sand Johanns cappellen daselbs,
+                              gelegen</rs></rs>
+                           <catchwords n="disp">gestifft hat</catchwords></rs></rs>, und <rs type="org" ref="org__wien-gottesleichnam_kapelle_vor_dem_werdertor-altar_st_maria-messe_flekch">seinen nachkomen</rs></rs>, und sind zu dienn zu drein tegen und wider
+                  abczukauffen miteinander und den nagsten dinst damit, ut littera. Actum an Freitag
+                  vor Sant Matheus tag, anno etc. xlviii<hi rend="super">o</hi>.</rs></p><p rend="Summa">Summa iii s. x d.</p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

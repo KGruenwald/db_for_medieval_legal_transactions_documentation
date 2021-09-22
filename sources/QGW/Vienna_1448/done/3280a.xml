@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3280a exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. a As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3280a</idno><altIdentifier type="old"><idno>517518</idno></altIdentifier></msIdentifier><physDesc><sealDesc><seal><p/></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <date when="14481122">1448 XI 22</date>
+            <origDate instant="false">an freitag vor sand Kathrein tag.</origDate></creation></profileDesc></teiHeader><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3280a"><rs type="fn" role="issuer"><rs type="person" ref="pe__katharina_QGW_II_II_3280a">Kathrei, <rs type="person" ref="pe__ruprecht_refner_QGW_II_II_3280a">Ruprecht des Refner, des
+                              <roleName type="prof">kürsner</roleName>
+                           <roleName type="dead">seligen</roleName></rs>, <roleName type="kin" corresp="pe__ruprecht_refner_QGW_II_II_3280a">tochter</roleName> und <rs type="person" ref="pe__hermann_edlerauer_QGW_II_II_3280a">Herman
+                           Edlerauer, <rs type="person" ref="pe__reimprecht_von_wallsee_QGW_II_I_1319"><roleName type="title">hern</roleName> Reinprechts von Walsse etc.</rs>
+                           <roleName type="off" corresp="pe__reimprecht_von_wallsee_QGW_II_I_1319" select="pl__wien">schaffer</roleName> zu Wienn</rs>, <roleName type="kin" corresp="pe__hermann_edlerauer_QGW_II_II_3280a">eliche
+                           hausfrau</roleName></rs>,</rs>
+                  <catchwords n="disp">setzt</catchwords>
+                  <rs type="fn" role="recipient"><rs type="person" ref="pe__hermann_edlerauer_QGW_II_II_3280a">ihren Mann</rs></rs>
+                  <catchwords n="disp">für den Fall ihres kinderlosen Ablebens zum Erben ihres
+                     gesammten Besitzes ein</catchwords>.</rs>
+            </p></div><div type="seal"><p><rs type="event" ref="ev__QGW_II_II_3280a"><rs type="fn" role="witness">Besiegelt mit
+                     den Siegeln <rs type="person" ref="pe__thomas_wisent_QGW_II_II_3280a">Thomas
+                        Wisent</rs> und <rs type="person" ref="pe__ulrich_kerner_QGW_II_II_3242">Ulreichs des Kerner</rs>.</rs></rs>
+            </p></div><div type="nota"><p>Concept als Beilage zu <rs type="event" ref="ev__QGW_II_II_3358">Urk. n°
+               3358</rs>.</p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

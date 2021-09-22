@@ -1,55 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">Eintrag vom 1448-12-20</title>
-            <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hans von Eslorn,
-               anno etc. xlviii<hi rend="super">o</hi>.</title>
-            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
-            <respStmt>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title type="main">Eintrag vom 1448-12-20</title><title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hans von Eslorn,
+               anno etc. xlviii<hi rend="super">o</hi>.</title><title type="sub">Digitale Edition der Wiener Grundbücher</title><respStmt>
                <resp>Transkription</resp>
                <name>
                   <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
                </name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
-               Andorfer</publisher>
-            <availability default="false">
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
+            </respStmt></titleStmt><publicationStmt><publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher><availability default="false"><licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>CC-BY</p>
                   <p>You are free to: Share — copy and redistribute the material in any medium or
                      format. Adapt — remix, transform, and build upon the material for any purpose,
                      even commercially.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc default="false">
-            <msDesc type="invetory" status="draft">
-               <msIdentifier>
-                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
-                  <repository>Grundbücher</repository>
-                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <locus from="[467r]" to=" [467v]"/>
-                     <p>[467r] - [467v]</p>
-                  </msItem>
-               </msContents>
-               <history>
+               </licence></availability></publicationStmt><sourceDesc default="false"><msDesc type="invetory" status="draft"><msIdentifier><institution>Wiener Stadt- und Landesarchiv (WStLA)</institution><repository>Grundbücher</repository><idno type="archive">WStLA 2.1.2.1.B1.34</idno></msIdentifier><msContents><msItem><locus from="[467r]" to=" [467v]"/><p>[467r] - [467v]</p></msItem></msContents><history>
                   <origin notAfter="1448-12-20">1448-12-20</origin>
-               </history>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
-         xmlns:xi="http://www.w3.org/2001/XInclude">
-         <projectDesc default="false">
-            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               </history></msDesc></sourceDesc></fileDesc><encodingDesc><projectDesc default="false"><p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
                   <row rend="header">
                      <cell>Name der Formatvorlage</cell>
@@ -101,44 +64,23 @@
                      <cell>Hochgestellt</cell>
                   </row>
                </table>
-            </p>
-            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+            </p><p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
                community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
                wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
-               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
-         </projectDesc>
-      </encodingDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0918.jpg"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="entry">
-            <p>
-               <rs type="event" ref="ev__SB_CD_01926"><rs type="fn" role="issuer"><rs type="person"
-                        ref="pe__wolfgang_holczer_SB_CD_01926">Wolfgang Holczer</rs></rs>
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p></projectDesc></encodingDesc></teiHeader><facsimile><graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0918.jpg"/></facsimile><text><body><div type="entry"><p>
+               <rs type="event" ref="ev__SB_CD_01926"><rs type="fn" role="issuer"><rs type="person" ref="pe__wolfgang_holczer_SB_CD_01926">Wolfgang Holczer</rs></rs>
                   <catchwords n="disp">hat versatzt</catchwords>
-                  <rs type="fn" role="transactiongood_I"><rs type="place"
-                        ref="pl__wien-immo_alter_fleischmarkt_2"><roleName type="owner"
-                           corresp="pe__wolfgang_holczer_SB_CD_01926">sein</roleName> haus und
+                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_alter_fleischmarkt_2"><roleName type="owner" corresp="pe__wolfgang_holczer_SB_CD_01926">sein</roleName> haus und
                         zuhaus daran, <roleName type="topo" corresp="pl__wien-alter_fleischmarkt">gelegen
                            am Alten Fleischmarkt</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_alter_fleischmarkt_3"
-                           >zenagst</roleName>
-                        <rs type="place" ref="pl__wien-immo_alter_fleischmarkt_3"><roleName type="owner"
-                              corresp="pe__stephan_hittendorffer_01926_SB_CD_01926"><rs type="person"
-                                 ref="pe__stephan_hittendorffer_01926_SB_CD_01926">Steffans Hittendorffer des
-                                 Peler</rs></roleName> haus</rs></rs>, und <rs type="place"
-                        ref="pl__wien-garten_alter_fleischmarkt_1">das gertl mit der stetten, <roleName
-                           type="topo" corresp="pl__wien-immo_alter_fleischmarkt_2">auch hinder den
+                        <roleName type="topo" corresp="pl__wien-immo_alter_fleischmarkt_3">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_alter_fleischmarkt_3"><roleName type="owner" corresp="pe__stephan_hittendorffer_01926_SB_CD_01926"><rs type="person" ref="pe__stephan_hittendorffer_01926_SB_CD_01926">Steffans Hittendorffer des
+                                 Peler</rs></roleName> haus</rs></rs>, und <rs type="place" ref="pl__wien-immo_alter_fleischmarkt_8">das gertl mit der stetten, <roleName type="topo" corresp="pl__wien-immo_alter_fleischmarkt_2">auch hinder den
                            egenanten hewsern</roleName>
                         <roleName type="topo" corresp="pl__wien-immo_alter_fleischmarkt_3"><add>auch
                               hinder den egenanten hewsern</add></roleName>
                         <roleName type="topo" corresp="pl__wien-unter_den_hafnern">gegen den hafnern
-                           uber</roleName> gelegen, <rs type="event" ref="NULL"><rs type="fn"
-                              role="issuer">daman von <rs type="place"
-                                 ref="pl__wien-garten_alter_fleischmarkt_1">demselben gertlein mit der
+                           uber</roleName> gelegen, <rs ref="ev__SB_CD_01926_men_1"><rs type="fn" role="issuer">daman von <rs type="place" ref="pl__wien-immo_alter_fleischmarkt_8">demselben gertlein mit der
                                  stetten</rs></rs>
                            <catchwords n="disp">jerlich dint</catchwords>
                            <rs type="fn" role="recipient"><rs type="org" ref="org__wien">der
@@ -146,33 +88,13 @@
                            <rs type="fn" role="transactiongood_II">sechtzig phening</rs> an sand
                            Jorgen tag <catchwords n="disp">zu gruntdinst</catchwords> und nicht
                            mer</rs></rs>.</rs>
-                  <rs type="fn" role="recipient">Der <rs type="person"
-                        ref="pe__margarethe_SB_CD_01926"><roleName type="title">erbern</roleName>
+                  <rs type="fn" role="recipient">Der <rs type="person" ref="pe__margarethe_SB_CD_01926"><roleName type="title">erbern</roleName>
                            Margreten,<rs type="person" ref="pe__lukas_neuburger_SB_CD_01926">
                            Lucasen des Newnburger <roleName type="dead">seligen</roleName></rs>
-                        <roleName type="kin" corresp="pe__lukas_neuburger_SB_CD_01926"
-                           >tochter</roleName>, seiner <roleName type="kin"
-                           corresp="pe__wolfgang_holczer_SB_CD_01926"
-                  >hausfraun</roleName></rs></rs>, umb zwaihundert pfund phening haimsteur und
+                        <roleName type="kin" corresp="pe__lukas_neuburger_SB_CD_01926">tochter</roleName>, seiner <roleName type="kin" corresp="pe__wolfgang_holczer_SB_CD_01926">hausfraun</roleName></rs></rs>, umb zwaihundert pfund phening haimsteur und
                   drewhundert pfund phening morgengab nach der statrechten, ut littera sonat. Actum
                   an sant Thomans abent apostoli, anno etc. xlviii<hi rend="super">o</hi>.</rs>
-            </p>
-            <p rend="Summa">Summa iiii tl. xl d.</p>
-            <p rend="Nachtrag">
-               <rs type="event" ref="ev__SB_CD_01926">Nota die egenant haimststewr und morgengab
+            </p><p rend="Summa">Summa iiii tl. xl d.</p><p rend="Nachtrag">
+               <rs type="event" ref="ev__SB_CD_01926_nota">Nota die egenant haimststewr und morgengab
                   sind zu dem puch gelegt worden. Actum an Montag vor sand Merten tag lvito.</rs>
-            </p>
-         </div>
-         <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
-         </div>
-      </body>
-   </text>
-</TEI>
+            </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3250 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3250 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3250</idno><altIdentifier type="old"><idno>517487</idno></altIdentifier></msIdentifier><msContents><msItem><listBibl default="false"><bibl default="false" status="draft">Camesina, Regesten 82 n° 378 Regest. [294]</bibl></listBibl></msItem></msContents><physDesc><sealDesc><seal><p>Zwei anhangende Siegel, grün u. Sch., 1. beschädigt, 2.
+                           Bruchstück:Siegler: <quote>bruder Kristof</quote>, Prior zu Gaming,
+                              <quote>und Ulreich Menkchover</quote>. </p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <placeName>Wien</placeName>
+            <date when="14480503">1448 V 03</date>
+            <origDate instant="false">ze Wienn, an des heiligen Kreucz tag invencionis.</origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03250_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03250_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3250"><rs type="fn" role="issuer"><rs type="person" ref="pe__agnes_QGW_II_II_3250_a">Agnes, <rs type="person" ref="pe__michael_scheller_QGW_II_II_3250">Micheln des Scheller <roleName type="dead">wittib</roleName></rs>
+                        <roleName type="kin" corresp="pe__michael_scheller_QGW_II_II_3250"><add>wittib</add></roleName>, <roleName type="title_ref" corresp="org__wien">burgerin</roleName> ze Wienn</rs>,</rs>
+                  <catchwords n="disp">verkauft</catchwords>
+                  <rs type="fn" role="other"><catchwords n="fn">mit Handen</catchwords>
+                     <rs type="person" ref="pe__peter_pachhaimer_QGW_II_II_3250">Petern des
+                        Pachaimer, der geistlichen herren von Unser Frauen thron zu Gemnikh
+                           <roleName type="off" corresp="org__gaming-kartaeuser" select="pl__sievering">pergmaister</roleName> zu Sufring</rs>,</rs>
+                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__sievering-immo_schenkchenperg_1">ein Joch Weingarten, <roleName type="topo" corresp="pl__sievering-schenkchenperg">gelegen am
+                           Schenkchenperg</roleName>
+                        <roleName type="topo" corresp="pl__sievering-immo_schenkchenperg_2">zenagst</roleName>
+                        <rs type="place" ref="pl__sievering-immo_schenkchenperg_2"><roleName type="owner" corresp="pe__theobald_macher_QGW_II_II_3250"><rs type="person" ref="pe__theobald_macher_QGW_II_II_3250">Tibolts des
+                                 Macher</rs></roleName> weingarten</rs>, <rs type="event" ref="NULL"><rs type="fn" role="issuer">von <rs type="place" ref="pl__sievering-immo_schenkchenperg_1">dem</rs> man</rs>
+                           <rs type="fn" role="transactiongood_I"><measure>drei Eimer Wein
+                                 Bergmass</measure>
+                              <catchwords n="fn">zu Bergrecht</catchwords></rs>
+                           <rs type="fn" role="transactiongood_I">und <measure>3 dn.</measure>
+                              <catchwords n="fn">zu Voitrecht</catchwords></rs>
+                           <catchwords n="disp">dient</catchwords><rs type="fn" role="recipient"><rs type="org" ref="org__gaming-kartaeuser"/></rs></rs></rs>,</rs>
+                  <rs type="fn" role="transactiongood_II">um eine Summe Geldes</rs>
+                  <rs type="fn" role="recipient"><rs type="person" ref="pe__johann_fuechsel_QGW_II_II_3250"><roleName type="title">hern</roleName> Hannsen dem Fuchsel, <roleName type="title_ref" corresp="org__wien-st_stephan">korherr</roleName> Allerheiligen
+                        tumbkirchen dacz sand Stephan ze Wienn, <roleName type="off" corresp="org__wien-st_stephan-altar_st_ulrich-messe_fuechsel">Kaplan</roleName>
+                        <rs type="event" ref="NULL">der von <rs type="fn" role="issuer"><rs type="person" ref="pe__michael_fuechsel_QGW_II_I_1108">Michel
+                                 Fuchsel</rs> und <rs type="person" ref="pe__agnes_QGW_II_II_3250_b">Agnes, seiner <roleName type="kin" corresp="pe__michael_fuechsel_QGW_II_I_1108">Hausfrau</roleName></rs></rs>, <rs type="fn" role="recipient"><rs type="org" ref="org__wien-st_stephan-altar_st_ulrich">auf St.
+                                 Ulrichs Altar in der genannten Kirche</rs></rs>
+                           <catchwords n="disp">gestifteten Messe</catchwords>,</rs> zu <rs type="org" ref="org__wien-st_stephan-altar_st_ulrich-messe_fuechsel">derselben</rs></rs></rs>.</rs>
+            </p></div><div type="seal"><p><rs type="event" ref="ev__QGW_II_II_3250"><rs type="fn" role="witness">Siegler: <rs type="person" ref="pe__christoph_QGW_II_II_3250"><roleName type="title">bruder</roleName> Kristof, <roleName type="off" corresp="org__gaming-kartaeuser">Prior</roleName> zu Gaming</rs>, und <rs type="person" ref="pe__ulrich_menkchover_QGW_II_II_3240">Ulreich
+                        Menkchover</rs>.</rs></rs>
+            </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

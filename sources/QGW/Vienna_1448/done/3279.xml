@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tei version of 3279 exported from monasterium.net </title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest-->
+         <sourceDesc default="false">
+            <bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2,
+               Nr. 3279 As published in HAUrk by Wiener Stadt- und Landesarchiv </bibl>
+            <msDesc status="draft">
+               <msIdentifier>
+                  <repository>Wiener Stadt- und Landesarchiv</repository>
+                  <idno>3279</idno>
+                  <altIdentifier type="old">
+                     <idno>517516</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc>
+                  <sealDesc>
+                     <seal>
+                        <p>Zwei rückwärts aufgedrückte, beschädigte Siegel von grünem Wachse.</p>
+                     </seal>
+                  </sealDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName>Wien</placeName>
+            <date when="14481111">1448 XI 11</date>
+            <origDate instant="false">zu Wienn, an sand Merten tag.</origDate></creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03279_r.jpg"/>
+      </surface>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03279_v.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="abstract">
+            <p>
+               <rs type="event" ref="ev__QGW_II_II_3279"><rs type="fn" role="issuer"><rs
+                        type="person" ref="pe__johann_varhofer_QGW_II_II_3279">Hanns
+                     Varhofer</rs></rs>
+                  <catchwords n="disp">stellt</catchwords>
+                  <rs type="fn" role="recipient">seiner <rs type="person"
+                        ref="pe__barbara_QGW_II_II_3279"><roleName type="kin"
+                           corresp="pe__johann_varhofer_QGW_II_II_3279">Frau</roleName> Barbara, <rs
+                           type="person" ref="pe__jakob_wielant_QGW_II_II_3279">Jacoben des Wielands
+                           von der Kreppin <roleName type="dead">seligen</roleName></rs>
+                        <roleName type="kin" corresp="pe__jakob_wielant_QGW_II_II_3279"
+                           >tochter</roleName></rs>,</rs> hinsichtlich <rs type="fn" role="tg_I"><rs
+                        type="place" ref="pl__wien-immo_unter_den_pfeilschnitzern_1"><roleName
+                           type="owner" corresp="pe__johann_varhofer_QGW_II_II_3279"
+                           >seines</roleName> Hauses, <roleName type="topo"
+                           corresp="pl__wien-unter_den_pfeilschnitzern">gelegen undern Pheilsniczern
+                           am ekk</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_unter_den_pfeilschnitzern_2"
+                           >gegen <add>über</add></roleName>
+                        <rs type="person" ref="pl__wien-immo_unter_den_pfeilschnitzern_2"><roleName
+                              type="owner" corresp="pe__konrad_phuntimaschen_QGW_II_II_3088"
+                              >Conraten des Phuntimaschen</roleName> haus</rs> über <roleName
+                           type="topo" corresp="pl__wien-minoriten_gasse_bei"
+                           ><add>zunagst</add></roleName>
+                        <roleName type="topo" corresp="pl__wien-seitzerhof">zunagst</roleName> der
+                        gassen und der Seiczer hof, als man zu den Weissen prudern geet, <rs
+                           type="event" ref="NULL"><rs type="fn" role="transactiongood_I"><rs
+                                 type="place" ref="pl__wien-immo_unter_den_pfeilschnitzern_1"
+                                 >darauf</rs></rs>
+                           <rs type="fn" role="issuer"><rs type="person"
+                                 ref="pe__johann_varhofer_QGW_II_II_3279">er</rs></rs>
+                           <rs type="fn" role="recipient"><rs type="person"
+                                 ref="pe__barbara_QGW_II_II_3279">ihr</rs></rs>
+                           <rs type="fn" role="transactiongood_II"><measure>50 lb dn.</measure>, <rs
+                                 type="event" ref="NULL"><rs type="fn" role="transactiongood_I">die
+                                          <measure><add>50 lb dn.</add></measure></rs>
+                                 <rs type="fn" role="issuer"><rs type="person"
+                                       ref="pe__barbara_QGW_II_II_3279">sie</rs></rs>
+                                 <rs type="fn" role="recipient"><rs type="person"
+                                       ref="pe__johann_varhofer_QGW_II_II_3279">ihm</rs></rs>
+                                 <catchwords n="disp">zu haimsteur zupracht
+                              hat</catchwords></rs></rs>, <catchwords n="disp">verschrieben
+                              hatte</catchwords>,</rs></rs></rs>
+                  <catchwords n="disp">eine Vollmacht aus</catchwords>.</rs>
+            </p>
+         </div>
+         <div type="seal">
+            <p><rs type="event" ref="ev__QGW_II_II_3279"><rs type="fn" role="witness">Besiegelt mit
+                     den Siegeln der <rs type="person" ref="pe__simon_von_eslarn_QGW_II_II_3263"
+                        >Wiener <roleName type="off" corresp="org__wien">Bürger</roleName> Simons
+                        von Eslarn</rs> und <rs type="person"
+                        ref="pe__johann_ravensburger_QGW_II_II_3264">Hannsen des Ravenspurger,
+                           <roleName type="off" corresp="org__wien">urtailschreiber</roleName>
+                        <roleName type="off" corresp="org__wien"
+                     ><add>Bürger</add></roleName></rs>.</rs></rs>
+            </p>
+         </div>
+         <div type="lists">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">Eintrag vom 1448-03-06</title>
-            <title type="rubrik">Tempore dominorum Hainreich Haiden, consu<unclear instant="false"
-                  >lis</unclear>, et Hannse<unclear instant="false">n</unclear> von Eslorn, anno
-               etc. xlviii<hi rend="super">o</hi></title>
-            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
-            <respStmt>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title type="main">Eintrag vom 1448-03-06</title><title type="rubrik">Tempore dominorum Hainreich Haiden, consu<unclear instant="false">lis</unclear>, et Hannse<unclear instant="false">n</unclear> von Eslorn, anno
+               etc. xlviii<hi rend="super">o</hi></title><title type="sub">Digitale Edition der Wiener Grundbücher</title><respStmt>
                <resp>Transkription</resp>
                <name>
                   <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
@@ -17,43 +7,15 @@
                <name>
                   <rs type="person" ref="weinbergmaier_richard">Richard Weinbergmaier</rs>
                </name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
-               Andorfer</publisher>
-            <availability default="false">
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
+            </respStmt></titleStmt><publicationStmt><publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher><availability default="false"><licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>CC-BY</p>
                   <p>You are free to: Share — copy and redistribute the material in any medium or
                      format. Adapt — remix, transform, and build upon the material for any purpose,
                      even commercially.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc default="false">
-            <msDesc type="invetory" status="draft">
-               <msIdentifier>
-                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
-                  <repository>Grundbücher</repository>
-                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <locus from=" [58r]" to=" [58v]"/>
-                     <p> [58r] - [58v]</p>
-                  </msItem>
-               </msContents>
-               <history>
+               </licence></availability></publicationStmt><sourceDesc default="false"><msDesc type="invetory" status="draft"><msIdentifier><institution>Wiener Stadt- und Landesarchiv (WStLA)</institution><repository>Grundbücher</repository><idno type="archive">WStLA 2.1.2.1.B1.34</idno></msIdentifier><msContents><msItem><locus from=" [58r]" to=" [58v]"/><p> [58r] - [58v]</p></msItem></msContents><history>
                   <origin notAfter="1448-03-06">1448-03-06</origin>
-               </history>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
-         xmlns:xi="http://www.w3.org/2001/XInclude">
-         <projectDesc default="false">
-            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               </history></msDesc></sourceDesc></fileDesc><encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><projectDesc default="false"><p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
                   <row rend="header">
                      <cell>Name der Formatvorlage</cell>
@@ -105,40 +67,18 @@
                      <cell>Hochgestellt</cell>
                   </row>
                </table>
-            </p>
-            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+            </p><p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
                community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
                wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
-               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
-         </projectDesc>
-      </encodingDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0114.jpg"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="entry">
-            <p><rs type="event" ref="ev__SB_CD_00227"><rs type="fn" role="issuer"><rs type="person"
-                        ref="pe__konrad_schrofl_SB_CD_00227">Chunrat Schrófl</rs> und <rs
-                        type="person" ref="pe__anna_SB_CD_00227">Anna, sein <roleName type="kin"
-                           corresp="pe__konrad_schrofl_SB_CD_00227">hausfrau</roleName></rs>,</rs>
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p></projectDesc></encodingDesc></teiHeader><facsimile><graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0114.jpg"/></facsimile><text><body><div type="entry"><p><rs type="event" ref="ev__SB_CD_00227"><rs type="fn" role="issuer"><rs type="person" ref="pe__konrad_schrofl_SB_CD_00227">Chunrat Schrófl</rs> und <rs type="person" ref="pe__anna_SB_CD_00227">Anna, sein <roleName type="kin" corresp="pe__konrad_schrofl_SB_CD_00227">hausfrau</roleName></rs>,</rs>
                   <catchwords n="disp">habent versaczt</catchwords>
-                  <rs type="fn" role="transactiongood_I"><rs type="place"
-                        ref="pl__wien-immo_weihenburg_1"><roleName type="owner"
-                           corresp="pe__konrad_schrofl_SB_CD_00227"><add>ir</add></roleName>
+                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_weihenburg_1"><roleName type="owner" corresp="pe__konrad_schrofl_SB_CD_00227"><add>ir</add></roleName>
                         <roleName type="owner" corresp="pe__anna_SB_CD_00227">ir</roleName> haws,
                         gelegen <roleName type="topo" corresp="pl__wien-weihenburg">in der
-                           Weihenpurg</roleName> genant der Alt Techanthof <roleName type="topo"
-                           corresp="pl__wien-immo_weihenburg_2">zenagst</roleName>
+                           Weihenpurg</roleName> genant der Alt Techanthof <roleName type="topo" corresp="pl__wien-immo_weihenburg_2">zenagst</roleName>
                         <rs type="place" ref="pl__wien-immo_weihenburg_2">·· des abts von Altenburg
-                           haws</rs></rs></rs>. <rs type="fn" role="recipient">Dem <rs type="person"
-                        ref="pe__hermann_edlerauer_QGW_II_II_3280a"><roleName type="title"
-                           >erbern</roleName>
-                        <roleName type="title">weisen</roleName> Herman Edlerawer</rs> und <rs
-                        type="person" ref="pe__katharina_QGW_II_II_3280a">Kathrein, seiner <roleName
-                           type="kin" corresp="pe__hermann_edlerauer_QGW_II_II_3280a"
-                           >hausfraun</roleName></rs>,</rs>
+                           haws</rs></rs></rs>. <rs type="fn" role="recipient">Dem <rs type="person" ref="pe__hermann_edlerauer_QGW_II_II_3280a"><roleName type="title">erbern</roleName>
+                        <roleName type="title">weisen</roleName> Herman Edlerawer</rs> und <rs type="person" ref="pe__katharina_QGW_II_II_3280a">Kathrein, seiner <roleName type="kin" corresp="pe__hermann_edlerauer_QGW_II_II_3280a">hausfraun</roleName></rs>,</rs>
                   <rs type="fn" role="transactiongood_II">umb hundert phundt phening haymsteuer und
                      anderthalbhundert phund phening morgengab nach der statrechten, davon in die
                      egnanten ·· der Schrófl und sein hausfrau jerlichen dienen raichen und
@@ -149,29 +89,4 @@
                   nicht abledigen doch mugen sy die abledigen. Also das dann dieselben
                   dritthalbhundert phund phening wider angelegt werden als haimsteur morgengab und
                   der stat zu Wien recht ist, ut littera sonat. Actum an Mitichen vor Judica in der
-                  vasten, anno etc. xlviii<hi rend="super">o</hi>.</rs></p>
-            <p rend="Summa">Summa ii tl. xx d.</p>
-         </div>
-         <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
-         </div>
-         <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
-         </div>
-      </body>
-   </text>
-</TEI>
+                  vasten, anno etc. xlviii<hi rend="super">o</hi>.</rs></p><p rend="Summa">Summa ii tl. xx d.</p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

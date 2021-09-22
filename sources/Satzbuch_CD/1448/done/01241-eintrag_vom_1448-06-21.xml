@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
@@ -121,22 +121,23 @@
                         ref="pe__dorothea_SB_CD_01241">Dorothe, sein <roleName type="kin"
                            corresp="pe__michael_toller_SB_CD_01241">hausfrau</roleName></rs>,</rs>
                   <catchwords n="disp">habent verchaufft</catchwords>
-                  <rs type="fn" role="transactiongood_I">xii ½ tl. d.</rs>
+                  <rs type="fn" role="transactiongood_I"><measure>xii ½ tl. d.</measure>
+                     <catchwords n="fn"><add>zu purkrecht</add></catchwords></rs>
                   <catchwords n="disp">gelts purkrechts</catchwords>
                   <rs type="fn" role="transactiongood_I"><rs type="place"
                         ref="pl__wien-immo_riemerstrasse_1">auf <roleName type="owner"
                            corresp="pe__dorothea_SB_CD_01241"><add>írm</add></roleName>
                         <roleName type="owner" corresp="pe__michael_toller_SB_CD_01241"
-                           >írm</roleName> ramhof, <roleName type="topo" corresp="pl__wien-riemerstrasse"
-                           >gelegen mit dem vordern tail in der Riemerstrass</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_1">zenagst</roleName>
-                        <rs type="place" ref="pl__wien-immo_riemerstrasse_1"><roleName type="owner"
+                           >írm</roleName> ramhof, <roleName type="topo"
+                           corresp="pl__wien-riemerstrasse">gelegen mit dem vordern tail in der
+                           Riemerstrass</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_4">zenagst
+                              <add>an aimm tail</add></roleName>
+                        <rs type="place" ref="pl__wien-immo_riemerstrasse_4"><roleName type="owner"
                               corresp="pe__meinhard_riemer_QGW_II_II_2391"><rs type="person"
                                  ref="pe__meinhard_riemer_QGW_II_II_2391">Meinharts
-                              Riemer</rs></roleName> haus</rs>
-                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_1">an aimm
-                           tail</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_2">und an dem andern
+                              Riemer</rs></roleName> haus</rs> an aimm tail <roleName type="topo"
+                           corresp="pl__wien-immo_riemerstrasse_2">und an dem andern
                            zenagst</roleName>
                         <rs type="place" ref="pl__wien-immo_riemerstrasse_2"><roleName type="owner"
                               corresp="pe__simon_vankch_QGW_II_II_2391"><rs type="person"
@@ -144,34 +145,44 @@
                               Vankchen</rs></roleName> haus</rs> und <roleName type="topo"
                            corresp="pl__wien-kumpfgasse">stosst mit dem hindern tail in das
                            Kumphgéssl</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_kumpfgasse_1">zenagst</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_kumpfgasse_1"
+                           >zenagst</roleName>
                         <rs type="place" ref="pl__wien-immo_kumpfgasse_1">des Widhakcher
-                     haus</rs></rs>.</rs>
-                  <rs type="fn" role="transactiongood_II">Umb hundert pfunt phening, und sind emalen
-                     gelegen auf Steffans Herczogenperger haus oberhalb Pewrértor,</rs>
+                        haus</rs></rs>.</rs>
+                  <rs type="fn" role="transactiongood_II">Umb <measure>hundert pfunt
+                        phening</measure>, <rs ref="ev__SB_CD_01241_men_1">und sind emalen gelegen
+                        auf Steffans Herczogenperger haus oberhalb Pewrértor</rs>,</rs>
                   <rs type="fn" role="recipient"><rs type="person"
                         ref="pe__niklas_noter_SB_CD_01241"><roleName type="title">hern</roleName>
                         Niclasen Notter, <roleName type="off"
-                           corresp="org__wien-st_stephan-altar_frauen-messe_albertinus_bucharzt"
-                           >capplan</roleName> der messe die maister Albertinus der pucharczt auf
-                        Unser Fraun Altar zu Sand Steffan gestifft hat</rs>, und seinen
-                     nachkomen.</rs> Und sind zu dienn zu drin tégen und wider abczukauffen
-                  miteinander und den nagsten dinst damit, ut littera. Actum an Freitag vor sand
-                  Johans tag zu Sundwenden, anno etc. xlviiio.</rs></p>
+                           corresp="org__wien-st_stephan-altar_st_maria-messe_albrecht_bucharzt"
+                           >capplan</roleName> der <rs ref="ev__SB_CD_01241_men_2"><catchwords
+                              n="disp">messe</catchwords> die <rs type="fn" role="issuer"><rs
+                                 type="person" ref="pe__albrecht_bucharzt_SB_CD_01241"><roleName
+                                    type="title">maister</roleName> Albertinus der <roleName
+                                    type="prof">pucharczt</roleName></rs></rs>
+                           <rs type="fn" role="recipient">auf <rs type="org"
+                                 ref="org__wien-st_stephan-altar_st_maria">Unser Fraun Altar zu Sand
+                                 Steffan</rs></rs>
+                           <catchwords n="disp">gestifft hat</catchwords></rs></rs>, und <rs
+                        type="org" ref="org__wien-st_stephan-altar_st_maria-messe_albrecht_bucharzt"
+                        >seinen nachkomen</rs>.</rs> Und sind zu dienn zu drin tégen und wider
+                  abczukauffen miteinander und den nagsten dinst damit, ut littera. Actum an Freitag
+                  vor sand Johans tag zu Sundwenden, anno etc. xlviiio.</rs></p>
             <p rend="Summa">Summa vi s. xx d.</p>
-            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_01241">Daz gelt ist abgelost und
+            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_01241_nota">Daz gelt ist abgelost und
                   wider gelihen worden auf Mathesen Ubermut, swertferger und Margreten seiner
                   hausfrau hewser ut littera, anno liiio.</rs></p>
          </div>
          <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
          </div>
       </body>
    </text>

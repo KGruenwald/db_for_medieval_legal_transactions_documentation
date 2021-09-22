@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
@@ -118,27 +118,28 @@
             <p><rs type="event" ref="ev__SB_CD_00625"><rs type="fn" role="issuer"><rs type="person"
                         ref="pe__johann_hermann_SB_CD_00621">Hanns Herman</rs></rs>
                   <catchwords n="disp">hat versaczt <add>die uberteurung</add></catchwords>
-                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_haarmarkt_2"
-                           ><roleName type="owner" corresp="pe__johann_hermann_SB_CD_00621"
-                           >seins</roleName> hauss, <roleName type="topo" corresp="pl__wien-haarmarkt"
-                           >gelegen am Harmarkcht an dem egk</roleName>
-                        <roleName type="topo" corresp="pl__wien-alter_fleischmarkt">zenagst der gassen
-                           als man an den Alten Fleischmarkcht get</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_haarmarkt_3">gegen</roleName>
+                  <rs type="fn" role="transactiongood_I"><catchwords n="fn">die
+                        uberteurung</catchwords>
+                     <rs type="place" ref="pl__wien-immo_haarmarkt_2"><roleName type="owner"
+                           corresp="pe__johann_hermann_SB_CD_00621">seins</roleName> hauss,
+                           <roleName type="topo" corresp="pl__wien-haarmarkt">gelegen am Harmarkcht
+                           an dem egk</roleName>
+                        <roleName type="topo" corresp="pl__wien-alter_fleischmarkt">zenagst der
+                           gassen als man an den Alten Fleischmarkcht get</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_haarmarkt_3">gegen <add>über an
+                              aim tail</add></roleName>
                         <rs type="place" ref="pl__wien-immo_haarmarkt_3"><roleName type="owner"
                               corresp="pe__georg_von_nikolsburg_QGW_II_II_2373"><rs type="person"
                                  ref="pe__georg_von_nikolsburg_QGW_II_II_2373">Jörgen von
-                                 Nicolspurg</rs></roleName> haus</rs>
-                        <roleName type="topo" corresp="pl__wien-immo_haarmarkt_3">über an aim
-                           tail</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_haarmarkt_4">und an dem andern
+                                 Nicolspurg</rs></roleName> haus</rs> über an aim tail <roleName
+                           type="topo" corresp="pl__wien-immo_haarmarkt_4">und an dem andern
                            zenagst</roleName>
                         <rs type="place" ref="pl__wien-immo_haarmarkt_4"><rs type="person"
-                              ref="pe__ulrich_von_steyr_SB_CD_00625"><roleName type="dead">weilent</roleName>
-                              Ulreichs von Steir</rs> haus</rs>, <rs type="event"
-                           ref="ev__SB_CD_00621">über die sechshundert phund phening guldein, darumb
-                           es Hannsen Ungerland erhalt vormalen versaczt ist nach lautt ains
-                           briefs</rs></rs>.</rs>
+                              ref="pe__ulrich_von_steyr_SB_CD_00625"><roleName type="dead"
+                                 >weilent</roleName> Ulreichs von Steir</rs> haus</rs>, <rs
+                           type="event" ref="ev__SB_CD_00625_men_1">über die sechshundert phund
+                           phening guldein, darumb es Hannsen Ungerland erhalt vormalen versaczt ist
+                           nach lautt ains briefs</rs></rs>.</rs>
                   <rs type="fn" role="recipient">Der <rs type="person"
                         ref="pe__katharina_SB_CD_00625"><roleName type="title">erbern</roleName>
                         Kathrein, seiner <roleName type="kin"
@@ -148,20 +149,20 @@
                   littera sonat. Actum an Mitichen vor sant Lucein tag, anno etc. xlviii<hi
                      rend="super">o</hi>.</rs></p>
             <p rend="Summa">Summa iiii tl. xl d.</p>
-            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00625">Nota umb die vc tl. d.
+            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00625_nota">Nota umb die vc tl. d.
                   haimsteur und morgengab hat Hanns Herman die egnant sein hausfrau geweist und ir
                   dafur versaczt das egnant haws halbe das im gegen Hannsen von Geraw an der tailung
                   gevallen ist, ut littera. Actum quarta post Erasmi, anno etc. liiio.</rs></p>
          </div>
          <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
          </div>
       </body>
    </text>

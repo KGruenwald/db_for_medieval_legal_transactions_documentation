@@ -1,16 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">Eintrag vom 1448-07-08</title>
-            <title type="rubrik">Tempore dominorum Hainrich Haiden, consulis, et Hannsen von Eslorn,
-               anno etc. xlviiioTempore dominorum Hainrich Haiden, consu<unclear instant="false"
-                  >lis</unclear>, et Hannsen von Eslorn, anno etc. xlviii<hi rend="super"
-               >o</hi></title>
-            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
-            <respStmt>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title type="main">Eintrag vom 1448-07-08</title><title type="rubrik">Tempore dominorum Hainrich Haiden, consulis, et Hannsen von Eslorn,
+               anno etc. xlviiioTempore dominorum Hainrich Haiden, consu<unclear instant="false">lis</unclear>, et Hannsen von Eslorn, anno etc. xlviii<hi rend="super">o</hi></title><title type="sub">Digitale Edition der Wiener Grundbücher</title><respStmt>
                <resp>Transkription</resp>
                <name>
                   <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
@@ -18,43 +7,15 @@
                <name>
                   <rs type="person" ref="weinbergmaier_richard">Richard Weinbergmaier</rs>
                </name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
-               Andorfer</publisher>
-            <availability default="false">
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
+            </respStmt></titleStmt><publicationStmt><publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher><availability default="false"><licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>CC-BY</p>
                   <p>You are free to: Share — copy and redistribute the material in any medium or
                      format. Adapt — remix, transform, and build upon the material for any purpose,
                      even commercially.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc default="false">
-            <msDesc type="invetory" status="draft">
-               <msIdentifier>
-                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
-                  <repository>Grundbücher</repository>
-                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <locus from=" [75v]" to=" [76r]"/>
-                     <p> [75v] - [76r]</p>
-                  </msItem>
-               </msContents>
-               <history>
+               </licence></availability></publicationStmt><sourceDesc default="false"><msDesc type="invetory" status="draft"><msIdentifier><institution>Wiener Stadt- und Landesarchiv (WStLA)</institution><repository>Grundbücher</repository><idno type="archive">WStLA 2.1.2.1.B1.34</idno></msIdentifier><msContents><msItem><locus from=" [75v]" to=" [76r]"/><p> [75v] - [76r]</p></msItem></msContents><history>
                   <origin notAfter="1448-07-08">1448-07-08</origin>
-               </history>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
-         xmlns:xi="http://www.w3.org/2001/XInclude">
-         <projectDesc default="false">
-            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               </history></msDesc></sourceDesc></fileDesc><encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><projectDesc default="false"><p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
                   <row rend="header">
                      <cell>Name der Formatvorlage</cell>
@@ -106,76 +67,46 @@
                      <cell>Hochgestellt</cell>
                   </row>
                </table>
-            </p>
-            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+            </p><p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
                community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
                wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
-               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
-         </projectDesc>
-      </encodingDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0149.jpg"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="entry">
-            <p><rs type="event" ref="ev__SB_CD_00299"><rs type="fn" role="issuer"><rs type="person"
-                        ref="pe__dorothea_QGW_II_II_3262_a">Dorothe, <rs type="person"
-                           ref="pe__albrecht_liebhart_QGW_II_II_3262">Albrechts Liepharts des
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p></projectDesc></encodingDesc></teiHeader><facsimile><graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0149.jpg"/></facsimile><text><body><div type="entry"><p><rs type="event" ref="ev__SB_CD_00299"><rs type="fn" role="issuer"><rs type="person" ref="pe__dorothea_QGW_II_II_3262_a">Dorothe, <rs type="person" ref="pe__albrecht_liebhart_QGW_II_II_3262">Albrechts Liepharts des
                               <roleName type="prof">schuster</roleName></rs>
-                        <roleName type="kin" corresp="pe__albrecht_liebhart_QGW_II_II_3262"
-                           >hausfrau</roleName>, die emalen <rs type="person"
-                           ref="pe__niklas_wagner_QGW_II_II_3262">Niclasen Wagner den <roleName
-                              type="prof">schuster</roleName>
-                           <roleName type="dead">seligen</roleName></rs> auch <roleName type="kin"
-                           corresp="pe__niklas_wagner_QGW_II_II_3262">elichen</roleName> gehabt
+                        <roleName type="kin" corresp="pe__albrecht_liebhart_QGW_II_II_3262">hausfrau</roleName>, die emalen <rs type="person" ref="pe__niklas_wagner_QGW_II_II_3262">Niclasen Wagner den <roleName type="prof">schuster</roleName>
+                           <roleName type="dead">seligen</roleName></rs> auch <roleName type="kin" corresp="pe__niklas_wagner_QGW_II_II_3262">elichen</roleName> gehabt
                         hat</rs></rs>, <catchwords n="disp">hat versaczt</catchwords>
-                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_haarmarkt_1"
-                           ><roleName type="owner" corresp="pe__dorothea_QGW_II_II_3262_a"
-                           >ir</roleName> halbs haus ganczes <roleName type="topo"
-                           corresp="pl__wien-haarmarkt">gelegen am Harmarkt</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_haarmarkt_5">zenagst</roleName>
-                        der padstuben genant die Perlabin, <rs type="event" ref="NULL"><rs type="fn"
-                              role="issuer">davon <rs type="place" ref="pl__wien-immo_haarmarkt_1">von
-                                 demselben írm halben haus</rs></rs>
+                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_haarmarkt_1"><roleName type="owner" corresp="pe__dorothea_QGW_II_II_3262_a">ir</roleName> halbs haus ganczes
+                           <roleName type="topo" corresp="pl__wien-haarmarkt">gelegen am
+                           Harmarkt</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_haarmarkt_6">zenagst</roleName>
+                        der padstuben genant die Perlabin, <rs ref="ev__SB_CD_00299_men_1"><rs type="fn" role="issuer">davon <rs type="place" ref="pl__wien-immo_haarmarkt_1">von demselben írm halben haus</rs></rs>
                            <catchwords n="disp">jerlich dint</catchwords>
-                           <rs type="fn" role="recipient"><rs type="person"
-                                 ref="pe__friedrich_lenstain_QGW_II_II_3262">Fridreichen Lenstain,
-                                 dem <roleName type="prof">sneider</roleName>, <roleName type="rep"
-                                    corresp="pe__magdalena_QGW_II_II_3262">zu
+                           <rs type="fn" role="recipient"><rs type="person" ref="pe__friedrich_lenstain_QGW_II_II_3262">Fridreichen Lenstain,
+                                 dem <roleName type="prof">sneider</roleName>, <roleName type="rep" corresp="pe__magdalena_QGW_II_II_3262">zu
                               handen</roleName></rs></rs>
                            <rs type="person" ref="pe__magdalena_QGW_II_II_3262">junkfraun Magdalen,
-                              seiner <roleName type="kin"
-                                 corresp="pe__friedrich_lenstain_QGW_II_II_3262"
-                              >tochter</roleName></rs>, und irn erben <rs type="fn"
-                              role="transactiongood_II">zway phunt phening</rs>, die abzulosen sind
+                              seiner <roleName type="kin" corresp="pe__friedrich_lenstain_QGW_II_II_3262">tochter</roleName></rs>, und irn erben <rs type="fn" role="transactiongood_II">zway phunt phening</rs>, die abzulosen sind
                            mit dreissig phunt pheningen <catchwords n="disp">nach lautt ains
                               saczbriefs</catchwords> so darumb ist,</rs>
-                        <rs type="event" ref="NULL">und <rs type="fn" role="issuer"><add>davon</add>
-                              <rs type="place" ref="pl__wien-immo_haarmarkt_1"><add>von demselben írm
-                                    halben haus</add></rs></rs>
+                        <rs ref="ev__SB_CD_00299_men_2">und <rs type="fn" role="issuer"><add>davon</add>
+                              <rs type="place" ref="pl__wien-immo_haarmarkt_1"><add>von demselben
+                                    írm halben haus</add></rs></rs>
                            <catchwords n="disp"><add>jerlich dint</add></catchwords>
-                           <rs type="fn" role="recipient"><rs type="person"
-                                 ref="pe__johann_meczinger_SB_CD_00623">Johannesen Meczinger von
-                                 Freindorf <roleName type="off"
-                                    corresp="org__wien-st_stephan-altar_frauen-messe_flusthart"
-                                    >verweser</roleName> der ewigen mess, die weilent Dietreich
+                           <rs type="fn" role="recipient"><rs type="person" ref="pe__johann_meczinger_SB_CD_00623">Johannesen Meczinger von
+                                 Freindorf <roleName type="off" corresp="org__wien-st_stephan-altar_st_maria-messe_flusthart">verweser</roleName> der ewigen mess, die weilent Dietreich
                                  Fluschart auf Unser Fraun altar zu Sand Steffan gestifft
                               hat</rs>,</rs>
-                           <rs type="fn" role="transactiongood_II">siben phund phening</rs>
+                           <rs type="fn" role="transactiongood_II"><measure>siben phund
+                                 phening</measure>
+                              <catchwords n="fn"><add>zu purkrecht</add></catchwords></rs>
                            <catchwords n="disp">zu purkrecht</catchwords>, die abczulosen sind mit
                            sechsundfunfczig phunt phening nach laut ains purkrechtbriefs und nicht
                            mer</rs></rs></rs>. <rs type="fn" role="recipient">Den<note>
                         <p rend="footnote text"> Korrigiert aus Dem.</p>
                      </note>
-                     <rs type="person" ref="pe__leonhard_weidenholczer_QGW_II_II_3262"><roleName
-                           type="title">erbern</roleName> Linharten und <roleName type="kin"
-                              corresp="pe__dorothea_QGW_II_II_3262_a"><add>prudern</add></roleName></rs>
-                     <rs type="person" ref="pe__jakob_weidenholczer_QGW_II_II_3262"><roleName
-                           type="title"><add>erbern</add></roleName> Jacoben geprudern den
-                        Weidenholtzern, der egenanten Dorothen <roleName type="kin"
-                           corresp="pe__dorothea_QGW_II_II_3262_a">prudern</roleName></rs>, und irn
+                     <rs type="person" ref="pe__leonhard_weidenholczer_QGW_II_II_3262"><roleName type="title">erbern</roleName> Linharten und <roleName type="kin" corresp="pe__dorothea_QGW_II_II_3262_a"><add>prudern</add></roleName></rs>
+                     <rs type="person" ref="pe__jakob_weidenholczer_QGW_II_II_3262"><roleName type="title"><add>erbern</add></roleName> Jacoben geprudern den
+                        Weidenholtzern, der egenanten Dorothen <roleName type="kin" corresp="pe__dorothea_QGW_II_II_3262_a">prudern</roleName></rs>, und irn
                      erben</rs>
                   <rs type="fn" role="transactiongood_II">umb xxx tl. d., die in zu irm tail von
                      Hansen Welser des leinbater und Dorothen seiner hausfraun irer swester seligen
@@ -184,22 +115,5 @@
                      der stat gruntpuch gelegen sein, und sind zu beczalen, wenn sy die vordernt und
                      nicht lenger empern wellent</rs>. Darnach ynner den nagsten virczehen tagen an
                   alles vercziehen, ut littera sonat. Actum an Montag ante Margarethe, anno etc.
-                     xlviii<hi rend="super">o</hi>.</rs></p>
-            <p rend="Summa">Summa lx d.</p>
-            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00299">Nota die <unclear
-                     instant="false">obbemelten</unclear> 60 tl. d. sind zu dem buch erlegt, Montag
-                  post Udalrici anno etc. 8<hi rend="super">vo</hi>.</rs></p>
-         </div>
-         <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
-         </div>
-      </body>
-   </text>
-</TEI>
+                     xlviii<hi rend="super">o</hi>.</rs></p><p rend="Summa">Summa lx d.</p><p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00299_nota">Nota die <unclear instant="false">obbemelten</unclear> 60 tl. d. sind zu dem buch erlegt, Montag
+                  post Udalrici anno etc. 8<hi rend="super">vo</hi>.</rs></p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

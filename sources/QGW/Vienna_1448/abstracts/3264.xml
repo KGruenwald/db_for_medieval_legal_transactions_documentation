@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3264 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3264 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3264</idno><altIdentifier type="old"><idno>517501</idno></altIdentifier></msIdentifier><msContents><msItem><listBibl default="false"><bibl default="false" status="draft"/></listBibl></msItem></msContents><physDesc><sealDesc><seal><p>Die Siegel fehlen.</p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <date when="14480805">1448 VIII 05</date>
+            <placeName/>
+            <date from="99999999" to="99999999"/>
+            <origDate instant="false">an mantag sannd Oswolts tag.</origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03264_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03264_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3264"><rs type="fn" role="issuer"><rs type="person" ref="pe__dorothea_QGW_II_II_3264">Dorothe, <rs type="person" ref="pe__pankraz_widmer_QGW_II_II_3264">Pangreczen Widmer, des <roleName type="prof">parchanter</roleName></rs>, <roleName type="kin" corresp="pe__pankraz_widmer_QGW_II_II_3264">hausfrau</roleName>, die
+                        emaln <rs type="person" ref="pe__thomas_maricz_QGW_II_II_3264"><roleName type="dead" cert="high"><add>emaln</add></roleName> Thoman Maricz</rs>
+                        auch <roleName type="kin" corresp="pe__thomas_maricz_QGW_II_II_3264">elichen</roleName> gehabt hat</rs>,</rs>
+                  <catchwords n="disp">verkauft</catchwords>
+                  <rs type="fn" role="other"><catchwords n="fn">mit Handen</catchwords> des <rs type="person" ref="pe__johann_steger_QGW_II_II_3264"><roleName type="title">edeln</roleName>
+                        <roleName type="title">vesten</roleName>
+                        <roleName type="title">ritter</roleName>
+                        <roleName type="title">hern</roleName> Hannsen des Steger, <roleName type="off" corresp="org__wien">burgermaister</roleName> und <roleName type="off" corresp="org__oesterreich-herzogtum">münssmaister</roleName></rs>, und des <rs type="org" ref="org__wien">Rathes</rs></rs>
+                  <rs type="fn" role="transactiongood_I">2 lb dn. <catchwords n="disp"><add>geltes
+                           purckrechts</add></catchwords></rs>
+                  <catchwords n="disp">geltes purckrechts</catchwords> (ablösbar) <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_tiefer_graben_1">auf <roleName type="owner" corresp="pe__dorothea_QGW_II_II_3264">ihrem</roleName> Hause, <roleName type="topo" corresp="pl__wien-tiefer_graben">gelegen im Teuffengraben</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_tiefer_graben_2">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_tiefer_graben_2"><roleName type="owner" corresp="pe__thomas_trager_QGW_II_II_3264"><rs type="person" ref="pe__thomas_trager_QGW_II_II_3264">Thomans, des <roleName type="prof">trager</roleName></rs></roleName>, haus</rs>,
+                           <roleName type="topo" corresp="pl__wien-immo_tiefer_graben_2">an aim
+                           tail</roleName> und <roleName type="topo" corresp="pl__wien-immo_tiefer_graben_3">an dem andern zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_tiefer_graben_3"><roleName type="owner" corresp="pe__gilg_zimmermann_QGW_II_II_3264"><rs type="person" ref="pe__gilg_zimmermann_QGW_II_II_3264">Giligen, des <roleName type="prof">zimermans</roleName></rs></roleName>, haus</rs>, <rs type="event" ref="ev__QGW_II_II_3264_men_1"><rs type="fn" role="issuer">von <rs type="place" ref="pl__wien-immo_tiefer_graben_1">dem</rs>
+                              man</rs>
+                           <rs type="fn" role="recipient"><rs type="org" ref="org__wien-buergerspital">in der burger Spital zu
+                              Wienn</rs></rs>
+                           <rs type="fn" role="transactiongood_I"><measure>80 dn.</measure>
+                              <catchwords n="fn"><add>zu purckrecht</add></catchwords></rs>
+                           <catchwords n="disp">zu purckrecht dient</catchwords></rs></rs>,</rs>
+                  <rs type="fn" role="transactiongood_II">um <measure>16 lb dn.</measure>, <rs type="event" ref="ev__QGW_II_II_3264_men_2">die emaln gelegen sind halb
+                        [297] auf ihres zweiten Mannes Haus auf der Goltsmid und halb auf der
+                        Kunczinn, gartnerin, haus vor Widmertor,</rs></rs>
+                  <rs type="fn" role="recipient"><rs type="person" ref="pe__michael_grashover_QGW_II_II_3264"><roleName type="title">hern</roleName> Micheln Grashover, <roleName type="off" corresp="org__wien-st_stephan-kapelle_herzog-altar_st_blasius-messe_graf">Kaplan</roleName>
+                        <rs type="event" ref="ev__QGW_II_II_3264_men_3">der <rs type="fn" role="issuer">von <rs type="person" ref="pe__rudolf_graf_QGW_II_I_1421">Rudolf Graf</rs></rs>
+                           <rs type="fn" role="recipient">auf <rs type="org" ref="org__wien-st_stephan-kapelle_herzog-altar_st_blasius">sand
+                                 Blasien altar in des herczogen kappellen dacz sand
+                              Stephan</rs></rs>
+                           <catchwords n="disp">gestifteten Messe</catchwords></rs></rs>, und <rs type="org" ref="org__wien-st_stephan-kapelle_herzog-altar_st_blasius-messe_graf">seinen
+                        Nachfolgern</rs></rs>.</rs>
+            </p></div><div type="seal"><p><rs type="event" ref="ev__QGW_II_II_3264"><rs type="fn" role="witness">Besiegelt mit
+                     dem <rs type="org" ref="org__wien">städtischen Grundsiegel</rs> und dem Siegel
+                     des <rs type="person" ref="pe__johann_ravensburger_QGW_II_II_3264">Hanns
+                        Ravenspurger, <roleName type="off" corresp="org__wien">urtailschreiber</roleName> zu Wienn</rs>.</rs></rs>
+            </p></div><div type="nota"><p/></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

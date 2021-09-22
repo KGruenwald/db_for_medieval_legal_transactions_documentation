@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3260 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3260 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3260</idno><altIdentifier type="old"><idno>517497</idno></altIdentifier></msIdentifier><msContents><msItem><listBibl default="false"><bibl default="false" status="draft">Camesina, Regesten 82 n° 380 Regest.</bibl><bibl default="false" status="draft">Jahrbuch der kais. Kunstsamml. 17b, n° 15231 Regest. [296]</bibl></listBibl></msItem></msContents><physDesc><sealDesc><seal><p>Drei anhangende Siegel, grün u. Sch., 3. beschädigt.Siegler: Hanns
+                           Steger, Ritter, Bürger- und Münzmeister, Hanns Haringseer und Simon
+                           Potel, kirchmaister, baid des rates der stat zu Wienn. </p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <placeName>Wien</placeName>
+            <date when="14480706">1448 VII 06</date>
+            <origDate instant="false">zu Wienn, an sambstag vor sand Margrethen tag, der heiligen
+               junkfrauen.</origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03260_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03260_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3260"><rs type="fn" role="issuer"><rs type="person" ref="pe__agnes_QGW_II_II_3250_b">Agnes, <rs type="person" ref="pe__michael_fuechsel_QGW_II_I_1108">Micheln des Füchsel <roleName type="dead">wittib</roleName></rs>, <roleName type="kin" corresp="pe__michael_fuechsel_QGW_II_I_1108"><add>wittib</add></roleName>
+                        <roleName type="title_ref" corresp="org__wien">burgerin</roleName> zu
+                        Wienn</rs></rs>, <catchwords n="disp">beurkundet</catchwords>, <rs type="event" ref="NULL">dass <rs type="event" ref="NULL"><rs type="fn" role="issuer"><rs type="person" ref="pe__michael_fuechsel_QGW_II_I_1108">ihr Mann</rs></rs>
+                        <catchwords n="reason">durch letztwillige, in das Stadtbuch eingetragene
+                           Verfügung</catchwords>
+                        <rs type="fn" role="transactiongood_I">von ihrer Beider Haus am
+                           Lichtensteg</rs>
+                        <catchwords n="disp">die Stiftung einer</catchwords>
+                        <rs type="fn" role="transactiongood_I">mit <measure>600 lb dn.</measure> und
+                              <rs type="place" ref="pl__meidling-immo_1">einem Weingarten zu
+                              Meurling in der Laincz</rs> ausgestatteten</rs>
+                        <catchwords n="disp">ewigen Messe</catchwords>
+                        <rs type="fn" role="recipient">in der <rs type="org" ref="org__wien-st_stephan">Stephanskirche</rs></rs>
+                        <catchwords n="disp">angeordnet</catchwords></rs> und dass <rs type="fn" role="issuer"><rs type="person" ref="pe__agnes_QGW_II_II_3250_b">sie als
+                              <roleName type="rep" corresp="pe__michael_fuechsel_QGW_II_I_1108">Testamentsvollstreckerin</roleName></rs></rs> die <catchwords n="disp">Messe</catchwords>
+                     <rs type="fn" role="recipient">auf <rs type="org" ref="org__wien-st_stephan-altar_st_ulrich">dem <rs type="event" ref="NULL"><rs type="fn" role="issuer">von <rs type="person" ref="pe__agnes_QGW_II_II_3250_b">ihnen</rs>
+                                 <rs type="person" ref="pe__michael_fuechsel_QGW_II_I_1108"><add>ihnen</add></rs></rs>
+                              <catchwords n="disp">neuerbauten</catchwords>
+                              <rs type="fn" role="recipient"><rs type="place" ref="org__wien-st_stephan-altar_st_ulrich">St. Ulrichsaltar bei
+                                    dem Sagrer</rs></rs></rs></rs></rs>
+                     <catchwords n="disp">gestiftet und</catchwords>
+                     <rs type="fn" role="recipient">ihrem Vetter, dem Chorherrn bei St. Stephan
+                        Hanns dem Füchsel</rs>, <catchwords n="disp">verliehen habe</catchwords>.
+                           <unclear instant="false"><rs type="person" ref="pe__agnes_QGW_II_II_3250_b">Sie bleibt
+                           auf Lebenszeit <roleName type="title_ref" corresp="org__wien-st_stephan-altar_st_ulrich-messe_fuechsel">Lehensfrau</roleName> der Messe</rs></unclear>, <rs type="person" ref="pe__peter_strasser_QGW_II_II_3260">nach ihrem Tode soll ihr <roleName type="kin" corresp="pe__agnes_QGW_II_II_3250_b">Vetter</roleName> Peter
+                        Strasser, <roleName type="off" corresp="org__oesterreich-herzogtum">Kellermeister</roleName> in Oesterreich und <roleName type="off" corresp="org__wien">Mitglied des Rathes</roleName>, <roleName type="title_ref" corresp="org__wien-st_stephan-altar_st_ulrich-messe_fuechsel">Lehensherr</roleName> sein</rs>, <rs type="org" ref="org__wien">nach
+                        dessen Ableben die <roleName type="title_ref" corresp="org__wien-st_stephan-altar_st_ulrich-messe_fuechsel">Lehenschaft</roleName> an den Bürgermeister und Rath von Wien
+                        übergehen</rs>. Bei der Verleihung sollen Verwandte der Stifter
+                     priesterlichen Standes vor anderen Bewerbern berücksichtigt werden. Der Kaplan
+                     ist verpflichtet, wöchentlich vier Messen zu lesen und die zur Messe gehörigen
+                     Güter in gutem Stande zu halten.</rs> Sie <catchwords n="disp">widmet</catchwords>
+                  <rs type="fn" role="recipient">zu der Messe</rs>: <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__meidling-immo_3">Einen Hof
+                        mit Zubehör in Meurling <roleName type="topo" corresp="pl__meidling-buergerspitalhof">zunächst dem
+                        Spitalhof</roleName>, <rs type="event" ref="ev__QGW_II_II_2870"><rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__meidling-immo_3">den</rs></rs>
+                           <rs type="fn" role="recipient"><rs type="person" ref="pe__agnes_QGW_II_II_3250_b">sie</rs></rs>
+                           <rs type="fn" role="transactiongood_II">um <measure>400 lb
+                              dn.</measure></rs>
+                           <rs type="fn" role="issuer">von dem <rs type="person" ref="pe__ulrich_eibesprunner_QGW_II_II_2870"><roleName type="title">edeln</roleName> Ulrich Eibesprunner</rs></rs>
+                           <catchwords n="disp">gekauft hat</catchwords></rs></rs>; <rs type="place" ref="pl__sievering-immo_schenkchenperg_1"><rs type="event" ref="ev__QGW_II_II_3250"><rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__sievering-immo_schenkchenperg_1">ein</rs></rs>
+                           <rs type="fn" role="issuer">von <rs type="person" ref="pe__agnes_QGW_II_II_3250_a"><roleName type="title">Frau</roleName> Agnes, der <roleName type="kin" corresp="pe__michael_scheller_QGW_II_II_3250">Witwe</roleName>
+                                 <rs type="person" ref="pe__michael_scheller_QGW_II_II_3250">Micheln
+                                    des Scheller <roleName type="dead"><add>Witwe</add></roleName></rs></rs></rs>, <rs type="fn" role="transactiongood_II">um <measure>100 lb dn.</measure></rs>
+                           <catchwords n="disp">angekauftes</catchwords>
+                           <rs type="fn" role="recipient"><rs type="org" ref="org__wien-st_stephan-altar_st_ulrich-messe_fuechsel"><add>angekauftes</add></rs></rs></rs> Joch Weingarten <roleName type="topo" corresp="pl__sievering-schenkchenperg">am
+                           Schenkenperg</roleName>, <roleName type="topo" corresp="pl__sievering-immo_schenkchenperg_2">zunächst</roleName>
+                        <rs type="place" ref="pl__sievering-immo_schenkchenperg_2"><roleName type="owner" corresp="pe__theobald_macher_QGW_II_II_3250">Tibolt des
+                              Machers</roleName> Weingarten</rs></rs>; <rs type="place" ref="pl__st_veit-immo_1"><rs type="event" ref="NULL"><rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__st_veit-immo_1">ein</rs></rs>
+                           <rs type="fn" role="transactiongood_II">um 100 lb dn.</rs>
+                           <catchwords n="disp">angekauftes</catchwords>
+                           <rs type="fn" role="recipient"><rs type="org" ref="org__wien-st_stephan-altar_st_ulrich-messe_fuechsel"><add>angekauftes</add></rs></rs></rs> Joch Weingarten <roleName type="topo" corresp="pl__st_veit">zu St. Veit am
+                        Hekkenperg</roleName></rs> und <rs type="place" ref="pl__meidling-immo_1">den von ihrem Manne bestimmten Weingarten zu Meurling</rs>; ferner ein
+                     Messbuch, einen Kelch mit Zubehör, ein silbervergoldetes Kreuz, daran ein Fuchs
+                     bezeichnet ist und das 24 Loth wiegt, zwei sammtene Messgewänder, ein rothes
+                     und ein gemusierts, ein goldenes Messgewand, ein seidenes und ein
+                     Fasten-Messgewand, sammt dem almer zur Aufbewahrung dieser
+                  Gegenstände</rs>.</rs>
+            </p></div><div type="seal"><p>Siegler: Hanns Steger, Ritter, Bürger- und Münzmeister, Hanns Haringseer und Simon
+               Potel, kirchmaister, baid des rates der stat zu Wienn. </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

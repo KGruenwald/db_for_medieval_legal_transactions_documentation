@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3276 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3276 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3276</idno><altIdentifier type="old"><idno>517513</idno></altIdentifier></msIdentifier><physDesc><sealDesc><seal><p>Zwei rückwärts aufgedrückte Siegel von grünem Wachse, 1. unter
+                           Papierdecke, 2. beschädigt.</p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <date when="14480923">1448 IX 23</date>
+            <origDate instant="false">Geschehen an montag nach sand Matheus tag, appostoli et ewangeliste, anno
+               domini etc. quadragesimo octavo. </origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03276_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03276_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3276"><rs type="fn" role="issuer"><rs type="person" ref="pe__johann_nuesner_QGW_II_II_3276">Hans Nüsner <roleName type="rep" corresp="pe__michael_nuesner_QGW_II_II_3276"><add>für sich und
+                              ihren</add></roleName></rs> und <rs type="person" ref="pe__anna_QGW_II_II_3276_a">Anna, sein <roleName type="kin" corresp="pe__johann_nuesner_QGW_II_II_3276">swester</roleName>, <rs type="person" ref="pe__georg_waldner_QGW_II_II_3276">Jörgen des Waldner,
+                              <roleName type="prof">kürsner</roleName></rs>, <roleName type="kin" corresp="pe__georg_waldner_QGW_II_II_3276">hausfrau</roleName>
+                        <roleName type="rep" corresp="pe__michael_nuesner_QGW_II_II_3276"><add>für
+                              sich und ihren</add></roleName></rs></rs>, <catchwords n="disp">bestätigen</catchwords> für sich und <rs type="person" ref="pe__michael_nuesner_QGW_II_II_3276">ihren unmündigen <roleName type="kin" corresp="pe__anna_QGW_II_II_3276_a">Bruder</roleName>
+                     <roleName type="kin" corresp="pe__johann_nuesner_QGW_II_II_3276"><add>Bruder</add></roleName> Michel</rs>, <rs type="fn" role="transactiongood_II"><measure>24 lb dn.</measure></rs>
+                  <catchwords n="disp">erhalten zu haben</catchwords>, <rs type="fn" role="recipient">die Hans Stremphl von <rs type="event" ref="NULL"><rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_hochstrasse_1"><roleName type="owner" corresp="pe__johann_strempfl_QGW_II_II_3276">seins</roleName> haus
+                              wegen, <roleName type="topo" corresp="pl__wien-hochstrasse">auf der
+                                 Hochstrass gelegen</roleName></rs></rs>, so <rs type="fn" role="issuer">von <rs type="person" ref="pe__heinrich_staindlperger_QGW_II_II_3276">Hainreichen
+                              Staindelperger, dem <roleName type="prof">pekchen</roleName></rs></rs>, <catchwords n="disp">in kaufsweise
+                           an</catchwords>
+                        <rs type="fn" role="recipient"><rs type="person" ref="pe__johann_strempfl_QGW_II_II_3276">in</rs></rs>
+                        <catchwords n="disp">komen ist</catchwords></rs>, zu der stat gruntpuch
+                     gelegt hat zu ihren handen</rs>
+                  <rs type="event" ref="NULL">und <rs type="fn" role="transactiongood_I"><measure><add>24 lb dn.</add></measure></rs>
+                     <catchwords n="disp">aus</catchwords>
+                     <rs type="fn" role="issuer"><rs type="person" ref="pe__anna_QGW_II_II_3276_b"><roleName type="title">fraun</roleName> Annen der Ruemerinn <roleName type="dead">seligen</roleName></rs></rs>
+                     <catchwords n="disp">geschefft herkomen sein</catchwords></rs>
+                  <rs type="fn" role="recipient"><rs type="person" ref="pe__michael_nuesner_QGW_II_II_3276"/><rs type="person" ref="pe__johann_nuesner_QGW_II_II_3276"/><rs type="person" ref="pe__anna_QGW_II_II_3276_a"/></rs>.</rs>
+            </p></div><div type="seal"><p><rs type="event" ref="ev__QGW_II_II_3276"><rs type="fn" role="witness">Besiegelt mit
+                     den Siegeln der <rs type="person" ref="pe__georg_haug_QGW_II_II_3261">Wiener
+                           <roleName type="title_ref" corresp="org__wien">Bürger</roleName> Jörgen
+                        des Haugen</rs> und <rs type="person" ref="pe__johann_kamrer_QGW_II_II_3276"><roleName type="title_ref" corresp="org__wien"><add>Bürger</add></roleName> Hannsen des Kamrer</rs>.</rs></rs>
+            </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

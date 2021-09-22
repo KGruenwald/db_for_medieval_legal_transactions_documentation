@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
@@ -120,20 +120,20 @@
                   <catchwords n="disp">hat versaczt</catchwords>
                   <rs type="fn" role="transactiongood_I"><rs type="place"
                         ref="pl__wien-immo_alter_fleischmarkt_6"><roleName type="owner"
-                           corresp="pl__wien-immo_alter_fleischmarkt_6">sein</roleName> haus, <roleName
-                           type="topo" corresp="pl__wien-alter_fleischmarkt">gelegen am Alten
-                           Fleischmarkt nyden im Winkchl an der Rinkchmaur</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_alter_fleischmarkt_4"
-                           >zenagst</roleName>
+                           corresp="pe__heinrich_rigel_QGW_II_II_3355">sein</roleName> haus,
+                           <roleName type="topo" corresp="pl__wien-alter_fleischmarkt">gelegen am
+                           Alten Fleischmarkt nyden im Winkchl an der Rinkchmaur</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_alter_fleischmarkt_4">zenagst
+                              <add>an aim tail</add></roleName>
                         <rs type="place" ref="pl__wien-immo_alter_fleischmarkt_4">der stat newem
-                           kassten</rs>
-                        <roleName type="topo" corresp="pl__wien-immo_alter_fleischmarkt_4">an aim
-                           tail</roleName> und <roleName type="topo"
-                           corresp="pl__wien-immo_alter_fleischmarkt_5">an dem andern zenagst</roleName>
+                           kassten</rs> an aim tail und <roleName type="topo"
+                           corresp="pl__wien-immo_alter_fleischmarkt_5">an dem andern
+                           zenagst</roleName>
                         <rs type="place" ref="pl__wien-immo_alter_fleischmarkt_5">der studenten von
                            Bresslaw haus</rs></rs>.</rs>
-                  <rs type="fn" role="recipient">Dem <rs type="person" ref="pe__georg_schuchler_QGW_II_II_3272"
-                           ><roleName type="title">erbern</roleName>
+                  <rs type="fn" role="recipient">Dem <rs type="person"
+                        ref="pe__georg_schuchler_QGW_II_II_3272"><roleName type="title"
+                           >erbern</roleName>
                         <roleName type="title">weisen</roleName> Jörgen Schúchler, <roleName
                            type="off" corresp="org__wien">statrichter</roleName> hie zu Wienn</rs>,
                      und seinen erben</rs>, <rs type="fn" role="transactiongood_II">umb zwayhundert
@@ -144,14 +144,14 @@
             <p rend="Nachtrag">Habet cedulam.</p>
          </div>
          <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
          </div>
       </body>
    </text>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3263 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3263 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3263</idno><altIdentifier type="old"><idno>517500</idno></altIdentifier></msIdentifier><msContents><msItem><listBibl default="false"><bibl default="false" status="draft">Fischer, Brevis Notitia, Suppl. I, 25, cit.</bibl></listBibl></msItem></msContents><physDesc><sealDesc><seal><p>Die Siegel fehlen.</p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <placeName>Wien</placeName>
+            <date when="14480710">1448 VII 10</date>
+            <origDate instant="false">zu Wienn, an mitichen vor sant Margreten tag.</origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03263_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03263_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3263"><rs type="fn" role="issuer"><rs type="person" ref="pe__johann_payr_QGW_II_II_3263">Hanns Pair, der <roleName type="prof">schuster</roleName>, <roleName type="title_ref" corresp="org__wien">mitburger</roleName> zu Wienn</rs>,</rs>
+                  <catchwords n="disp">verkauft</catchwords>
+                  <rs type="fn" role="other"><catchwords n="fn">mit Handen</catchwords> des <rs type="person" ref="pe__johann_steger_QGW_II_II_3264"><roleName type="title">edeln</roleName>
+                        <roleName type="title">vesten</roleName>
+                        <roleName type="title">ritter</roleName>
+                        <roleName type="title">herrn</roleName> Hannsen des Steger, <roleName type="off" corresp="org__wien">burgermaister</roleName> und <roleName type="off" corresp="org__oesterreich-herzogtum">münssmaister</roleName></rs>, und des <rs type="org" ref="org__wien">Rathes</rs></rs>
+                  <rs type="fn" role="transactiongood_I"><measure>2 lb dn.</measure>
+                     <catchwords n="fn"><add>gelcz purckrechts (ablösbar)</add></catchwords></rs>
+                  <catchwords n="disp">gelcz purckrechts (ablösbar)</catchwords>
+                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_hoher_markt_3">auf <roleName type="owner" corresp="pe__johann_payr_QGW_II_II_3263">seinem</roleName> Hause,
+                           <roleName type="topo" corresp="pl__wien-hoher_markt">gelegen am
+                           Hohenmarkt</roleName>
+                        <roleName type="topo" corresp="pl__wien-hoher_markt_fischmarkt">gegen dem
+                           Vischmarkt über</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_hoher_markt_4">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_hoher_markt_4"><roleName type="owner" corresp="pe__johann_waitz_QGW_II_II_3263"><rs type="person" ref="pe__johann_waitz_QGW_II_II_3263">Waiczen, des <roleName type="prof">kursner</roleName></rs></roleName>,
+                     haus</rs></rs>,</rs>
+                  <rs type="fn" role="transactiongood_II">um <measure>20 lb dn.</measure>, <rs type="event" ref="NULL">die vormals auf zwei Weingärten zu Teben gelegen
+                        waren</rs>,</rs>
+                  <rs type="fn" role="recipient"><rs type="person" ref="pe__heinrich_senftleben_QGW_II_II_3263"><roleName type="title">maister</roleName> Hainreichen Senfftleben, <roleName type="off" corresp="org__wien-st_maria_im_rathaus">obristen capplan</roleName> Unser
+                        Fraun cappellen, gelegen in der burger Rathaus, hern Otten und Haimen
+                        stifftung</rs>, und <rs type="org" ref="org__wien-st_maria_im_rathaus">seinen Nachfolgern</rs>.</rs></rs>
+            </p></div><div type="seal"><p><rs type="event" ref="ev__QGW_II_II_3263"><rs type="fn" role="witness">Besiegelt mit
+                     dem <rs type="org" ref="org__wien">städtischen Grundsiegel</rs> und dem Siegel
+                     des <rs type="person" ref="pe__simon_von_eslarn_QGW_II_II_3263">Wiener
+                           <roleName type="title_ref" corresp="org__wien">Bürgers</roleName> Simon
+                        von Eslorn</rs>.</rs></rs>
+            </p></div><div type="nota"><p>Auf dem Buge: die obestimmten XX tl. dn. sein eemals auf zwein weingarten gelegen zu
+               Teben, ut supra, darumb sein die prieff und ander geschrift, so man darvor vindt,
+               abgetätt und ligen jecz auf Jorg Grueber, schuester, haus am Kollmarkt, ut littera.
+            </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

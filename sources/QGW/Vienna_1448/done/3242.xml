@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3242 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3242 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3242</idno><altIdentifier type="old"><idno>517479</idno></altIdentifier></msIdentifier><physDesc><sealDesc><seal><p>Zwei anhangende Siegel, grün u. Sch.</p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <placeName>Wien</placeName>
+            <date when="14480222">1448 II 22</date>
+            <origDate instant="false">zu Wienn, an sand Peters tag ad kathedram.</origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03242_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03242_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3242"><rs type="fn" role="issuer"><rs type="person" ref="pe__sigmund_obrecht_von_lengenfeld_QGW_II_II_3242"><roleName type="title">Maister</roleName> Sigmund Obrecht <roleName type="title_ref" corresp="pl__lengenfeld_QGW_II_II_register_pg_482">von
+                           Lengenveld</roleName>, <roleName type="prof"><add>priester</add></roleName>
+                        <roleName type="title_ref" corresp="org__passau-dioezese">priester</roleName> Passauer bistumbs, <roleName type="off" corresp="org__wien-st_peter-altar_st_bartholomaeus-messe_schrot"><add>Lehnsherr</add></roleName>
+                        <roleName type="off" corresp="org__wien-st_peter-altar_st_bartholomaeus-messe_schrot"><add>Kaplan</add></roleName></rs></rs>
+                  <rs type="event" ref="ev__QGW_II_II_3246"><rs type="fn" role="recipient"><rs type="person" ref="pe__sigmund_obrecht_von_lengenfeld_QGW_II_II_3242">dem</rs></rs>
+                     <rs type="fn" role="issuer"><rs type="person" ref="pe__stephan_von_eggenburg_QGW_II_II_3242"><roleName type="title">magister</roleName> Stephan von Egenburg, <roleName type="prof">lerer
+                              in der heiligen geschrift</roleName>, <roleName type="title_ref" corresp="org__wien-st_stephan">korherr</roleName> dacz sannd Stephan
+                           zu Wienn <roleName type="off" corresp="pe__ulrich_schrot_QGW_II_II_3242"><add>geschefftherren</add></roleName></rs></rs>, <rs type="person" ref="pe__jakob_rechwein_QGW_II_II_3242">Jacob Rechwein <roleName type="title_ref" corresp="org__wien"><add>burger</add></roleName>
+                        <roleName type="off" corresp="pe__ulrich_schrot_QGW_II_II_3242"><add>geschefftherren</add></roleName></rs> und <rs type="person" ref="pe__ulrich_kerner_QGW_II_II_3242">Ulrich Kerner, baid <roleName type="title_ref" corresp="org__wien">burger</roleName> daselbs, <rs type="person" ref="pe__ulrich_schrot_QGW_II_II_3242">Ulrichs Schrots
+                              <roleName type="dead">seligen</roleName></rs>
+                        <roleName type="off" corresp="pe__ulrich_schrot_QGW_II_II_3242">geschefftherren</roleName></rs>, <rs type="fn" role="transactiongood_II"><rs type="org" ref="org__wien-st_peter-altar_st_bartholomaeus-messe_schrot">eine von diesem laut <rs type="event" ref="NULL">seiner in das Stadtbuch
+                              zu Wien eingetragenen letztwilligen Anordnung</rs> auf sand
+                           Bartholomes altar in sannd Peters cappeln gestiftete Messe</rs></rs>
+                     <catchwords n="disp">verliehen haben</catchwords>,</rs>
+                  <catchwords n="disp">verpflichtet sich für sich und seine Nachfolger</catchwords>,
+                     <rs type="fn" role="recipient"><rs type="org" ref="org__wien-st_peter-altar_st_bartholomaeus-messe_schrot">dieselbe</rs></rs>
+                  <catchwords n="disp">ordentlich zu verwalten, sie vierstund in der wochen zu lesen
+                     und die dazu gestifteten Weingärten</catchwords>, deren einer oberhalb des
+                  Heiligen Geistes in der Langen gassen, genant der Griess, der andere zu Grinzing
+                  ob des Turns in den Peunten gelegen ist, in gutem mitterpau <catchwords n="disp">zu erhalten</catchwords>.</rs>
+            </p></div><div type="seal"><p><rs type="event" ref="ev__QGW_II_II_3242"><rs type="fn" role="witness">Besiegelt mit
+                     den Siegeln <rs type="person" ref="pe__johann_sorger_QGW_II_II_3242">Hannsen
+                        des Sarger, <roleName type="title_ref" corresp="org__wien">burger</roleName>
+                        zu Wienn</rs>, und <rs type="person" ref="pe__ulrich_hirssauer_QGW_II_II_3239">Ulrichen Hirssauer, <roleName type="off" corresp="org__wien">statschreiber</roleName>
+                     daselbs</rs>.</rs></rs>
+            </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

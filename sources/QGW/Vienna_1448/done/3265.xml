@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3265 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3265 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3265</idno><altIdentifier type="old"><idno>517502</idno></altIdentifier></msIdentifier><physDesc><sealDesc><seal><p>Siegel: 1. anhangend, grün u. Sch., 2. fehlt.</p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <placeName>Wien</placeName>
+            <date when="14480806">1448 VIII 06</date>
+            <origDate instant="false">zu Wienn, an eritag vor sant Larenczen tag.</origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03265_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03265_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3265"><rs type="fn" role="issuer"><rs type="person" ref="pe__niklas_vorstl_QGW_II_II_3265">Niclas Vörsstl, der
+                           <roleName type="prof">wuntarczt</roleName>, <roleName type="title_ref" corresp="org__wien">burger</roleName> zu Wienn</rs>,</rs>
+                  <catchwords n="disp">nimmt</catchwords>
+                  <rs type="fn" role="recipient">von <rs type="person" ref="pe__peter_von_kirchheim_QGW_II_II_3265"><roleName type="title">maister</roleName> Petern von Kirchhaim, <roleName type="prof">baccalario in geistlichen rechten</roleName>, <rs type="person" ref="pe__kaspar_hornperger_QGW_II_II_3265"><roleName type="title">hern</roleName> Kaspar Harnperger, <roleName type="off" corresp="org__passau-dioezese" select="pl__wien">official zu
+                              Wienn</roleName></rs>, <roleName type="off" corresp="pe__kaspar_hornperger_QGW_II_II_3265">notarii</roleName> und
+                           <roleName type="off" corresp="org__wien-st_peter-altar_st_maria-messe_chastner">Kaplan</roleName> der von Eberhart Kastner pei Peurerthor in sand Peters
+                        capellen auf Unser Frauen altar gestifteten Messe</rs>,</rs>
+                  <rs type="fn" role="transactiongood_II"><rs type="place" ref="pl__wien-immo_weinhaus_an_der_oberhohenbart_1">einen <roleName type="owner" corresp="org__wien-st_peter-altar_st_maria-messe_chastner">zu dieser gehörigen</roleName> Weingarten, <roleName type="topo" corresp="pl__wien-weinhaus_an_der_oberhohenbart">gelegen pei dem Weinhaus
+                           an der Obernhohenbart</roleName>, des <measure>fünf virtail</measure>
+                        ist, <roleName type="topo" corresp="pl__wien-immo_weinhaus_an_der_oberhohenbart_2">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_weinhaus_an_der_oberhohenbart_2"><roleName type="owner" corresp="pe__niklas_undermhimmel_QGW_II_II_3265"><rs type="person" ref="pe__niklas_undermhimmel_QGW_II_II_3265">Niclasen
+                                 Undermhimel</rs></roleName> weingarten</rs></rs>,</rs>
+                  <rs type="fn" role="transactiongood_I">gegen einen <catchwords n="fn">Jahresdienst</catchwords> von <measure>4 lb dn.</measure></rs>
+                  <catchwords n="disp">auf Lebenszeit in Bestand</catchwords>.</rs>
+            </p></div><div type="seal"><p><rs type="event" ref="ev__QGW_II_II_3265"><rs type="fn" role="witness">Besiegelt mit
+                     den Siegeln <rs type="person" ref="pe__georg_prunntaler_QGW_II_II_3240">Jörgen
+                        des Bruntaler, <roleName type="off" corresp="org__wien-st_michael">kirchmaister</roleName> zu sant Michel, <roleName type="title_ref" corresp="org__wien">burger</roleName> zu Wienn</rs>, und <rs type="person" ref="pe__ulrich_hirssauer_QGW_II_II_3518">Ulreichs Hirssauer,
+                           <roleName type="off" corresp="org__wien">statschreiber</roleName>
+                        daselbs</rs>.</rs></rs>
+            </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

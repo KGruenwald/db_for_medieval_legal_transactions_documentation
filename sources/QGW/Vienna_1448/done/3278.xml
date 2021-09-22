@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tei version of 3278 exported from monasterium.net </title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest-->
+         <sourceDesc default="false">
+            <bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2,
+               Nr. 3278 As published in HAUrk by Wiener Stadt- und Landesarchiv </bibl>
+            <msDesc status="draft">
+               <msIdentifier>
+                  <repository>Wiener Stadt- und Landesarchiv</repository>
+                  <idno>3278</idno>
+                  <altIdentifier type="old">
+                     <idno>517515</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc>
+                  <sealDesc>
+                     <seal>
+                        <p>Die Siegel fehlen.</p>
+                     </seal>
+                  </sealDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName>Wien.</placeName>
+            <date when="14481108">1448 XI 08</date>
+            <origDate instant="false">zu Wienn, an freitag vor sand Mertten
+            tag.</origDate></creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03278_r-1.jpg"/>
+      </surface>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03278_r-2.jpg"/>
+      </surface>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03278_v.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="abstract">
+            <p>
+               <rs type="event" ref="ev__QGW_II_II_3278"><rs type="fn" role="issuer"><rs
+                        type="person" ref="pe__niklas_kramhofer_QGW_II_II_3278">Niclas Kramhofer,
+                           <roleName type="title_ref" corresp="org__wien">burger</roleName> zu
+                        Wienn</rs>,</rs>
+                  <catchwords n="disp">verkauft</catchwords>
+                  <rs type="fn" role="other"><catchwords n="fn">mit Handen</catchwords> des <rs
+                        type="person" ref="pe__johann_steger_QGW_II_II_3264"><roleName type="title"
+                           >edeln</roleName>
+                        <roleName type="title">vesten</roleName>
+                        <roleName type="title">ritter</roleName>
+                        <roleName type="title">hern</roleName> Hannsen des Steger, <roleName
+                           type="off" corresp="org__wien">burgermaister</roleName> und <roleName
+                           type="off" corresp="org__oesterreich-herzogtum"
+                        >munssmaister</roleName></rs>, und des <rs type="org" ref="org__wien"
+                        >Rathes</rs></rs>
+                  <rs type="fn" role="transactiongood_I"><rs type="place"
+                        ref="pl__wien-immo_haarmarkt_2"><roleName type="owner"
+                           corresp="pe__niklas_kramhofer_QGW_II_II_3278">sein</roleName> Haus, <rs
+                           type="event" ref="ev__QGW_II_II_3278_men_2">das von Lucasen, dem salczer,
+                           in kaufsweis an ihn komen ist</rs>, <roleName type="topo"
+                           corresp="pl__wien-haarmarkt">gelegen daselbs zu Wienn am Harmarkcht an
+                           dem egk</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_haarmarkt_3">gegen
+                              <add>uber</add></roleName>
+                        <rs type="place" ref="pl__wien-immo_haarmarkt_3"><roleName type="owner"
+                              corresp="pe__johann_von_nikolsburg_QGW_II_II_2373"><rs type="person"
+                                 ref="pe__johann_von_nikolsburg_QGW_II_II_2373">Jörgen von
+                                 Nicolspurg</rs></roleName> haus</rs> uber <roleName type="topo"
+                           corresp="pl__wien-alter_fleischmarkt_gasse_bei">zenagst der gassen, als
+                           man an den Alten Fleischmarkcht get, an aim tail</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_haarmarkt_4">und an dem andern
+                           zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_haarmarkt_4">weilent Ulreichs von Steir
+                           haus</rs></rs>,</rs>
+                  <rs type="fn" role="transactiongood_II">um <measure>1107 lb dn.</measure></rs>
+                  <rs type="fn" role="recipient">dem <rs type="person"
+                        ref="pe__johann_hermann_SB_CD_00621">Wiener <roleName type="title_ref"
+                           corresp="org__wien">Bürger</roleName> Hansen Herman</rs>.</rs></rs>
+            </p>
+         </div>
+         <div type="seal">
+            <p><rs type="event" ref="ev__QGW_II_II_3278"><rs type="fn" role="witness">Besiegelt mit
+                     dem Siegel des <rs type="person" ref="pe__niklas_kramhofer_QGW_II_II_3278"
+                        >Ausstellers</rs>, dem <rs type="org" ref="org__wien">städtischen
+                        Grundsiegel</rs> und dem Siegel des <rs type="person"
+                        ref="pe__niklas_reich_QGW_II_II_3239">Wiener <roleName type="title_ref"
+                           corresp="org__wien">Bürgers</roleName> Niclasen Reich, <roleName
+                           type="prof">apotecker</roleName></rs>.</rs></rs>
+            </p>
+         </div>
+         <div type="nota">
+            <p><rs type="fn" ref="ev__QGW_II_II_3278_men_1">Auf dem Buge: Nota <rs type="fn"
+                     role="transactiongood_I"><rs type="place" ref="pl__wien-immo_haarmarkt_5">das
+                           <add>halbs</add> haus</rs></rs>
+                  <catchwords n="disp">hat</catchwords>
+                  <rs type="fn" role="issuer"><rs type="person" ref="pe__johann_hermann_SB_CD_00621"
+                        >Hanns Herman</rs></rs> halbs <catchwords n="disp">verkaufft</catchwords>
+                  <rs type="fn" role="recipient"><rs type="person"
+                        ref="pe__johann_von_gera_QGW_II_II_3278">Hannsen von Gera</rs></rs> und hat
+                  das mit im tailt nach laut der tailbrief und derselb Hanns Herman ist darnach des
+                  andern halffen tail, so im gen demselben Hanss von Gera gevallen ist, nucz und
+                  gewer komen an montag vor Philippi et Jacobi (April 30) anno etc. LIII° und hat
+                  das halb haus gevertigt Hannsen von Gera an Freitag ante Petronelle (Mai 25) anno
+                  etc. LIII° und [ 300] darumb ligt der stat zu scherm und paiden tailn.</rs>
+            </p>
+         </div>
+         <div type="lists">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tei version of 3274 exported from monasterium.net </title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest-->
+         <sourceDesc default="false">
+            <bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2,
+               Nr. 3274 As published in HAUrk by Wiener Stadt- und Landesarchiv </bibl>
+            <msDesc status="draft">
+               <msIdentifier>
+                  <repository>Wiener Stadt- und Landesarchiv</repository>
+                  <idno>3274</idno>
+                  <altIdentifier type="old">
+                     <idno>517511</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <listBibl default="false">
+                        <bibl default="false" status="draft">Jahrbuch der kais. Kunstsamml. 17b, n°
+                           15232 Regest.</bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <sealDesc>
+                     <seal>
+                        <p>Zwei anhangende Siegel: 1. roth u. Sch., links abgeschlagen, 2. grün u.
+                           Sch.</p>
+                     </seal>
+                  </sealDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName>Wien</placeName>
+            <date when="14480913">1448 IX 13</date>
+            <origDate instant="false">zu Wienn, an freitag vor des heiligen Kreuczs tag, als es
+               erhocht ist.</origDate></creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03274_r.jpg"/>
+      </surface>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03274_v.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="abstract">
+            <p>
+               <rs type="event" ref="ev__QGW_II_II_3274"><rs type="fn" role="issuer"><rs
+                        type="person" ref="pe__michael_praunsperger_QGW_II_II_3274">Michel
+                        Praunsperger, der <roleName type="prof">riemer</roleName>, <roleName
+                           type="off" corresp="org__wien">burger</roleName> zu Wienn</rs></rs>,
+                     <catchwords n="disp">beurkundet, dass</catchwords>
+                  <rs type="event" ref="ev__QGW_II_II_3274_men_1">ihm seine <rs type="fn"
+                        role="issuer"><rs type="person" ref="pe__margarethe_QGW_II_II_3274"
+                              ><roleName type="kin"
+                              corresp="pe__michael_praunsperger_QGW_II_II_3274">Frau</roleName>
+                           Margret, <rs type="person" ref="pe__erhard_neunkircher_QGW_II_II_3274"
+                              >Erharts Neunkircher, des <roleName type="prof"
+                                 >glockengiesser</roleName>
+                              <roleName type="dead">seligen</roleName></rs>, <roleName type="kin"
+                              corresp="pe__erhard_neunkircher_QGW_II_II_3274"
+                           >tochter</roleName></rs></rs>, <rs type="fn" role="transactiongood_I"
+                           ><measure>100 lb dn.</measure>
+                        <catchwords n="fn">zu Heimsteuer</catchwords></rs>
+                     <catchwords n="disp">zugebracht und er ihr dagegen</catchwords>
+                     <rs type="fn" role="transactiongood_II"><measure>30 lb dn.</measure>
+                        <catchwords n="fn">als Morgengabe</catchwords></rs>
+                     <catchwords n="disp">versprochen habe</catchwords>.</rs> Er <catchwords
+                     n="disp">setzt</catchwords>
+                  <rs type="fn" role="recipient"><rs type="person"
+                        ref="pe__margarethe_QGW_II_II_3274">ihr</rs></rs>
+                  <rs type="fn" role="transactiongood_II">für diese <measure>130 lb
+                     dn.</measure></rs>
+                  <rs type="fn" role="other"><catchwords n="fn">mit Handen</catchwords> des <rs
+                        type="person" ref="pe__johann_steger_QGW_II_II_3264"><roleName type="title"
+                           >edeln</roleName>
+                        <roleName type="title">vessten</roleName>
+                        <roleName type="title">ritter</roleName>
+                        <roleName type="title">hern</roleName> Hannsen des Steger, <roleName
+                           type="off" corresp="org__wien">burgermaister</roleName> und <roleName
+                           type="off" corresp="org__oesterreich-herzogtum"
+                        >munssmaister</roleName></rs>, und des [ 299] <rs type="org" ref="org__wien"
+                        >Rathes</rs></rs>
+                  <catchwords n="disp"><add>die uberteurung</add></catchwords>
+                  <rs type="fn" role="transactiongood_I"><catchwords n="fn">die
+                        uberteurung</catchwords><rs type="place" ref="pl__wien-immo_riemerstrasse_5">
+                        <roleName type="owner" corresp="pe__michael_praunsperger_QGW_II_II_3274"
+                           >seines</roleName> Hauses, <roleName type="topo"
+                           corresp="pl__wien-riemerstrasse">gelegen in der Riemergassen</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_4">zenagst
+                              <add>an ainem tail</add></roleName>
+                        <rs type="place" ref="pl__wien-immo_riemerstrasse_4"><roleName type="owner"
+                              corresp="pe__meinhard_riemer_QGW_II_II_2391"><rs type="person"
+                                 ref="pe__meinhard_riemer_QGW_II_II_2391">Meinharts, des <roleName
+                                    type="prof">riemer</roleName></rs></roleName>, haus</rs> an
+                        ainem tail <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_2">und
+                           an dem andern zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_riemerstrasse_2"><roleName type="owner"
+                              corresp="pe__simon_vankch_QGW_II_II_2391"><rs type="person"
+                                 ref="pe__simon_vankch_QGW_II_II_2391">Simans des
+                              Vankchen</rs></roleName> haus</rs>
+                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_3">und stosset
+                           mit dem hindern tail an</roleName>
+                        <rs type="place" ref="pl__wien-immo_riemerstrasse_3"><roleName type="owner"
+                              corresp="pe__johann_winter_QGW_II_II_3192"><rs type="person"
+                                 ref="pe__johann_winter_QGW_II_II_3192">Hannsen Wintter, des
+                                    <roleName type="prof">kramer</roleName></rs></roleName>, haus,
+                           das ettwann <roleName type="owner"
+                              corresp="pe__christian_maurer_QGW_II_II_3274"><rs type="person"
+                                 ref="pe__christian_maurer_QGW_II_II_3274"> Kristans, des <roleName
+                                    type="prof">maurer</roleName></rs>, gewesen ist</roleName></rs>,
+                           <rs type="event" ref="ev__QGW_II_II_3274_men_2">uber die <rs type="fn"
+                              role="transactiongood_II"><measure>50 lb dn.</measure></rs>, für die
+                              <rs type="fn" role="transactiongood_I"><rs type="place"
+                                 ref="pl__wien-immo_riemerstrasse_5">es</rs></rs> seine <rs
+                              type="fn" role="issuer"><rs type="person"
+                                 ref="pe__anna_QGW_II_II_3274"><roleName type="dead"
+                                    >frühere</roleName>
+                                 <roleName type="kin"
+                                    corresp="pe__michael_praunsperger_QGW_II_II_3274"
+                                    >Hausfrau</roleName> Anna</rs></rs>
+                           <rs type="fn" role="recipient"><rs type="person"
+                                 ref="pe__hermann_hesel_QGW_II_II_3274">Herman dem Hêsel</rs></rs>
+                           <catchwords n="disp">versaczt hat</catchwords>,</rs></rs></rs>
+                  <catchwords n="disp">zu ainem rechten fürphand</catchwords>.</rs>
+            </p>
+         </div>
+         <div type="lists">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

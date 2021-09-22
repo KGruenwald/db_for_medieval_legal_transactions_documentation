@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
@@ -127,20 +127,18 @@
                            type="owner" corresp="pe__friedrich_im_hof_QGW_II_II_3172"
                            >sein</roleName> haws<note>
                            <p rend="footnote text"> Sein haws: Über der Zeile eingefügt.</p>
-                        </note>, <roleName type="topo" corresp="pl__wien-moering">gelegen Undern Slossern
-                           auf der Morin</roleName>
+                        </note>, <roleName type="topo" corresp="pl__wien-moering">gelegen Undern
+                           Slossern auf der Morin</roleName>
                         <roleName type="topo" corresp="pl__wien-graben" cert="unknown">am
                            Graben</roleName>
                         <roleName type="topo"
-                           corresp="pl__wien-immo_moering_unter_den_schlossern_am_graben_2"
-                           >zenagst</roleName>
-                        <rs type="place" ref="pl__wien-immo_moering_unter_den_schlossern_am_graben_2"
-                              ><roleName type="owner" corresp="pe__niklas_legler_SB_CD_00406"><rs
-                                 type="person" ref="pe__niklas_legler_SB_CD_00406">Niclasen
-                                 Légler</rs></roleName> haus</rs>
-                        <roleName type="topo"
-                           corresp="pl__wien-immo_moering_unter_den_schlossern_am_graben_2">an ainem
-                           tail</roleName></rs> mit seiner zúgehörung</rs>. <rs type="fn"
+                           corresp="pl__wien-immo_moering_unter_den_schlossern_am_graben_2">zenagst
+                              <add>an ainem tail</add></roleName>
+                        <rs type="place"
+                           ref="pl__wien-immo_moering_unter_den_schlossern_am_graben_2"><roleName
+                              type="owner" corresp="pe__niklas_legler_SB_CD_00406"><rs type="person"
+                                 ref="pe__niklas_legler_SB_CD_00406">Niclasen Légler</rs></roleName>
+                           haus</rs> an ainem tail</rs> mit seiner zúgehörung</rs>. <rs type="fn"
                      role="recipient">Dem <rs type="person"
                         ref="pe__georg_epishauser_QGW_II_II_3353"><roleName type="title"
                            >erbern</roleName>
@@ -153,20 +151,20 @@
                   anno domini etc. xlviii<hi rend="super">o</hi>.</rs></p>
             <p rend="Summa">Summa xii s. viii d.</p>
             <p rend="Summa"><rs type="event" ref="ev__SB_CD_00406">Habet cedulam.</rs></p>
-            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_00406">Den sacz hat Wolfgang Holczer
-                  an stat dem der Epishauser die geltschuld het ubergeben nach laut ains briefs der
-                  zu dem puch erlegt ist ledig gesagt, an Montag vor Philippi et Jacobi, anno etc.
-                  l.</rs></p>
+            <p rend="Nachtrag"><rs type="event" ref="pe__elisabeth_QGW_II_II_3172_nota">Den sacz hat
+                  Wolfgang Holczer an stat dem der Epishauser die geltschuld het ubergeben nach laut
+                  ains briefs der zu dem puch erlegt ist ledig gesagt, an Montag vor Philippi et
+                  Jacobi, anno etc. l.</rs></p>
          </div>
          <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
          </div>
       </body>
    </text>

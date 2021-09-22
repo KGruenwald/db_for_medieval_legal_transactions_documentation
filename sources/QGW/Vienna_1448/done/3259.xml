@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tei version of 3259 exported from monasterium.net </title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest-->
+         <sourceDesc default="false">
+            <bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2,
+               Nr. 3259 As published in HAUrk by Wiener Stadt- und Landesarchiv </bibl>
+            <msDesc status="draft">
+               <msIdentifier>
+                  <repository>Wiener Stadt- und Landesarchiv</repository>
+                  <idno>3259</idno>
+                  <altIdentifier type="old">
+                     <idno>517496</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc>
+                  <sealDesc>
+                     <seal>
+                        <p>Das Siegel fehlt.</p>
+                     </seal>
+                  </sealDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName>Wien</placeName>
+            <date when="14480628">1448 VI 28</date>
+            <origDate instant="false">zu Wienn, an freitag sand Peters und sand Pauls abend, der
+               heiligen zwelifpoten.</origDate></creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03259_r.jpg"/>
+      </surface>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03259_v.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="abstract">
+            <p>
+               <rs type="event" ref="ev__QGW_II_II_3259"><rs type="fn" role="issuer"><rs
+                        type="person" ref="pe__georg_schuchler_QGW_II_II_3272">Jorg Schuchler,
+                           <roleName type="off" corresp="org__wien">statrichter</roleName> zu
+                        Wienn</rs>,</rs>
+                  <catchwords n="disp">beurkundet, dass vor ihm in offenem Gerichte</catchwords>
+                  <rs type="fn" role="other"><rs type="person" ref="pe__johann_QGW_II_II_3259"
+                        >Johannes, <unclear instant="false"><roleName type="off"
+                              corresp="pe__simon_poetel_QGW_II_II_2412"
+                           >kirchschreiber</roleName></unclear>, <roleName type="rep"
+                           corresp="pe__simon_poetel_QGW_II_II_2412">anstat</roleName></rs> seins
+                     herren, <catchwords n="fn"><add>mit Vorsprechen</add></catchwords></rs>
+                  <rs type="person" ref="pe__simon_poetel_QGW_II_II_2412">Simons des Pötleins, ainer
+                     des <roleName type="off" corresp="org__wien">rats der stat</roleName> zu Wienn
+                     und <roleName type="off" corresp="org__wien-st_stephan">kirchmaister</roleName>
+                     Allerheiligen tumbkirchen zu sand Stephan daselbs</rs>, mit Vorsprechen <rs
+                     type="fn" role="transactiongood_III"><rs type="place"
+                        ref="pl__wien-immo_st_michael_1">auf <roleName type="owner"
+                           corresp="pe__niklas_plumentrit_QGW_II_II_3259"><rs type="person"
+                              ref="pe__niklas_plumentrit_QGW_II_II_3259">Niclasen Plumentrits, des
+                                 <roleName type="prof">schuster</roleName>
+                              <roleName type="dead">seligen</roleName></rs></roleName>, und
+                           <roleName type="owner" corresp="pe__elisabeth_QGW_II_II_3259"><rs
+                              type="person" ref="pe__elisabeth_QGW_II_II_3259">Elspethen, <roleName
+                                 type="kin" corresp="pe__niklas_plumentrit_QGW_II_II_3259">etwann
+                                 seiner hausfraun</roleName></rs></roleName>, halbs haus, <roleName
+                           type="topo" corresp="pl__wien-st_michael">gelegen bei sannd
+                           Michel</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_st_michael_2">gegen
+                              <add>uber</add></roleName>
+                        <rs type="place" ref="pl__wien-immo_st_michael_2">des von Wallsee haus</rs>
+                        uber <roleName type="topo" corresp="pl__wien-immo_st_michael_3"
+                           >zunagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_st_michael_3"><roleName type="owner"
+                              corresp="pe__jakob_gsmechl_QGW_II_II_3259"><rs type="person"
+                                 ref="pe__jakob_gsmechl_QGW_II_II_3259">Jacoben Gsmêchleins, des
+                                    <roleName type="prof">kursner</roleName></rs></roleName>, haus,
+                              <rs type="place" ref="pl__wien-immo_st_michael_4"><roleName
+                                 type="topo" corresp="pl__wien-immo_st_michael_3">des
+                                 gegentail</roleName>
+                              <roleName type="owner" corresp="pe__konrad_muellner_QGW_II_II_3269"
+                                    ><rs type="person" ref="pe__konrad_muellner_QGW_II_II_3269"
+                                    >Kuncz Müllner, der <roleName type="prof"
+                                    >schuster</roleName></rs></roleName>, hat</rs></rs></rs>,</rs>
+                  <rs type="fn" role="transactiongood_III">umb <measure>13 lb dn.</measure>
+                     <catchwords n="fn">versessens purkrecht</catchwords>, <rs type="event"
+                        ref="NULL"><rs type="fn" role="transactiongood_I"><measure><add>13 lb
+                                 dn.</add></measure>
+                           <add>versessens purkrecht</add></rs>
+                        <rs type="fn" role="issuer"><rs type="place"
+                              ref="pl__wien-immo_st_michael_1"><add>auf</add></rs></rs> die <rs
+                           type="fn" role="recipient">zu <rs type="org"
+                              ref="org__wien-st_stephan-altar_st_maria-messe_auf_der_saeule_herbert"
+                              >Herwarts auf der Seulen ewigen liecht</rs></rs>
+                        <catchwords n="disp"><add>versessens purkrecht</add>
+                        gehörten</catchwords></rs></rs>, <catchwords n="disp"><add>umb versessens
+                        purkrecht</add> und die darauf ertheilten zwispild geklagt
+                  habe</catchwords>. Nachdem <rs type="fn" role="other"><catchwords n="fn"
+                           ><add>hincz</add></catchwords><rs type="person"
+                        ref="pe__elisabeth_QGW_II_II_3259">Elspeth die Plumentritin, jecz <rs
+                           type="person" ref="pe__niklas_ernst_schuster_QGW_II_II_3259">Niclasen
+                           Ernsts, des <roleName type="prof">schuster</roleName></rs>, <roleName
+                           type="kin" corresp="pe__niklas_ernst_schuster_QGW_II_II_3259"
+                           >hausfrau</roleName></rs>, von der Klage verständigt worden war,</rs>
+                  <catchwords n="disp">gibt</catchwords> er dem Kläger <rs type="fn" role="other"
+                        ><rs type="person" ref="pe__johann_schiermer_QGW_II_II_3259">Hannsen
+                        Schirmer <roleName type="off" corresp="org__wien"><add>gesworn
+                              vorsprechen</add></roleName></rs> und <rs type="person"
+                        ref="pe__johann_stein_QGW_II_II_3259">Hannsen Stain, baid <roleName
+                           type="off" corresp="org__wien">gesworn vorsprechen</roleName></rs>,
+                        <catchwords n="fn">als beschaupoten</catchwords></rs>
+                  <catchwords n="disp">mit und macht</catchwords> ihn nach deren Aussage für seinen
+                  Herrn des halben Hauses <catchwords n="disp">gewaltig</catchwords>.</rs>
+            </p>
+         </div>
+         <div type="lists">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3240 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3240 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3240</idno><altIdentifier type="old"><idno>517477</idno></altIdentifier></msIdentifier><physDesc><sealDesc><seal><p>Siegel: 1. fehlt, 2. anhangend, grün u. Sch., Bruchstück.</p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <placeName>Wien</placeName>
+            <date when="14480214">1448 II 14</date>
+            <origDate instant="false">ze Wienn, an sand Valteins tag.</origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03240_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03240_v.jpg"/></surface></facsimile><!-- fn role Beschau etc --><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3240"><rs type="fn" role="issuer"><rs type="person" ref="pe__peter_vischel_QGW_II_II_3240">Peter Vischel, <rs type="person" ref="pe__leonhard_orthaber_QGW_II_II_3240"><roleName type="title">hern</roleName> Lienharts Orthaber, <roleName type="off" corresp="org__wien-dreifaltigkeitskapelle-altar_st_jakob">capplan</roleName>
+                           <rs type="org" ref="org__wien-dreifaltigkeitskapelle-altar_st_jakob">sand
+                              Jacobs altar, gelegen in der heiligen Drivaltikait cappelln, die da
+                              ligt am Alten Kienmarkt zu Wienn</rs></rs>, <roleName type="off" corresp="org__wien-dreifaltigkeitskapelle-altar_st_jakob">pergmaister</roleName> der zu dem Altar gehörigen Gründe</rs>,</rs>
+                  <catchwords n="disp">setzt</catchwords>
+                  <rs type="fn" role="recipient">dessen <rs type="person" ref="pe__benedikt_kunter_QGW_II_II_3240"><unclear instant="false"><roleName type="rep" corresp="pe__leonhard_orthaber_QGW_II_II_3240">Vollmachtträger</roleName></unclear> Benedict Kunter</rs></rs>
+                  <catchwords n="disp">in offenem Gericht über dessen Klage und nach
+                     einer</catchwords>
+                  <rs type="fn" role="other">von den <rs type="person" ref="pe__jakob_paugker_QGW_II_II_3240"><roleName type="off" corresp="org__wien">geschworenen</roleName> Vierern Jacob Paugker
+                           <roleName type="title_ref" corresp="org__wien"><add>mitburger</add></roleName>
+                     </rs>, <rs type="person" ref="pe__johann_schonhauer_QGW_II_II_3240"><roleName type="off" corresp="org__wien"><add>geschworenen</add>
+                        </roleName>Hanns Schonhauer <roleName type="title_ref" corresp="org__wien"><add>mitburger</add></roleName>
+                     </rs>, <rs type="person" ref="pe__peter_hagker_QGW_II_II_3240"><roleName type="off" corresp="org__wien"><add>geschworenen</add></roleName> Peter
+                        Hagker <roleName type="title_ref" corresp="org__wien"><add>mitburger</add></roleName>
+                     </rs>, <rs type="person" ref="pe__georg_hoppaur_QGW_II_II_3240"><roleName type="off" corresp="org__wien"><add>geschworenen</add></roleName> Jorg
+                        Hoppaur, alle vier <roleName type="title_ref" corresp="org__wien">mitburger</roleName> ze Wienn </rs>, <catchwords n="fn">vorgenommenen
+                        Beschau</catchwords></rs>
+                  <catchwords n="disp">an die Gewere</catchwords>
+                  <rs type="fn" role="transactiongood_I">folgender zu reis gesagten Weingärten,
+                     deren Grundherr der Kaplan ist: a) <rs type="place" ref="pl__wien-immo_setzen_obere_vor_stubentor_1"><roleName type="owner" corresp="pe__michael_oberndorfer_QGW_II_II_3240" cert="unknown"><rs type="person" ref="pe__michael_oberndorfer_QGW_II_II_3240">Micheln des
+                              Oberndorffer <roleName type="dead"><add>nicht erben da
+                                 wern</add></roleName></rs></roleName> weingarten, <roleName type="topo" corresp="pl__wien-setzen_obere_vor_stubentor">gelegen in den
+                           obern Setzen</roleName>, des <measure>ain achtail ist</measure>,
+                           <roleName type="topo" corresp="pl__wien-immo_setzen_obere_vor_stubentor_2">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_setzen_obere_vor_stubentor_2"><roleName type="owner" corresp="pe__johann_smogel_QGW_II_II_3240"><rs type="person" ref="pe__johann_smogel_QGW_II_II_3240">Hannsen des
+                                 Smogel</rs></roleName> weingarten</rs></rs> ; b) <rs type="place" ref="pl__wien-immo_praitten_2"><roleName type="owner" corresp="pe__niklas_maurer_QGW_II_II_3240" cert="unknown"><rs type="person" ref="pe__niklas_maurer_QGW_II_II_3240">Niclasen, des
+                                 <roleName type="prof">maurer</roleName>
+                              <roleName type="dead"><add>nicht erben da
+                           wern</add></roleName></rs></roleName>, und <roleName type="owner" corresp="pe__katharina_QGW_II_II_3240" cert="unknown"><rs type="person" ref="pe__katharina_QGW_II_II_3240">Kathrein, seiner <roleName type="kin" corresp="pe__niklas_maurer_QGW_II_II_3240">hausfraun</roleName>
+                              <roleName type="dead"><add>nicht erben da
+                           wern</add></roleName></rs></roleName>, weingarten, <roleName type="topo" corresp="pl__wien-praitten">gelegen auf der Praitten</roleName>, des
+                        anderthalb achtail sind, <roleName type="topo" corresp="pl__wien-immo_praitten_4">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_praitten_4"><roleName type="owner" corresp="pe__martin_litschauer_QGW_II_II_3240"><rs type="person" ref="pe__martin_litschauer_QGW_II_II_3240">Mertten des Litschauer
+                                 von Erdpurkch</rs></roleName> weingarten</rs></rs>, darumb dass die
+                     benanten zwen weingerten unverdient und zu frombden handen le/agen und nicht
+                     erben da wern, die die egenanten weinge/arten in rechten te/agen geerbt hieten
+                     ; c) <rs type="place" ref="pl__wien-immo_setzen_obere_vor_stubentor_3"><roleName type="owner" corresp="pe__thomas_seefelder_QGW_II_II_3240" cert="unknown"><rs type="person" ref="pe__thomas_seefelder_QGW_II_II_3240">Thomans des
+                           Sevelder</rs></roleName> weingarten, <roleName type="topo" corresp="pl__wien-setzen_obere_vor_stubentor">gelegen in den obern
+                           Setzen</roleName>, des, <measure>ain achtail</measure> ist, <roleName type="topo" corresp="pl__wien-immo_setzen_obere_vor_stubentor_4">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_setzen_obere_vor_stubentor_4"><roleName type="owner" corresp="pe__wolfgang_swarcz_QGW_II_II_3240"><rs type="person" ref="pe__wolfgang_swarcz_QGW_II_II_3240">Wolfgangs
+                                 des Swarcz</rs></roleName> weingarten</rs></rs>; d) <rs type="place" ref="pl__wien-immo_setzen_obere_vor_stubentor_5"><roleName type="owner" corresp="pe__stephan_duering_QGW_II_II_3240" cert="unknown"><rs type="person" ref="pe__stephan_duering_QGW_II_II_3240">Stephans
+                              des Du/ering</rs></roleName> weingarten, <roleName type="topo" corresp="pl__wien-setzen_obere_vor_stubentor">gelegen daselbs [ 291] in
+                           den obern Setzen</roleName>, des <measure>ain achtail</measure> ist,
+                           <roleName type="topo" corresp="pl__wien-immo_setzen_obere_vor_stubentor_2">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_setzen_obere_vor_stubentor_2">Hannsen
+                           des Smogel weingarten</rs></rs>; e) <rs type="place" ref="pl__wien-immo_setzen_obere_vor_stubentor_2">desselben Hannsen Smogel
+                        weingarten, <roleName type="topo" corresp="pl__wien-setzen_obere_vor_stubentor">auch in den obern Setzen
+                           gelegen</roleName>, des <measure>ain virtail</measure> ist, <roleName type="topo" corresp="pl__wien-immo_setzen_obere_vor_stubentor_5">zenagst</roleName> Stephans des During weingarten</rs>; f) <rs type="place" ref="pl__wien-immo_setzen_niedere_vor_stubentor_1"><roleName type="owner" corresp="pe__jakob_flachenauer_QGW_II_II_3240" cert="unknown"><rs type="person" ref="pe__jakob_flachenauer_QGW_II_II_3240">Jacoben des
+                              Flachenauer</rs></roleName> weingarten, <roleName type="topo" corresp="pl__wien-setzen_niedere_vor_stubentor">gelegen in den nidern
+                           Setzen</roleName>, des <measure>dritthalb achtail</measure> sind,
+                           <roleName type="topo" corresp="pl__wien-immo_setzen_niedere_vor_stubentor_2">zenagst</roleName>
+                        Stephan des Rayer weingarten</rs>; g) <rs type="place" ref="pl__wien-immo_setzen_niedere_vor_stubentor_2"><roleName type="owner" corresp="pe__stephan_reicher_QGW_II_II_3240" cert="unknown"><rs type="person" ref="pe__stephan_reicher_QGW_II_II_3240">Stephans
+                              Reicher</rs></roleName> und <roleName type="owner" corresp="pe__dorothea_QGW_II_II_3240_b" cert="unknown"><rs type="person" ref="pe__dorothea_QGW_II_II_3240_b">Dorothen, seiner <roleName type="kin" corresp="pe__stephan_reicher_QGW_II_II_3240">hausfraun</roleName></rs></roleName>, weingarten, <roleName type="topo" corresp="pl__wien-setzen_niedere_vor_stubentor">gelegen
+                           daselbs in den nidern Setzen</roleName>, des <measure>ain
+                           virtail</measure> ist, <roleName type="topo" corresp="pl__wien-immo_setzen_niedere_vor_stubentor_1">zenagst</roleName>
+                        Jacoben des Flachenauer weingarten</rs> ; h) <rs type="place" ref="pl__wien-immo_setzen_niedere_vor_stubentor_3"><roleName cert="unknown" type="owner" corresp="pe__konrad_knoebel_QGW_II_II_3240"><rs type="person" ref="pe__konrad_knoebel_QGW_II_II_3240">Kuntzen
+                              Kno/ebel</rs></roleName> und <roleName cert="unknown" type="owner" corresp="pe__dorothea_QGW_II_II_3240_a"><rs type="person" ref="pe__dorothea_QGW_II_II_3240_a">Dorothen, seiner <roleName type="kin" corresp="pe__konrad_knoebel_QGW_II_II_3240">hausfrau</roleName></rs></roleName>, weingarten, <roleName type="topo" corresp="pl__wien-setzen_niedere_vor_stubentor">auch gelegen
+                           in den nidern Setzen</roleName>, des <measure>ain achtail</measure> ist,
+                           <roleName type="topo" corresp="pl__wien-immo_setzen_niedere_vor_stubentor_2">zenagst</roleName>
+                        des Reicher weingarten</rs> ; i) <rs type="place" ref="pl__wien-immo_setzen_niedere_vor_stubentor_4"><roleName type="owner" corresp="pe__thomas_mair_QGW_II_II_3240" cert="unknown"><rs type="person" ref="pe__thomas_mair_QGW_II_II_3240">Thomans des Mair</rs></roleName>
+                        weingarten, <roleName type="topo" corresp="pl__wien-setzen_niedere_vor_stubentor">auch gelegen in den
+                           nidern Setzen</roleName>, des <measure>ain virtail</measure> ist,
+                           <roleName type="topo" corresp="pl__wien-immo_setzen_niedere_vor_stubentor_3">zenagst</roleName>
+                        des Kno/ebel weingarten</rs> ; k) <rs type="place" ref="pl__wien-immo_setzen_niedere_vor_stubentor_5"><roleName type="owner" corresp="pe__georg_seefelder_QGW_II_II_3240" cert="unknown"><rs type="person" ref="pe__georg_seefelder_QGW_II_II_3240">Jorgen des
+                              Sevelder</rs></roleName> und <roleName type="owner" corresp="pe__agnes_QGW_II_II_3240" cert="unknown"><rs type="person" ref="pe__agnes_QGW_II_II_3240">Agnesen, seiner <roleName type="kin" corresp="pe__georg_seefelder_QGW_II_II_3240">hausfraun</roleName></rs></roleName>, weingarten, <roleName type="topo" corresp="pl__wien-setzen_niedere_vor_stubentor">auch gelegen
+                           in den nidern Setzen</roleName>, des <measure>ain achtail</measure> ist,
+                           <roleName type="topo" corresp="pl__wien-immo_setzen_niedere_vor_stubentor_6">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_setzen_niedere_vor_stubentor_6"><roleName type="owner" corresp="pe__johann_hinlauf_SB_CD_00616" cert="medium">des Hinlaufs</roleName> weingarten</rs></rs> ; l) <rs type="place" ref="pl__wien-immo_setzen_niedere_vor_stubentor_7"><roleName type="owner" corresp="pe__veit_frechinger_QGW_II_II_3240" cert="unknown"><rs type="person" ref="pe__veit_frechinger_QGW_II_II_3240">Veiten des
+                              Frechinger</rs></roleName> weingarten, <roleName type="topo" corresp="pl__wien-setzen_niedere_vor_stubentor">auch gelegen in den
+                           nidern Setzen</roleName>, des <measure>ain achtail</measure> ist,
+                           <roleName type="topo" corresp="pl__wien-immo_setzen_niedere_vor_stubentor_5">zenagst</roleName>
+                        Jorgen des Sevelder weingarten</rs> ; m) <rs type="place" ref="pl__wien-immo_setzen_niedere_vor_stubentor_8"><roleName type="owner" corresp="pe__albrecht_amberger_QGW_II_II_3240" cert="unknown"><rs type="person" ref="pe__albrecht_amberger_QGW_II_II_3240">Albrechts des
+                              Amberger</rs></roleName> weingarten, <roleName type="topo" corresp="pl__wien-setzen_niedere_vor_stubentor">daselbs in den nidern
+                           Setzen gelegen</roleName>, des <measure>ain achtail</measure> ist,
+                           <roleName type="topo" corresp="pl__wien-immo_setzen_niedere_vor_stubentor_7">zenachst</roleName> des Frechinger weingarten</rs> ; n) <rs type="place" ref="pl__wien-immo_praitten_1"><roleName type="owner" corresp="pe__johann_reisner_QGW_II_II_3240" cert="unknown"><rs type="person" ref="pe__johann_reisner_QGW_II_II_3240">Hannsen, des
+                                 <roleName type="prof">reisner</roleName></rs></roleName>, und
+                           <roleName type="owner" corresp="pe__elisabeth_QGW_II_II_3240" cert="unknown"><rs type="person" ref="pe__elisabeth_QGW_II_II_3240">Elspeten, seiner <roleName type="kin" corresp="pe__johann_reisner_QGW_II_II_3240">hausfraun</roleName></rs></roleName>, weingarten, <roleName type="topo" corresp="pl__wien-praitten">gelegen auf der
+                           Praitten</roleName>, des <measure>anderthalb achtail</measure> sind,
+                           <roleName type="topo" corresp="pl__wien-immo_praitten_3">zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_praitten_3"><roleName type="owner" corresp="pe__friedrich_krevogl_QGW_II_II_3240"><rs type="person" ref="pe__friedrich_krevogl_QGW_II_II_3240">Fridreichen des
+                                 Kre/avogl</rs></roleName> weingarten</rs></rs>,</rs> darumb dass
+                  die jetztgemelten weinge/arten so gar od und in urpau legen, damit dem egenanten
+                  gruntherren sein dinst darauf abgi/eng.</rs>
+            </p></div><div type="seal"><p><rs type="event" ref="ev__QGW_II_II_3240"><rs type="fn" role="witness">Besiegelt mit
+                     den Siegeln <rs type="person" ref="pe__georg_prunntaler_QGW_II_II_3240">Jorgen
+                        des Prunntaler, <roleName type="title_ref" corresp="org__wien">burger</roleName> und <roleName type="off" corresp="org__wien-st_michael">kirchmaister</roleName> sand Michels
+                        kirchen ze Wienn</rs>, und <rs type="person" ref="pe__ulrich_menkchover_QGW_II_II_3240">Ulreichs
+                  Menkchover</rs>.</rs></rs>
+            </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

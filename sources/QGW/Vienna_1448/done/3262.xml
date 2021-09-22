@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tei version of 3262 exported from monasterium.net </title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest-->
+         <sourceDesc default="false">
+            <bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2,
+               Nr. 3262 As published in HAUrk by Wiener Stadt- und Landesarchiv </bibl>
+            <msDesc status="draft">
+               <msIdentifier>
+                  <repository>Wiener Stadt- und Landesarchiv</repository>
+                  <idno>3262</idno>
+                  <altIdentifier type="old">
+                     <idno>517499</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc>
+                  <sealDesc>
+                     <seal>
+                        <p>Zwei anhangende Siegel: 1. roth u. Sch., 2. grün u. Sch.</p>
+                     </seal>
+                  </sealDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName>Wien</placeName>
+            <date when="14480708">1448 VII 08</date>
+            <origDate instant="false">zu Wienn, an montag vor sannd Margreten
+            tag.</origDate></creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03262_r.jpg"/>
+      </surface>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03262_v.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="abstract">
+            <p>
+               <rs type="event" ref="ev__QGW_II_II_3262"><rs type="fn" role="issuer"><rs
+                        type="person" ref="pe__albrecht_liebhart_QGW_II_II_3262">Albrecht Liephart,
+                        der <roleName type="prof">schuster</roleName> zu Wienn</rs>, und <rs
+                        type="person" ref="pe__dorothea_QGW_II_II_3262_a">Dorothe, sein <roleName
+                           type="kin" corresp="pe__albrecht_liebhart_QGW_II_II_3262"
+                           >hausfrau</roleName>, die emaln <roleName type="kin"
+                           corresp="pe__niklas_wagner_QGW_II_II_3262"><add>Witwe</add></roleName>
+                        <rs type="person" ref="pe__niklas_wagner_QGW_II_II_3262">Niclasen Wagner,
+                           den <roleName type="prof">schuster</roleName>
+                           <roleName type="dead">seligen</roleName></rs>, auch elichen gehabt
+                        hat</rs>,</rs>
+                  <catchwords n="disp">stellen</catchwords>
+                  <rs type="fn" role="recipient"><rs type="person"
+                        ref="pe__leonhard_weidenholczer_QGW_II_II_3262">Linharten <roleName
+                           type="kin" corresp="pe__dorothea_QGW_II_II_3262_a"
+                           ><add>Brüdern</add></roleName></rs> und <rs type="person"
+                        ref="pe__jakob_weidenholczer_QGW_II_II_3262">Jacoben, <roleName type="kin"
+                           corresp="pe__leonhard_weidenholczer_QGW_II_II_3262">geprüdern</roleName>,
+                        den Weidenholczern, den <roleName type="kin"
+                           corresp="pe__dorothea_QGW_II_II_3262_a">Brüdern</roleName> der
+                        Dorothea</rs>,</rs>
+                  <catchwords n="disp">einen Schuldbrief</catchwords>
+                  <rs type="fn" role="transactiongood_I"><add>einen Schuldbrief</add></rs>
+                  <rs type="fn" role="transactiongood_II">über <measure>30 lb dn.</measure></rs>
+                  <catchwords n="disp">aus</catchwords>. <rs type="event" ref="NULL">Dieser Betrag
+                     stellt den Antheil der Brüder <rs type="place"
+                        ref="pl__wien-immo_steig_bei_den_predigern_4">an dem Hause <rs type="person"
+                           ref="pe__johann_welser_QGW_II_II_3262">Hannsen Welsser, des <roleName
+                              type="prof">leinbater</roleName>, <roleName type="dead"><add>nach dem
+                                 Tode</add></roleName> ihres <roleName type="kin"
+                              corresp="pe__jakob_weidenholczer_QGW_II_II_3262"
+                              ><add>Schwagers</add></roleName>
+                           <roleName type="kin" corresp="pe__leonhard_weidenholczer_QGW_II_II_3262"
+                              >Schwagers</roleName></rs>, und <rs type="person"
+                           ref="pe__dorothea_QGW_II_II_3262_b">Dorothen, seiner <roleName type="kin"
+                              corresp="pe__johann_welser_QGW_II_II_3262">hausfraun</roleName>,
+                              <add>nach dem Tode</add> ihrer <roleName type="kin"
+                              corresp="pe__leonhard_weidenholczer_QGW_II_II_3262"
+                              >Schwester</roleName>
+                           <roleName type="kin" corresp="pe__jakob_weidenholczer_QGW_II_II_3262"
+                                 ><add>Schwester</add></roleName></rs>, dar, <roleName type="topo"
+                           corresp="pl__wien-steig_bei_den_predigern" cert="high">auf dem
+                           Steig</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_steig_bei_den_predigern_5"
+                           >zenagst <add>gelegen</add></roleName>
+                        <rs type="place" ref="pl__wien-immo_steig_bei_den_predigern_5"><roleName
+                              type="owner" corresp="pe__ulrich_von_steyr_SB_CD_00625"><rs
+                                 type="person" ref="pe__ulrich_von_steyr_SB_CD_00625"><roleName
+                                    type="dead" cert="high">weilent</roleName> Ulreichs von
+                                 Steir</rs></roleName> haus</rs> gelegen</rs>, <catchwords n="disp"
+                        >das nach dem Tode der Letztgenannten verkauft worden war</catchwords>.</rs>
+                  <rs type="event" ref="NULL"><rs type="fn" role="recipient"><rs type="person"
+                           ref="pe__albrecht_liebhart_QGW_II_II_3262"><add>Sie</add></rs>
+                        <rs type="person" ref="pe__dorothea_QGW_II_II_3262_a">Sie</rs></rs>
+                     <catchwords n="disp">setzen</catchwords>
+                     <rs type="fn" role="recipient"><rs type="person"
+                           ref="pe__leonhard_weidenholczer_QGW_II_II_3262"><add>ihnen</add></rs>
+                        <rs type="person" ref="pe__jakob_weidenholczer_QGW_II_II_3262"
+                        >ihnen</rs></rs>
+                     <rs type="fn" role="transactiongood_II">für die Summe</rs>
+                     <rs type="fn" role="other"><catchwords n="disp">mit Handen</catchwords> des <rs
+                           type="person" ref="pe__johann_steger_QGW_II_II_3264"><roleName
+                              type="title">edeln</roleName>
+                           <roleName type="title">vesten</roleName>
+                           <roleName type="title">ritter</roleName>
+                           <roleName type="title">hern</roleName> Hannsen des Steger, <roleName
+                              type="off" corresp="org__wien">burgermaister</roleName> und <roleName
+                              type="off" corresp="org__oesterreich-herzogtum"
+                              >münssmaister</roleName></rs>, und des <rs type="org" ref="org__wien"
+                           >rats gemain der stat zu Wienn</rs></rs>
+                     <rs type="fn" role="transactiongood_I">das der Dorothea von ihrem früheren
+                        Manne angestorbene halbe Haus, ganczes gelegen am Harmarkcht zenagst der
+                        padstuben, genant die Perlabin, <rs type="event" ref="NULL"><rs type="fn"
+                              role="issuer">von welchem halben Hause man</rs>
+                           <rs type="fn" role="recipient"><rs type="person"
+                                 ref="pe__friedrich_lenstain_QGW_II_II_3262">Fridreichen Lenstain,
+                                 dem <roleName type="prof">sneider</roleName>, <roleName type="rep"
+                                    corresp="pe__magdalena_QGW_II_II_3262">anstat und zu
+                                    handen</roleName></rs></rs>
+                           <rs type="person" ref="pe__magdalena_QGW_II_II_3262">junkfraun Magdalen,
+                              seiner <roleName type="kin"
+                                 corresp="pe__friedrich_lenstain_QGW_II_II_3262"
+                              >tochter</roleName></rs>, <rs type="fn" role="transactiongood_I">2 lb
+                              dn.</rs>, welche mit 30 lb dn. abzulösen sind, dient</rs></rs>,
+                        <catchwords n="disp">zu ainem rechten fürphant</catchwords>.</rs></rs>
+            </p>
+         </div>
+         <div type="seal">
+            <p><rs type="event" ref="ev__QGW_II_II_3262"><rs type="fn" role="witness">Besiegelt mit
+                     dem <rs type="org" ref="org__wien">städtischen Grundsiegel</rs> und dem Siegel
+                     des <rs type="person" ref="pe__georg_von_nikolsburg_QGW_II_II_2373">Wiener
+                           <roleName type="title_ref" corresp="org__wien">Bürgers</roleName> Jörg
+                        von Nicolspurg</rs>.</rs></rs>
+            </p>
+         </div>
+         <div type="lists">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

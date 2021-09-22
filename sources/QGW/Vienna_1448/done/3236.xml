@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3236 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3236 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3236</idno><altIdentifier type="old"><idno>517473</idno></altIdentifier></msIdentifier><msContents><msItem><listBibl default="false"><bibl default="false" status="draft"/></listBibl></msItem></msContents><physDesc><sealDesc><seal><p>Anhangendes Stadtsiegel, roth u. Sch., links abgeschlagen.</p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <placeName>Wien</placeName>
+            <date when="14480109">1448 I 09</date>
+            <date from="99999999" to="99999999"/>
+            <origDate instant="false">zu Wienn, an eritag nach der heiligen Dreirr Kunig tag.</origDate>
+         </creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03236_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03236_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3236"><rs type="fn" role="issuer"><rs type="person" ref="pe__johann_steger_QGW_II_II_3264">Hanns Steger, <roleName type="title">ritter</roleName>, <roleName type="off" corresp="org__wien">burgermaister</roleName> und <roleName type="off" corresp="org__oesterreich-herzogtum">münssmaister</roleName></rs>, und
+                     der <rs type="org" ref="org__wien">rat gemain der stat zu Wienn</rs></rs>
+                  <catchwords n="disp">stellen</catchwords>
+                  <rs type="fn" role="recipient">dem <rs type="person" ref="pe__albrecht_schweinbarther_QGW_II_II_3236"><roleName type="title">edeln</roleName>
+                        <roleName type="title">vesten</roleName>
+                        <roleName type="title">ritter</roleName>
+                        <roleName type="title">hern</roleName> Albrechten Sweinbarter</rs></rs>
+                  <rs type="fn" role="transactiongood_I"><catchwords n="disp">einen
+                        Schuldbrief</catchwords></rs> über <rs type="fn" role="transactiongood_II">tausend guter, neuer Ungrischer guldein, gerecht in gold und wag,</rs>
+                  <catchwords n="disp">aus</catchwords>, rückzahlbar zu Wien auf Unser Lieben Fraun
+                  tag der Liechtmesse nagstkunfftigen.</rs>
+            </p></div><div type="nota"><p/></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

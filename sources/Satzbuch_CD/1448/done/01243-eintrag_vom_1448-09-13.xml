@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
@@ -124,26 +124,27 @@
                            corresp="pe__michael_praunsperger_QGW_II_II_3274">seins</roleName> hauss
                         mit aller seiner zugehorung, <roleName type="topo"
                            corresp="pl__wien-riemerstrasse">gelegen in der Riemergassen</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_1">zenagst</roleName>
-                        <rs type="place" ref="pl__wien-immo_riemerstrasse_1"><roleName type="owner"
+                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_4">zenagst
+                              <add>an aim tail</add></roleName>
+                        <rs type="place" ref="pl__wien-immo_riemerstrasse_4"><roleName type="owner"
                               corresp="pe__meinhard_riemer_QGW_II_II_2391"><rs type="person"
                                  ref="pe__meinhard_riemer_QGW_II_II_2391">Meinharts des
-                              Riemer</rs></roleName> haus</rs>
-                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_1">an aim
-                           tail</roleName>, <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_2"
-                           >und an dem andern zenagst</roleName>
+                              Riemer</rs></roleName> haus</rs> an aim tail, <roleName type="topo"
+                           corresp="pl__wien-immo_riemerstrasse_2">und an dem andern
+                           zenagst</roleName>
                         <rs type="place" ref="pl__wien-immo_riemerstrasse_2"><roleName type="owner"
                               corresp="pe__simon_vankch_QGW_II_II_2391"><rs type="person"
                                  ref="pe__simon_vankch_QGW_II_II_2391">Symons
                               Vankchen</rs></roleName> haus</rs>
-                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_3">und stösst mit dem
-                           hindern tail</roleName> an <rs type="place"
+                        <roleName type="topo" corresp="pl__wien-immo_riemerstrasse_3">und stösst mit
+                           dem hindern tail</roleName> an <rs type="place"
                            ref="pl__wien-immo_riemerstrasse_3"><roleName type="owner"
                               corresp="pe__johann_winter_QGW_II_II_3192"><rs type="person"
                                  ref="pe__johann_winter_QGW_II_II_3192">Hannsen Winter des <roleName
                                     type="prof">kramer</roleName></rs></roleName> haus</rs>, <rs
-                           type="event" ref="NULL"><rs type="fn" role="transactiongood_II">uber die
-                              l tl. d.</rs>, <rs type="fn" role="transactiongood_I">darumb es</rs>
+                           ref="ev__SB_CD_01243_men_1"><rs type="fn" role="transactiongood_II">uber
+                              die l tl. d.</rs>, <rs type="fn" role="transactiongood_I">darumb
+                              es</rs>
                            <rs type="fn" role="issuer">des <rs type="person"
                                  ref="pe__anna_QGW_II_II_3274">egnanten Praunsperger <roleName
                                     type="kin" corresp="pe__michael_praunsperger_QGW_II_II_3274"
@@ -189,21 +190,21 @@
                   Heiligen Kreuczs tag als es erhocht ist, anno etc. xlviii<hi rend="super"
                   >o</hi>.</rs></p>
             <p rend="Summa">Summa i tl. xx d.</p>
-            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_01243">Nota der saczbrief ist in den
-                  rat gelegt worden etc.</rs></p>
-            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_01243">Nota die obgenanten c und xxx
-                  tl. d. sind zu dem púch erlegt worden, an Freitag post Pangraczii, anno etc.
+            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_01243_nota">Nota der saczbrief ist in
+                  den rat gelegt worden etc.</rs></p>
+            <p rend="Nachtrag"><rs type="event" ref="ev__SB_CD_01243_nota">Nota die obgenanten c und
+                  xxx tl. d. sind zu dem púch erlegt worden, an Freitag post Pangraczii, anno etc.
                   lviimo.</rs></p>
          </div>
          <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
          </div>
       </body>
    </text>

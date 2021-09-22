@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tei version of 3282 exported from monasterium.net </title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest-->
+         <sourceDesc default="false">
+            <bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2,
+               Nr. 3282 As published in HAUrk by Wiener Stadt- und Landesarchiv </bibl>
+            <msDesc status="draft">
+               <msIdentifier>
+                  <repository>Wiener Stadt- und Landesarchiv</repository>
+                  <idno>3282</idno>
+                  <altIdentifier type="old">
+                     <idno>517520</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc>
+                  <sealDesc>
+                     <seal>
+                        <p>Zwei rückwärts aufgedrückte, beschädigte Siegel von grünem Wachse.</p>
+                     </seal>
+                  </sealDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName>Wien</placeName>
+            <date when="14481129">1448 XI 29</date>
+            <origDate instant="false">zu Wienn, an freitag sand Andres abent.</origDate></creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03282_r.jpg"/>
+      </surface>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03282_v.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="abstract">
+            <p>
+               <rs type="event" ref="ev__QGW_II_II_3282"><rs type="fn" role="issuer"><rs
+                        type="person" ref="pe__johann_von_eibesthal_QGW_II_II_3282">Hanns von
+                        Eibestal</rs></rs>
+                  <catchwords n="disp">gelobt</catchwords>
+                  <rs type="fn" role="other"><catchwords n="fn">wegen des</catchwords>
+                     <rs type="place" ref="pl__wien-immo_kaerntnertor_3">Hauses, <roleName
+                           type="topo" corresp="pl__wien-kaerntnertor">gelegen vor
+                           Kernertor</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_kaerntnertor_4">zenagst <add>an
+                              aim tail</add></roleName>
+                        <rs type="place" ref="pl__wien-immo_kaerntnertor_4"><roleName type="owner"
+                              corresp="pe__stephan_von_boehmischkrut_QGW_II_II_3282"><rs
+                                 type="person" ref="pe__stephan_von_boehmischkrut_QGW_II_II_3282"
+                                 >Steffans von Krud, des <roleName type="prof"
+                                 >pintter</roleName></rs></roleName>, haus</rs> an aim tail,</rs>
+                     <roleName type="owner" corresp="pe__johann_von_eibesthal_QGW_II_II_3282"><rs
+                           type="event" ref="NULL"><rs type="fn" role="transactiongood_I"><rs
+                                 type="place" ref="pl__wien-immo_kaerntnertor_3">das</rs></rs>
+                           <rs type="fn" role="recipient"><rs type="person"
+                                 ref="pe__johann_von_eibesthal_QGW_II_II_3282">er</rs></rs>
+                           <rs type="fn" role="issuer">von <rs type="person"
+                                 ref="pe__konrad_klingenpoden_QGW_II_II_3282">Kunraten Klingenpoden,
+                                 dem <roleName type="prof">pintter</roleName></rs></rs>, <rs
+                              type="fn" role="transactiongood_II">umb <measure>55 lb
+                              dn.</measure></rs>
+                           <catchwords n="disp">gekauft hat</catchwords>,</rs></roleName></rs>
+                  <catchwords n="disp">inner der nagsten jarsfrist mit weib und mit kinden her gen
+                     Wienn zu ziehen und mit der Stadt zu leiden und zu steuern</catchwords>.</rs>
+            </p>
+         </div>
+         <div type="seal">
+            <p><rs type="event" ref="ev__QGW_II_II_3282"><rs type="fn" role="witness">Besiegelt mit
+                     den Siegeln der <rs type="person" ref="pe__niklas_renhart_QGW_II_II_3282"
+                        >Wiener <roleName type="title_ref" corresp="org__wien">Bürger</roleName>
+                        Niclasen Rênharts</rs> und <rs type="person"
+                        ref="pe__simon_von_eslarn_QGW_II_II_3263"><roleName type="title_ref"
+                           corresp="org__wien"><add>Bürger</add></roleName> Simons von
+                     Eslorn</rs>.</rs></rs>
+            </p>
+         </div>
+         <div type="lists">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

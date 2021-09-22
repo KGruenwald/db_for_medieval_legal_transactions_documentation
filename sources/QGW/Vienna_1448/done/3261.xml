@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tei version of 3261 exported from monasterium.net </title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest-->
+         <sourceDesc default="false">
+            <bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2,
+               Nr. 3261 As published in HAUrk by Wiener Stadt- und Landesarchiv </bibl>
+            <msDesc status="draft">
+               <msIdentifier>
+                  <repository>Wiener Stadt- und Landesarchiv</repository>
+                  <idno>3261</idno>
+                  <altIdentifier type="old">
+                     <idno>517498</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc>
+                  <sealDesc>
+                     <seal>
+                        <p>Die Siegel fehlen.</p>
+                     </seal>
+                  </sealDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName>Wien</placeName>
+            <date when="14480708">1448 VII 08</date>
+            <origDate instant="false">zu Wienn, an mantag vor sannd Margrethen
+            tag.</origDate></creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03261_r.jpg"/>
+      </surface>
+      <surface>
+         <graphic
+            url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03261_v.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="abstract">
+            <p>
+               <rs type="event" ref="ev__QGW_II_II_3261"><rs type="fn" role="issuer"><rs
+                        type="person" ref="pe__paul_schernhaimer_QGW_II_II_3261">Paul Schernhaimer,
+                           <roleName type="title_ref" corresp="org__korneuburg">burger</roleName> zu
+                        Karn Neunburg</rs>,</rs>
+                  <catchwords n="disp">verkauft</catchwords>
+                  <rs type="fn" role="other"><catchwords n="fn">mit Handen</catchwords> des <rs
+                        type="person" ref="pe__johann_steger_QGW_II_II_3264"><roleName type="title"
+                           >edeln</roleName>
+                        <roleName type="title">vesten</roleName>
+                        <roleName type="title">ritter</roleName>
+                        <roleName type="title">hern</roleName> Hannsen des Steger, <roleName
+                           type="off" corresp="org__wien">burgermaister</roleName> und <roleName
+                           type="off" corresp="org__oesterreich-herzogtum"
+                        >münssmaister</roleName></rs>, und des <rs type="org" ref="org__wien">rates
+                        gemain der stat zu Wienn</rs></rs>
+                  <rs type="fn" role="transactiongood_I"><rs type="place"
+                        ref="pl__wien-immo_schaufllucken_1"><roleName type="owner"
+                           corresp="pe__paul_schernhaimer_QGW_II_II_3261">seines rechten väterlichen
+                           gutes</roleName> ain haus, <rs type="event" ref="NULL"><rs type="fn"
+                              role="transactiongood_I"><rs type="place"
+                                 ref="pl__wien-immo_schaufllucken_1">das</rs></rs>
+                           <rs type="fn" role="recipient"><rs type="person"
+                                 ref="pe__paul_schernhaimer_QGW_II_II_3261">ihm</rs></rs> gegen <rs
+                              type="fn" role="issuer"><rs type="person"
+                                 ref="pe__georg_schernhaimer_QGW_II_II_3261">seinem <roleName
+                                    type="kin" corresp="pe__paul_schernhaimer_QGW_II_II_3261"
+                                    >pruder</roleName> Jorgen Schernhaimer</rs></rs>
+                           <catchwords n="disp">an rechter tailung gevallen ist</catchwords></rs>,
+                           <roleName type="topo" corresp="pl__wien-schaufllucken">gelegen daselbs
+                           bei sannd Michel in der Schaufllucken</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_schaufllucken_2">zenagst
+                              <add>an ainem tail</add></roleName>
+                        <rs type="place" ref="pl__wien-immo_schaufllucken_2"><roleName type="owner"
+                              corresp="pe__jakob_von_brunn_QGW_II_II_3261"><rs type="person"
+                                 ref="pe__jakob_von_brunn_QGW_II_II_3261">Jacoben von Brunn, des
+                                    <roleName type="prof">sneider</roleName></rs></roleName>,
+                           haus</rs> an ainem tail <roleName type="topo"
+                           corresp="pl__wien-immo_schaufllucken_3">und an dem andern
+                           zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_schaufllucken_3">des Perner
+                        haus</rs></rs>,</rs>
+                  <rs type="fn" role="transactiongood_II">um <measure>70 lb dn.</measure></rs>
+                  <rs type="fn" role="recipient"><rs type="person"
+                        ref="pe__johann_grimm_QGW_II_II_3261">Hannsen Grym, dem <roleName
+                           type="prof">kursner</roleName>, <roleName type="title_ref"
+                           corresp="org__wien">mitburger</roleName> zu Wienn</rs>, und <rs
+                        type="person" ref="pe__barbara_QGW_II_II_3261">Barbara, seiner <roleName
+                           type="kin" corresp="pe__johann_grimm_QGW_II_II_3261"
+                        >hausfrau</roleName></rs>.</rs></rs>
+            </p>
+         </div>
+         <div type="seal">
+            <p><rs type="event" ref="ev__QGW_II_II_3261"><rs type="fn" role="witness">Besiegelt mit
+                     dem <rs type="org" ref="org__wien">städtischen Grundsiegel</rs> und dem Siegel
+                     des <rs type="person" ref="pe__georg_haug_QGW_II_II_3261">Wiener <roleName
+                           type="title_ref" corresp="org__wien">Bürgers</roleName> Jorg
+                     Haug</rs>.</rs></rs>
+            </p>
+         </div>
+         <div type="lists">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
+         </div>
+      </body>
+   </text>
+</TEI>

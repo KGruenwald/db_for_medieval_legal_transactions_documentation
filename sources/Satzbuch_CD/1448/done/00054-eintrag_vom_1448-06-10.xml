@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <teiHeader>
@@ -119,59 +119,63 @@
       <body>
          <div type="entry">
             <p><rs type="event" ref="ev__SB_CD_00054"><rs type="fn" role="issuer"><rs type="person"
-                        ref="pe__andreas_vischel_SB_CD_00054">Andre Vischel</rs> und <rs type="person"
-                        ref="pe__barbara_SB_CD_00054">Barbara sein <roleName type="kin"
-                           corresp="pe__andreas_vischel_SB_CD_00054">hausfrau</roleName></rs></rs>
+                        ref="pe__andreas_vischel_SB_CD_00054">Andre Vischel</rs> und <rs
+                        type="person" ref="pe__barbara_SB_CD_00054">Barbara sein <roleName
+                           type="kin" corresp="pe__andreas_vischel_SB_CD_00054"
+                        >hausfrau</roleName></rs></rs>
                   <catchwords n="disp">habent versaczt</catchwords>
                   <rs type="fn" role="transactiongood_I"><rs type="place"
                         ref="pl__wien-immo_huehnergesslein_1"><roleName type="owner"
                            corresp="pe__barbara_SB_CD_00054">ír</roleName><roleName type="owner"
                            corresp="pe__andreas_vischel_SB_CD_00054"><add>ir</add></roleName> haws,
-                        <roleName type="topo" corresp="pl__wien-huehnergesslein">gelegen im
-                        Húnergesslein</roleName>
-                     <roleName type="topo" corresp="pl__wien-immo_huehnergesslein_2"
-                        >zenagst</roleName>
-                  <rs type="place" ref="pl__wien-immo_huehnergesslein_2"><roleName type="owner"
-                        corresp="pe__stephan_imbrung_SB_CD_00054"><rs type="person" ref="pe__stephan_imbrung_SB_CD_00054"
-                           >Stephans Imbrung des <roleName type="prof"
-                        >kramer</roleName></rs></roleName>haus</rs>, <rs type="event"
-                     ref="ev__haus_huehnergesslein_1_burgrecht_1"><rs type="fn" role="issuer"><rs
-                        type="place" ref="pl__wien-immo_huehnergesslein_1">davon</rs> man</rs> 
-                     <catchwords n="disp">jerlich dint</catchwords>
-                     <rs type="fn" role="recipient"><rs type="person" ref="pe__simon_pirkwicz_SB_CD_00054"
-                              ><roleName type="title">hern</roleName> Symon Pirkwicz <roleName
-                              type="off"
-                              corresp="org__wien-st_agnes_auf_der_himmelpforte-altar_dreikoenige"
-                              >caplan</roleName> der Heiligen dreir Kunig altar zu der
-                           Himlporten</rs></rs><rs type="fn" role="transactiongood_I"><measure>vii
-                           tl. d.</measure></rs>
-                           <catchwords n="disp">zu purkrecht</catchwords> und nicht mer.</rs></rs></rs>
-                  <rs type="fn" role="recipient">Dem <rs type="person" ref="pe__andreas_hiltprant_QGW_II_II_2576"
-                           ><roleName type="title">erbern</roleName>
+                           <roleName type="topo" corresp="pl__wien-huehnergesslein">gelegen im
+                           Húnergesslein</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_huehnergesslein_2"
+                           >zenagst</roleName>
+                        <rs type="place" ref="pl__wien-immo_huehnergesslein_2"><roleName
+                              type="owner" corresp="pe__stephan_imbrung_SB_CD_00054"><rs
+                                 type="person" ref="pe__stephan_imbrung_SB_CD_00054">Stephans
+                                 Imbrung des <roleName type="prof"
+                           >kramer</roleName></rs></roleName>haus</rs>, <rs type="event"
+                           ref="ev__SB_CD_00054_men_1"><rs type="fn" role="issuer"><rs type="place"
+                                 ref="pl__wien-immo_huehnergesslein_1">davon</rs> man</rs>
+                           <catchwords n="disp">jerlich dint</catchwords>
+                           <rs type="fn" role="recipient"><rs type="person"
+                                 ref="pe__simon_puckwitz_QGW_II_II_3176"><roleName type="title"
+                                    >hern</roleName> Symon Pirkwicz <roleName type="off"
+                                    corresp="org__wien-st_agnes_auf_der_himmelpforte-altar_dreikoenige"
+                                    >caplan</roleName> der Heiligen dreir Kunig altar zu der
+                                 Himlporten</rs></rs><rs type="fn" role="transactiongood_I"
+                                 ><measure>vii tl. d.</measure>
+                              <catchwords n="fn"><add>zu purkrecht</add></catchwords></rs>
+                           <catchwords n="disp">zu purkrecht</catchwords> und nicht
+                     mer.</rs></rs></rs>
+                  <rs type="fn" role="recipient">Dem <rs type="person"
+                        ref="pe__andreas_hiltprant_QGW_II_II_2576"><roleName type="title"
+                           >erbern</roleName>
                         <roleName type="title">weisen</roleName> Andren Hiltprant diezeit des
-                           <roleName type="off" corresp="org__wien">rats</roleName> der stat
-                        ze Wienn</rs> und seinen erben</rs>
+                           <roleName type="off" corresp="org__wien">rats</roleName> der stat ze
+                        Wienn</rs> und seinen erben</rs>
                   <rs type="fn" role="transactiongood_II">umb <measure>xliiii tl. d.</measure></rs>
                   <rs type="fn" role="transactiongood_I">und sind zu beczaln zu den vír quatembern
                      im jar zu yeder quatember <measure>xi tl. d.</measure> und sullen mit der
                      ersten werung anheben zu der quatember schirist kunftig anvercziehen</rs>.
                   Actum an Montag vor sand Veits tag, anno etc. xlviii<hi rend="super"
                >o</hi>.</rs></p>
-            <p rend="Summa">Summa
-                     <measure>lxxxviii d.</measure></p>
+            <p rend="Summa">Summa <measure>lxxxviii d.</measure></p>
             <p rend="Nachtrag">
-               <rs type="event" ref="ev__SB_CD_00054"><unclear instant="false">Testa etc</unclear>
-                     ha<unclear instant="false">be</unclear>t cedulam.</rs></p>
+               <rs type="event" ref="ev__SB_CD_00054_nota"><unclear instant="false">Testa
+                     etc</unclear> ha<unclear instant="false">be</unclear>t cedulam.</rs></p>
          </div>
          <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
                href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/>
          </div>
       </body>
    </text>

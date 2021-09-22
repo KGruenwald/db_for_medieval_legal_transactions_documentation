@@ -1,14 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../xslt/toolbox_full.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">Eintrag vom 1448-02-23</title>
-            <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von
-               Eslorn, anno etc. xlviii<hi rend="super">o</hi>.</title>
-            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
-            <respStmt>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title type="main">Eintrag vom 1448-02-23</title><title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von
+               Eslorn, anno etc. xlviii<hi rend="super">o</hi>.</title><title type="sub">Digitale Edition der Wiener Grundbücher</title><respStmt>
                <resp>Transkription</resp>
                <name>
                   <rs type="person" ref="gruenwald_korbinian">Korbinian Grünwald</rs>
@@ -16,43 +7,15 @@
                <name>
                   <rs type="person" ref="weinbergmaier_richard">Richard Weinbergmaier</rs>
                </name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
-               Andorfer</publisher>
-            <availability default="false">
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
+            </respStmt></titleStmt><publicationStmt><publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher><availability default="false"><licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>CC-BY</p>
                   <p>You are free to: Share — copy and redistribute the material in any medium or
                      format. Adapt — remix, transform, and build upon the material for any purpose,
                      even commercially.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc default="false">
-            <msDesc type="invetory" status="draft">
-               <msIdentifier>
-                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
-                  <repository>Grundbücher</repository>
-                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <locus from="[57v]" to=" [58r]"/>
-                     <p>[57v] - [58r]</p>
-                  </msItem>
-               </msContents>
-               <history>
+               </licence></availability></publicationStmt><sourceDesc default="false"><msDesc type="invetory" status="draft"><msIdentifier><institution>Wiener Stadt- und Landesarchiv (WStLA)</institution><repository>Grundbücher</repository><idno type="archive">WStLA 2.1.2.1.B1.34</idno></msIdentifier><msContents><msItem><locus from="[57v]" to=" [58r]"/><p>[57v] - [58r]</p></msItem></msContents><history>
                   <origin notAfter="1448-02-23">1448-02-23</origin>
-               </history>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0"
-         xmlns:xi="http://www.w3.org/2001/XInclude">
-         <projectDesc default="false">
-            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               </history></msDesc></sourceDesc></fileDesc><encodingDesc xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><projectDesc default="false"><p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
                   <row rend="header">
                      <cell>Name der Formatvorlage</cell>
@@ -104,64 +67,18 @@
                      <cell>Hochgestellt</cell>
                   </row>
                </table>
-            </p>
-            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+            </p><p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
                community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
                wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
-               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
-         </projectDesc>
-      </encodingDesc>
-   </teiHeader>
-   <facsimile>
-      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0113.jpg"/>
-   </facsimile>
-   <text>
-      <body>
-         <div type="entry">
-            <p><rs type="event" ref="ev__SB_CD_00226"><rs type="fn" role="issuer"><rs type="person"
-                        ref="pe__konrad_eggenfelder_SB_CD_00226">Chuncz Egkenfelder der <roleName
-                           type="prof">smid</roleName></rs> und <rs type="person"
-                        ref="pe__brigitta_SB_CD_00226">Preid, sein <roleName type="kin"
-                           corresp="pe__konrad_eggenfelder_SB_CD_00226"
-                     >hausfrau</roleName></rs>,</rs>
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p></projectDesc></encodingDesc></teiHeader><facsimile><graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0113.jpg"/></facsimile><text><body><div type="entry"><p><rs type="event" ref="ev__SB_CD_00226"><rs type="fn" role="issuer"><rs type="person" ref="pe__konrad_eggenfelder_SB_CD_00226">Chuncz Egkenfelder der <roleName type="prof">smid</roleName></rs> und <rs type="person" ref="pe__brigitta_SB_CD_00226">Preid, sein <roleName type="kin" corresp="pe__konrad_eggenfelder_SB_CD_00226">hausfrau</roleName></rs>,</rs>
                   <catchwords n="disp">habent versaczt</catchwords>
-                  <rs type="fn" role="transactiongood_I"><rs type="place"
-                        ref="pl__wien-immo_neuer_markt_1"><roleName type="owner"
-                           corresp="pe__konrad_eggenfelder_SB_CD_00226">ir</roleName>
-                        <roleName type="owner" corresp="pe__brigitta_SB_CD_00226"
-                           ><add>ir</add></roleName> haws, <roleName type="topo"
-                           corresp="pl__wien-neuer_markt">gelegen am Newnmarkt</roleName>
-                        <roleName type="topo" corresp="pl__wien-immo_neuer_markt_2"
-                        >zenagst</roleName></rs>
-                     <rs type="place" ref="pl__wien-immo_neuer_markt_2"><roleName type="owner"
-                           corresp="pe__thomas_kunter_SB_CD_00226"><rs type="person" ref="pe__thomas_kunter_SB_CD_00226"
-                              >Thomans Kuntter</rs></roleName> Haus</rs>, <rs type="event"
-                        ref="ev__haus_am_neuen_markt_1_burgrecht_1"><rs type="fn" role="issuer"
-                                 ><rs type="place" ref="pl__immo_neuermarkt_1">davon</rs>
-                           man</rs> jerlich dint <rs type="fn" role="recipient"><rs type="person"
-                              ref="pe__jakob_kolbl_SB_CD_00226"><roleName type="title">hern</roleName> Jacoben
-                              Kolbl</rs></rs>
-                        <rs type="fn" role="transactiongood_I"><measure>vi tl. d.</measure></rs> zu
-                        purkrecht und nicht mer</rs></rs>. <rs type="fn" role="recipient">Dem <rs
-                        type="person" ref="pe__konrad_reiff_SB_CD_00226"><roleName type="title"
-                           >erbern</roleName> Kunraten Reiff, <roleName type="title"
-                           >mitburger</roleName> zu Wien</rs>, und seinen erben</rs>, <rs type="fn"
-                     role="transactiongood_II">umb <measure>lxxii tl. d.</measure> Und sind zu
+                  <rs type="fn" role="transactiongood_I"><rs type="place" ref="pl__wien-immo_neuer_markt_1"><roleName type="owner" corresp="pe__konrad_eggenfelder_SB_CD_00226">ir</roleName>
+                        <roleName type="owner" corresp="pe__brigitta_SB_CD_00226"><add>ir</add></roleName> haws, <roleName type="topo" corresp="pl__wien-neuer_markt">gelegen am Newnmarkt</roleName>
+                        <roleName type="topo" corresp="pl__wien-immo_neuer_markt_2">zenagst</roleName></rs>
+                     <rs type="place" ref="pl__wien-immo_neuer_markt_2"><roleName type="owner" corresp="pe__thomas_kunter_SB_CD_00226"><rs type="person" ref="pe__thomas_kunter_SB_CD_00226">Thomans Kuntter</rs></roleName>
+                        Haus</rs>, <rs ref="ev__SB_CD_00226_men_1"><rs type="fn" role="issuer"><rs type="place" ref="pl__immo_neuermarkt_1">davon</rs> man</rs> jerlich dint <rs type="fn" role="recipient"><rs type="person" ref="pe__jakob_kolbl_SB_CD_00226"><roleName type="title">hern</roleName> Jacoben Kolbl</rs></rs>
+                        <rs type="fn" role="transactiongood_I"><measure>vi tl. d.</measure>
+                           <catchwords n="fn"><add>zu purkrecht</add></catchwords></rs> zu purkrecht
+                        und nicht mer</rs></rs>. <rs type="fn" role="recipient">Dem <rs type="person" ref="pe__konrad_reiff_SB_CD_00226"><roleName type="title">erbern</roleName> Kunraten Reiff, <roleName type="title">mitburger</roleName> zu Wien</rs>, und seinen erben</rs>, <rs type="fn" role="transactiongood_II">umb <measure>lxxii tl. d.</measure> Und sind zu
                      beczalen auf sant Mertten tag schiristkünfftigen anvercziehen, ut littera.</rs>
-                  Actum an Samstag vor Oculi in der vasten, anno etc. xlviii<hi rend="super"
-                  >o</hi>.</rs></p>
-            <p rend="Summa">Summa <measure>i ½ tl. xxiiii d.</measure></p>
-         </div>
-         <div type="lists">
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml"
-               xpointer="element(/1/2/1/1)"/>
-            <include xmlns="http://www.w3.org/2001/XInclude"
-               href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/>
-         </div>
-      </body>
-   </text>
-</TEI>
+                  Actum an Samstag vor Oculi in der vasten, anno etc. xlviii<hi rend="super">o</hi>.</rs></p><p rend="Summa">Summa <measure>i ½ tl. xxiiii d.</measure></p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI SYSTEM "../../../../scripts/xslt/toolbox_full.dtd"><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Tei version of 3267 exported from monasterium.net </title></titleStmt><publicationStmt><p/></publicationStmt><!--In Original: cei:front/cei:sourceDesc/cei:sourceDescRegest--><sourceDesc default="false"><bibl default="false" status="draft">Quellen zur Geschichte der Stadt Wien, Bd. II/2, Nr. 3267 As published in HAUrk by
+               Wiener Stadt- und Landesarchiv </bibl><msDesc status="draft"><msIdentifier><repository>Wiener Stadt- und Landesarchiv</repository><idno>3267</idno><altIdentifier type="old"><idno>517504</idno></altIdentifier></msIdentifier><physDesc><sealDesc><seal><p>Anhangendes, beschädigtes Stadtsiegel, roth u. Sch.</p></seal></sealDesc></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><creation>
+            <placeName>Wien</placeName>
+            <date when="14480814">1448 VIII 14</date>
+            <origDate instant="false">zu Wienn, an Unser Lieben Frauen abent der Schiedung.</origDate></creation></profileDesc></teiHeader><facsimile><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03267_r.jpg"/></surface><surface><graphic url="http://images.monasterium.net/pics/AT-WStLA/HA-U/WStLA-HA-Urkunden_03267_v.jpg"/></surface></facsimile><text><body><div type="abstract"><p>
+               <rs type="event" ref="ev__QGW_II_II_3267"><rs type="fn" role="issuer"><rs type="person" ref="pe__johann_steger_QGW_II_II_3264">Hanns Steger, <roleName type="title">ritter</roleName>, <roleName type="off" corresp="org__wien">burgermaister</roleName> und <roleName type="off" corresp="org__oesterreich-herzogtum">munssmaister</roleName></rs>, und
+                     der <rs type="org" ref="org__wien">rat gemain der stat zu Wienn</rs></rs>
+                  <catchwords n="disp">stellen</catchwords>
+                  <rs type="fn" role="recipient">dem <rs type="person" ref="pe__albrecht_schweinbarther_QGW_II_II_3236"><roleName type="title">edeln</roleName>
+                        <roleName type="title">vesten</roleName>
+                        <roleName type="title">ritter</roleName>
+                        <roleName type="title">hern</roleName> Albrechten Sweinwarter</rs></rs>
+                  <catchwords n="disp">einen Schuldbrief</catchwords>
+                  <rs type="fn" role="transactiongood_I"><add>einen Schuldbrief</add></rs>
+                  <rs type="fn" role="transactiongood_II">über <measure>1000 guter, neuer Ungrischer
+                        guldein</measure>, gerecht in gold und wag,</rs>
+                  <catchwords n="disp">aus</catchwords>, rückzahlbar in seinem haus hie zu Wienn von
+                  datum des briefs inner dem nagsten moned.</rs>
+            </p></div><div type="lists"><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/placeList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/personList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/eventList.xml" xpointer="element(/1/2/1/1)"/><xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../indices/lists/orgList.xml" xpointer="element(/1/2/1/1)"/></div></body></text></TEI>
