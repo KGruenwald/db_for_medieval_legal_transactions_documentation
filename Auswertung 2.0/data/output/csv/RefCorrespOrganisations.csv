@@ -1,0 +1,81 @@
+	main_ID	ref_corresp_ID	name	type	observance	anzahl	ref_count	corresp_count	xml	year	text
+0	org__wien	org__wien	Wien	Stadt	 	73	30	43	2951.xml, 3236.xml, 3238.xml, 3239.xml, 3240.xml, 3241.xml, 3242.xml, 3243.xml, 3246.xml, 3248.xml, 3251.xml, 3252.xml, 3253.xml, 3254.xml, 3255.xml, 3256.xml, 3257.xml, 3258.xml, 3259.xml, 3260.xml, 3261.xml, 3262.xml, 3263.xml, 3265.xml, 3266.xml, 3267.xml, 3268.xml, 3269.xml, 3270.xml, 3272.xml, 3274.xml, 3275.xml, 3278.xml, 3279.xml, 3282a.xml, 00054-eintrag_vom_1448-06-10.xml, 00406-eintrag_vom_1448-05-31.xml, 00606-eintrag_vom_1448-04-03.xml, 00609-eintrag_vom_1448-05-06.xml, 00614-eintrag_vom_1448-07-29.xml, 01926-eintrag_vom_1448-12-20.xml	1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448	statrichter
+1	org__oesterreich-herzogtum	org__oesterreich-herzogtum	Herzogtum Österreich	Herzogtum	 	13	0	13	3236.xml, 3243.xml, 3246.xml, 3251.xml, 3260.xml, 3261.xml, 3262.xml, 3263.xml, 3266.xml, 3267.xml, 3274.xml, 3275.xml, 3278.xml	1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448	münssmaister
+2	org__wien-st_philipp_und_st_jakob_kapelle	org__wien-st_philipp_und_st_jakob_kapelle	St. Philipps- und Jakobskapelle	Kirche_Kapelle	 	1	0	1	3237.xml	1448	pharrer
+3	org__st_poelten	org__st_poelten	St.Pölten	Stadt	 	1	0	1	3238.xml	1448	amptman
+4	org__wien-st_stephan	org__wien-st_stephan-messe_ach	Achmesse	Messe	 	1	1	0	3239.xml	1448	von diesem gestiftete Messe
+5	org__wien-st_stephan	org__wien-st_stephan	St. Stephan	Kirche_Kapelle	 	10	4	6	3239.xml, 3259.xml, 3260.xml, 3266.xml, 3272.xml, 00616-eintrag_vom_1448-07-19.xml, 00624-eintrag_vom_1448-09-23.xml, 00970-eintrag_vom_1448-11-20.xml, 01434-eintrag_vom_1448-06-14.xml	1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448	vicari
+6	org__wien-dreifaltigkeitskapelle	org__wien-dreifaltigkeitskapelle-altar_st_jakob	 	Altar	 	3	1	2	3240.xml	1448, 1448, 1448	sand Jacobs altar, gelegen in der heiligen Drivaltikait cappelln, die da ligt am Alten Kienmarkt zu Wienn
+7	org__wien-st_michael	org__wien-st_michael	St. Michael	Kirche_Kapelle	 	5	1	4	3240.xml, 3265.xml, 00618-eintrag_vom_1448-09-02.xml, 00969-eintrag_vom_1448-10-30.xml, 01147-eintrag_vom_1448-04-29.xml	1448, 1448, 1448, 1448, 1448	kirchmaister
+8	org__passau-dioezese	org__passau-dioezese	Diözese Passau	Dioezese_Erzdioezese	 	2	0	2	3241.xml, 3265.xml	1448, 1448	bischove
+9	org__wien-st_peter	org__wien-st_peter-altar_st_bartholomaeus-messe_schrot	Schrotmesse	Messe	 	5	3	2	3242.xml, 3246.xml	1448, 1448, 1448, 1448, 1448	eine von diesem laut
+10	org__wien-st_stephan	org__wien-st_stephan-altar_st_veit	Veitsaltar	Altar	 	2	2	0	3245.xml, 00607-eintrag_vom_1448-03-13.xml	1448, 1448	auf sand Veits altar hincz sand Steffan zu Wienn
+11	org__wien-st_stephan	org__wien-st_stephan-altar_st_veit-messe_kienmarkt	Kienmarktmesse	Messe	 	5	3	2	3245.xml, 00607-eintrag_vom_1448-03-13.xml	1448, 1448, 1448, 1448, 1448	Messe
+12	org__wien-st_peter	org__wien-st_peter-altar_st_bartholomaeus	S. Bartholomäusaltar	Altar	 	1	1	0	3246.xml	1448	sannd Bartholomes altar in sannd Peters cappellen zu Wienn
+13	org__wien-dominikaner	org__wien-dominikaner	Dominikaner	Kloster_m	OP	1	1	0	3246.xml	1448	eltisten maister artisten des Stands in des herzogen Collegy bei den Predigern hie zu Wienn
+14	org__wien-st_klara	org__wien-st_klara	St. Klara	Kloster_f	OSCl	3	2	1	3246.xml	1448, 1448, 1448	geistlichen frauen hincz sand Claren
+15	org__wien-st_johann_in_der_kaerntnerstrasse	org__wien-st_johann_in_der_kaerntnerstrasse	St. Johanneskapelle in der Kärntnerstrasse	Kirche_Kapelle	 	2	1	1	3246.xml	1448, 1448	haus hinz sand Johanns zu Wienn
+16	org__heiligenstadt-pfarre	org__heiligenstadt-pfarre	Heiligenstadt-Pfarre	Pfarre	 	3	2	1	3246.xml	1448, 1448, 1448	zu der Heiligenstat
+17	org__wien-schotten	org__wien-schotten	Schottenkloster Wien	Kloster_m	OSB	7	1	6	3248.xml, 3253.xml, 3254.xml, 3255.xml, 3256.xml, 3268.xml, 01693a-eintrag_vom_1448.xml	1448, 1448, 1448, 1448, 1448, 1448, 1448	Schottenabte
+18	org__gaming-kartaeuser	org__gaming-kartaeuser	Gaming-Kartäuser	Kloster_m	OCart	3	1	2	3250.xml	1448, 1448, 1448	
+19	org__wien-st_stephan	org__wien-st_stephan-altar_st_ulrich	Ulrichsaltar	Altar	 	4	4	0	3250.xml, 3257.xml, 3260.xml	1448, 1448, 1448, 1448	auf St. Ulrichs Altar in der genannten Kirche
+20	org__wien-st_stephan	org__wien-st_stephan-altar_st_ulrich-messe_fuechsel	Füchselmesse	Messe	 	10	7	3	3250.xml, 3257.xml, 3258.xml, 3260.xml	1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448, 1448	derselben
+21	org__wien-st_martin_vor_dem_widmertor	org__wien-st_martin_vor_dem_widmertor	 	Spital_Siechenhaus	 	3	2	1	3257.xml	1448, 1448, 1448	dem Martinsspital
+22	org__klosterneuburg-augustinerchorfrauen	org__klosterneuburg-augustinerchorfrauen	Klosterneuburg-Augustinerchorfrauen	Kloster_f	CanReg	2	1	1	3258.xml	1448, 1448	Unser Frauen goczhaus zu Klosterneunburg
+23	org__wien-st_stephan	org__wien-st_stephan-altar_st_maria-messe_auf_der_saeule_herbert	Säulmesse	Messe	 	1	1	0	3259.xml	1448	Herwarts auf der Seulen ewigen liecht
+24	org__wien-st_maria_im_rathaus	org__wien-st_maria_im_rathaus	St. Maria-Kapelle im Rathaus	Kirche_Kapelle	 	4	2	2	3263.xml, 00612-eintrag_vom_1448-07-10.xml	1448, 1448, 1448, 1448	seinen Nachfolgern
+25	org__wien-st_peter	org__wien-st_peter-altar_st_maria-messe_chastner	Chastnerstiftung	Messe	 	3	0	3	3265.xml, 00608-eintrag_vom_1448-04-29.xml, 00613-eintrag_vom_1448-07-17.xml	1448, 1448, 1448	Kaplan
+26	org__wien-st_stephan	org__wien-st_stephan-messe_atzenbrugger	Atzenbruggermesse	Messe	 	3	2	1	3266.xml	1448, 1448, 1448	welche
+27	org__wien-st_agnes_auf_der_himmelpforte	org__wien-st_agnes_auf_der_himmelpforte-altar_dreikoenige	Dreikönigsaltar	Altar	 	1	0	1	00054-eintrag_vom_1448-06-10.xml	1448	caplan
+28	org__wien-st_stephan	org__wien-st_stephan-altar_allerheiligen-messe_sindram	Sindrammesse	Messe	 	2	0	2	00229-eintrag_vom_1448-05-27.xml	1448, 1448	capplan
+29	org__wien-gottesleichnam_kapelle_vor_dem_werdertor	org__wien-gottesleichnam_kapelle_vor_dem_werdertor-altar_st_maria	Unser Frauen Altar	Altar	 	1	1	0	00231-eintrag_vom_1448-09-20.xml	1448	Unser Fraun altar in Sand Johanns cappellen daselbs, gelegen
+30	org__wien-gottesleichnam_kapelle_vor_dem_werdertor	org__wien-gottesleichnam_kapelle_vor_dem_werdertor-altar_st_maria-messe_flekch	Flekchmesse	Altar	 	2	1	1	00231-eintrag_vom_1448-09-20.xml	1448, 1448	seinen nachkomen
+31	org__wien-st_stephan	org__wien-st_stephan-altar_st_maria-messe_flusthart	Flusthartmesse	Messe	 	3	1	2	00299-eintrag_vom_1448-07-08.xml, 00623-eintrag_vom_1448-12-13.xml	1448, 1448, 1448	verweser
+32	org__wien-buergerspital	org__wien-buergerspital	Wiener Bürgerspital	Spital_Siechenhaus	 	5	4	1	00300-eintrag_vom_1448-08-05.xml, 00627-eintrag_vom_1448-12-20.xml, 00966-eintrag_vom_1448-06-07.xml	1448, 1448, 1448, 1448, 1448	Burgerspital
+33	org__wien-st_stephan	org__wien-st_stephan-kapelle_herzog-altar_st_blasius	Blasienaltar	Altar	 	1	1	0	00300-eintrag_vom_1448-08-05.xml	1448	Sant Blasien altar in des Herczogen cappellen dacz Sand Steffan
+34	org__wien-st_stephan	org__wien-st_stephan-kapelle_herzog-altar_st_blasius-messe_graf	Grafmesse	Messe	 	2	1	1	00300-eintrag_vom_1448-08-05.xml	1448, 1448	seinen nachkomen
+35	org__wien-zeche_schuster	org__wien-zeche_schuster	 	Zeche_Bruderschaft	 	1	1	0	00349-eintrag_vom_1448-02-22.xml	1448	zechmaistern der Schusterzech zu Wienn
+36	org__wien-st_stephan	org__wien-st_stephan-kapelle_st_katharina-altar_st_katharina-messe_hutstokch	Hutstokchmesse	Messe	 	1	0	1	00350-eintrag_vom_1448-04-10.xml	1448	caplan
+37	org__wien-st_johann_in_der_siechenals	org__wien-st_johann_in_der_siechenals	St. Johannes in der Siechenals	Spital_Siechenhaus	 	2	1	1	00604-eintrag_vom_1448-02-24.xml, 01842-eintrag_vom_1448-11-27.xml	1448, 1448	pfarrer
+38	org__wien-st_michael	org__wien-st_michael-altar_gottesleichnam-messe_eslarn	 	Messe	 	3	2	1	00605-eintrag_vom_1448-03-04.xml, 00613-eintrag_vom_1448-07-17.xml	1448, 1448, 1448	zu der ewigen mess, so die von · Eslorn auf Gotsleichnams altar zu Sand Michel gestifft habent
+39	org__wien-st_niklas_vor_dem_stubentor_zisterzienserinnen	org__wien-st_niklas_vor_dem_stubentor_zisterzienserinnen-messe_peter_chorherr_von_st_stephan	 	Messe	 	1	0	1	00606-eintrag_vom_1448-04-03.xml	1448	caplan
+40	org__stamhaim-pfarre	org__stamhaim-pfarre	Stamhaim	Pfarre	 	1	0	1	00606-eintrag_vom_1448-04-03.xml	1448	pharrer
+41	org__wien-st_peter	org__wien-st_peter-altar_st_maria	Frauenaltar	Altar	 	2	2	0	00608-eintrag_vom_1448-04-29.xml, 01429-eintrag_vom_1448-02-20.xml	1448, 1448	daselbs zu stifften
+42	org__wien-minoriten	org__wien-minoriten	Minoriten	Kloster_m	OFMConv	3	2	1	00608-eintrag_vom_1448-04-29.xml, 00613-eintrag_vom_1448-07-17.xml	1448, 1448, 1448	convent des klosters zu den Weissenbrudern
+43	org__wien-st_peter	org__wien-st_peter	S. Peter (I. Bezirk)	Kirche_Kapelle	 	2	0	2	00608-eintrag_vom_1448-04-29.xml, 00613-eintrag_vom_1448-07-17.xml	1448, 1448	kapplan
+44	org__vorau-augustiner_chorherren	org__vorau-augustiner_chorherren	Vorau-Augustinerchorherren	Kloster_m	CanReg	1	1	0	00610-eintrag_vom_1448-05-29.xml	1448	dem erwirdigen geistlichen herren dem brobst und dem convent des gotshauss ze Varaw und irn nachkomen
+45	org__friedberg-pfarre	org__friedberg-pfarre	 	Pfarre	 	1	0	1	00610-eintrag_vom_1448-05-29.xml	1448	pharrer
+46	org__mannswoerth-pfarre	org__mannswoerth-pfarre	Mannswörth (NÖ)	Pfarre	 	1	0	1	00613-eintrag_vom_1448-07-17.xml	1448	pharrer
+47	org__himberg-pfarre	org__himberg-pfarre	Pfarre Himberg	Pfarre	 	1	0	1	00613-eintrag_vom_1448-07-17.xml	1448	pharrer
+48	org__wien-st_stephan	org__wien-st_stephan-kapelle_st_achatius	Achatiuskapelle (St. Stephan)	Kirche_Kapelle	 	2	1	1	00616-eintrag_vom_1448-07-19.xml	1448, 1448	seinen nachkomen caplenen
+49	org__wien-st_michael	org__wien-st_michael-messe_zergadmer_niklas	 	Messe	 	1	1	0	00618-eintrag_vom_1448-09-02.xml	1448	zu Niclasen Zergadmer jartag den im ain kirchmaister daselbs jerlich begen sol des nagsten tags vor unser fraun tag concepcionis oder des nagsten tags hinnach des nachts mit ainer gesungen vigili des morgens mit aim gesungen selambt mit ausgerichter par geleutt kerczen und messprechen als solher jarteg zu begen sit und gewonhait ist und zu ainem ewigen olliecht das an underlas alle nacht in unser fraun abseitten ewiclich leichten und prynen sol durch des egnanten Zergadmer selhails willen
+50	org__wien-st_michael	org__wien-st_michael-messe_staindlein	 	Messe	 	1	1	0	00618-eintrag_vom_1448-09-02.xml	1448	Staindleins jartag den ain kirchmaister alle quatember in der benanten kirchen begen sol als auch solher jarteg gewonhait ist
+51	org__wien-st_michael	org__wien-st_michael-altar_st_jakob	St. Jakobsaltar	Altar	 	1	1	0	00619-eintrag_vom_1448-09-04.xml	1448	Sand Jacobs altar in Sand Michels kirchen zu Wienn
+52	org__wien-st_michael	org__wien-st_michael-altar_st_jakob-messe_lorberer	 	Messe	 	2	1	1	00619-eintrag_vom_1448-09-04.xml	1448, 1448	nachkomen caplenen derselben mess
+53	org__ungarn-koenigreich	org__ungarn-koenigreich	Königreich Ungarn	Koenigreich	 	1	0	1	00621-eintrag_vom_1448-11-27.xml	1448	erhalt
+54	org__wien-st_stephan	org__wien-st_stephan-altar_st_maria	Frauenaltar / Marienaltar	Altar	 	2	2	0	00623-eintrag_vom_1448-12-13.xml, 01241-eintrag_vom_1448-06-21.xml	1448, 1448	unser fraun altar zu Sand Steffan
+55	org__wien-st_stephan	org__wien-st_stephan-messe_purkhartsperger_heinrich	"Messe und Kaplaneistat des Heinrich
+        Purkharsperger"	Messe	 	2	1	1	00624-eintrag_vom_1448-09-23.xml	1448, 1448	seinen nachkomen
+56	org__wien-st_michael	org__wien-st_michael-altar_st_georg_und_st_erasmus	"St. Georgs und St
+       Erasmusaltar"	Altar	 	1	1	0	00626-eintrag_vom_1448-12-20.xml	1448	Sant Jorgen und Sand Erasms altar in Sant Michls pfarrkirchen
+57	org__wien-st_michael	org__wien-st_michael-altar_st_georg_und_st_erasmus-messe_raklspurg	Raklspurgmesse	Messe	 	2	1	1	00626-eintrag_vom_1448-12-20.xml	1448, 1448	seinen nachkomen
+58	org__riegersburg-pfarre	org__riegersburg-pfarre	 	 	 	1	0	1	00626-eintrag_vom_1448-12-20.xml	1448	pfarrer
+59	org__wien-st_stephan	org__wien-st_stephan-kapelle_herzog-altar_st_blasius-messe_poschin_dorothea	Messe Dorothea die Poschin	Messe	 	1	0	1	00966-eintrag_vom_1448-06-07.xml	1448	capplan
+60	org__wien-st_michael	org__wien-st_michael-altar_st_wolfgang-messe_reichel	Reichelmesse auf dem Letter	Messe	 	2	1	1	00969-eintrag_vom_1448-10-30.xml	1448, 1448	seinen nachkomen
+61	org__erdberg-st_paul	org__erdberg-st_paul	Erdberg - St. Paul	Kirche_Kapelle	 	1	1	0	00971-eintrag_vom_1448-12-16.xml	1448	Sand Paul zu Erdpurg
+62	org__wien-st_agnes_auf_der_himmelpforte	org__wien-st_agnes_auf_der_himmelpforte-altar_kreuz	Kreuzaltar	Altar	 	1	1	0	00971-eintrag_vom_1448-12-16.xml	1448	Heiligenkreuczs altar zu der Himlporten
+63	org__wien-st_stephan	org__wien-st_stephan-altar_allerheiligen	Allerheiligenaltar	Altar	 	1	1	0	00971-eintrag_vom_1448-12-16.xml	1448	allerheiligen altar zu Sant Steffan
+64	org__wien-st_stephan	org__wien-st_stephan-altar_allerheiligen-messe_chessler	Messe Heinrich Chessler	Messe	 	2	1	1	00971-eintrag_vom_1448-12-16.xml	1448, 1448	seinen nachkomen
+65	org__passau-domkapitel	org__passau-domkapitel	 	Kirche_Kapelle	 	1	0	1	01146-eintrag_vom_1448-04-12.xml	1448	tumbherren
+66	org__gars-pfarre	org__gars-pfarre	Gars	Pfarre	 	1	0	1	01146-eintrag_vom_1448-04-12.xml	1448	pharrer
+67	org__heiliges_roemisches_reich	org__heiliges_roemisches_reich	Heilige Römische Reich	Reich	 	1	0	1	01146-eintrag_vom_1448-04-12.xml	1448	kanczler
+68	org__wien-st_michael	org__wien-st_michael-messe_gelwaicz_niklas	 	Messe	 	1	1	0	01147-eintrag_vom_1448-04-29.xml	1448	zu Niclasen Gelwaiczen jartag
+69	org__wien-st_michael	org__wien-st_michael-messe_otto_der_furer	 	Messe	 	1	1	0	01147-eintrag_vom_1448-04-29.xml	1448	zu Otten des Furer jartag
+70	org__wien-st_michael	org__wien-st_michael-messe_jost_der_goldschmied	 	Messe	 	1	1	0	01147-eintrag_vom_1448-04-29.xml	1448	zu Josten des Goltsmids jartag
+71	org__wien-st_stephan	org__wien-st_stephan-altar_st_maria-messe_albrecht_bucharzt	 	Messe	 	2	1	1	01241-eintrag_vom_1448-06-21.xml	1448, 1448	seinen nachkomen
+72	org__wien-st_johann_in_der_burg	org__wien-st_johann_in_der_burg	Unser Frauen- und Johanneskapelle in der Burg	Kirche_Kapelle	 	1	0	1	01429-eintrag_vom_1448-02-20.xml	1448	caplan
+73	org__wien-st_georg_kapelle_bei_den_schotten	org__wien-st_georg_kapelle_bei_den_schotten-altar_st_maria	 	Kirche_Kapelle	 	1	1	0	01431-eintrag_vom_1448-07-08.xml	1448	Unser Fraun altar in Sand Jorgen capellen im Tumbrobsthof gelegen
+74	org__wien-st_georg_kapelle_bei_den_schotten	org__wien-st_georg_kapelle_bei_den_schotten-altar_st_maria-messe_leubman_jakob	 	Kirche_Kapelle	 	3	1	2	01431-eintrag_vom_1448-07-08.xml, 01432-eintrag_vom_1448-07-10.xml	1448, 1448, 1448	seinen nachkomen
+75	org__wien-st_georg_kapelle_bei_den_schotten	org__wien-st_georg_kapelle_bei_den_schotten	St. Georgskapelle-bei den Schotten	Kirche_Kapelle	 	4	2	2	01432-eintrag_vom_1448-07-10.xml, 01842-eintrag_vom_1448-11-27.xml	1448, 1448, 1448, 1448	seinen nachkomen
+76	org__wien-st_stephan	org__wien-st_stephan-altar_zwoelfapostel	Zwölfbotenaltar	Altar	 	1	1	0	01767-eintrag_vom_1448-06-23.xml	1448	der zwelfboten altar dacz Sand Steffan
+77	org__wien-st_stephan	org__wien-st_stephan-altar_zwoelfapostel-messe_reidegker	Reidegkermesse	Messe	 	2	1	1	01767-eintrag_vom_1448-06-23.xml	1448, 1448	seinen nachkomen

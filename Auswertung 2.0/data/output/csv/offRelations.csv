@@ -1,0 +1,103 @@
+	ID	sex	off	norm	related ID	rel_sex	collection	xml	year	date	from	to
+0	pe__andreas_kuenringer_StB_I_101	m	gesworner	 	org__wien	 	1_1395-1400	101.xml	1397	1397-01-09		
+1	pe__johann_von_emmersdorf_StB_I_432	m	pharrer	Pfarrer	org__emmersdorf-pfarre	 	1_1395-1400	102.xml	1397	1397-01-13		
+2	pe__stephan_got_StB_I_102	m	richter	Richter	None	 	1_1395-1400	102.xml	1397	1397-01-13		
+3	pe__berthold_lang_QGW_II_I_1488	m	rats	Ratsherr	org__wien	 	1_1395-1400	103.xml	1397	1397-01-23		
+4	pe__johann_ziernast_QGW_II_I_1371	m	rats	Ratsherr	org__wien	 	1_1395-1400	108.xml	1397	1397-02-08		
+5	pe__johann_rokk_QGW_II_I_1371	m	rats	Ratsherr	org__wien	 	1_1395-1400	108.xml	1397	1397-02-08		
+6	pe__niklas_StB_I_108	m	pharrer	Pfarrer	org__sollenau-pfarre	 	1_1395-1400	108.xml	1397	1397-02-08		
+7	pe__georg_StB_I_111	m	vikeri	 	org__wien-st_stephan	 	1_1395-1400	111.xml	1397	1397-02-13		
+8	pe__thomas_StB_I_113	m	leviten	 	org__wien-st_stephan	 	1_1395-1400	113.xml	1397	1397-02-15		
+9	pe__ulrich_StB_I_113	m	echter	 	org__wien-st_stephan	 	1_1395-1400	113.xml	1397	1397-02-15		
+10	pe__johann_StB_I_18	m	vikeri	 	org__wien-st_stephan	 	1_1395-1400	18.xml	1395	1395-12-25		
+11	pe__wolfhard_von_amstetten_QGW_II_I_925	m	urtailschreiber	Schreiber_Urteil	org__wien	 	1_1395-1400	2.xml	1395	1395-11-18		
+12	pe__johann_prentschenk_QGW_II_I_1047	m	anwalt in des herczogen munzze	Muenzanwalt	org__oesterreich-herzogtum	 	1_1395-1400	211.xml	1391	1391-12-15		
+13	pe__stephan_von_asbach_QGW_II_I_1437	m	echter	 	org__wien-st_stephan	 	1_1395-1400	213.xml	1391	1391-12-20		
+14	pe__stephan_von_asbach_QGW_II_I_1437	m	curherr	Kanoniker	org__wien-st_stephan	 	1_1395-1400	214.xml	1391	1391-12-20		
+15	pe__konrad_ymmawer_StB_I_217	m	rat	Ratsherr	org__wien	 	1_1395-1400	217.xml	1398	1398-01-10		
+16	pe__pilgrim_drischler_QGW_II_I_1544	m	rat	Ratsherr	org__wien	 	1_1395-1400	217.xml	1398	1398-01-10		
+17	pe__andreas_vischl_QGW_II_I_1089	m	dez rates ze Wienn	 	org__wien	 	1_1395-1400	25.xml	1396	1396-01-18		
+18	pe__hermann_schiek_QGW_II_I_1353	m	spitalmaister	Spitalmeister	org__wien-buergerspital	 	1_1395-1400	29.xml	1396	1396-01-20		
+19	pe__paul_StB_I_29	m	chaplän	 	org__wien-buergerspital	 	1_1395-1400	29.xml	1396	1396-01-20		
+20	pe__martin_StB_I_29	m	chaplän	 	org__wien-buergerspital	 	1_1395-1400	29.xml	1396	1396-01-20		
+21	pe__johann_StB_I_29	m	chuster	 	org__wien-buergerspital	 	1_1395-1400	29.xml	1396	1396-01-20		
+22	pe__niklas_ratsmyd_StB_I_3	m	des rats ze Wienn	 	org__wien	 	1_1395-1400	3.xml	1395	1395-11-24		
+23	pe__martin_StB_I_30	m	pharrer	Pfarrer	org__oberhautzental-pfarre	 	1_1395-1400	30.xml	1395		1395-01-01	1400-12-31
+24	pe__johann_StB_I_35	m	kaplan	Kaplan	org__wien-st_peter	 	1_1395-1400	35.xml	1396	1396-02-19		
+25	pe__michael_hoellen_StB_I_37	m	richter vor Widmertor ze Wienn	 	org__wien	 	1_1395-1400	37.xml	1396	1396-02-26		
+26	pe__heinrich_duernpeckch_StB_I_37	m	schafffer	 	org__wien-st_martin_vor_dem_widmertor	 	1_1395-1400	37.xml	1396	1396-02-26		
+27	pe__niklas_teuffentaler_StB_I_420	m	marstaller	 	pe__rudolf_iv_herzog_von_oesterreich_QGW_II_I_769	m	1_1395-1400	420.xml	1399	1399-09-16		
+28	pe__martin_von_st_bernhard_StB_I_423	m	maister	Meister_in	org__st_bernhard-zisterzienserinnen	 	1_1395-1400	423.xml	1399	1399-09-16		
+29	pe__laurenz_StB_I_425	m	>chappellan	 	kaplan??	 	1_1395-1400	425.xml	1399	1399-09-16		
+30	pe__johann_rokk_QGW_II_I_1371	m	purgermaister	Buergermeister	org__wien	 	1_1395-1400	428.xml	1399	1399-09-26		
+31	pe__michael_menschein_QGW_II_I_1218	m	rats	Ratsherr	org__wien	 	1_1395-1400	430.xml	1399	1399-09-27		
+32	pe__konrad_hemler_QGW_II_I_1404	m	auzzern rats	 	org__wien	 	1_1395-1400	430.xml	1399	1399-09-27		
+33	pe__johann_von_emmersdorf_StB_I_432	m	pharrer	Pfarrer	org__emmersdorf-pfarre	 	1_1395-1400	432.xml	1399	1399-06-18		
+34	pe__martin_StB_I_432	m	pheiffer	 	pe__albrecht_iii_herzog_von_oesterreich_QGW_II_I_1020	m	1_1395-1400	432.xml	1399	1399-06-18		
+35	pe__konrad_wolkersdorfer_QGW_II_I_1359	m	rats	Ratsherr	org__wien	 	1_1395-1400	436.xml	1395		1395-01-01	1400-12-31
+36	pe__ulrich_reindl_QGW_II_I_1214	m	rats	Ratsherr	org__wien	 	1_1395-1400	436.xml	1395		1395-01-01	1400-12-31
+37	pe__konrad_von_schonnau_QGW_II_I_818	m	kamerschreiber	Schreiber_Kammer	org__oesterreich-herzogtum	 	1_1395-1400	437.xml	1399	1399-10-10		
+38	pe__johann_von_dietreichstokch_QGW_II_I_1028	m	forstmaister	Forstmeister	org__oesterreich-herzogtum	 	1_1395-1400	437.xml	1399	1399-10-10		
+39	pe__balther_StB_I_444	m	schaffer	Schaffer	org__wien-augustiner_eremiten	 	1_1395-1400	444.xml	1399	1399-11-13		
+40	pe__stephan_von_asbach_QGW_II_I_1437	m	curherr	Kanoniker	org__wien-st_stephan	 	1_1395-1400	448.xml	1399	1399-11-15		
+41	pe__bernhard_tuchberaiter_QGW_II_I_1601	m	gesworner des rats	Ratsherr	org__wien	 	1_1395-1400	448.xml	1399	1399-11-15		
+42	pe__ulrich_helbling_ii_QGW_II_I_1414	m	pawmaister	 	org__wien-st_stephan	 	1_1395-1400	448.xml	1399	1399-11-15		
+43	pe__thomas_QGW_II_I_948	m	guster	 	org__wien-st_stephan	 	1_1395-1400	448.xml	1399	1399-11-15		
+44	pe__johann_StB_I_45	m	pharrer	Pfarrer	org__hainfeld-pfarre	 	1_1395-1400	45.xml	1396	1396-03-18		
+45	pe__paul_StB_I_45	m	pharrer	Pfarrer	org__theras-pfarre	 	1_1395-1400	45.xml	1396	1396-03-18		
+46	pe__anton_QGW_II_I_1223	m	brobst	Propst	org__wien-st_stephan	 	1_1395-1400	45.xml	1396	1396-03-18		
+47	pe__niklas_alt_kammerschreiber_StB_I_48	m	der alt Chamerschreiber	 	org__oesterreich-herzogtum	 	1_1395-1400	48.xml	1396	1396-03-21		
+48	pe__niklas_StB_I_49	m	die zeit chappelan ze Sand Jacob auf der Hulben ze Wienn	 	org__wien-st_jakob_auf_der_huelben	 	1_1395-1400	49.xml	1396	1396-04-01		
+49	pe__johann_StB_I_49_b	m	die zeit pharrer ze Greyn	 	org__grein-pfarre	 	1_1395-1400	49.xml	1396	1396-04-01		
+50	pe__albrecht_QGW_II_I_1501	m	zu den zeiten chappellan zu dem chlain Sand Nicla vor Stubentor ze Wienn	 	org__wien-st_niklas_vor_stubentor_kapelle	 	1_1395-1400	53.xml	1396	1396-04-20		
+51	pe__konrad_StB_I_55	m	die zeit parlyr des paws dacz Sand Stephann ze Wienn	 	org__wien-st_stephan	 	1_1395-1400	55.xml	1396	1396-05-02		
+52	pe__berthold_StB_I_57	m	die zeit chirchmaister dacz Sand Michel ze Wienn	 	org__wien-st_michael	 	1_1395-1400	57.xml	1396	1396-05-30		
+53	pe__konrad_innauer_QGW_II_I_1521	m	die zeit des rats ze Wienn	 	org__wien	 	1_1395-1400	62.xml	1396	1396-06-20		
+54	pe__andreas_StB_I_65	m	ir botten und anwalten	 	pe__margarethe_StB_I_65	f	1_1395-1400	65.xml	1396	1396-07-24		
+55	pe__andreas_StB_I_65	m	ir botten und anwalten	 	pe__elisabeth_StB_I_65	f	1_1395-1400	65.xml	1396	1396-07-24		
+56	pe__andreas_StB_I_65	m	ir botten und anwalten	 	pe__diemut_StB_I_65	f	1_1395-1400	65.xml	1396	1396-07-24		
+57	pe__andreas_StB_I_65	m	ir botten und anwalten	 	pe__ortolf_StB_I_65	m	1_1395-1400	65.xml	1396	1396-07-24		
+58	pe__andreas_StB_I_65	m	ir botten und anwalten	 	pe__stephan_StB_I_65	m	1_1395-1400	65.xml	1396	1396-07-24		
+59	pe__andreas_StB_I_65	m	ir botten und anwalten	 	pe__heinrich_a_StB_I_65	m	1_1395-1400	65.xml	1396	1396-07-24		
+60	pe__andreas_StB_I_65	m	ir botten und anwalten	 	pe__katharina_StB_I_65	f	1_1395-1400	65.xml	1396	1396-07-24		
+61	pe__heinrich_b_StB_I_65	m	ir botten und anwalten	 	pe__margarethe_StB_I_65	f	1_1395-1400	65.xml	1396	1396-07-24		
+62	pe__heinrich_b_StB_I_65	m	ir botten und anwalten	 	pe__elisabeth_StB_I_65	f	1_1395-1400	65.xml	1396	1396-07-24		
+63	pe__heinrich_b_StB_I_65	m	ir botten und anwalten	 	pe__diemut_StB_I_65	f	1_1395-1400	65.xml	1396	1396-07-24		
+64	pe__heinrich_b_StB_I_65	m	ir botten und anwalten	 	pe__ortolf_StB_I_65	m	1_1395-1400	65.xml	1396	1396-07-24		
+65	pe__heinrich_b_StB_I_65	m	ir botten und anwalten	 	pe__stephan_StB_I_65	m	1_1395-1400	65.xml	1396	1396-07-24		
+66	pe__heinrich_b_StB_I_65	m	ir botten und anwalten	 	pe__heinrich_a_StB_I_65	m	1_1395-1400	65.xml	1396	1396-07-24		
+67	pe__heinrich_b_StB_I_65	m	ir botten und anwalten	 	pe__katharina_StB_I_65	f	1_1395-1400	65.xml	1396	1396-07-24		
+68	pe__johann_wilhelm_StB_I_65	m	richter ze Engelhartzzell	 	org__engelhartszell-gemeinde	 	1_1395-1400	65.xml	1396	1396-07-24		
+69	pe__markward_von_engelszell_StB_I_65	m	Abpt	Abt_in	org__engelhartszell-zisterzienser	 	1_1395-1400	65.xml	1396	1396-07-24		
+70	pe__johann_von_st_peter_StB_I_67	m	dem erbern priester	 	org__wien-st_peter	 	1_1395-1400	67.xml	1396	1396-07-14		
+71	pe__johann_von_st_peter_StB_I_67	m	die zeit viceri dacz Sand Stephan ze Wienn	 	org__wien-st_stephan	 	1_1395-1400	67.xml	1396	1396-07-14		
+72	pe__johann_von_liechtenstein_QGW_II_I_1037	m	hofmaister in Osterreich	 	org__oesterreich-herzogtum	 	1_1395-1400	70.xml	1392	1392-08-31		
+73	pe__ulrich_zinkk_QGW_II_I_1066a	m	die zeit hubmaister in Osterreich	 	org__oesterreich-herzogtum	 	1_1395-1400	70.xml	1392	1392-08-31		
+74	pe__ulrich_herwart_QGW_II_I_1098	m	die zeit statschreiber zu Wienn	 	org__wien	 	1_1395-1400	70.xml	1392	1392-08-31		
+75	pe__leonhard_urbetsch_QGW_II_I_1033	m	statrichter ze Wienn	Richter_Stadt	org__wien	 	1_1395-1400	74.xml	1396	1396-07-15		
+76	pe__johann_veltsperger_QGW_II_I_1560	m	gesworner des rats	Ratsherr	org__wien	 	1_1395-1400	74.xml	1396	1396-07-15		
+77	pe__paul_holzkaeufel_QGW_II_I_1010	m	purgermaister	Buergermeister	org__wien	 	1_1395-1400	78.xml	1396	1396-08-31		
+78	pe__stephan_leitner_QGW_II_I_1012	m	rats	Ratsherr	org__wien	 	1_1395-1400	78.xml	1396	1396-08-31		
+79	pe__johann_von_kranichberg_QGW_II_I_1372	m	techent	Dechant	org__wien-st_stephan	 	1_1395-1400	8.xml	1395	1395-12-07		
+80	pe__johann_veltsperger_QGW_II_I_1560	m	gesworner des rats	Ratsherr	org__wien	 	1_1395-1400	83.xml	1396	1396-09-14		
+81	pe__konrad_rokk_QGW_II_I_1031	m	gesworner des rats	Ratsherr	org__wien	 	1_1395-1400	84.xml	1396	1396-09-09		
+82	pe__ulrich_ris_QGW_II_I_1368	m	rats	Ratsherr	org__wien	 	1_1395-1400	84.xml	1396	1396-09-09		
+83	pe__rudolf_angerfelder_QGW_II_I_1335	m	rats	Ratsherr	org__wien	 	1_1395-1400	84.xml	1396	1396-09-09		
+84	pe__johann_glockengiesser_QGW_II_I_1654	m	rats	Ratsherr	org__wien	 	1_1395-1400	85.xml	1396	1396-09-28		
+85	pe__johann_glockengiesser_QGW_II_I_1654	m	pharrer zu Ladendorff	 	org__ladendorf-pfarre	 	1_1395-1400	85.xml	1396	1396-09-28		
+86	pe__johann_StB_I_86_a	m	chapplan	Kaplan	org__wien-st_michael-kapelle_st_niklas	 	1_1395-1400	86.xml	1396	1396-09-26		
+87	pe__eberhard_StB_I_86	m	pharrer	Pfarrer	org__hollenstein_an_der_ybbs-pfarre	 	1_1395-1400	86.xml	1396	1396-09-26		
+88	pe__johann_StB_I_86_b	m	pharrer	Pfarrer	org__dobersberg-pfarre	 	1_1395-1400	86.xml	1396	1396-09-26		
+89	pe__johann_StB_I_86_b	m	chorherren	Chorherr	org__wien-st_stephan	 	1_1395-1400	86.xml	1396	1396-09-26		
+90	pe__michael_von_wildberg_StB_I_86	m	pharrer	Pfarrer	org__wildberg-pfarre	 	1_1395-1400	86.xml	1396	1396-09-26		
+91	pe__peter_mann_StB_I_86	m	pharrer	Pfarrer	org__wien-st_michael	 	1_1395-1400	86.xml	1396	1396-09-26		
+92	pe__peter_mann_StB_I_86	m	chappellen	 	org__wien-burgkapelle	 	1_1395-1400	86.xml	1396	1396-09-26		
+93	pe__beatrix_von_zollern_nuernberg_QGW_II_I_1048	f	herzogynn in Osterreich	 	org__oesterreich-herzogtum	 	1_1395-1400	86.xml	1396	1396-09-26		
+94	pe__wilhelm_herzog_von_oesterreich_QGW_II_I_1313	m	herczog	 	org__oesterreich-herzogtum	 	1_1395-1400	86.xml	1396	1396-09-26		
+95	pe__albrecht_iv_herzog_von_oesterreich_QGW_II_I_1332	m	mein genedig herren herczog	 	org__oesterreich-herzogtum	 	1_1395-1400	86.xml	1396	1396-09-26		
+96	pe__heinrich_StB_I_89a	m	pharrer	Pfarrer	org__wien-st_ulrich	 	1_1395-1400	89a.xml	1396	1396-11-24		
+97	pe__heinrich_StB_I_89a	m	curherr	Kanoniker	org__wien-st_stephan	 	1_1395-1400	89a.xml	1396	1396-11-24		
+98	pe__ruediger_snurer_QGW_II_I_1557	m	statrichter	Richter_Stadt	org__wien	 	1_1395-1400	90.xml	1396	1396-11-24		
+99	pe__berthold_StB_I_57	m	chirichmaister	Kirchmeister	org__wien-st_michael	 	1_1395-1400	92.xml	1396	1396-11-28		
+100	pe__berthold_StB_I_57	m	gesworner	 	org__wien	 	1_1395-1400	92.xml	1396	1396-11-28		
+101	pe__stephan_von_sievering_StB_I_99	m	richter	Richter	org__sievering-gemeinde	 	1_1395-1400	99.xml	1397	1397-01-13		

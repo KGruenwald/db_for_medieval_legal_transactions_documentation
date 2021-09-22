@@ -1,0 +1,412 @@
+	ID	sex	kin	norm	related ID	rel_sex	collection	xml	year	date	from	to
+0	pe__stephan_StB_I_10	m	bruder	Bruder	pe__peter_muenzer_StB_I_10	m	1_1395-1400	10.xml	1395	1395-12-07		
+1	pe__konrad_poler_StB_I_10	m	vater	Vater	pe__peter_muenzer_StB_I_10	m	1_1395-1400	10.xml	1395	1395-12-07		
+2	pe__konrad_poler_StB_I_10	m	vater	Vater	pe__stephan_StB_I_10	m	1_1395-1400	10.xml	1395	1395-12-07		
+3	pe__elisabeth_StB_I_10	f	mueter	 	pe__peter_muenzer_StB_I_10	m	1_1395-1400	10.xml	1395	1395-12-07		
+4	pe__elisabeth_StB_I_10	f	mueter	 	pe__stephan_StB_I_10	m	1_1395-1400	10.xml	1395	1395-12-07		
+5	pe__georg_stuerzenhafen_StB_I_100	m	vetter	Vetter	pe__reicher_snuerer_StB_I_100	m	1_1395-1400	100.xml	1397	1397-01-09		
+6	pe__margarethe_StB_I_101	f	wittib	Witwe	pe__georg_von_guntramsdorf_StB_I_101	m	1_1395-1400	101.xml	1397	1397-01-09		
+7	pe__lucia_QGW_II_I_1081	f	wittib	Witwe	pe__heinrich_von_emmersdorf_QGW_II_I_1081	m	1_1395-1400	102.xml	1397	1397-01-13		
+8	pe__johann_von_emmersdorf_StB_I_432	m	sun	Sohn	pe__lucia_QGW_II_I_1081	f	1_1395-1400	102.xml	1397	1397-01-13		
+9	pe__anna_StB_I_103	f	wittib	Witwe	pe__ulrich_chastner_StB_I_103	m	1_1395-1400	103.xml	1397	1397-01-23		
+10	pe__ulrich_chastner_StB_I_103	m	wirt	Ehegatt_in	pe__anna_StB_I_103	f	1_1395-1400	103.xml	1397	1397-01-23		
+11	pe__johann_StB_I_103_a	m	sun	Sohn	pe__ulrich_chastner_StB_I_103	m	1_1395-1400	103.xml	1397	1397-01-23		
+12	pe__stephan_StB_I_103	m	sun	Sohn	pe__endlin_StB_I_103	f	1_1395-1400	103.xml	1397	1397-01-23		
+13	pe__johann_StB_I_103_b	m	swester sun	 	pe__ulrich_chastner_StB_I_103	m	1_1395-1400	103.xml	1397	1397-01-23		
+14	pe__anna_StB_I_103	f	wittib	Witwe	pe__ulrich_chastner_StB_I_103	m	1_1395-1400	104.xml	1397	1397-01-23		
+15	pe__niklas_bader_StB_I_106	m	wirt	Ehegatt_in	pe__katharina_StB_I_106	f	1_1395-1400	106.xml	1397	1397-01-23		
+16	pe__katharina_StB_I_106	f	hawsfrawn	 	pe__niklas_bader_StB_I_106	m	1_1395-1400	106.xml	1397	1397-01-23		
+17	pe__simon_StB_I_106	m	pruder sun	Nichte_Neffe	pe__niklas_bader_StB_I_106	m	1_1395-1400	106.xml	1397	1397-01-23		
+18	pe__elisabeth_StB_I_108	f	witib	Witwe	pe__niklas_chamrer_QGW_II_I_1339	m	1_1395-1400	108.xml	1397	1397-02-08		
+19	pe__niklas_chamrer_QGW_II_I_1339	m	wirt	Ehegatt_in	pe__elisabeth_StB_I_108	f	1_1395-1400	108.xml	1397	1397-02-08		
+20	pe__dietrich_prenner_QGW_II_I_1178	m	swager	Schwager	pe__niklas_chamrer_QGW_II_I_1339	m	1_1395-1400	108.xml	1397	1397-02-08		
+21	pe__peter_velber_StB_I_108	m	bruder	Bruder	pe__niklas_chamrer_QGW_II_I_1339	m	1_1395-1400	108.xml	1397	1397-02-08		
+22	pe__anna_QGW_II_I_1580	f	swester	Schwester	pe__konrad_riemer_QGW_II_I_1580	m	1_1395-1400	109.xml	1397	1397-02-08		
+23	pe__anna_QGW_II_I_1580	f	wittib	Witwe	pe__paul_irrensteig_QGW_II_I_1580	m	1_1395-1400	109.xml	1397	1397-02-08		
+24	pe__anna_StB_I_109	f	enynkchlein	 	pe__anna_QGW_II_I_1580	f	1_1395-1400	109.xml	1397	1397-02-08		
+25	pe__johann_verber_StB_I_109	m	enynkchel	 	pe__anna_QGW_II_I_1580	f	1_1395-1400	109.xml	1397	1397-02-08		
+26	pe__konrad_riemer_QGW_II_I_1580	m	bruder	Bruder	pe__anna_QGW_II_I_1580	f	1_1395-1400	109.xml	1397	1397-02-08		
+27	pe__niklas_StB_I_12	m	sun	Sohn	pe__konrad_goldschmied_StB_I_12	m	1_1395-1400	11.xml	1395	1395-12-07		
+28	pe__elisabeth_StB_I_12	m	swester mueterhalben	 	pe__niklas_StB_I_12	m	1_1395-1400	11.xml	1395	1395-12-07		
+29	pe__elisabeth_StB_I_12	m	wittiben	Witwe	pe__jakob_goldschmied_StB_I_12	m	1_1395-1400	11.xml	1395	1395-12-07		
+30	pe__katharina_StB_I_111	f	hawsfraw	Ehegatt_in	pe__ulrich_vischer_StB_I_111	m	1_1395-1400	111.xml	1397	1397-02-13		
+31	pe__dankward_StB_I_111	m	wirt	Ehegatt_in	pe__katharina_StB_I_111	f	1_1395-1400	111.xml	1397	1397-02-13		
+32	pe__anna_StB_I_113	f	witib	Witwe	pe__reicher_muenzer_StB_I_113	m	1_1395-1400	113.xml	1397	1397-02-15		
+33	pe__reicher_muenzer_StB_I_113	m	wirt	Ehegatt_in	pe__anna_StB_I_113	f	1_1395-1400	113.xml	1397	1397-02-15		
+34	pe__stephan_StB_I_113	m	vetter	Vetter	pe__reicher_muenzer_StB_I_113	m	1_1395-1400	113.xml	1397	1397-02-15		
+35	pe__johann_StB_I_113	m	sun	Sohn	pe__reicher_muenzer_StB_I_113	m	1_1395-1400	113.xml	1397	1397-02-15		
+36	pe__anna_StB_I_113	f	muter	Mutter	pe__johann_StB_I_113	m	1_1395-1400	113.xml	1397	1397-02-15		
+37	pe__anna_StB_I_113	f	hawsfrawn	 	pe__johann_veltzer_StB_I_14	m	1_1395-1400	117.xml	1397	1397-02-15		
+38	pe__niklas_StB_I_12	m	sun	Sohn	pe__konrad_goldschmied_StB_I_12	m	1_1395-1400	12.xml	1395	1395-12-14		
+39	pe__elisabeth_StB_I_12	m	swester mueterhalben	 	pe__niklas_StB_I_12	m	1_1395-1400	12.xml	1395	1395-12-14		
+40	pe__elisabeth_StB_I_12	m	wittib	Witwe	pe__jakob_goldschmied_StB_I_12	m	1_1395-1400	12.xml	1395	1395-12-14		
+41	pe__anna_QGW_II_I_1452	f	swestern	Schwester	pe__ulrich_bei_dem_brunnen_StB_I_13	m	1_1395-1400	13.xml	1395	1395-12-16		
+42	pe__anna_QGW_II_I_1452	f	hawsfrawn	 	pe__liebhard_trukchensprot_QGW_II_I_1452	m	1_1395-1400	13.xml	1395	1395-12-16		
+43	pe__christine_StB_I_13	f	swestern	Schwester	pe__ulrich_bei_dem_brunnen_StB_I_13	m	1_1395-1400	13.xml	1395	1395-12-16		
+44	pe__christine_StB_I_13	f	hawsfrawn	 	pe__siegfried_kuersner_StB_I_13	m	1_1395-1400	13.xml	1395	1395-12-16		
+45	pe__agnes_StB_I_13	f	swestern	Schwester	pe__ulrich_bei_dem_brunnen_StB_I_13	m	1_1395-1400	13.xml	1395	1395-12-16		
+46	pe__agnes_StB_I_13	f	hausfrau	Ehegatt_in	pe__jakob_von_dem_neuberg_StB_I_13	m	1_1395-1400	13.xml	1395	1395-12-16		
+47	pe__enderl_schoen_StB_I_14	m	oheim	Oheim	pe__friedrich_achtsennicht_StB_I_14	m	1_1395-1400	14.xml	1395	1395-12-16		
+48	pe__katharina_StB_I_14	f	tochter	Tochter	pe__enderl_schoen_StB_I_14	m	1_1395-1400	14.xml	1395	1395-12-16		
+49	pe__johann_StB_I_16	m	sun	Sohn	pe__ruediger_guelher_StB_I_15	m	1_1395-1400	15.xml	1395	1395-12-23		
+50	pe__agnes_StB_I_15	f	hawsfrawn	 	pe__ruediger_guelher_StB_I_15	m	1_1395-1400	15.xml	1395	1395-12-23		
+51	pe__ruediger_guelher_StB_I_15	m	vater	Vater	pe__johann_StB_I_16	m	1_1395-1400	16.xml	1395	1395-12-23		
+52	pe__kunigunde_StB_I_17	f	wittib	Witwe	pe__otto_vogler_StB_I_17	m	1_1395-1400	17.xml	1395	1395-12-23		
+53	pe__niklas_StB_I_18	m	vetter	Vetter	pe__simon_neunding_StB_I_427	m	1_1395-1400	18.xml	1395	1395-12-25		
+54	pe__jakob_StB_I_18_b	m	vettern	Vetter	pe__jakob_StB_I_18_a	m	1_1395-1400	18.xml	1395	1395-12-25		
+55	pe__andreas_StB_I_18	m	swager	Schwager	pe__jakob_StB_I_18_a	m	1_1395-1400	18.xml	1395	1395-12-25		
+56	pe__anna_StB_I_19	f	wittib	Witwe	pe__ulrich_chelhaimer_StB_I_19	m	1_1395-1400	19.xml	1395	1395-12-25		
+57	pe__hainczlein_StB_I_19	m	vettern	Vetter	pe__ulrich_chelhaimer_StB_I_19	m	1_1395-1400	19.xml	1395	1395-12-25		
+58	pe__anna_StB_I_19	f	hawsfrawn	 	pe__ulrich_chelhaimer_StB_I_19	m	1_1395-1400	19.xml	1395	1395-12-25		
+59	pe__jakob_reich_StB_I_2	m	ayden	 	pe__wolfhard_von_amstetten_QGW_II_I_925	m	1_1395-1400	2.xml	1395	1395-11-18		
+60	pe__katharina_StB_I_20	f	tochter	Tochter	pe__andreas_schoen_StB_I_20	m	1_1395-1400	20.xml	1395	1395-12-25		
+61	pe__katharina_StB_I_209	f	hawsfraw	Ehegatt_in	pe__niklas_heller_StB_I_209	m	1_1395-1400	209.xml	1397	1397-12-08		
+62	pe__niklas_StB_I_209	m	sun	Sohn	pe__katharina_StB_I_209	f	1_1395-1400	209.xml	1397	1397-12-08		
+63	pe__barbara_StB_I_209	f	endlein	Enkel	pe__katharina_StB_I_209	f	1_1395-1400	209.xml	1397	1397-12-08		
+64	pe__barbara_StB_I_209	f	tochter	Tochter	pe__stephan_bader_StB_I_209	m	1_1395-1400	209.xml	1397	1397-12-08		
+65	pe__elisabeth_StB_I_209	f	tochter	Tochter	pe__katharina_StB_I_209	f	1_1395-1400	209.xml	1397	1397-12-08		
+66	pe__georg_von_hoebersdorf_StB_I_209	m	aydem	Eidam	pe__katharina_StB_I_209	f	1_1395-1400	209.xml	1397	1397-12-08		
+67	pe__niklas_heller_StB_I_209	m	wirt	Ehegatt_in	pe__katharina_StB_I_209	f	1_1395-1400	209.xml	1397	1397-12-08		
+68	pe__hermann_gostaler_StB_I_21	m	wirt	Ehegatt_in	pe__lucia_StB_I_21	f	1_1395-1400	21.xml	1396	1396-01-15		
+69	pe__christine_QGW_II_I_1148	f	hawsfrawn	 	pe__peter_kremser_QGW_II_I_1148	m	1_1395-1400	210.xml	1397	1397-11-24		
+70	pe__klara_StB_I_210	f	hawsfrawn	 	pe__georg_hunrer_StB_I_210	m	1_1395-1400	210.xml	1397	1397-11-24		
+71	pe__sophie_StB_I_211	f	hawsfrawn	 	pe__bartholomaeus_krumling_StB_I_211	m	1_1395-1400	211.xml	1391	1391-12-15		
+72	pe__gertrude_StB_I_211	f	tochter	Tochter	pe__sophie_StB_I_211	f	1_1395-1400	211.xml	1391	1391-12-15		
+73	pe__anna_StB_I_212	f	wittib	Witwe	pe__simon_cheser_StB_I_212	m	1_1395-1400	212.xml	1391	1391-12-18		
+74	pe__simon_cheser_StB_I_212	m	wirt	Ehegatt_in	pe__anna_StB_I_212	f	1_1395-1400	212.xml	1391	1391-12-18		
+75	pe__anna_StB_I_212	f	hawsfrawn	 	pe__simon_cheser_StB_I_212	m	1_1395-1400	212.xml	1391	1391-12-18		
+76	pe__leopold_rockinger_StB_I_213	m	wirt	Ehegatt_in	pe__katharina_StB_I_213	m	1_1395-1400	213.xml	1391	1391-12-20		
+77	pe__katharina_StB_I_213	m	hawsfraw	Ehegatt_in	pe__leopold_rockinger_StB_I_213	m	1_1395-1400	213.xml	1391	1391-12-20		
+78	pe__philipp_StB_I_213	m	enynkchlein	 	pe__leopold_rockinger_StB_I_213	m	1_1395-1400	213.xml	1391	1391-12-20		
+79	pe__philipp_StB_I_213	m	sun	Sohn	pe__simon_neunding_StB_I_427	m	1_1395-1400	213.xml	1391	1391-12-20		
+80	pe__katharina_StB_I_214	f	wittib	Witwe	pe__stephan_paltram_StB_I_214	m	1_1395-1400	214.xml	1391	1391-12-20		
+81	pe__anna_StB_I_217	f	hausfraw	Ehegatt_in	pe__michael_puellsuger_StB_I_217	m	1_1395-1400	217.xml	1398	1398-01-10		
+82	pe__michael_puellsuger_StB_I_217	m	wirt	Ehegatt_in	pe__anna_StB_I_217	f	1_1395-1400	217.xml	1398	1398-01-10		
+83	pe__elisabeth_StB_I_218	f	wittib	Witwe	pe__johann_schoberlein_StB_I_218	m	1_1395-1400	218.xml	1398	1398-01-15		
+84	pe__johann_schoberlein_StB_I_218	m	wirt	Ehegatt_in	pe__elisabeth_StB_I_218	f	1_1395-1400	218.xml	1398	1398-01-15		
+85	pe__katharina_QGW_II_I_876	f	witib	Witwe	pe__peter_weischoph_QGW_II_I_1097	m	1_1395-1400	219.xml	1398	1398-01-19		
+86	pe__peter_weischoph_QGW_II_I_1097	m	wirt	Ehegatt_in	pe__katharina_QGW_II_I_876	f	1_1395-1400	219.xml	1398	1398-01-19		
+87	pe__katharina_QGW_II_I_876	f	hausfrawn	Ehegatt_in	pe__peter_weischoph_QGW_II_I_1097	m	1_1395-1400	219.xml	1398	1398-01-19		
+88	pe__katharina_StB_I_22	f	hawsfrawn	 	pe__wilhelm_von_wulzendorf_StB_I_22	m	1_1395-1400	22.xml	1396	1396-01-15		
+89	pe__michael_StB_I_23	m	geswistreyd chinder	 	pe__margarethe_StB_I_23	f	1_1395-1400	23.xml	1396	1396-01-15		
+90	pe__elisabeth_StB_I_23	f	geswistreyd chinder	 	pe__margarethe_StB_I_23	f	1_1395-1400	23.xml	1396	1396-01-15		
+91	pe__katharina_StB_I_23	f	geswistreyd chinder	 	pe__margarethe_StB_I_23	f	1_1395-1400	23.xml	1396	1396-01-15		
+92	pe__johann_StB_I_23	m	geswistreyd chinder	 	pe__margarethe_StB_I_23	f	1_1395-1400	23.xml	1396	1396-01-15		
+93	pe__anna_StB_I_23	f	geswistreyd chinder	 	pe__margarethe_StB_I_23	f	1_1395-1400	23.xml	1396	1396-01-15		
+94	pe__margarethe_StB_I_23	f	tochter	Tochter	pe__konrad_handschuster_StB_I_23	m	1_1395-1400	23.xml	1396	1396-01-15		
+95	pe__elisabeth_StB_I_24	f	mueter	 	pe__ulrich_graefenauer_StB_I_24	m	1_1395-1400	24.xml	1396	1396-01-18		
+96	pe__elisabeth_StB_I_24	f	rechtew geswistreyd	 	pe__heinrich_von_chruegsperg_StB_I_24	m	1_1395-1400	24.xml	1396	1396-01-18		
+97	pe__heinrich_von_chruegsperg_StB_I_24	m	vater	Vater	pe__paul_StB_I_24	m	1_1395-1400	24.xml	1396	1396-01-18		
+98	pe__heinrich_von_chruegsperg_StB_I_24	m	rechtew geswistreyd	 	pe__andreas_von_od_StB_I_24	m	1_1395-1400	24.xml	1396	1396-01-18		
+99	pe__andreas_von_od_StB_I_24	m	vater	Vater	pe__anna_StB_I_24	f	1_1395-1400	24.xml	1396	1396-01-18		
+100	pe__andreas_von_od_StB_I_24	m	rechtew geswistreyd	 	pe__wolfhard_graefenauer_StB_I_24	m	1_1395-1400	24.xml	1396	1396-01-18		
+101	pe__wolfhard_graefenauer_StB_I_24	m	vater	Vater	pe__wendel_StB_I_24	f	1_1395-1400	24.xml	1396	1396-01-18		
+102	pe__wolfhard_graefenauer_StB_I_24	m	rechtew geswistreyd	 	pe__andreas_graefenauer_StB_I_24	m	1_1395-1400	24.xml	1396	1396-01-18		
+103	pe__andreas_graefenauer_StB_I_24	m	rechtew geswistreyd	 	pe__elisabeth_StB_I_24	f	1_1395-1400	24.xml	1396	1396-01-18		
+104	pe__lucia_naezeugerin_QGW_II_I_1018	f	witiw	 	pe__johann_geschiesser_QGW_II_I_1123	m	1_1395-1400	25.xml	1396	1396-01-18		
+105	pe__dorothea_StB_I_26_a	f	hawsfrawn	 	pe__jakob_reich_StB_I_2	m	1_1395-1400	26.xml	1396	1396-01-18		
+106	pe__dorothea_StB_I_26_b	f	tochter	Tochter	pe__jakob_reich_StB_I_2	m	1_1395-1400	26.xml	1396	1396-01-18		
+107	pe__margarethe_chemlin_StB_I_27	f	hausfrawn	Ehegatt_in	pe__wolfhard_chemml_StB_I_27	m	1_1395-1400	27.xml	1396	1396-02-03		
+108	pe__laurenz_StB_I_27	m	sun	Sohn	pe__konrad_damwachs_StB_I_27	m	1_1395-1400	27.xml	1396	1396-02-03		
+109	pe__anna_StB_I_27	f	hawsfrawn	 	pe__konrad_damwachs_StB_I_27	m	1_1395-1400	27.xml	1396	1396-02-03		
+110	pe__anna_StB_I_27	f	tochter	Tochter	pe__wolfhard_chemml_StB_I_27	m	1_1395-1400	27.xml	1396	1396-02-03		
+111	pe__michael_chemml_StB_I_27	m	bruder	Bruder	pe__anna_StB_I_27	f	1_1395-1400	27.xml	1396	1396-02-03		
+112	pe__michael_chemml_StB_I_27	m	sohn	Sohn	pe__wolfhard_chemml_StB_I_27	m	1_1395-1400	27.xml	1396	1396-02-03		
+113	pe__konrad_StB_I_28	m	sun	Sohn	pe__georg_smerber_StB_I_28	m	1_1395-1400	28.xml	1396	1396-01-20		
+114	pe__max_verber_StB_I_3	m	sun	Sohn	pe__franz_valich_StB_I_3	m	1_1395-1400	3.xml	1395	1395-11-24		
+115	pe__enndlein_StB_I_3	f	tochter	Tochter	pe__max_verber_StB_I_3	m	1_1395-1400	3.xml	1395	1395-11-24		
+116	pe__jakob_heller_StB_I_30	m	pruder	Bruder	pe__andreas_heller_StB_I_30	m	1_1395-1400	30.xml	1395		1395-01-01	1400-12-31
+117	pe__johann_heller_QGW_II_I_1062	m	pruder sun	Nichte_Neffe	pe__andreas_heller_StB_I_30	m	1_1395-1400	30.xml	1395		1395-01-01	1400-12-31
+118	pe__kunigunde_StB_I_32	f	hawsfraw	Ehegatt_in	pe__heinrich_zuzzerman_StB_I_32	m	1_1395-1400	32.xml	1396	1396-01-20		
+119	pe__anna_StB_I_32	f	witib	Witwe	pe__ulrich_von_waidhofen_StB_I_32	m	1_1395-1400	32.xml	1396	1396-01-20		
+120	pe__anna_StB_I_32	f	geswistreyd chind	 	pe__kunigunde_StB_I_32	f	1_1395-1400	32.xml	1396	1396-01-20		
+121	pe__margarethe_StB_I_33	f	hausfrau	Ehegatt_in	pe__leopold_sattler_StB_I_33	m	1_1395-1400	33.xml	1396	1396-02-10		
+122	pe__stephan_StB_I_33	m	sun	Sohn	pe__margarethe_StB_I_33	f	1_1395-1400	33.xml	1396	1396-02-10		
+123	pe__stephan_StB_I_33	m	sun	Sohn	pe__andreas_kurcz_StB_I_33	m	1_1395-1400	33.xml	1396	1396-02-10		
+124	pe__andreas_kurcz_StB_I_33	m	wirt	Ehegatt_in	pe__margarethe_StB_I_33	f	1_1395-1400	33.xml	1396	1396-02-10		
+125	pe__margarethe_StB_I_33	f	hawsfraw	Ehegatt_in	pe__leopold_sattler_StB_I_33	m	1_1395-1400	34.xml	1396	1396-02-12		
+126	pe__stephan_StB_I_33	m	sun	Sohn	pe__margarethe_StB_I_33	f	1_1395-1400	34.xml	1396	1396-02-12		
+127	pe__margarethe_StB_I_33	f	mueter	 	pe__stephan_StB_I_33	m	1_1395-1400	34.xml	1396	1396-02-12		
+128	pe__johann_StB_I_34	m	sun	Sohn	pe__margarethe_StB_I_33	f	1_1395-1400	34.xml	1396	1396-02-12		
+129	pe__johann_StB_I_34	m	sun	Sohn	pe__leopold_sattler_StB_I_33	m	1_1395-1400	34.xml	1396	1396-02-12		
+130	pe__paul_riemer_StB_I_35	m	bruder	Bruder	pe__johann_StB_I_35	m	1_1395-1400	35.xml	1396	1396-02-19		
+131	pe__niklas_riemer_StB_I_35_b	m	bruder	Bruder	pe__johann_StB_I_35	m	1_1395-1400	35.xml	1396	1396-02-19		
+132	pe__paul_riemer_StB_I_35	m	bruder	Bruder	pe__niklas_riemer_StB_I_35_b	m	1_1395-1400	35.xml	1396	1396-02-19		
+133	pe__dorothea_StB_I_35	f	chindes	 	pe__niklas_riemer_StB_I_35_b	m	1_1395-1400	35.xml	1396	1396-02-19		
+134	pe__elisabeth_StB_I_36	f	witib	Witwe	pe__ulrich_schimph_StB_I_36	m	1_1395-1400	36.xml	1396	1396-02-26		
+135	pe__gottfried_purgermaister_StB_I_36	m	wirt	Ehegatt_in	pe__elisabeth_StB_I_36	f	1_1395-1400	36.xml	1396	1396-02-26		
+136	pe__niklas_fleischhacker_StB_I_37	m	pruder	Bruder	pe__michael_hoellen_StB_I_37	m	1_1395-1400	37.xml	1396	1396-02-26		
+137	pe__michael_hoellen_StB_I_37	m	bruder	Bruder	pe__niklas_fleischhacker_StB_I_37	m	1_1395-1400	38.xml	1396	1396-02-26		
+138	pe__stephan_StB_I_39	m	stewfsun	 	pe__johann_seibot_StB_I_39	m	1_1395-1400	39.xml	1396	1396-03-02		
+139	pe__anna_StB_I_39	f	tochter	Tochter	pe__johann_leinboter_StB_I_39	m	1_1395-1400	39.xml	1396	1396-03-02		
+140	pe__anna_StB_I_39	f	geswistreyd chind	 	pe__stephan_StB_I_39	m	1_1395-1400	39.xml	1396	1396-03-02		
+141	pe__anna_StB_I_39	f	hawsfraw	Ehegatt_in	pe__ulrich_dietram_StB_I_4	m	1_1395-1400	4.xml	1395	1395-12-02		
+142	pe__anna_StB_I_39	f	tochter	Tochter	pe__wolfhard_pob_QGW_II_I_1011	m	1_1395-1400	4.xml	1395	1395-12-02		
+143	pe__ulrich_dietram_StB_I_4	m	wirt	Ehegatt_in	pe__anna_StB_I_4	f	1_1395-1400	4.xml	1395	1395-12-02		
+144	pe__friedrich_dietram_QGW_II_I_1026	m	vetter	Vetter	pe__ulrich_dietram_StB_I_4	m	1_1395-1400	4.xml	1395	1395-12-02		
+145	pe__johann_schemnitzer_StB_I_40	m	geswistreid chind	 	pe__ulrich_schemnitzer_StB_I_40	m	1_1395-1400	40.xml	1396	1396-03-02		
+146	pe__anna_StB_I_417	f	hawsfraw(1)	 	pe__niklas_wagner_QGW_II_II_3262	m	1_1395-1400	417.xml	1399	1399-09-13		
+147	pe__anna_StB_I_417	f	tochter	Tochter	pe__johann_schrikcher_StB_I_417	m	1_1395-1400	417.xml	1399	1399-09-13		
+148	pe__anna_StB_I_417	f	rechte geswistreidmuterhalben	 	pe__christine_StB_I_417	f	1_1395-1400	417.xml	1399	1399-09-13		
+149	pe__anna_StB_I_417	f	rechte geswistreidmuterhalben	 	pe__friedrich_kuchenmaister_StB_I_417	m	1_1395-1400	417.xml	1399	1399-09-13		
+150	pe__christine_StB_I_417	f	swester	Schwester	pe__anna_StB_I_417	f	1_1395-1400	417.xml	1399	1399-09-13		
+151	pe__agnes_StB_I_418	f	hawsfraw	Ehegatt_in	pe__blasius_reutter_StB_I_418	m	1_1395-1400	418.xml	1399	1399-09-16		
+152	pe__agnes_StB_I_418	f	swestern gewesen sind von vater und von mueter	 	pe__margarethe_StB_I_418	f	1_1395-1400	418.xml	1399	1399-09-16		
+153	pe__margarethe_StB_I_418	f	hawsfraw	Ehegatt_in	pe__ruediger_prunner_StB_I_418	m	1_1395-1400	418.xml	1399	1399-09-16		
+154	pe__anna_StB_I_419	f	wittib	Witwe	pe__friedrich_preschl_StB_I_419	m	1_1395-1400	419.xml	1399	1399-09-16		
+155	pe__friedrich_preschl_StB_I_419	m	wirt	Ehegatt_in	pe__anna_StB_I_419	f	1_1395-1400	419.xml	1399	1399-09-16		
+156	pe__anna_StB_I_419	f	hawsfrawn	 	pe__friedrich_preschl_StB_I_419	m	1_1395-1400	419.xml	1399	1399-09-16		
+157	pe__elisabeth_StB_I_420	f	witib	Witwe	pe__niklas_vischer_StB_I_420	m	1_1395-1400	420.xml	1399	1399-09-16		
+158	pe__elisabeth_StB_I_420	f	ir rechter bruder gewesen ist von vater und von muter	 	pe__niklas_teuffentaler_StB_I_420	m	1_1395-1400	420.xml	1399	1399-09-16		
+159	pe__margarethe_StB_I_421	f	witib	Witwe	pe__leonhard_kramer_StB_I_421	m	1_1395-1400	421.xml	1399	1399-09-16		
+160	pe__leonhard_kramer_StB_I_421	m	wirt	Ehegatt_in	pe__margarethe_StB_I_421	f	1_1395-1400	421.xml	1399	1399-09-16		
+161	pe__margarethe_StB_I_421	f	hawsfrawn	 	pe__leonhard_kramer_StB_I_421	m	1_1395-1400	421.xml	1399	1399-09-16		
+162	pe__anna_StB_I_422	f	witib	Witwe	pe__johann_pracher_StB_I_422	m	1_1395-1400	422.xml	1399	1399-09-16		
+163	pe__anna_StB_I_422	f	rechtew eleichew tochter gewesen ist	 	pe__michael_schrikcher_StB_I_422	m	1_1395-1400	422.xml	1399	1399-09-16		
+164	pe__jakob_von_st_bernhard_QGW_II_I_1593	m	sun	Sohn	pe__martin_von_st_bernhard_StB_I_423	m	1_1395-1400	423.xml	1399	1399-09-16		
+165	pe__agnes_StB_I_423	f	witib	Witwe	pe__ulrich_melbar_StB_I_423	m	1_1395-1400	423.xml	1399	1399-09-16		
+166	pe__johann_StB_I_423	m	pruder	Bruder	pe__agnes_StB_I_423	f	1_1395-1400	423.xml	1399	1399-09-16		
+167	pe__jakob_von_st_bernhard_QGW_II_I_1593	m	gevattern	 	pe__agnes_StB_I_423	f	1_1395-1400	423.xml	1399	1399-09-16		
+168	pe__niklas_StB_I_424	m	swester sun	 	pe__niklas_teuffentaler_StB_I_420	m	1_1395-1400	424.xml	1396	1396-04-28		
+169	pe__staindl_StB_I_424	f	mum	 	pe__niklas_teuffentaler_StB_I_420	m	1_1395-1400	424.xml	1396	1396-04-28		
+170	pe__elisabeth_StB_I_425	f	mumen	Muhme	pe__niklas_wundarzt_StB_I_425	m	1_1395-1400	425.xml	1399	1399-09-16		
+171	pe__elisabeth_StB_I_425	f	mumen	Muhme	pe__niklas_wundarzt_StB_I_425	m	1_1395-1400	425.xml	1399	1399-09-16		
+172	pe__elisabeth_StB_I_425	f	mumen	Muhme	pe__niklas_wundarzt_StB_I_425	m	1_1395-1400	425.xml	1399	1399-09-16		
+173	pe__elisabeth_StB_I_426_a	f	witib	Witwe	pe__johann_plumenstigel_StB_I_426	m	1_1395-1400	426.xml	1399	1399-09-27		
+174	pe__johann_plumenstigel_StB_I_426	m	wirt	Ehegatt_in	pe__elisabeth_StB_I_426_a	f	1_1395-1400	426.xml	1399	1399-09-27		
+175	pe__elisabeth_StB_I_426_b	f	swester	Schwester	pe__elisabeth_StB_I_426_a	f	1_1395-1400	426.xml	1399	1399-09-27		
+176	pe__sigmund_StB_I_426	m	swager	Schwager	pe__johann_plumenstigel_StB_I_426	m	1_1395-1400	426.xml	1399	1399-09-27		
+177	pe__elisabeth_StB_I_426_a	f	hawsfrawn	 	pe__johann_plumenstigel_StB_I_426	m	1_1395-1400	426.xml	1399	1399-09-27		
+178	pe__ludwig_StB_I_426	m	sun	Sohn	pe__elisabeth_StB_I_426_a	f	1_1395-1400	426.xml	1399	1399-09-27		
+179	pe__anna_StB_I_427	f	hawsfraw	Ehegatt_in	pe__johann_swaeml_QGW_II_I_1073	m	1_1395-1400	427.xml	1399	1399-09-25		
+180	pe__johann_swaeml_QGW_II_I_1073	m	wirt	Ehegatt_in	pe__anna_StB_I_427	f	1_1395-1400	427.xml	1399	1399-09-25		
+181	pe__margarethe_StB_I_429	f	witib	Witwe	pe__konrad_pabenberg_StB_I_429	m	1_1395-1400	429.xml	1399	1399-09-30		
+182	pe__konrad_pabenberg_StB_I_429	m	wirt	Ehegatt_in	pe__margarethe_StB_I_429	f	1_1395-1400	429.xml	1399	1399-09-30		
+183	pe__anna_StB_I_431	f	witib	Witwe	pe__johann_heindl_StB_I_431	m	1_1395-1400	431.xml	1399	1399-09-30		
+184	pe__johann_heindl_StB_I_431	m	wirt	Ehegatt_in	pe__anna_StB_I_431	f	1_1395-1400	431.xml	1399	1399-09-30		
+185	pe__anna_StB_I_431	f	hausfrawn	Ehegatt_in	pe__johann_heindl_StB_I_431	m	1_1395-1400	431.xml	1399	1399-09-30		
+186	pe__anna_StB_I_431	f	hausfrawn	Ehegatt_in	pe__johann_heindl_StB_I_431	m	1_1395-1400	431.xml	1399	1399-09-30		
+187	pe__lucia_QGW_II_I_1081	f	wittib	Witwe	pe__heinrich_von_emmersdorf_QGW_II_I_1081	m	1_1395-1400	432.xml	1399	1399-06-18		
+188	pe__johann_von_emmersdorf_StB_I_432	m	sun	Sohn	pe__lucia_QGW_II_I_1081	f	1_1395-1400	432.xml	1399	1399-06-18		
+189	pe__agnes_StB_I_432	f	hawsfraw	Ehegatt_in	pe__stephan_prenner_StB_I_432	m	1_1395-1400	432.xml	1399	1399-06-18		
+190	pe__agnes_StB_I_432	f	tochter	Tochter	pe__lucia_QGW_II_I_1081	f	1_1395-1400	432.xml	1399	1399-06-18		
+191	pe__elisabeth_StB_I_432	f	hawsfrawn	 	pe__martin_StB_I_432	m	1_1395-1400	432.xml	1399	1399-06-18		
+192	pe__agnes_StB_I_433	f	hausfraw	Ehegatt_in	pe__jakob_StB_I_433	m	1_1395-1400	433.xml	1399	1399-09-30		
+193	pe__gisela_kernerin_StB_I_433	f	swester	Schwester	pe__agnes_StB_I_433	f	1_1395-1400	433.xml	1399	1399-09-30		
+194	pe__elisabeth_StB_I_433	f	chind	 	pe__gisela_kernerin_StB_I_433	f	1_1395-1400	433.xml	1399	1399-09-30		
+195	pe__agnes_StB_I_433	f	swester	Schwester	pe__gisela_kernerin_StB_I_433	f	1_1395-1400	433.xml	1399	1399-09-30		
+196	pe__elisabeth_StB_I_434	f	hausfraw	Ehegatt_in	pe__johann_walthauser_StB_I_434	m	1_1395-1400	434.xml	1399	1399-10-02		
+197	pe__johann_walthauser_StB_I_434	m	wirt	Ehegatt_in	pe__elisabeth_StB_I_434	f	1_1395-1400	434.xml	1399	1399-10-02		
+198	pe__barbara_QGW_II_I_1755	f	chind	 	pe__elisabeth_StB_I_434	f	1_1395-1400	434.xml	1399	1399-10-02		
+199	pe__barbara_QGW_II_I_1755	f	chind	 	pe__johann_walthauser_StB_I_434	m	1_1395-1400	434.xml	1399	1399-10-02		
+200	pe__margarethe_StB_I_435	f	hausfraw	Ehegatt_in	pe__christian_taylenprein_StB_I_435	m	1_1395-1400	435.xml	1399	1399-10-02		
+201	pe__margarethe_StB_I_435	f	enlein	 	pe__friedrich_ratgeb_ii_StB_I_435	m	1_1395-1400	435.xml	1399	1399-10-02		
+202	pe__margarethe_StB_I_435	f	hausfrawn	Ehegatt_in	pe__christian_taylenprein_StB_I_435	m	1_1395-1400	435.xml	1399	1399-10-02		
+203	pe__helena_StB_I_435	f	chind	 	pe__friedrich_ratgeb_ii_StB_I_435	m	1_1395-1400	435.xml	1399	1399-10-02		
+204	pe__dorothea_StB_I_435	f	enlein chind	 	pe__friedrich_ratgeb_ii_StB_I_435	m	1_1395-1400	435.xml	1399	1399-10-02		
+205	pe__dorothea_StB_I_435	f	chind	 	pe__margarethe_StB_I_435	f	1_1395-1400	435.xml	1399	1399-10-02		
+206	pe__agnes_sweldorf_StB_I_435	f	tochter	Tochter	pe__friedrich_ratgeb_ii_StB_I_435	m	1_1395-1400	435.xml	1399	1399-10-02		
+207	pe__sigmund_StB_I_437	m	sun	Sohn	pe__konrad_von_schonnau_QGW_II_I_818	m	1_1395-1400	437.xml	1399	1399-10-10		
+208	pe__diemut_StB_I_438	f	witib	Witwe	pe__georg_spiegel_StB_I_438	m	1_1395-1400	438.xml	1399	1399-10-11		
+209	pe__georg_spiegel_StB_I_438	m	wirt	Ehegatt_in	pe__diemut_StB_I_438	f	1_1395-1400	438.xml	1399	1399-10-11		
+210	pe__diemut_StB_I_438	f	hausfrawn	Ehegatt_in	pe__georg_spiegel_StB_I_438	m	1_1395-1400	438.xml	1399	1399-10-11		
+211	pe__heinrich_chrewzzenczeler_StB_I_44	m	geswistreid chind	 	pe__katharina_StB_I_44	f	1_1395-1400	44.xml	1396	1396-03-14		
+212	pe__johann_ellent_StB_I_433	m	bruder	Bruder	pe__niklas_ellent_StB_I_440	m	1_1395-1400	440.xml	1399	1399-11-06		
+213	pe__katharina_StB_I_440	f	hawsfrawn	 	pe__johann_ellent_StB_I_433	m	1_1395-1400	440.xml	1399	1399-11-06		
+214	pe__niklas_ellent_StB_I_440	m	bruder	Bruder	pe__johann_ellent_StB_I_433	m	1_1395-1400	440.xml	1399	1399-11-06		
+215	pe__johann_gallnroder_QGW_II_I_1303	m	sweher	Schwager	pe__johann_ellent_StB_I_433	m	1_1395-1400	440.xml	1399	1399-11-06		
+216	pe__agnes_QGW_II_I_1469	f	witib	Witwe	pe__andreas_swaeml_QGW_II_I_1140	m	1_1395-1400	441.xml	1399	1399-11-06		
+217	pe__agnes_QGW_II_I_1469	f	muter	Mutter	pe__kolomann_QGW_II_I_1469	m	1_1395-1400	441.xml	1399	1399-11-06		
+218	pe__johann_brunner_StB_I_442	m	zwen recht bruder gewesen sind von vater und von mueter	 	pe__friedrich_brunner_StB_I_442	m	1_1395-1400	442.xml	1399	1399-11-14		
+219	pe__anna_StB_I_443	f	wittib	Witwe	pe__georg_von_dornbach_StB_I_443	m	1_1395-1400	443.xml	1399	1399-11-13		
+220	pe__georg_von_dornbach_StB_I_443	m	wirt	Ehegatt_in	pe__anna_StB_I_443	f	1_1395-1400	443.xml	1399	1399-11-13		
+221	pe__anna_StB_I_443	f	hawsfrawn	 	pe__georg_von_dornbach_StB_I_443	m	1_1395-1400	443.xml	1399	1399-11-13		
+222	pe__stephan_StB_I_443	m	bruder	Bruder	pe__georg_von_dornbach_StB_I_443	m	1_1395-1400	443.xml	1399	1399-11-13		
+223	pe__anna_StB_I_445	f	hawsfraw	Ehegatt_in	pe__johann_snuerer_StB_I_445	m	1_1395-1400	445.xml	1399	1399-11-13		
+224	pe__kunigunde_StB_I_445	f	muemen	Muhme	pe__anna_StB_I_445	f	1_1395-1400	445.xml	1399	1399-11-13		
+225	pe__johann_snuerer_StB_I_445	m	wirt	Ehegatt_in	pe__anna_StB_I_445	f	1_1395-1400	445.xml	1399	1399-11-13		
+226	pe__kunigunde_StB_I_446	f	wittib	Witwe	pe__georg_krainer_StB_I_446	m	1_1395-1400	446.xml	1399		1399-11-01	1399-11-30
+227	pe__georg_krainer_StB_I_446	m	wirt	Ehegatt_in	pe__kunigunde_StB_I_446	f	1_1395-1400	446.xml	1399		1399-11-01	1399-11-30
+228	pe__kunigunde_StB_I_446	f	hawsfraw	Ehegatt_in	pe__georg_krainer_StB_I_446	m	1_1395-1400	446.xml	1399		1399-11-01	1399-11-30
+229	pe__stephan_hanifvogel_StB_I_447	m	sun	Sohn	pe__niklas_hanifvogel_StB_I_447	m	1_1395-1400	447.xml	1399	1399-11-15		
+230	pe__niklas_hanifvogel_StB_I_447	m	vater	Vater	pe__stephan_hanifvogel_StB_I_447	m	1_1395-1400	447.xml	1399	1399-11-15		
+231	pe__johann_StB_I_447	m	bruder	Bruder	pe__stephan_hanifvogel_StB_I_447	m	1_1395-1400	447.xml	1399	1399-11-15		
+232	pe__friedrich_StB_I_447	m	bruder	Bruder	pe__stephan_hanifvogel_StB_I_447	m	1_1395-1400	447.xml	1399	1399-11-15		
+233	pe__christine_StB_I_447	f	swester	Schwester	pe__stephan_hanifvogel_StB_I_447	m	1_1395-1400	447.xml	1399	1399-11-15		
+234	pe__peter_unbeschaiden_StB_I_447	m	swager	Schwager	pe__stephan_hanifvogel_StB_I_447	m	1_1395-1400	447.xml	1399	1399-11-15		
+235	pe__thomas_StB_I_447	m	bruder	Bruder	pe__stephan_hanifvogel_StB_I_447	m	1_1395-1400	447.xml	1399	1399-11-15		
+236	pe__elisabeth_QGW_II_I_1437	f	wittib	Witwe	pe__thomas_QGW_II_I_948	m	1_1395-1400	448.xml	1399	1399-11-15		
+237	pe__goltslacherinn_StB_I_448	f	muemen	Muhme	pe__elisabeth_QGW_II_I_1437	f	1_1395-1400	448.xml	1399	1399-11-15		
+238	pe__anna_StB_I_449_a	f	wittib	Witwe	pe__jakob_peuchlein_StB_I_449	m	1_1395-1400	449.xml	1399	1399-11-15		
+239	pe__anna_StB_I_449_a	f	rechtew geswistreyd chind miteinander gewesen sind	 	pe__anna_StB_I_449_b	f	1_1395-1400	449.xml	1399	1399-11-15		
+240	pe__anna_StB_I_449_b	f	hawsfraw	Ehegatt_in	pe__konrad_bei_dem_gottesacker_QGW_II_I_1489	m	1_1395-1400	449.xml	1399	1399-11-15		
+241	pe__katharina_StB_I_45	f	witib	Witwe	pe__heinrich_kramer_StB_I_45	m	1_1395-1400	45.xml	1396	1396-03-18		
+242	pe__johann_zwettler_StB_I_467_a	m	sun	Sohn	pe__johann_zwettler_StB_I_467_b	m	1_1395-1400	467.xml	1399	1399-12-04		
+243	pe__katharina_StB_I_47	f	hawsfraw	Ehegatt_in	pe__friedrich_mesner_StB_I_47	m	1_1395-1400	47.xml	1396	1396-03-18		
+244	pe__anna_StB_I_48	f	witib	Witwe	pe__johann_schremlein_StB_I_48	m	1_1395-1400	48.xml	1396	1396-03-21		
+245	pe__petermann_schremlein_StB_I_48	m	meinem chind	 	pe__johann_schremlein_StB_I_48	m	1_1395-1400	48.xml	1396	1396-03-21		
+246	pe__petermann_schremlein_StB_I_48	m	das ich bey meiner wirtin der Annen hab	 	pe__anna_StB_I_48	f	1_1395-1400	48.xml	1396	1396-03-21		
+247	pe__johann_blechschmied_StB_I_48	m	mein ayden	 	pe__johann_schremlein_StB_I_48	m	1_1395-1400	48.xml	1396	1396-03-21		
+248	pe__johann_StB_I_49_a	m	frewnt	 	pe__ulrich_slegel_StB_I_49	m	1_1395-1400	49.xml	1396	1396-04-01		
+249	pe__katharina_StB_I_5	f	wittib	Witwe	pe__ruediger_peugl_StB_I_5	m	1_1395-1400	5.xml	1395	1395-12-02		
+250	pe__anna_StB_I_5	f	muemen	Muhme	pe__ruediger_peugl_StB_I_5	m	1_1395-1400	5.xml	1395	1395-12-02		
+251	pe__brigitta_StB_I_50	f	witib	Witwe	pe__konrad_wildbreter_StB_I_50	m	1_1395-1400	50.xml	1396	1396-04-11		
+252	pe__andreas_puechel_StB_I_52	m	sein sun	 	pe__johann_puechel_StB_I_52	m	1_1395-1400	52.xml	1395		1395-01-01	1400-12-31
+253	pe__gertrud_QGW_II_I_830	f	muter	Mutter	pe__hermann_von_eslarn_ii_QGW_II_I_1185	m	1_1395-1400	54.xml	1396	1396-04-29		
+254	pe__gertrud_QGW_II_I_830	f	geswistreyd	 	pe__katharina_zinkkin_StB_I_54	f	1_1395-1400	54.xml	1396	1396-04-29		
+255	pe__gertrud_QGW_II_I_830	f	geswistreyd	 	pe__stephan_fraunschuechl_QGW_II_I_1609	m	1_1395-1400	54.xml	1396	1396-04-29		
+256	pe__katharina_zinkkin_StB_I_54	f	muter	Mutter	pe__johann_zinkk_QGW_II_I_1645	m	1_1395-1400	54.xml	1396	1396-04-29		
+257	pe__katharina_zinkkin_StB_I_54	f	geswistreyd	 	pe__gertrud_QGW_II_I_830	f	1_1395-1400	54.xml	1396	1396-04-29		
+258	pe__katharina_zinkkin_StB_I_54	f	geswistreyd	 	pe__stephan_fraunschuechl_QGW_II_I_1609	m	1_1395-1400	54.xml	1396	1396-04-29		
+259	pe__stephan_fraunschuechl_QGW_II_I_1609	m	geswistreyd	 	pe__gertrud_QGW_II_I_830	f	1_1395-1400	54.xml	1396	1396-04-29		
+260	pe__stephan_fraunschuechl_QGW_II_I_1609	m	geswistreyd	 	pe__katharina_zinkkin_StB_I_54	f	1_1395-1400	54.xml	1396	1396-04-29		
+261	pe__elisabeth_StB_I_55	f	witiben	Witwe	pe__peter_resch_StB_I_55	m	1_1395-1400	55.xml	1396	1396-05-02		
+262	pe__wenzel_leinwander_StB_I_56	m	ir man	 	pe__katharina_StB_I_56	f	1_1395-1400	56.xml	1396	1396-04-21		
+263	pe__katharina_StB_I_56	f	tochter	Tochter	pe__niklas_eisengraber_StB_I_56	m	1_1395-1400	56.xml	1396	1396-04-21		
+264	pe__niklas_StB_I_57	m	sun	Sohn	pe__dietrich_sneider_StB_I_57	m	1_1395-1400	57.xml	1396	1396-05-30		
+265	pe__margarethe_StB_I_59	f	hawsfraw	Ehegatt_in	pe__heinrich_fleischhacker_StB_I_59	m	1_1395-1400	59.xml	1396	1396-06-06		
+266	pe__heinrich_fleischhacker_StB_I_59	m	des Gumppendorffer aydem	 	None	 	1_1395-1400	59.xml	1396	1396-06-06		
+267	pe__klara_StB_I_59	f	hawsfrawn	 	pe__georg_StB_I_59	m	1_1395-1400	59.xml	1396	1396-06-06		
+268	pe__klara_StB_I_59	f	geswistreyd chind	 	pe__margarethe_StB_I_59	f	1_1395-1400	59.xml	1396	1396-06-06		
+269	pe__heinrich_soldner_StB_I_6	m	wirt	Ehegatt_in	pe__katharina_StB_I_6	f	1_1395-1400	6.xml	1395	1395-12-02		
+270	pe__soldnerin_StB_I_6	f	muemen	Muhme	pe__heinrich_soldner_StB_I_6	m	1_1395-1400	6.xml	1395	1395-12-02		
+271	pe__katharina_StB_I_6	f	hawsfrawn	 	pe__heinrich_soldner_StB_I_6	m	1_1395-1400	6.xml	1395	1395-12-02		
+272	pe__christine_StB_I_6	f	tochter	Tochter	pe__heinrich_soldner_StB_I_6	m	1_1395-1400	6.xml	1395	1395-12-02		
+273	pe__johann_schmelz_StB_I_60	m	pruder	Bruder	pe__niklas_schmelz_StB_I_60	m	1_1395-1400	60.xml	1396	1396-06-17		
+274	pe__niklas_schmelz_StB_I_60	m	pruder	Bruder	pe__johann_schmelz_StB_I_60	m	1_1395-1400	60.xml	1396	1396-06-17		
+275	pe__pilgrim_StB_I_61	m	sun	Sohn	pe__pilgrim_von_wullersdorf_StB_I_61	m	1_1395-1400	61.xml	1396	1396-06-20		
+276	pe__pilgrim_von_wullersdorf_StB_I_61	m	sun	Sohn	pe__pilgrim_StB_I_61	m	1_1395-1400	61.xml	1396	1396-06-20		
+277	pe__margarethe_StB_I_62_a	f	sein mueter	 	pe__pilgrim_StB_I_61	m	1_1395-1400	62.xml	1396	1396-06-20		
+278	pe__margarethe_StB_I_62_a	f	witiben	Witwe	pe__pilgrim_von_wullersdorf_StB_I_61	m	1_1395-1400	62.xml	1396	1396-06-20		
+279	pe__margarethe_StB_I_62_a	f	witiben	Witwe	pe__weichart_snaeczl_StB_I_62	m	1_1395-1400	62.xml	1396	1396-06-20		
+280	pe__anna_scheczlin_StB_I_62	f	meiner muemen	 	pe__margarethe_StB_I_62_a	f	1_1395-1400	62.xml	1396	1396-06-20		
+281	pe__gold_StB_I_63	f	witib	Witwe	pe__ulrich_an_dem_ort_StB_I_63	m	1_1395-1400	63.xml	1396	1396-06-27		
+282	pe__gundolt_StB_I_63	m	rechten pruder	 	pe__gold_StB_I_63	f	1_1395-1400	63.xml	1396	1396-06-27		
+283	pe__johann_StB_I_63	m	sun	Sohn	pe__gundolt_StB_I_63	m	1_1395-1400	63.xml	1396	1396-06-27		
+284	pe__elisabeth_StB_I_64	f	witibe	Witwe	pe__konrad_schnurrer_StB_I_64	m	1_1395-1400	64.xml	1396	1396-06-27		
+285	pe__margarethe_StB_I_65	f	geswistreid chind	 	pe__andreas_graefenauer_StB_I_24	m	1_1395-1400	65.xml	1396	1396-07-24		
+286	pe__elisabeth_StB_I_65	f	geswistreid chind	 	pe__andreas_graefenauer_StB_I_24	m	1_1395-1400	65.xml	1396	1396-07-24		
+287	pe__diemut_StB_I_65	f	geswistreid chind	 	pe__andreas_graefenauer_StB_I_24	m	1_1395-1400	65.xml	1396	1396-07-24		
+288	pe__ortolf_StB_I_65	m	geswistreid chind	 	pe__andreas_graefenauer_StB_I_24	m	1_1395-1400	65.xml	1396	1396-07-24		
+289	pe__stephan_StB_I_65	m	geswistreid chind	 	pe__andreas_graefenauer_StB_I_24	m	1_1395-1400	65.xml	1396	1396-07-24		
+290	pe__heinrich_a_StB_I_65	m	geswistreid chind	 	pe__andreas_graefenauer_StB_I_24	m	1_1395-1400	65.xml	1396	1396-07-24		
+291	pe__katharina_StB_I_65	f	geswistreid chind	 	pe__andreas_graefenauer_StB_I_24	m	1_1395-1400	65.xml	1396	1396-07-24		
+292	pe__margarethe_QGW_II_I_1494	f	sein hawsfraw	 	pe__andreas_pierbaumer_QGW_II_I_1494	m	1_1395-1400	66.xml	1396	1396-07-08		
+293	pe__stephan_StB_I_66	m	ir paider sun	 	pe__andreas_pierbaumer_QGW_II_I_1494	m	1_1395-1400	66.xml	1396	1396-07-08		
+294	pe__stephan_StB_I_66	m	ir paider sun	 	pe__margarethe_QGW_II_I_1494	f	1_1395-1400	66.xml	1396	1396-07-08		
+295	pe__margarethe_QGW_II_I_1494	f	seiner muter	 	pe__stephan_StB_I_66	m	1_1395-1400	66.xml	1396	1396-07-08		
+296	pe__margarethe_StB_I_68	f	wittib	Witwe	pe__hermann_handschuster_StB_I_68	m	1_1395-1400	68.xml	1396	1396-07-18		
+297	pe__hermann_handschuster_StB_I_68	m	ir wirt	 	pe__margarethe_StB_I_68	f	1_1395-1400	68.xml	1396	1396-07-18		
+298	pe__margarethe_StB_I_68	f	seiner hawsfrawn	 	pe__hermann_handschuster_StB_I_68	m	1_1395-1400	68.xml	1396	1396-07-18		
+299	pe__engel_StB_I_69	f	hawsfraw	Ehegatt_in	pe__dietrich_swentenbein_StB_I_69	m	1_1395-1400	69.xml	1396	1396-07-18		
+300	pe__johann_nimervol_StB_I_69	m	irm sun	 	pe__engel_StB_I_69	f	1_1395-1400	69.xml	1396	1396-07-18		
+301	pe__kaspar_QGW_II_I_1347	m	chinder	Kind	pe__stephan_frauendorfer_ii_QGW_II_I_1339	m	1_1395-1400	7.xml	1395	1395-12-04		
+302	pe__wolfgang_QGW_II_I_1347	m	chinder	Kind	pe__stephan_frauendorfer_ii_QGW_II_I_1339	m	1_1395-1400	7.xml	1395	1395-12-04		
+303	pe__esther_QGW_II_I_1347	f	chinder	Kind	pe__stephan_frauendorfer_ii_QGW_II_I_1339	m	1_1395-1400	7.xml	1395	1395-12-04		
+304	pe__martha_QGW_II_I_1347	f	chinder	Kind	pe__stephan_frauendorfer_ii_QGW_II_I_1339	m	1_1395-1400	7.xml	1395	1395-12-04		
+305	pe__jakob_chetner_ii_QGW_II_I_1040	m	geswystreyd enynkchel	 	pe__kaspar_QGW_II_I_1347	m	1_1395-1400	7.xml	1395	1395-12-04		
+306	pe__jakob_chetner_ii_QGW_II_I_1040	m	geswystreyd enynkchel	 	pe__wolfgang_QGW_II_I_1347	m	1_1395-1400	7.xml	1395	1395-12-04		
+307	pe__jakob_chetner_ii_QGW_II_I_1040	m	geswystreyd enynkchel	 	pe__esther_QGW_II_I_1347	f	1_1395-1400	7.xml	1395	1395-12-04		
+308	pe__jakob_chetner_ii_QGW_II_I_1040	m	geswystreyd enynkchel	 	pe__martha_QGW_II_I_1347	f	1_1395-1400	7.xml	1395	1395-12-04		
+309	pe__regina_QGW_II_I_1367	f	meiner tachter	 	pe__michael_vinkch_QGW_II_I_1082	m	1_1395-1400	70.xml	1392	1392-08-31		
+310	pe__anna_StB_I_70	f	meiner hawsfrawn	 	pe__michael_vinkch_QGW_II_I_1082	m	1_1395-1400	70.xml	1392	1392-08-31		
+311	pe__katharina_hausleitterin_StB_I_70	f	meiner swester	 	pe__michael_vinkch_QGW_II_I_1082	m	1_1395-1400	70.xml	1392	1392-08-31		
+312	pe__leonhard_hausleitter_QGW_II_I_1367	m	kindern	Kind	pe__katharina_hausleitterin_StB_I_70	f	1_1395-1400	70.xml	1392	1392-08-31		
+313	pe__leonhard_hausleitter_QGW_II_I_1367	m	kindern	Kind	pe__michael_vinkch_QGW_II_I_1082	m	1_1395-1400	70.xml	1392	1392-08-31		
+314	pe__katharina_QGW_II_I_1367	f	seiner swester	 	pe__leonhard_hausleitter_QGW_II_I_1367	m	1_1395-1400	70.xml	1392	1392-08-31		
+315	pe__katharina_QGW_II_I_1367	f	kindern	Kind	pe__katharina_hausleitterin_StB_I_70	f	1_1395-1400	70.xml	1392	1392-08-31		
+316	pe__katharina_QGW_II_I_1367	f	kindern	Kind	pe__michael_vinkch_QGW_II_I_1082	m	1_1395-1400	70.xml	1392	1392-08-31		
+317	pe__katharina_QGW_II_I_1367	f	hawsfrawn	 	pe__konrad_maushaimer_QGW_II_I_1208	m	1_1395-1400	70.xml	1392	1392-08-31		
+318	pe__katharina_hausleitterin_StB_I_70	f	mein swester	 	pe__michael_vinkch_QGW_II_I_1082	m	1_1395-1400	70.xml	1392	1392-08-31		
+319	pe__michael_rennesel_QGW_II_I_1367	m	mein ohem	 	pe__michael_vinkch_QGW_II_I_1082	m	1_1395-1400	70.xml	1392	1392-08-31		
+320	pe__georg_von_nikolsburg_QGW_II_I_1010	m	meinem lieben ohem	 	pe__michael_vinkch_QGW_II_I_1082	m	1_1395-1400	70.xml	1392	1392-08-31		
+321	pe__johann_mertinger_QGW_II_I_1093bis	m	meinen liben swegern	 	pe__michael_vinkch_QGW_II_I_1082	m	1_1395-1400	70.xml	1392	1392-08-31		
+322	pe__konrad_maushaimer_QGW_II_I_1208	m	meinen liben swegern	 	pe__michael_vinkch_QGW_II_I_1082	m	1_1395-1400	70.xml	1392	1392-08-31		
+323	pe__georg_von_nikolsburg_QGW_II_I_1010	m	meinem ohem	 	pe__michael_vinkch_QGW_II_I_1082	m	1_1395-1400	70.xml	1392	1392-08-31		
+324	pe__ulrich_zinkk_QGW_II_I_1066a	m	meinen lieben swager	 	pe__michael_vinkch_QGW_II_I_1082	m	1_1395-1400	70.xml	1392	1392-08-31		
+325	pe__katharina_StB_I_71	f	witib	Witwe	pe__zacharias_tuchbereiter_StB_I_71	m	1_1395-1400	71.xml	1396	1396-08-08		
+326	pe__klara_StB_I_71	f	kinden	 	pe__katharina_StB_I_71	f	1_1395-1400	71.xml	1396	1396-08-08		
+327	pe__klara_StB_I_71	f	kinden	 	pe__zacharias_tuchbereiter_StB_I_71	m	1_1395-1400	71.xml	1396	1396-08-08		
+328	pe__anna_StB_I_71	f	kinden	 	pe__zacharias_tuchbereiter_StB_I_71	m	1_1395-1400	71.xml	1396	1396-08-08		
+329	pe__anna_StB_I_71	f	kinden	 	pe__katharina_StB_I_71	f	1_1395-1400	71.xml	1396	1396-08-08		
+330	pe__kunigunde_StB_I_71	f	kinden	 	pe__zacharias_tuchbereiter_StB_I_71	m	1_1395-1400	71.xml	1396	1396-08-08		
+331	pe__kunigunde_StB_I_71	f	kinden	 	pe__katharina_StB_I_71	f	1_1395-1400	71.xml	1396	1396-08-08		
+332	pe__helena_StB_I_71	f	kinden	 	pe__zacharias_tuchbereiter_StB_I_71	m	1_1395-1400	71.xml	1396	1396-08-08		
+333	pe__helena_StB_I_71	f	kinden	 	pe__katharina_StB_I_71	f	1_1395-1400	71.xml	1396	1396-08-08		
+334	pe__stephan_StB_I_71	m	kinden	 	pe__zacharias_tuchbereiter_StB_I_71	m	1_1395-1400	71.xml	1396	1396-08-08		
+335	pe__stephan_StB_I_71	m	kinden	 	pe__katharina_StB_I_71	f	1_1395-1400	71.xml	1396	1396-08-08		
+336	pe__klara_StB_I_72	f	hausfraw	Ehegatt_in	pe__andreas_ameistaler_StB_I_72	m	1_1395-1400	72.xml	1396	1396-08-08		
+337	pe__klara_StB_I_72	f	rechtew geswistreyd kind	 	pe__katharina_StB_I_72	f	1_1395-1400	72.xml	1396	1396-08-08		
+338	pe__klara_StB_I_72	f	rechtew geswistreyd kind	 	pe__michael_affer_QGW_II_I_1491	m	1_1395-1400	72.xml	1396	1396-08-08		
+339	pe__katharina_StB_I_72	f	tochter	Tochter	pe__wolfhard_vorster_StB_I_72	m	1_1395-1400	72.xml	1396	1396-08-08		
+340	pe__katharina_StB_I_72	f	rechtew geswistreyd kind	 	pe__klara_StB_I_72	f	1_1395-1400	72.xml	1396	1396-08-08		
+341	pe__katharina_StB_I_72	f	rechtew geswistreyd kind	 	pe__michael_affer_QGW_II_I_1491	m	1_1395-1400	72.xml	1396	1396-08-08		
+342	pe__anna_StB_I_73	f	hawsfraw	Ehegatt_in	pe__konrad_ganiczer_StB_I_73	m	1_1395-1400	73.xml	1396	1396-08-17		
+343	pe__anna_StB_I_73	f	rechtew swester tochter	 	pe__bernhard_wechsl_von_hainfeld_StB_I_73	m	1_1395-1400	73.xml	1396	1396-08-17		
+344	pe__anna_StB_I_73	f	rechtew swester tochter	 	pe__margarethe_StB_I_73	f	1_1395-1400	73.xml	1396	1396-08-17		
+345	pe__margarethe_StB_I_73	f	rechtew swester	 	pe__bernhard_wechsl_von_hainfeld_StB_I_73	m	1_1395-1400	73.xml	1396	1396-08-17		
+346	pe__margarethe_StB_I_73	f	hawsfrawn	 	pe__thomas_apotheker_StB_I_73	m	1_1395-1400	73.xml	1396	1396-08-17		
+347	pe__susanne_StB_I_74	f	witib	Witwe	pe__leonhard_urbetsch_QGW_II_I_1033	m	1_1395-1400	74.xml	1396	1396-07-15		
+348	pe__konrad_vorlauf_QGW_II_I_1320	m	meinem swager	 	pe__leonhard_urbetsch_QGW_II_I_1033	m	1_1395-1400	74.xml	1396	1396-07-15		
+349	pe__kunigunde_StB_I_75	f	hausfraw	Ehegatt_in	pe__ulrich_zimmermann_StB_I_75	m	1_1395-1400	75.xml	1396	1396-08-29		
+350	pe__kunigunde_StB_I_75	f	rechter bruder	 	pe__kunigunde_StB_I_75	f	1_1395-1400	75.xml	1396	1396-08-29		
+351	pe__elisabeth_StB_I_76	f	die der vorgenant Ulreich erczogen hat	 	pe__ulrich_scheczl_StB_I_76	m	1_1395-1400	76.xml	1396	1396-08-29		
+352	pe__elisabeth_StB_I_76	f	die der vorgenant Ulreich erczogen hat	 	pe__ulrich_scheczl_StB_I_76	m	1_1395-1400	76.xml	1396	1396-08-29		
+353	pe__sigmund_StB_I_76	m	bruder sun	Nichte_Neffe	pe__ulrich_scheczl_StB_I_76	m	1_1395-1400	76.xml	1396	1396-08-29		
+354	pe__barbara_QGW_II_I_1347	f	tochter	Tochter	pe__otto_maidwiser_QGW_II_I_1347	m	1_1395-1400	77.xml	1396	1396-08-31		
+355	pe__barbara_QGW_II_I_1347	f	geswistreyd enynkchl	 	pe__jakob_chetner_iii_QGW_II_I_1339	m	1_1395-1400	77.xml	1396	1396-08-31		
+356	pe__jakob_chetner_iii_QGW_II_I_1339	m	sun	Sohn	pe__konrad_chetner_QGW_II_I_1339	m	1_1395-1400	77.xml	1396	1396-08-31		
+357	pe__jakob_chetner_iii_QGW_II_I_1339	m	geswistreyd enynkchl	 	pe__barbara_QGW_II_I_1347	f	1_1395-1400	77.xml	1396	1396-08-31		
+358	pe__niklas_chamrer_QGW_II_I_1339	m	rechtew geswistreyd chind	 	pe__katharina_QGW_II_I_990	f	1_1395-1400	78.xml	1396	1396-08-31		
+359	pe__katharina_QGW_II_I_990	f	mueter	 	pe__jakob_chetner_iii_QGW_II_I_1339	m	1_1395-1400	78.xml	1396	1396-08-31		
+360	pe__katharina_QGW_II_I_990	f	rechtew geswistreyd chind	 	pe__niklas_chamrer_QGW_II_I_1339	m	1_1395-1400	78.xml	1396	1396-08-31		
+361	pe__jakob_von_voitsperg_QGW_II_I_1347	m	geswistreyd enynkchl	 	pe__jakob_chetner_iii_QGW_II_I_1339	m	1_1395-1400	79.xml	1396	1396-08-31		
+362	pe__jakob_chetner_iii_QGW_II_I_1339	m	sun	Sohn	pe__konrad_chetner_QGW_II_I_1339	m	1_1395-1400	79.xml	1396	1396-08-31		
+363	pe__katharina_StB_I_8	f	hawsfraw	Ehegatt_in	pe__georg_StB_I_8	m	1_1395-1400	8.xml	1395	1395-12-07		
+364	pe__georg_StB_I_8	m	wirt	Ehegatt_in	pe__katharina_StB_I_8	f	1_1395-1400	8.xml	1395	1395-12-07		
+365	pe__elisabeth_nicolaynn_StB_I_8	f	swester	Schwester	pe__katharina_StB_I_8	f	1_1395-1400	8.xml	1395	1395-12-07		
+366	pe__johann_chamrer_QGW_II_I_1347	m	sun	Sohn	pe__heinrich_chamrer_QGW_II_I_1516	m	1_1395-1400	80.xml	1396	1396-08-31		
+367	pe__katharina_QGW_II_I_990	f	mueter	 	pe__jakob_chetner_iii_QGW_II_I_1339	m	1_1395-1400	80.xml	1396	1396-08-31		
+368	pe__katharina_QGW_II_I_990	f	geswistreyd chind	 	pe__johann_chamrer_QGW_II_I_1347	m	1_1395-1400	80.xml	1396	1396-08-31		
+369	pe__margarethe_StB_I_81	f	wittib	Witwe	pe__johann_pehem_StB_I_81	m	1_1395-1400	81.xml	1396	1396-08-23		
+370	pe__katharina_QGW_II_I_1337	f	witib	Witwe	pe__konrad_payr_QGW_II_I_1337	m	1_1395-1400	82.xml	1396	1396-09-07		
+371	pe__konrad_payr_QGW_II_I_1337	m	wirt	Ehegatt_in	pe__katharina_QGW_II_I_1337	f	1_1395-1400	82.xml	1396	1396-09-07		
+372	pe__margarethe_StB_I_83	f	wittib	Witwe	pe__stephan_hueter_StB_I_83	m	1_1395-1400	83.xml	1396	1396-09-14		
+373	pe__konrad_StB_I_83	m	enynkchlein	 	pe__stephan_hueter_StB_I_83	m	1_1395-1400	83.xml	1396	1396-09-14		
+374	pe__heinrich_eckel_StB_I_89a	m	vatter	 	pe__heinrich_StB_I_89a	m	1_1395-1400	89a.xml	1396	1396-11-24		
+375	pe__johann_StB_I_89a	m	bruder	Bruder	pe__heinrich_StB_I_89a	m	1_1395-1400	89a.xml	1396	1396-11-24		
+376	pe__johann_StB_I_89a	m	geswistreyden	 	pe__anna_StB_I_89a	f	1_1395-1400	89a.xml	1396	1396-11-24		
+377	pe__johann_StB_I_89a	m	geswistreyden	 	pe__elisabeth_StB_I_89a	f	1_1395-1400	89a.xml	1396	1396-11-24		
+378	pe__anna_StB_I_89a	f	swestern	Schwester	pe__heinrich_StB_I_89a	m	1_1395-1400	89a.xml	1396	1396-11-24		
+379	pe__anna_StB_I_89a	f	geswistreyden	 	pe__johann_StB_I_89a	m	1_1395-1400	89a.xml	1396	1396-11-24		
+380	pe__anna_StB_I_89a	f	geswistreyden	 	pe__elisabeth_StB_I_89a	f	1_1395-1400	89a.xml	1396	1396-11-24		
+381	pe__anna_StB_I_89a	f	hausfrawn	Ehegatt_in	pe__stephan_eckel_StB_I_89a	m	1_1395-1400	89a.xml	1396	1396-11-24		
+382	pe__elisabeth_StB_I_89a	f	swestern	Schwester	pe__heinrich_StB_I_89a	m	1_1395-1400	89a.xml	1396	1396-11-24		
+383	pe__elisabeth_StB_I_89a	f	geswistreyden	 	pe__johann_StB_I_89a	m	1_1395-1400	89a.xml	1396	1396-11-24		
+384	pe__elisabeth_StB_I_89a	f	geswistreyden	 	pe__anna_StB_I_89a	f	1_1395-1400	89a.xml	1396	1396-11-24		
+385	pe__elisabeth_StB_I_89a	f	hausfrawn	Ehegatt_in	pe__peter_eckel_StB_I_89a	m	1_1395-1400	89a.xml	1396	1396-11-24		
+386	pe__friedrich_StB_I_9_b	m	enen	Enkel	pe__johann_schreibermeister_StB_I_9	m	1_1395-1400	9.xml	1395	1395-12-07		
+387	pe__margarethe_StB_I_90	f	witib	Witwe	pe__konrad_rotenleimer_StB_I_90	m	1_1395-1400	90.xml	1396	1396-11-24		
+388	pe__margarethe_StB_I_91_a	f	hausfrawn	Ehegatt_in	pe__niklas_wagner_StB_I_91	m	1_1395-1400	91.xml	1396	1396-11-24		
+389	pe__heinrich_StB_I_91	m	geswistreyden	 	pe__margarethe_StB_I_91_a	f	1_1395-1400	91.xml	1396	1396-11-24		
+390	pe__heinrich_StB_I_91	m	geswistreyden	 	pe__elisabeth_StB_I_91	f	1_1395-1400	91.xml	1396	1396-11-24		
+391	pe__elisabeth_StB_I_91	f	geswistreyden	 	pe__margarethe_StB_I_91_a	f	1_1395-1400	91.xml	1396	1396-11-24		
+392	pe__elisabeth_StB_I_91	f	geswistreyden	 	pe__heinrich_StB_I_91	m	1_1395-1400	91.xml	1396	1396-11-24		
+393	pe__friedrich_laemmlein_StB_I_91	m	vatter	 	pe__margarethe_StB_I_91_a	f	1_1395-1400	91.xml	1396	1396-11-24		
+394	pe__friedrich_laemmlein_StB_I_91	m	vatter	 	pe__heinrich_StB_I_91	m	1_1395-1400	91.xml	1396	1396-11-24		
+395	pe__friedrich_laemmlein_StB_I_91	m	vatter	 	pe__elisabeth_StB_I_91	f	1_1395-1400	91.xml	1396	1396-11-24		
+396	pe__margarethe_StB_I_91_b	f	mueter	 	pe__margarethe_StB_I_91_a	f	1_1395-1400	91.xml	1396	1396-11-24		
+397	pe__margarethe_StB_I_91_b	f	mueter	 	pe__heinrich_StB_I_91	m	1_1395-1400	91.xml	1396	1396-11-24		
+398	pe__margarethe_StB_I_91_b	f	mueter	 	pe__elisabeth_StB_I_91	f	1_1395-1400	91.xml	1396	1396-11-24		
+399	pe__elisabeth_StB_I_92	f	hawsfraw	Ehegatt_in	pe__niklas_schuster_StB_I_92	m	1_1395-1400	92.xml	1396	1396-11-28		
+400	pe__margarethe_StB_I_93	f	witib	Witwe	pe__johann_taglein_StB_I_93	m	1_1395-1400	93.xml	1396	1396-11-28		
+401	pe__anna_StB_I_94	f	hawsfraw	Ehegatt_in	pe__niklas_peschinger_StB_I_94	m	1_1395-1400	94.xml	1396	1396-12-02		
+402	pe__agnes_StB_I_43	f	töchter	Tochter	pe__anna_StB_I_94	f	1_1395-1400	94.xml	1396	1396-12-02		
+403	pe__anna_StB_I_95	f	witib	Witwe	pe__niklas_porz_StB_I_95	m	1_1395-1400	95.xml	1396	1396-12-02		
+404	pe__katharina_StB_I_97	f	witib	Witwe	pe__konrad_scheczl_StB_I_97	m	1_1395-1400	97.xml	1396	1396-12-09		
+405	pe__kunigunde_StB_I_98	f	hawsfrawn	 	pe__peter_weinstokch_StB_I_98	m	1_1395-1400	98.xml	1396	1396-12-16		
+406	pe__katharina_StB_I_99	f	hawsfraw	Ehegatt_in	pe__heinrich_von_steyr_StB_I_99	m	1_1395-1400	99.xml	1397	1397-01-13		
+407	pe__konrad_pekch_StB_I_99	m	vater	Vater	pe__katharina_StB_I_99	f	1_1395-1400	99.xml	1397	1397-01-13		
+408	pe__konrad_pekch_StB_I_99	m	rechtew geswistreyd	 	pe__anna_StB_I_99	m	1_1395-1400	99.xml	1397	1397-01-13		
+409	pe__anna_StB_I_99	m	hawsfraw	Ehegatt_in	pe__stephan_landschreiber_StB_I_99	m	1_1395-1400	99.xml	1397	1397-01-13		
+410	pe__anna_StB_I_99	m	rechtew geswistreyd	 	pe__konrad_pekch_StB_I_99	m	1_1395-1400	99.xml	1397	1397-01-13		
