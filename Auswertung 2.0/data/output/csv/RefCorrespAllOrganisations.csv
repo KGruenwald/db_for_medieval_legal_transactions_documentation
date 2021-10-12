@@ -1,192 +1,103 @@
 	main_ID	ID	name_reg | name_orig	type	observance	linking	fn_role	event	collection	xml	date	text	text normed
-0	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_101	1_1395-1400	101.xml	1397-01-09	gesworner	 
-1	org__emmersdorf-pfarre	org__emmersdorf-pfarre	Emmersdorf | 	Pfarre	 	corresp	witness	ev__StB_I_102	1_1395-1400	102.xml	1397-01-13	pharrer	Pfarrer
-2	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_103	1_1395-1400	103.xml	1397-01-23	rats	Ratsherr
-3	org__wien-dominikaner	org__wien-dominikaner-messe_niklas_bader_stb_I_106	 | 	Messe	 	ref	recipient	ev__StB_I_106	1_1395-1400	106.xml	1397-01-23	hincz den Predigern	 
-4	org__wien-karmeliter	org__wien-karmeliter-messe_niklas_bader_StB_I_106	 | 	Messe	 	ref	None	None	1_1395-1400	106.xml	1397-01-23	hincz den Weyssen prudern	 
-5	org__wien-st_stephan	org__wien-st_stephan-jahrtag_gebhard_henikein_niklas_chamrer	Jahrtag für Gebhard Henikein, gestiftet von Niklas Chamrer | 	Messe	 	ref	recipient	ev__StB_I_108	1_1395-1400	108.xml	1397-02-08	jartag	 
-6	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_108	1_1395-1400	108.xml	1397-02-08	rats	Ratsherr
-7	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_108	1_1395-1400	108.xml	1397-02-08	rats	Ratsherr
-8	org__sollenau-pfarre	org__sollenau-pfarre	Pfarre Sollenau | 	Pfarre	 	corresp	other	ev__StB_I_108	1_1395-1400	108.xml	1397-02-08	pharrer	Pfarrer
-9	org__wien-st_stephan	org__wien-st_stephan-jahrtag_anna_irrensteigin	Jahrtagsstiftung der Anna Irrensteigin | 	Messe	 	ref	recipient	ev__StB_I_109	1_1395-1400	109.xml	1397-02-08	jartag	 
-10	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_109	1_1395-1400	109.xml	1397-02-08	zu dem paw hincz Sand Stephann daselbs	 
-11	org__wien-dominikaner	org__wien-dominikaner-jahrtag_anna_irrensteigin	Jahrtagsstiftung der Anna Irrensteigin | 	Messe	 	ref	recipient	ev__StB_I_109	1_1395-1400	109.xml	1397-02-08	jartag	 
-12	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	witness	ev__StB_I_111	1_1395-1400	111.xml	1397-02-13	vikeri	 
-13	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_113	1_1395-1400	113.xml	1397-02-15	zu dem paw hincz Sand Steffan ze Wienn	 
-14	org__wien-st_stephan	org__wien-st_stephan-domkapitel	Domkapitel St. Stephan zu Wien | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_113	1_1395-1400	113.xml	1397-02-15	den herren daselbs	 
-15	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	witness	ev__StB_I_113	1_1395-1400	113.xml	1397-02-15	leviten	 
-16	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	other	ev__StB_I_113	1_1395-1400	113.xml	1397-02-15	echter	 
-17	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	other	ev__StB_I_18	1_1395-1400	18.xml	1395-12-25	vikeri	 
-18	org__wien-st_hiob_zum_klagbaum	org__wien-st_hiob_zum_klagbaum	St. Hiob-zum Klagbaum | 	Spital_Siechenhaus	 	ref	recipient	ev__StB_I_19	1_1395-1400	19.xml	1395-12-25	Chlagpawm	 
-19	org__wien-st_johann_in_der_siechenals	org__wien-st_johann_in_der_siechenals	St. Johannes in der Siechenals | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_19	1_1395-1400	19.xml	1395-12-25	hincz Sand Johanns	 
-20	org__wien-st_lazarus_siechenhaus	org__wien-st_lazarus_siechenhaus	St. Lazarus-Siechenhaus (St. Marx) | 	Spital_Siechenhaus	 	ref	recipient	ev__StB_I_19	1_1395-1400	19.xml	1395-12-25	hincz Sand Marx	 
-21	org__wien	org__wien	Wien | 	Stadt	 	corresp	other	ev__StB_I_2	1_1395-1400	2.xml	1395-11-18	urtailschreiber	Schreiber_Urteil
-22	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_209	1_1395-1400	209.xml	1397-12-08	echtern dacz Sand Stephan ze Wienn	 
-23	org__oesterreich-herzogtum	org__oesterreich-herzogtum	Herzogtum Österreich | 	Herzogtum	 	corresp	other	ev__StB_I_211	1_1395-1400	211.xml	1391-12-15	anwalt in des herczogen munzze	Muenzanwalt
-24	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	other	ev__StB_I_213	1_1395-1400	213.xml	1391-12-20	echter	 
-25	org__wien-zeche_binder	org__wien-zeche_binder	 | Binderzeche zu Wienn	Zeche_Bruderschaft	 	ref	recipient	ev__StB_I_214	1_1395-1400	214.xml	1391-12-20	pinterczech	 
-26	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_214	1_1395-1400	214.xml	1391-12-20	acht herren hincz Sand Stephan	 
-27	org__wien-st_agnes_auf_der_himmelpforte	org__wien-st_agnes_auf_der_himmelpforte	St. Agnes-auf der Himmelpforte | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_214	1_1395-1400	214.xml	1391-12-20	Hymelporten	 
-28	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	issuer	ev__StB_I_214	1_1395-1400	214.xml	1391-12-20	curherr	Kanoniker
-29	org__wien	org__wien	Wien | 	Stadt	 	corresp	other	ev__StB_I_217	1_1395-1400	217.xml	1398-01-10	rat	Ratsherr
-30	org__wien	org__wien	Wien | 	Stadt	 	corresp	other	ev__StB_I_217	1_1395-1400	217.xml	1398-01-10	rat	Ratsherr
-31	org__wien-dominikaner	org__wien-dominikaner	Dominikaner | 	Kloster_m	OP	ref	recipient	ev__StB_I_219	1_1395-1400	219.xml	1398-01-19	Predigern	 
-32	org__wien	org__wien	Wien | 	Stadt	 	corresp	other	ev__StB_I_25	1_1395-1400	25.xml	1396-01-18	dez rates ze Wienn	 
-33	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_26	1_1395-1400	26.xml	1396-01-18	zu dem paw hincz Sand Steffan ze Wienn	 
-34	org__wien-st_lazarus_siechenhaus	org__wien-st_lazarus_siechenhaus	St. Lazarus-Siechenhaus (St. Marx) | 	Spital_Siechenhaus	 	ref	recipient	ev__StB_I_26	1_1395-1400	26.xml	1396-01-18	Sand Marchs	 
-35	org__wien-st_hiob_zum_klagbaum	org__wien-st_hiob_zum_klagbaum	St. Hiob-zum Klagbaum | 	Spital_Siechenhaus	 	ref	recipient	ev__StB_I_26	1_1395-1400	26.xml	1396-01-18	dem Chlagpawm	 
-36	org__wien-buergerspital	org__wien-buergerspital	Wiener Bürgerspital | 	Spital_Siechenhaus	 	ref	recipient	ev__StB_I_29	1_1395-1400	29.xml	1396-01-20	spital	 
-37	org__wien-st_hieronymus	org__wien-st_hieronymus	 | 	Kloster_f	OSMM	ref	recipient	ev__StB_I_29	1_1395-1400	29.xml	1396-01-20	den armen lewten zu Sand Jeronimo	 
-38	org__wien-buergerspital	org__wien-buergerspital	Wiener Bürgerspital | 	Spital_Siechenhaus	 	corresp	other	ev__StB_I_29	1_1395-1400	29.xml	1396-01-20	spitalmaister	Spitalmeister
-39	org__wien-buergerspital	org__wien-buergerspital	Wiener Bürgerspital | 	Spital_Siechenhaus	 	corresp	other	ev__StB_I_29	1_1395-1400	29.xml	1396-01-20	chaplän	 
-40	org__wien-buergerspital	org__wien-buergerspital	Wiener Bürgerspital | 	Spital_Siechenhaus	 	corresp	other	ev__StB_I_29	1_1395-1400	29.xml	1396-01-20	chaplän	 
-41	org__wien-buergerspital	org__wien-buergerspital	Wiener Bürgerspital | 	Spital_Siechenhaus	 	corresp	issuer	ev__StB_I_29	1_1395-1400	29.xml	1396-01-20	chuster	 
-42	org__wien	org__wien	Wien | 	Stadt	 	corresp	other	ev__StB_I_3	1_1395-1400	3.xml	1395-11-24	des rats ze Wienn	 
-43	org__oberhautzental-gemeinde	org__oberhautzental-gemeinde	Oberhautzental | Obern Hawczental	Gemeinde	 	ref	other	ev__StB_I_30	1_1395-1400	30.xml	[datetime.date(1395, 1, 1), datetime.date(1400, 12, 31), '1395']	gemayn zu Obern Hawczental	 
-44	org__oberhautzental-pfarre	org__oberhautzental-pfarre	Oberhautzental | Obern Hawczental	Pfarre	 	corresp	witness	ev__StB_I_30	1_1395-1400	30.xml	[datetime.date(1395, 1, 1), datetime.date(1400, 12, 31), '1395']	pharrer	Pfarrer
-45	org__wien-st_peter	org__wien-st_peter	S. Peter (I. Bezirk) | 	Kirche_Kapelle	 	corresp	other	None	1_1395-1400	35.xml	1396-02-19	kaplan	Kaplan
-46	org__wien-st_michael	org__wien-st_michael	St. Michael | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_37	1_1395-1400	37.xml	1396-02-26	Sand Michel	 
-47	org__wien-st_michael	org__wien-st_michael-zeche_gottesleichnam	 | 	Zeche_Bruderschaft	 	ref	recipient	ev__StB_I_37	1_1395-1400	37.xml	1396-02-26	goczleichnams zech hincz Sand Michel	 
-48	org__wien-minoriten	org__wien-minoriten	Minoriten | 	Kloster_m	OFMConv	ref	recipient	ev__StB_I_37	1_1395-1400	37.xml	1396-02-26	hincz den Minnern brudern	 
-49	org__wien	org__wien	Wien | 	Stadt	 	corresp	other	ev__StB_I_37	1_1395-1400	37.xml	1396-02-26	richter vor Widmertor ze Wienn	 
-50	org__wien-st_martin_vor_dem_widmertor	org__wien-st_martin_vor_dem_widmertor	 | 	Spital_Siechenhaus	 	corresp	other	ev__StB_I_37	1_1395-1400	37.xml	1396-02-26	schafffer	 
-51	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_421	1_1395-1400	421.xml	1399-09-16	Sand Stephans	 
-52	org__wien-karmeliter	org__wien-karmeliter	Karmeliter-Weissenbrüder | 	Kloster_m	OCarm	ref	recipient	ev__StB_I_421	1_1395-1400	421.xml	1399-09-16	Weissen brudern	 
-53	org__wien-dominikaner	org__wien-dominikaner	Dominikaner | 	Kloster_m	OP	ref	recipient	ev__StB_I_421	1_1395-1400	421.xml	1399-09-16	Predigern	 
-54	org__wien-augustiner_eremiten	org__wien-augustiner_eremiten	Augustinereremiten | 	Kloster_m	OESA	ref	recipient	ev__StB_I_421	1_1395-1400	421.xml	1399-09-16	Augustinern	 
-55	org__wien-st_hieronymus	org__wien-st_hieronymus	 | 	Kloster_f	OSMM	ref	recipient	ev__StB_I_421	1_1395-1400	421.xml	1399-09-16	puezzerynn hincz Sand Jeromino	 
-56	org__wien-karmeliter	org__wien-karmeliter	Karmeliter-Weissenbrüder | 	Kloster_m	OCarm	ref	recipient	ev__StB_I_423	1_1395-1400	423.xml	1399-09-16	Weis sen prudern	 
-57	org__wien-buergerspital	org__wien-buergerspital	Wiener Bürgerspital | 	Spital_Siechenhaus	 	ref	recipient	ev__StB_I_423	1_1395-1400	423.xml	1399-09-16	spital	 
-58	org__wien-st_hieronymus	org__wien-st_hieronymus	 | 	Kloster_f	OSMM	ref	recipient	ev__StB_I_423	1_1395-1400	423.xml	1399-09-16	Sand Jeronimo	 
-59	org__wien-st_hiob_zum_klagbaum	org__wien-st_hiob_zum_klagbaum	St. Hiob-zum Klagbaum | 	Spital_Siechenhaus	 	ref	recipient	ev__StB_I_423	1_1395-1400	423.xml	1399-09-16	dem Chlagpawm	 
-60	org__st_bernhard-zisterzienserinnen	org__st_bernhard-zisterzienserinnen	St. Bernhard-Zisterzienserinnen | 	Kloster_m	OCist	corresp	other	ev__StB_I_423	1_1395-1400	423.xml	1399-09-16	maister	Meister_in
-61	org__wien-deutsche_herren	org__wien-deutsche_herren	Deutsche Herren | 	Kloster_m	OT	ref	other	ev__StB_I_424	1_1395-1400	424.xml	1396-04-28	Tewtschen herren ze Wienn	 
-62	org__wien-karmeliter	org__wien-karmeliter	Karmeliter-Weissenbrüder | 	Kloster_m	OCarm	ref	recipient	ev__StB_I_424	1_1395-1400	424.xml	1396-04-28	Carmeliten ze Wienn	 
-63	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	other	ev__StB_I_424	1_1395-1400	424.xml	1396-04-28	Stephel	 
-64	org__wien-deutsche_herren	org__wien-deutsche_herren	Deutsche Herren | 	Kloster_m	OT	ref	other	ev__StB_I_424	1_1395-1400	424.xml	1396-04-28	Tewtschen herren ze Wienn	 
-65	org__wien-st_michael	org__wien-st_michael-altar_gottesleichnam	Fronleichnamsaltar | 	Altar	 	ref	recipient	ev__StB_I_424	1_1395-1400	424.xml	1396-04-28	göczleichnam alter	 
-66	org__rohrbach-pfarre	org__rohrbach-pfarre	Pfarre Rohrbach | 	Pfarre	 	ref	recipient	ev__StB_I_424	1_1395-1400	424.xml	1396-04-28	Sand Andre gen Rorbach	 
-67	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_425	1_1395-1400	425.xml	1399-09-16	Sand Stephan	 
-68	org__wien-karmeliter	org__wien-karmeliter	Karmeliter-Weissenbrüder | 	Kloster_m	OCarm	ref	recipient	ev__StB_I_426	1_1395-1400	426.xml	1399-09-27	Weissen pruder	 
-69	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_427	1_1395-1400	427.xml	1399-09-25	Sand Stephan ze Wien	 
-70	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_428	1_1395-1400	428.xml	1399-09-26	purgermaister	Buergermeister
-71	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_43	1_1395-1400	43.xml	1396-03-14	probst dacz Sand Steffan	 
-72	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_43	1_1395-1400	43.xml	1396-03-14	den achtern daselbs	 
-73	org__wien-heiligengeistspital	org__wien-heiligengeistspital	Heiligengeistspital | 	Spital_Siechenhaus	 	ref	recipient	ev__StB_I_43	1_1395-1400	43.xml	1396-03-14	dem maister hincz dem Heiligen Geist	 
-74	org__wien-heiligengeistspital	org__wien-heiligengeistspital	Heiligengeistspital | 	Spital_Siechenhaus	 	ref	recipient	ev__StB_I_43	1_1395-1400	43.xml	1396-03-14	den prudern daselbs	 
-75	org__hennersdorf-pfarre_StB_I_43	org__hennersdorf-pfarre_StB_I_43	Pfarre Hennersdorf | 	Pfarre	 	ref	None	None	1_1395-1400	43.xml	1396-03-14	hincz Sand Andre und hincz Sand Erhart zu dem Liecht ze Hönesdorff	 
-76	org__achau-pfarre	org__achau-pfarre	Achau-Pfarre | 	Pfarre	 	ref	None	None	1_1395-1400	43.xml	1396-03-14	pharrer ze Achaw	 
-77	org__wien	org__wien	Wien | 	Stadt	 	corresp	other	ev__StB_I_430	1_1395-1400	430.xml	1399-09-27	rats	Ratsherr
-78	org__wien	org__wien	Wien | 	Stadt	 	corresp	other	ev__StB_I_430	1_1395-1400	430.xml	1399-09-27	auzzern rats	 
-79	org__wien-deutsche_herren	org__wien-deutsche_herren	Deutsche Herren | 	Kloster_m	OT	ref	recipient	ev__StB_I_431	1_1395-1400	431.xml	1399-09-30	Tewtschen herrn ze Wienn	 
-80	org__emmersdorf-pfarre	org__emmersdorf-pfarre	Emmersdorf | 	Pfarre	 	corresp	issuer	ev__StB_I_432	1_1395-1400	432.xml	1399-06-18	pharrer	Pfarrer
-81	org__untersiebenbrunn-pfarre	org__untersiebenbrunn-pfarre	Untersiebenbrunn | Niedersiebenbrunn	Pfarre	 	ref	recipient	ev__StB_I_435	1_1395-1400	435.xml	1399-10-02	goczhaws gen Sibenprunn	 
-82	org__wien	org__wien	Wien | 	Stadt	 	corresp	other	ev__StB_I_436	1_1395-1400	436.xml	[datetime.date(1395, 1, 1), datetime.date(1400, 12, 31), '1395']	rats	Ratsherr
-83	org__wien	org__wien	Wien | 	Stadt	 	corresp	other	ev__StB_I_436	1_1395-1400	436.xml	[datetime.date(1395, 1, 1), datetime.date(1400, 12, 31), '1395']	rats	Ratsherr
-84	org__oesterreich-herzogtum	org__oesterreich-herzogtum	Herzogtum Österreich | 	Herzogtum	 	corresp	recipient	ev__StB_I_437	1_1395-1400	437.xml	1399-10-10	kamerschreiber	Schreiber_Kammer
-85	org__oesterreich-herzogtum	org__oesterreich-herzogtum	Herzogtum Österreich | 	Herzogtum	 	corresp	other	ev__StB_I_437	1_1395-1400	437.xml	1399-10-10	forstmaister	Forstmeister
-86	org__wien-augustiner_eremiten	org__wien-augustiner_eremiten	Augustinereremiten | 	Kloster_m	OESA	ref	recipient	ev__StB_I_444	1_1395-1400	444.xml	1399-11-13	Augenstinern	 
-87	org__wien-augustiner_eremiten	org__wien-augustiner_eremiten	Augustinereremiten | 	Kloster_m	OESA	corresp	other	ev__StB_I_444	1_1395-1400	444.xml	1399-11-13	schaffer	Schaffer
-88	org__wien-st_michael	org__wien-st_michael	St. Michael | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_445	1_1395-1400	445.xml	1399-11-13	Sand Michels pharrchirchen	 
-89	org__wien-augustiner_eremiten	org__wien-augustiner_eremiten	Augustinereremiten | 	Kloster_m	OESA	ref	recipient	ev__StB_I_445	1_1395-1400	445.xml	1399-11-13	Augenstinern	 
-90	org__wien-st_niklas	org__wien-st_niklas-kollegium	 	 	 	ref	recipient	ev__StB_I_446	1_1395-1400	446.xml	[datetime.date(1399, 11, 1), datetime.date(1399, 11, 30), '1399']	Sand Pernhart in der Sünnigerstrazze	 
-91	org__wien-st_hieronymus	org__wien-st_hieronymus	 | 	Kloster_f	OSMM	ref	recipient	ev__StB_I_446	1_1395-1400	446.xml	[datetime.date(1399, 11, 1), datetime.date(1399, 11, 30), '1399']	Sand Jeronimen den frawn	 
-92	org__wien-st_maria_am_gestade	org__wien-st_maria_am_gestade	Marienkapelle am Gestade, auf der Stetten | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_446	1_1395-1400	446.xml	[datetime.date(1399, 11, 1), datetime.date(1399, 11, 30), '1399']	Unser Frawn auf der Stetten	 
-93	org__wien-minoriten	org__wien-minoriten	Minoriten | 	Kloster_m	OFMConv	ref	recipient	ev__StB_I_446	1_1395-1400	446.xml	[datetime.date(1399, 11, 1), datetime.date(1399, 11, 30), '1399']	Minnern brudern	 
-94	org__wien-karmeliter	org__wien-karmeliter	Karmeliter-Weissenbrüder | 	Kloster_m	OCarm	ref	recipient	ev__StB_I_446	1_1395-1400	446.xml	[datetime.date(1399, 11, 1), datetime.date(1399, 11, 30), '1399']	Weissen brudern	 
-95	org__wien-st_peter	org__wien-st_peter-kapelle_st_valentin	Valentinskapelle (St. Peter) | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_446	1_1395-1400	446.xml	[datetime.date(1399, 11, 1), datetime.date(1399, 11, 30), '1399']	Sand Valteins kappelln	 
-96	org__wien-karmeliter	org__wien-karmeliter	Karmeliter-Weissenbrüder | 	Kloster_m	OCarm	ref	recipient	ev__StB_I_447	1_1395-1400	447.xml	1399-11-15	Unser Frawn brudern	 
-97	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	other	ev__StB_I_448	1_1395-1400	448.xml	1399-11-15	curherr	Kanoniker
-98	org__wien	org__wien	Wien | 	Stadt	 	corresp	other	ev__StB_I_448	1_1395-1400	448.xml	1399-11-15	gesworner des rats	Ratsherr
-99	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	other	ev__StB_I_448	1_1395-1400	448.xml	1399-11-15	pawmaister	 
-100	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	issuer	ev__StB_I_448	1_1395-1400	448.xml	1399-11-15	guster	 
-101	org__hainfeld-pfarre	org__hainfeld-pfarre	Hainfeld-Pfarre | 	Pfarre	 	ref	recipient	ev__StB_I_45	1_1395-1400	45.xml	1396-03-18	pharrchirchen ze Hainfeld	 
-102	org__hainfeld-pfarre	org__hainfeld-pfarre	Hainfeld-Pfarre | 	Pfarre	 	corresp	other	ev__StB_I_45	1_1395-1400	45.xml	1396-03-18	pharrer	Pfarrer
-103	org__theras-pfarre	org__theras-pfarre	Theras | 	Pfarre	 	corresp	other	ev__StB_I_45	1_1395-1400	45.xml	1396-03-18	pharrer	Pfarrer
-104	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	other	ev__StB_I_45	1_1395-1400	45.xml	1396-03-18	brobst	Propst
-105	org__wien-st_hiob_zum_klagbaum	org__wien-st_hiob_zum_klagbaum	St. Hiob-zum Klagbaum | 	Spital_Siechenhaus	 	ref	recipient	ev__StB_I_47	1_1395-1400	47.xml	1396-03-18	herren in das spital	 
-106	org__wien-st_hiob_zum_klagbaum	org__wien-st_hiob_zum_klagbaum-zeche_st_maria_StB_I_47	Frauenzeche | Unser Frawn zech	Zeche_Bruderschaft	 	ref	recipient	ev__StB_I_47	1_1395-1400	47.xml	1396-03-18	Unser Frawn zech daselbs	 
-107	org__wien-st_michael	org__wien-st_michael-jahrtag_johann_schremlein_StB_I_48	 | 	Messe	 	ref	recipient	ev__StB_I_48	1_1395-1400	48.xml	1396-03-21	jartag zu Sand Michel	 
-108	org__wien-dominikaner	org__wien-dominikaner-zeche_StB_I_48	 | 	Zeche_Bruderschaft	 	ref	recipient	ev__StB_I_48	1_1395-1400	48.xml	1396-03-21	den Predingern in die pruderschafft, da ich ynn gewesen pin	 
-109	org__oesterreich-herzogtum	org__oesterreich-herzogtum	Herzogtum Österreich | 	Herzogtum	 	corresp	witness	ev__StB_I_48	1_1395-1400	48.xml	1396-03-21	der alt Chamerschreiber	 
-110	org__wien-st_jakob_auf_der_huelben	org__wien-st_jakob_auf_der_huelben	St. Jakob-auf der Hülben | 	Kloster_f	CanReg	corresp	witness	ev__StB_I_49	1_1395-1400	49.xml	1396-04-01	die zeit chappelan ze Sand Jacob auf der Hulben ze Wienn	 
-111	org__grein-pfarre	org__grein-pfarre	Pfarre Grein | 	Pfarre	 	corresp	issuer	ev__StB_I_49	1_1395-1400	49.xml	1396-04-01	die zeit pharrer ze Greyn	 
-112	org__wien	org__wien	Wien | 	Stadt	 	ref	witness	ev__StB_I_50	1_1395-1400	50.xml	1396-04-11	die herren des rates	 
-113	org__wien	org__wien	Wien | 	Stadt	 	ref	recipient	ev__StB_I_52	1_1395-1400	52.xml	[datetime.date(1395, 1, 1), datetime.date(1400, 12, 31), '1395']	Den erbern herren, dem purgermaister, dem richter und dem rat ze Wienn	 
-114	org__tulln	org__tulln	Tulln | 	Stadt	 	ref	issuer	ev__StB_I_52	1_1395-1400	52.xml	[datetime.date(1395, 1, 1), datetime.date(1400, 12, 31), '1395']	der richter und der rat ze Tulln	 
-115	org__wien-st_niklas_vor_stubentor_kapelle	org__wien-st_niklas_vor_stubentor_kapelle	armer alter St. Niklas (außerhalb d. Klosters) | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_53	1_1395-1400	53.xml	1396-04-20	der vorgenanten Sand Niclas chappellen	 
-116	org__wien-st_niklas_vor_stubentor_kapelle	org__wien-st_niklas_vor_stubentor_kapelle	armer alter St. Niklas (außerhalb d. Klosters) | 	Kirche_Kapelle	 	corresp	other	ev__StB_I_53	1_1395-1400	53.xml	1396-04-20	zu den zeiten chappellan zu dem chlain Sand Nicla vor Stubentor ze Wienn	 
-117	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	witness	ev__StB_I_55	1_1395-1400	55.xml	1396-05-02	die zeit parlyr des paws dacz Sand Stephann ze Wienn	 
-118	org__prag	org__prag	Prag | 	Stadt	 	ref	issuer	ev__StB_I_56	1_1395-1400	56.xml	1396-04-21	Burgermaister, rat und schephen der grossern stat zu Prage	 
-119	org__wien-st_michael	org__wien-st_michael	St. Michael | 	Kirche_Kapelle	 	corresp	witness	ev__StB_I_57	1_1395-1400	57.xml	1396-05-30	die zeit chirchmaister dacz Sand Michel ze Wienn	 
-120	org__wien-st_hiob_zum_klagbaum	org__wien-st_hiob_zum_klagbaum	St. Hiob-zum Klagbaum | 	Spital_Siechenhaus	 	ref	recipient	ev__StB_I_62	1_1395-1400	62.xml	1396-06-20	den Klagpawm	 
-121	org__wien-st_lazarus_siechenhaus	org__wien-st_lazarus_siechenhaus	St. Lazarus-Siechenhaus (St. Marx) | 	Spital_Siechenhaus	 	ref	recipient	ev__StB_I_62	1_1395-1400	62.xml	1396-06-20	Sand Marchs	 
-122	org__wien-st_johann_in_der_siechenals	org__wien-st_johann_in_der_siechenals	St. Johannes in der Siechenals | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_62	1_1395-1400	62.xml	1396-06-20	Sand Johanns in der Siechenalzz	 
-123	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_62	1_1395-1400	62.xml	1396-06-20	zu Sand Stephann zu dem paw	 
-124	org__wien-st_peter	org__wien-st_peter	S. Peter (I. Bezirk) | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_62	1_1395-1400	62.xml	1396-06-20	Sand Peter	 
-125	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_62	1_1395-1400	62.xml	1396-06-20	die zeit des rats ze Wienn	 
-126	org__engelhartszell-gemeinde	org__engelhartszell-gemeinde	Engelhartszell | 	Gemeinde	 	corresp	witness	ev__StB_I_65	1_1395-1400	65.xml	1396-07-24	richter ze Engelhartzzell	 
-127	org__engelhartszell-zisterzienser	org__engelhartszell-zisterzienser	Engelhartszell-Zisterzienser | 	Kloster_m	OCist	corresp	issuer	ev__StB_I_65	1_1395-1400	65.xml	1396-07-24	Abpt	Abt_in
-128	org__wien-st_peter	org__wien-st_peter	S. Peter (I. Bezirk) | 	Kirche_Kapelle	 	corresp	witness	ev__StB_I_67	1_1395-1400	67.xml	1396-07-14	dem erbern priester	 
-129	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	witness	ev__StB_I_67	1_1395-1400	67.xml	1396-07-14	die zeit viceri dacz Sand Stephan ze Wienn	 
-130	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_68	1_1395-1400	68.xml	1396-07-18	Sand Stephan ze Wienn zu dem paw	 
-131	org__wien-dominikaner	org__wien-dominikaner	Dominikaner | 	Kloster_m	OP	ref	recipient	ev__StB_I_68	1_1395-1400	68.xml	1396-07-18	den Predigern	 
-132	org__wien-st_jakob_auf_der_huelben	org__wien-st_jakob_auf_der_huelben	St. Jakob-auf der Hülben | 	Kloster_f	CanReg	ref	recipient	ev__StB_I_68	1_1395-1400	68.xml	1396-07-18	den geistleichen frawn hincz Sand Jacob ze Wienn	 
-133	org__wien-st_stephan	org__wien-st_stephan-messe_michael_vinkch_StB_70	Messe Michael Vinkch | 	Messe	 	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	hincz aller heyligen tumchirehen hincz Sand Stephann ze Wienne ein ewigew mess widmen und stifften sullen mit puch, mit messgewant und mit ehelich und mit zwayn (fol.llr) erbern priestern und kapplenen, die deselben ewigen messe alle tag tegleich an underlas sprechen und verwesen sullen got und Unser Frawn, allen heiligen und allem hymlischen her zu lob und ze ern und mein und aller meiner vo- dern seligen und nachkomen selen ze hail und ze trost	 
-134	org__wien	org__wien	Wien | 	Stadt	 	ref	other	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	der rat der stat zu Wienne	 
-135	org__wien-schotten	org__wien-schotten	Schottenkloster Wien | 	Kloster_m	OSB	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	den Schotten	 
-136	org__wien-minoriten	org__wien-minoriten	Minoriten | 	Kloster_m	OFMConv	ref	None	None	1_1395-1400	70.xml	1392-08-31	hincz den Mynnern prudern	 
-137	org__wien-augustiner_eremiten	org__wien-augustiner_eremiten	Augustinereremiten | 	Kloster_m	OESA	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	den Augustynern	 
-138	org__wien-karmeliter	org__wien-karmeliter	Karmeliter-Weissenbrüder | 	Kloster_m	OCarm	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	Unser Frawn pruder des ordens von dem perkch Karmelo	 
-139	org__wien-dominikaner	org__wien-dominikaner	Dominikaner | 	Kloster_m	OP	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	den Predingern zu Wienne	 
-140	org__wien-st_klara	org__wien-st_klara	St. Klara | 	Kloster_f	OSCl	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	Sand Chlarn	 
-141	org__wien-st_laurenz_am_alten_fleischmarkt	org__wien-st_laurenz_am_alten_fleischmarkt	St. Laurenz-am alten Fleischmarkt | 	Kloster_f	OP	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	Sand Larenczen	 
-142	org__wien-st_maria_magdalena_vor_dem_schottentor	org__wien-st_maria_magdalena_vor_dem_schottentor	St. Maria Magdalena vor dem Schottentor | 	Kloster_f	OSMM	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	Sand Mariemagdalen	 
-143	org__wien-st_niklas_vor_dem_stubentor_zisterzienserinnen	org__wien-st_niklas_vor_dem_stubentor_zisterzienserinnen	St. Niklas-vor dem Stubentor | 	Kloster_f	OCist	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	Sand Nicla	 
-144	org__wien-st_agnes_auf_der_himmelpforte	org__wien-st_agnes_auf_der_himmelpforte	St. Agnes-auf der Himmelpforte | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	den Hymelporten	 
-145	org__wien-st_jakob_auf_der_huelben	org__wien-st_jakob_auf_der_huelben	St. Jakob-auf der Hülben | 	Kloster_f	CanReg	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	Sand Jacob	 
-146	org__wien-st_hieronymus	org__wien-st_hieronymus	 | 	Kloster_f	OSMM	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	Sand Jeronimo	 
-147	org__wien-st_johann_in_der_siechenals	org__wien-st_johann_in_der_siechenals	St. Johannes in der Siechenals | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	Sand Johanns	 
-148	org__wien-st_lazarus_siechenhaus	org__wien-st_lazarus_siechenhaus	St. Lazarus-Siechenhaus (St. Marx) | 	Spital_Siechenhaus	 	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	Sand Marx	 
-149	org__wien-st_hiob_zum_klagbaum	org__wien-st_hiob_zum_klagbaum	St. Hiob-zum Klagbaum | 	Spital_Siechenhaus	 	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	dem Chlagpawm	 
-150	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	dem chirchmaister hincz Sand Stephan ze Wienn zu dem paw	 
-151	org__oesterreich-herzogtum	org__oesterreich-herzogtum	Herzogtum Österreich | 	Herzogtum	 	corresp	other	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	hofmaister in Osterreich	 
-152	org__oesterreich-herzogtum	org__oesterreich-herzogtum	Herzogtum Österreich | 	Herzogtum	 	corresp	other	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	die zeit hubmaister in Osterreich	 
-153	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_70	1_1395-1400	70.xml	1392-08-31	die zeit statschreiber zu Wienn	 
-154	org__wien-schotten	org__wien-schotten	Schottenkloster Wien | 	Kloster_m	OSB	ref	recipient	ev__StB_I_74	1_1395-1400	74.xml	1396-07-15	dem predinger zu den Schottens	 
-155	org__wien-karmeliter	org__wien-karmeliter	Karmeliter-Weissenbrüder | 	Kloster_m	OCarm	ref	recipient	ev__StB_I_74	1_1395-1400	74.xml	1396-07-15	den Weizzen prudern	 
-156	org__wien-minoriten	org__wien-minoriten	Minoriten | 	Kloster_m	OFMConv	ref	recipient	ev__StB_I_74	1_1395-1400	74.xml	1396-07-15	zu den Mynnern prudern	 
-157	org__wien	org__wien	Wien | 	Stadt	 	corresp	other	ev__StB_I_74	1_1395-1400	74.xml	1396-07-15	statrichter ze Wienn	Richter_Stadt
-158	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_74	1_1395-1400	74.xml	1396-07-15	gesworner des rats	Ratsherr
-159	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_78	1_1395-1400	78.xml	1396-08-31	purgermaister	Buergermeister
-160	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_78	1_1395-1400	78.xml	1396-08-31	rats	Ratsherr
-161	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	other	ev__StB_I_8	1_1395-1400	8.xml	1395-12-07	techent	Dechant
-162	org__wien-schotten	org__wien-schotten	Schottenkloster Wien | 	Kloster_m	OSB	ref	recipient	ev__StB_I_81	1_1395-1400	81.xml	1396-08-23	dem prediger hincz den Schotten	 
-163	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_83	1_1395-1400	83.xml	1396-09-14	gesworner des rats	Ratsherr
-164	org__wien	org__wien	Wien | 	Stadt	 	corresp	other	ev__StB_I_84	1_1395-1400	84.xml	1396-09-09	gesworner des rats	Ratsherr
-165	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_84	1_1395-1400	84.xml	1396-09-09	rats	Ratsherr
-166	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_84	1_1395-1400	84.xml	1396-09-09	rats	Ratsherr
-167	org__wien-st_michael	org__wien-st_michael	St. Michael | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_85	1_1395-1400	85.xml	1396-09-28	Sand Michel	 
-168	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__StB_I_85	1_1395-1400	85.xml	1396-09-28	Sand Stephan	 
-169	org__wien-karmeliter	org__wien-karmeliter	Karmeliter-Weissenbrüder | 	Kloster_m	OCarm	ref	recipient	ev__StB_I_85	1_1395-1400	85.xml	1396-09-28	Unser Frawn prudern	 
-170	org__wien-minoriten	org__wien-minoriten	Minoriten | 	Kloster_m	OFMConv	ref	recipient	ev__StB_I_85	1_1395-1400	85.xml	1396-09-28	Mynnern prudern	 
-171	org__wien-karmeliter	org__wien-karmeliter-jahrtag_heinrich_gredniczer_StB_I_85	 | 	Messe	 	ref	recipient	ev__StB_I_85	1_1395-1400	85.xml	1396-09-28	jartag	 
-172	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_85	1_1395-1400	85.xml	1396-09-28	rats	Ratsherr
-173	org__ladendorf-pfarre	org__ladendorf-pfarre	Pfarre Ladendorf | 	Pfarre	 	corresp	other	ev__StB_I_85	1_1395-1400	85.xml	1396-09-28	pharrer zu Ladendorff	 
-174	org__wien-burgkapelle	org__wien-burgkapelle-messe_beatrix_von_zollern_nuernberg	 | 	Messe	 	ref	recipient	ev__StB_I_86	1_1395-1400	86.xml	1396-09-26	zu der mess	 
-175	org__wien-st_michael	org__wien-st_michael-kapelle_st_niklas	 | 	Kirche_Kapelle	 	corresp	other	ev__StB_I_86	1_1395-1400	86.xml	1396-09-26	chapplan	Kaplan
-176	org__hollenstein_an_der_ybbs-pfarre	org__hollenstein_an_der_ybbs-pfarre	Pfarre Hollenstein an der Ybbs | 	Pfarre	 	corresp	other	ev__StB_I_86	1_1395-1400	86.xml	1396-09-26	pharrer	Pfarrer
-177	org__dobersberg-pfarre	org__dobersberg-pfarre	Pfarre Dobersberg | 	Pfarre	 	corresp	witness	ev__StB_I_86	1_1395-1400	86.xml	1396-09-26	pharrer	Pfarrer
-178	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	witness	ev__StB_I_86	1_1395-1400	86.xml	1396-09-26	chorherren	Chorherr
-179	org__wildberg-pfarre	org__wildberg-pfarre	Pfarre Wildberg (heutige Bezeichnung: Pfarre Messern) | 	Pfarre	 	corresp	witness	ev__StB_I_86	1_1395-1400	86.xml	1396-09-26	pharrer	Pfarrer
-180	org__wien-st_michael	org__wien-st_michael	St. Michael | 	Kirche_Kapelle	 	corresp	issuer	ev__StB_I_86	1_1395-1400	86.xml	1396-09-26	pharrer	Pfarrer
-181	org__wien-burgkapelle	org__wien-burgkapelle	Burgkapelle in der Wiener Hofburg | 	Kirche_Kapelle	 	corresp	issuer	ev__StB_I_86	1_1395-1400	86.xml	1396-09-26	chappellen	 
-182	org__oesterreich-herzogtum	org__oesterreich-herzogtum	Herzogtum Österreich | 	Herzogtum	 	corresp	issuer	ev__StB_I_86	1_1395-1400	86.xml	1396-09-26	herzogynn in Osterreich	 
-183	org__oesterreich-herzogtum	org__oesterreich-herzogtum	Herzogtum Österreich | 	Herzogtum	 	corresp	witness	ev__StB_I_86	1_1395-1400	86.xml	1396-09-26	herczog	 
-184	org__oesterreich-herzogtum	org__oesterreich-herzogtum	Herzogtum Österreich | 	Herzogtum	 	corresp	witness	ev__StB_I_86	1_1395-1400	86.xml	1396-09-26	mein genedig	 
-185	org__wien-st_ulrich	org__wien-st_ulrich	St. Ulrich Wien | 	Kirche_Kapelle	 	corresp	issuer	ev__StB_I_89a	1_1395-1400	89a.xml	1396-11-24	pharrer	Pfarrer
-186	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	issuer	ev__StB_I_89a	1_1395-1400	89a.xml	1396-11-24	curherr	Kanoniker
-187	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_90	1_1395-1400	90.xml	1396-11-24	statrichter	Richter_Stadt
-188	org__wien-st_michael	org__wien-st_michael	St. Michael | 	Kirche_Kapelle	 	corresp	witness	ev__StB_I_92	1_1395-1400	92.xml	1396-11-28	chirichmaister	Kirchmeister
-189	org__wien	org__wien	Wien | 	Stadt	 	corresp	witness	ev__StB_I_92	1_1395-1400	92.xml	1396-11-28	gesworner	 
-190	org__sievering-gemeinde	org__sievering-gemeinde	Gemeinde Sievering | 	Gemeinde	 	corresp	witness	ev__StB_I_99	1_1395-1400	99.xml	1397-01-13	richter	Richter
+0	org__wien-st_agnes_auf_der_himmelpforte	org__wien-st_agnes_auf_der_himmelpforte-altar_dreikoenige	Dreikönigsaltar | 	Altar	 	corresp	recipient	ev__SB_CD_00054_men_1	1448	00054-eintrag_vom_1448-06-10.xml	1448-06-10	caplan	Kaplan
+1	org__wien	org__wien	Wien | 	Stadt	 	corresp	recipient	ev__SB_CD_00054	1448	00054-eintrag_vom_1448-06-10.xml	1448-06-10	rats	Ratsherr
+2	org__wien-st_stephan	org__wien-st_stephan-altar_allerheiligen-messe_sindram	Sindrammesse | 	Messe	 	corresp	recipient	ev__SB_CD_00229_men_1	1448	00229-eintrag_vom_1448-05-27.xml	1448-05-27	capplan	Kaplan
+3	org__wien-st_stephan	org__wien-st_stephan-altar_allerheiligen-messe_sindram	Sindrammesse | 	Messe	 	corresp	recipient	ev__SB_CD_00229_men_1	1448	00229-eintrag_vom_1448-05-27.xml	1448-05-27	verweser	Verweser
+4	org__wien-gottesleichnam_kapelle_vor_dem_werdertor	org__wien-gottesleichnam_kapelle_vor_dem_werdertor-altar_st_maria	Unser Frauen Altar | 	Altar	 	ref	recipient	ev__SB_CD_00231_men_3	1448	00231-eintrag_vom_1448-09-20.xml	1448-09-20	Unser Fraun altar in Sand Johanns cappellen daselbs, gelegen	 
+5	org__wien-gottesleichnam_kapelle_vor_dem_werdertor	org__wien-gottesleichnam_kapelle_vor_dem_werdertor-altar_st_maria-messe_flekch	Flekchmesse | 	Altar	 	ref	recipient	ev__SB_CD_00231	1448	00231-eintrag_vom_1448-09-20.xml	1448-09-20	seinen nachkomen	 
+6	org__wien-gottesleichnam_kapelle_vor_dem_werdertor	org__wien-gottesleichnam_kapelle_vor_dem_werdertor-altar_st_maria-messe_flekch	Flekchmesse | 	Altar	 	corresp	recipient	ev__SB_CD_00231	1448	00231-eintrag_vom_1448-09-20.xml	1448-09-20	caplan	Kaplan
+7	org__wien-st_stephan	org__wien-st_stephan-altar_st_maria-messe_flusthart	Flusthartmesse | 	Messe	 	corresp	recipient	ev__SB_CD_00299_men_2	1448	00299-eintrag_vom_1448-07-08.xml	1448-07-08	verweser	Verweser
+8	org__wien-buergerspital	org__wien-buergerspital	Wiener Bürgerspital | 	Spital_Siechenhaus	 	ref	recipient	None	1448	00300-eintrag_vom_1448-08-05.xml	1448-08-05	Burgerspital	 
+9	org__wien-st_stephan	org__wien-st_stephan-kapelle_herzog-altar_st_blasius	Blasienaltar | 	Altar	 	ref	recipient	ev__QGW_II_II_3264_men_2	1448	00300-eintrag_vom_1448-08-05.xml	1448-08-05	Sant Blasien altar in des Herczogen cappellen dacz Sand Steffan	 
+10	org__wien-st_stephan	org__wien-st_stephan-kapelle_herzog-altar_st_blasius-messe_graf	Grafmesse | 	Messe	 	ref	recipient	ev__QGW_II_II_3264	1448	00300-eintrag_vom_1448-08-05.xml	1448-08-05	seinen nachkomen	 
+11	org__wien-st_stephan	org__wien-st_stephan-kapelle_herzog-altar_st_blasius-messe_graf	Grafmesse | 	Messe	 	corresp	recipient	ev__QGW_II_II_3264	1448	00300-eintrag_vom_1448-08-05.xml	1448-08-05	kaplan	Kaplan
+12	org__wien-zeche_schuster	org__wien-zeche_schuster	 | Schusterzech zu Wienn	Zeche_Bruderschaft	 	ref	recipient	ev__SB_CD_00349_men_1	1448	00349-eintrag_vom_1448-02-22.xml	1448-02-22	zechmaistern der Schusterzech zu Wienn	 
+13	org__wien-st_stephan	org__wien-st_stephan-kapelle_st_katharina-altar_st_katharina-messe_hutstokch	Hutstokchmesse | 	Messe	 	corresp	recipient	ev__SB_CD_00350	1448	00350-eintrag_vom_1448-04-10.xml	1448-04-10	caplan	Kaplan
+14	org__wien	org__wien	Wien | 	Stadt	 	corresp	recipient	ev__SB_CD_00406	1448	00406-eintrag_vom_1448-05-31.xml	1448-05-31	rats der stat	Ratsherr
+15	org__wien-st_johann_in_der_siechenals	org__wien-st_johann_in_der_siechenals	St. Johannes in der Siechenals | 	Spital_Siechenhaus	 	corresp	recipient	None	1448	00604-eintrag_vom_1448-02-24.xml	1448-02-24	pfarrer	Pfarrer
+16	org__wien-st_michael	org__wien-st_michael-altar_gottesleichnam-messe_eslarn	 | Elsarnmesse	Messe	 	ref	recipient	ev__SB_CD_00605_men_1	1448	00605-eintrag_vom_1448-03-04.xml	1448-03-04	zu der ewigen mess, so die von · Eslorn auf Gotsleichnams altar zu Sand Michel gestifft habent	 
+17	org__wien	org__wien	Wien | 	Stadt	 	corresp	issuer	ev__SB_CD_00606	1448	00606-eintrag_vom_1448-04-03.xml	1448-04-03	vorsprech	Vorsprech
+18	org__wien-st_niklas_vor_dem_stubentor_zisterzienserinnen	org__wien-st_niklas_vor_dem_stubentor_zisterzienserinnen-messe_peter_chorherr_von_st_stephan	 | mess die weilent her Peter korherr zu Sand Steffan pharrer zu Wurnitz in Sand Niclas kloster vor Stubentor gestifft hat	Messe	 	corresp	recipient	ev__SB_CD_00606_men_1	1448	00606-eintrag_vom_1448-04-03.xml	1448-04-03	caplan	Kaplan
+19	org__stamhaim-pfarre	org__stamhaim-pfarre	Stamhaim | Stainhaim	Pfarre	 	corresp	recipient	ev__SB_CD_00606	1448	00606-eintrag_vom_1448-04-03.xml	1448-04-03	pharrer	Pfarrer
+20	org__wien-st_stephan	org__wien-st_stephan-altar_st_veit	Veitsaltar | 	Altar	 	ref	recipient	ev__SB_CD_00607_men_1	1448	00607-eintrag_vom_1448-03-13.xml	1448-03-13	Sand Veits altar dacz Sand Steffan	 
+21	org__wien-st_stephan	org__wien-st_stephan-altar_st_veit-messe_kienmarkt	Kienmarktmesse | 	Messe	 	ref	recipient	ev__SB_CD_00607	1448	00607-eintrag_vom_1448-03-13.xml	1448-03-13	seinen nachkomen	 
+22	org__wien-st_stephan	org__wien-st_stephan-altar_st_veit-messe_kienmarkt	Kienmarktmesse | 	Messe	 	corresp	recipient	ev__SB_CD_00607	1448	00607-eintrag_vom_1448-03-13.xml	1448-03-13	caplan	Kaplan
+23	org__wien-st_peter	org__wien-st_peter-altar_st_maria	Frauenaltar | 	Altar	 	ref	recipient	ev__SB_CD_00608_men_2	1448	00608-eintrag_vom_1448-04-29.xml	1448-04-29	daselbs zu stifften	 
+24	org__wien-minoriten	org__wien-minoriten	Minoriten | 	Kloster_m	OFMConv	ref	recipient	ev__SB_CD_00608	1448	00608-eintrag_vom_1448-04-29.xml	1448-04-29	convent des klosters zu den Weissenbrudern	 
+25	org__wien-st_peter	org__wien-st_peter	S. Peter (I. Bezirk) | 	Kirche_Kapelle	 	corresp	recipient	ev__SB_CD_00608_men_2	1448	00608-eintrag_vom_1448-04-29.xml	1448-04-29	kapplan	Kaplan
+26	org__wien-st_peter	org__wien-st_peter-altar_st_maria-messe_chastner	Chastnerstiftung | 	Messe	 	corresp	recipient	ev__SB_CD_00608_men_2	1448	00608-eintrag_vom_1448-04-29.xml	1448-04-29	verweser	Verweser
+27	org__wien-minoriten	org__wien-minoriten	Minoriten | 	Kloster_m	OFMConv	corresp	recipient	ev__SB_CD_00608	1448	00608-eintrag_vom_1448-04-29.xml	1448-04-29	prior	Prior_in
+28	org__wien	org__wien	Wien | 	Stadt	 	corresp	recipient	ev__SB_CD_00609	1448	00609-eintrag_vom_1448-05-06.xml	1448-05-06	statrichter	Richter_Stadt
+29	org__vorau-augustiner_chorherren	org__vorau-augustiner_chorherren	Vorau-Augustinerchorherren | 	Kloster_m	CanReg	ref	recipient	ev__SB_CD_00610	1448	00610-eintrag_vom_1448-05-29.xml	1448-05-29	dem erwirdigen geistlichen herren dem brobst und dem convent des gotshauss ze Varaw und irn nachkomen	 
+30	org__friedberg-pfarre	org__friedberg-pfarre	 | 	Pfarre	 	corresp	recipient	ev__SB_CD_00610	1448	00610-eintrag_vom_1448-05-29.xml	1448-05-29	pharrer	Pfarrer
+31	org__wien-st_maria_im_rathaus	org__wien-st_maria_im_rathaus	St. Maria-Kapelle im Rathaus | 	Kirche_Kapelle	 	ref	recipient	ev__SB_CD_00612	1448	00612-eintrag_vom_1448-07-10.xml	1448-07-10	seinen nachkomen	 
+32	org__wien-st_maria_im_rathaus	org__wien-st_maria_im_rathaus	St. Maria-Kapelle im Rathaus | 	Kirche_Kapelle	 	corresp	recipient	ev__SB_CD_00612	1448	00612-eintrag_vom_1448-07-10.xml	1448-07-10	obristen caplan	Kaplan_oberster
+33	org__wien-minoriten	org__wien-minoriten	Minoriten | 	Kloster_m	OFMConv	ref	recipient	ev__SB_CD_00613_men_2	1448	00613-eintrag_vom_1448-07-17.xml	1448-07-17	den geistlichen herren hincz den Weissenprudern	 
+34	org__wien-st_michael	org__wien-st_michael-altar_gottesleichnam-messe_eslarn	 | Elsarnmesse	Messe	 	ref	recipient	ev__SB_CD_00613	1448	00613-eintrag_vom_1448-07-17.xml	1448-07-17	seinen nachkomen	 
+35	org__mannswoerth-pfarre	org__mannswoerth-pfarre	Mannswörth (NÖ) | Manswerd	Pfarre	 	corresp	recipient	ev__SB_CD_00613_men_1	1448	00613-eintrag_vom_1448-07-17.xml	1448-07-17	pharrer	Pfarrer
+36	org__wien-st_peter	org__wien-st_peter	S. Peter (I. Bezirk) | 	Kirche_Kapelle	 	corresp	recipient	ev__SB_CD_00613_men_1	1448	00613-eintrag_vom_1448-07-17.xml	1448-07-17	obristen caplan	Kaplan_oberster
+37	org__wien-st_peter	org__wien-st_peter-altar_st_maria-messe_chastner	Chastnerstiftung | 	Messe	 	corresp	recipient	ev__SB_CD_00613_men_1	1448	00613-eintrag_vom_1448-07-17.xml	1448-07-17	verweser	Verweser
+38	org__himberg-pfarre	org__himberg-pfarre	Pfarre Himberg | Hindperg	Pfarre	 	corresp	recipient	ev__SB_CD_00613	1448	00613-eintrag_vom_1448-07-17.xml	1448-07-17	pharrer	Pfarrer
+39	org__wien-st_michael	org__wien-st_michael-altar_gottesleichnam-messe_eslarn	 | Elsarnmesse	Messe	 	corresp	recipient	ev__SB_CD_00613	1448	00613-eintrag_vom_1448-07-17.xml	1448-07-17	caplan	Kaplan
+40	org__wien	org__wien	Wien | 	Stadt	 	corresp	issuer	ev__SB_CD_00614	1448	00614-eintrag_vom_1448-07-29.xml	1448-07-29	vorsprech	Vorsprech
+41	org__wien-st_stephan	org__wien-st_stephan-kapelle_st_achatius	Achatiuskapelle (St. Stephan) | 	Kirche_Kapelle	 	ref	recipient	ev__SB_CD_00616	1448	00616-eintrag_vom_1448-07-19.xml	1448-07-19	seinen nachkomen caplenen	 
+42	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	recipient	ev__SB_CD_00616	1448	00616-eintrag_vom_1448-07-19.xml	1448-07-19	techant	Dechant
+43	org__wien-st_stephan	org__wien-st_stephan-kapelle_st_achatius	Achatiuskapelle (St. Stephan) | 	Kirche_Kapelle	 	corresp	recipient	ev__SB_CD_00616	1448	00616-eintrag_vom_1448-07-19.xml	1448-07-19	kaplan	Kaplan
+44	org__wien-st_michael	org__wien-st_michael-messe_zergadmer_niklas	 | 	Messe	 	ref	recipient	ev__SB_CD_00618	1448	00618-eintrag_vom_1448-09-02.xml	1448-09-02	zu Niclasen Zergadmer jartag den im ain kirchmaister daselbs jerlich begen sol des nagsten tags vor unser fraun tag concepcionis oder des nagsten tags hinnach des nachts mit ainer gesungen vigili des morgens mit aim gesungen selambt mit ausgerichter par geleutt kerczen und messprechen als solher jarteg zu begen sit und gewonhait ist und zu ainem ewigen olliecht das an underlas alle nacht in unser fraun abseitten ewiclich leichten und prynen sol durch des egnanten Zergadmer selhails willen	 
+45	org__wien-st_michael	org__wien-st_michael-messe_staindlein	 | 	Messe	 	ref	recipient	ev__SB_CD_00618	1448	00618-eintrag_vom_1448-09-02.xml	1448-09-02	Staindleins jartag den ain kirchmaister alle quatember in der benanten kirchen begen sol als auch solher jarteg gewonhait ist	 
+46	org__wien-st_michael	org__wien-st_michael	St. Michael | 	Kirche_Kapelle	 	corresp	recipient	ev__SB_CD_00618	1448	00618-eintrag_vom_1448-09-02.xml	1448-09-02	kirchmaister	Kirchmeister
+47	org__wien-st_michael	org__wien-st_michael-altar_st_jakob	St. Jakobsaltar | 	Altar	 	ref	recipient	NULL	1448	00619-eintrag_vom_1448-09-04.xml	1448-09-04	Sand Jacobs altar in Sand Michels kirchen zu Wienn	 
+48	org__wien-st_michael	org__wien-st_michael-altar_st_jakob-messe_lorberer	 | 	Messe	 	ref	recipient	None	1448	00619-eintrag_vom_1448-09-04.xml	1448-09-04	nachkomen caplenen derselben mess	 
+49	org__wien-st_michael	org__wien-st_michael-altar_st_jakob-messe_lorberer	 | 	Messe	 	corresp	recipient	None	1448	00619-eintrag_vom_1448-09-04.xml	1448-09-04	caplan	Kaplan
+50	org__ungarn-koenigreich	org__ungarn-koenigreich	Königreich Ungarn | 	Koenigreich	 	corresp	recipient	ev__SB_CD_00621	1448	00621-eintrag_vom_1448-11-27.xml	1448-11-27	erhalt	Erhalter
+51	org__wien-st_stephan	org__wien-st_stephan-altar_st_maria	Frauenaltar / Marienaltar | 	Altar	 	ref	recipient	ev__SB_CD_00623_men_1	1448	00623-eintrag_vom_1448-12-13.xml	1448-12-13	unser fraun altar zu Sand Steffan	 
+52	org__wien-st_stephan	org__wien-st_stephan-altar_st_maria-messe_flusthart	Flusthartmesse | 	Messe	 	ref	recipient	ev__SB_CD_00623	1448	00623-eintrag_vom_1448-12-13.xml	1448-12-13	seinen nachkomen	 
+53	org__wien-st_stephan	org__wien-st_stephan-altar_st_maria-messe_flusthart	Flusthartmesse | 	Messe	 	corresp	recipient	ev__SB_CD_00623	1448	00623-eintrag_vom_1448-12-13.xml	1448-12-13	caplan	Kaplan
+54	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	ev__SB_CD_00624_men_2	1448	00624-eintrag_vom_1448-09-23.xml	1448-09-23	Sand Steffan	 
+55	org__wien-st_stephan	org__wien-st_stephan-messe_purkhartsperger_heinrich	Messe und Kaplaneistat des Heinrich Purkharsperger | 	Messe	 	ref	recipient	ev__SB_CD_00624	1448	00624-eintrag_vom_1448-09-23.xml	1448-09-23	seinen nachkomen	 
+56	org__wien-st_stephan	org__wien-st_stephan-messe_purkhartsperger_heinrich	Messe und Kaplaneistat des Heinrich Purkharsperger | 	Messe	 	corresp	recipient	ev__SB_CD_00624	1448	00624-eintrag_vom_1448-09-23.xml	1448-09-23	kaplan	Kaplan
+57	org__wien-st_michael	org__wien-st_michael-altar_st_georg_und_st_erasmus	St. Georgs und St Erasmusaltar | 	Altar	 	ref	recipient	ev__SB_CD_00626_men_3	1448	00626-eintrag_vom_1448-12-20.xml	1448-12-20	Sant Jorgen und Sand Erasms altar in Sant Michls pfarrkirchen	 
+58	org__wien-st_michael	org__wien-st_michael-altar_st_georg_und_st_erasmus-messe_raklspurg	Raklspurgmesse | 	Messe	 	ref	recipient	ev__SB_CD_00626	1448	00626-eintrag_vom_1448-12-20.xml	1448-12-20	seinen nachkomen	 
+59	org__wien-st_michael	org__wien-st_michael-altar_st_georg_und_st_erasmus-messe_raklspurg	Raklspurgmesse | 	Messe	 	corresp	recipient	ev__SB_CD_00626	1448	00626-eintrag_vom_1448-12-20.xml	1448-12-20	kaplan	Kaplan
+60	org__riegersburg-pfarre	org__riegersburg-pfarre	 	 	 	corresp	issuer	ev__SB_CD_00626_men_3	1448	00626-eintrag_vom_1448-12-20.xml	1448-12-20	pfarrer	Pfarrer
+61	org__wien-buergerspital	org__wien-buergerspital	Wiener Bürgerspital | 	Spital_Siechenhaus	 	ref	recipient	ev__SB_CD_00627_men_1	1448	00627-eintrag_vom_1448-12-20.xml	1448-12-20	Purgerspital	 
+62	org__wien-buergerspital	org__wien-buergerspital	Wiener Bürgerspital | 	Spital_Siechenhaus	 	ref	recipient	ev__SB_CD_00966_men_1	1448	00966-eintrag_vom_1448-06-07.xml	1448-06-07	armen leuten in der burgerspital	 
+63	org__wien-buergerspital	org__wien-buergerspital	Wiener Bürgerspital | 	Spital_Siechenhaus	 	ref	recipient	ev__SB_CD_00966	1448	00966-eintrag_vom_1448-06-07.xml	1448-06-07	seinen nachkomen	 
+64	org__wien-st_stephan	org__wien-st_stephan-kapelle_herzog-altar_st_blasius-messe_poschin_dorothea	Messe Dorothea die Poschin | 	Messe	 	corresp	recipient	ev__SB_CD_00966_men_2	1448	00966-eintrag_vom_1448-06-07.xml	1448-06-07	capplan	Kaplan
+65	org__wien-buergerspital	org__wien-buergerspital	Wiener Bürgerspital | 	Spital_Siechenhaus	 	corresp	recipient	ev__SB_CD_00966	1448	00966-eintrag_vom_1448-06-07.xml	1448-06-07	spitalmaister	Spitalmeister
+66	org__wien-st_michael	org__wien-st_michael	St. Michael | 	Kirche_Kapelle	 	ref	recipient	ev__SB_CD_00969_men_1	1448	00969-eintrag_vom_1448-10-30.xml	1448-10-30	auf dem letter zu Sand Michel	 
+67	org__wien-st_michael	org__wien-st_michael-altar_st_wolfgang-messe_reichel	Reichelmesse auf dem Letter | 	Messe	 	ref	recipient	ev__SB_CD_00969	1448	00969-eintrag_vom_1448-10-30.xml	1448-10-30	seinen nachkomen	 
+68	org__wien-st_michael	org__wien-st_michael-altar_st_wolfgang-messe_reichel	Reichelmesse auf dem Letter | 	Messe	 	corresp	recipient	ev__SB_CD_00969	1448	00969-eintrag_vom_1448-10-30.xml	1448-10-30	kaplan	Kaplan
+69	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	corresp	recipient	ev__SB_CD_00970	1448	00970-eintrag_vom_1448-11-20.xml	1448-11-20	cantor	Kantor
+70	org__erdberg-st_paul	org__erdberg-st_paul	Erdberg - St. Paul | 	Kirche_Kapelle	 	ref	recipient	ev__SB_CD_00971_men_1	1448	00971-eintrag_vom_1448-12-16.xml	1448-12-16	Sand Paul zu Erdpurg	 
+71	org__wien-st_agnes_auf_der_himmelpforte	org__wien-st_agnes_auf_der_himmelpforte-altar_kreuz	Kreuzaltar | 	Altar	 	ref	recipient	ev__SB_CD_00971_men_2	1448	00971-eintrag_vom_1448-12-16.xml	1448-12-16	Heiligenkreuczs altar zu der Himlporten	 
+72	org__wien-st_stephan	org__wien-st_stephan-altar_allerheiligen	Allerheiligenaltar | 	Altar	 	ref	recipient	ev__SB_CD_00971_men_4	1448	00971-eintrag_vom_1448-12-16.xml	1448-12-16	allerheiligen altar zu Sant Steffan	 
+73	org__wien-st_stephan	org__wien-st_stephan-altar_allerheiligen-messe_chessler	Messe Heinrich Chessler | 	Messe	 	ref	recipient	ev__SB_CD_00971	1448	00971-eintrag_vom_1448-12-16.xml	1448-12-16	seinen nachkomen	 
+74	org__wien-st_stephan	org__wien-st_stephan-altar_allerheiligen-messe_chessler	Messe Heinrich Chessler | 	Messe	 	corresp	recipient	ev__SB_CD_00971	1448	00971-eintrag_vom_1448-12-16.xml	1448-12-16	caplan	Kaplan
+75	org__passau-domkapitel	org__passau-domkapitel	 | 	Kirche_Kapelle	 	corresp	recipient	ev__SB_CD_01146	1448	01146-eintrag_vom_1448-04-12.xml	1448-04-12	tumbherren	Turmherr
+76	org__gars-pfarre	org__gars-pfarre	Gars | Gars	Pfarre	 	corresp	recipient	ev__SB_CD_01146	1448	01146-eintrag_vom_1448-04-12.xml	1448-04-12	pharrer	Pfarrer
+77	org__heiliges_roemisches_reich	org__heiliges_roemisches_reich	Heilige Römische Reich | 	Reich	 	corresp	recipient	ev__SB_CD_01146	1448	01146-eintrag_vom_1448-04-12.xml	1448-04-12	kanczler	Kanzler
+78	org__wien-st_michael	org__wien-st_michael-messe_gelwaicz_niklas	 | 	Messe	 	ref	recipient	ev__SB_CD_01147	1448	01147-eintrag_vom_1448-04-29.xml	1448-04-29	zu Niclasen Gelwaiczen jartag	 
+79	org__wien-st_michael	org__wien-st_michael-messe_otto_der_furer	 | 	Messe	 	ref	recipient	ev__SB_CD_01147	1448	01147-eintrag_vom_1448-04-29.xml	1448-04-29	zu Otten des Furer jartag	 
+80	org__wien-st_michael	org__wien-st_michael-messe_jost_der_goldschmied	 | 	Messe	 	ref	recipient	ev__SB_CD_01147	1448	01147-eintrag_vom_1448-04-29.xml	1448-04-29	zu Josten des Goltsmids jartag	 
+81	org__wien-st_michael	org__wien-st_michael	St. Michael | 	Kirche_Kapelle	 	corresp	recipient	ev__SB_CD_01147	1448	01147-eintrag_vom_1448-04-29.xml	1448-04-29	kirchmaister	Kirchmeister
+82	org__wien-st_stephan	org__wien-st_stephan-altar_st_maria	Frauenaltar / Marienaltar | 	Altar	 	ref	recipient	ev__SB_CD_01241_men_2	1448	01241-eintrag_vom_1448-06-21.xml	1448-06-21	Unser Fraun Altar zu Sand Steffan	 
+83	org__wien-st_stephan	org__wien-st_stephan-altar_st_maria-messe_albrecht_bucharzt	 | Messe Albertinus der pucharczt	Messe	 	ref	recipient	ev__SB_CD_01241	1448	01241-eintrag_vom_1448-06-21.xml	1448-06-21	seinen nachkomen	 
+84	org__wien-st_stephan	org__wien-st_stephan-altar_st_maria-messe_albrecht_bucharzt	 | Messe Albertinus der pucharczt	Messe	 	corresp	recipient	ev__SB_CD_01241	1448	01241-eintrag_vom_1448-06-21.xml	1448-06-21	capplan	Kaplan
+85	org__wien-st_peter	org__wien-st_peter-altar_st_maria	Frauenaltar | 	Altar	 	ref	recipient	ev__SB_CD_01429_men_1	1448	01429-eintrag_vom_1448-02-20.xml	1448-02-20	Sand Peter zu Unser Fraun altar	 
+86	org__wien-st_johann_in_der_burg	org__wien-st_johann_in_der_burg	Unser Frauen- und Johanneskapelle in der Burg | 	Kirche_Kapelle	 	corresp	recipient	ev__SB_CD_01429	1448	01429-eintrag_vom_1448-02-20.xml	1448-02-20	caplan	Kaplan
+87	org__wien-st_georg_kapelle_bei_den_schotten	org__wien-st_georg_kapelle_bei_den_schotten-altar_st_maria	 | Frauenaltar (St. Maria)	Kirche_Kapelle	 	ref	recipient	ev__SB_CD_01431_men_3	1448	01431-eintrag_vom_1448-07-08.xml	1448-07-08	Unser Fraun altar in Sand Jorgen capellen im Tumbrobsthof gelegen	 
+88	org__wien-st_georg_kapelle_bei_den_schotten	org__wien-st_georg_kapelle_bei_den_schotten-altar_st_maria-messe_leubman_jakob	 | Messe Jakob Leubman	Kirche_Kapelle	 	ref	recipient	ev__SB_CD_01431	1448	01431-eintrag_vom_1448-07-08.xml	1448-07-08	seinen nachkomen	 
+89	org__wien-st_georg_kapelle_bei_den_schotten	org__wien-st_georg_kapelle_bei_den_schotten-altar_st_maria-messe_leubman_jakob	 | Messe Jakob Leubman	Kirche_Kapelle	 	corresp	recipient	ev__SB_CD_01431	1448	01431-eintrag_vom_1448-07-08.xml	1448-07-08	kaplan	Kaplan
+90	org__wien-st_georg_kapelle_bei_den_schotten	org__wien-st_georg_kapelle_bei_den_schotten	St. Georgskapelle-bei den Schotten | 	Kirche_Kapelle	 	ref	recipient	ev__SB_CD_01432	1448	01432-eintrag_vom_1448-07-10.xml	1448-07-10	seinen nachkomen	 
+91	org__wien-st_georg_kapelle_bei_den_schotten	org__wien-st_georg_kapelle_bei_den_schotten-altar_st_maria-messe_leubman_jakob	 | Messe Jakob Leubman	Kirche_Kapelle	 	corresp	recipient	ev__SB_CD_01432_men_2	1448	01432-eintrag_vom_1448-07-10.xml	1448-07-10	kaplan	Kaplan
+92	org__wien-st_georg_kapelle_bei_den_schotten	org__wien-st_georg_kapelle_bei_den_schotten	St. Georgskapelle-bei den Schotten | 	Kirche_Kapelle	 	corresp	recipient	ev__SB_CD_01432	1448	01432-eintrag_vom_1448-07-10.xml	1448-07-10	kaplan	Kaplan
+93	org__wien-st_stephan	org__wien-st_stephan	St. Stephan | 	Kirche_Kapelle	 	ref	recipient	NULL	1448	01434-eintrag_vom_1448-06-14.xml	1448-06-14	kirchen zu Sand Steffan	 
+94	org__wien-schotten	org__wien-schotten	Schottenkloster Wien | 	Kloster_m	OSB	ref	recipient	ev__SB_CD_01693a_men_1	1448	01693a-eintrag_vom_1448.xml	1448-01-01	geistlichen herren dacz den Schotten	 
+95	org__wien-st_stephan	org__wien-st_stephan-altar_zwoelfapostel	Zwölfbotenaltar | 	Altar	 	ref	recipient	ev__SB_CD_01767_men_1	1448	01767-eintrag_vom_1448-06-23.xml	1448-06-23	der zwelfboten altar dacz Sand Steffan	 
+96	org__wien-st_stephan	org__wien-st_stephan-altar_zwoelfapostel-messe_reidegker	Reidegkermesse | 	Messe	 	ref	recipient	ev__SB_CD_01767	1448	01767-eintrag_vom_1448-06-23.xml	1448-06-23	seinen nachkomen	 
+97	org__wien-st_stephan	org__wien-st_stephan-altar_zwoelfapostel-messe_reidegker	Reidegkermesse | 	Messe	 	corresp	recipient	ev__SB_CD_01767	1448	01767-eintrag_vom_1448-06-23.xml	1448-06-23	kapplan	Kaplan
+98	org__wien-st_johann_in_der_siechenals	org__wien-st_johann_in_der_siechenals	St. Johannes in der Siechenals | 	Spital_Siechenhaus	 	ref	recipient	ev__SB_CD_01842_men_1	1448	01842-eintrag_vom_1448-11-27.xml	1448-11-27	pharrer zu Sand Johanns in der Siechenalss	 
+99	org__wien-st_georg_kapelle_bei_den_schotten	org__wien-st_georg_kapelle_bei_den_schotten	St. Georgskapelle-bei den Schotten | 	Kirche_Kapelle	 	ref	recipient	ev__SB_CD_01842	1448	01842-eintrag_vom_1448-11-27.xml	1448-11-27	seinen nachkomen	 
+100	org__wien-st_georg_kapelle_bei_den_schotten	org__wien-st_georg_kapelle_bei_den_schotten	St. Georgskapelle-bei den Schotten | 	Kirche_Kapelle	 	corresp	recipient	ev__SB_CD_01842	1448	01842-eintrag_vom_1448-11-27.xml	1448-11-27	kappllan	Kaplan
+101	org__wien	org__wien	Wien | 	Stadt	 	ref	recipient	ev__SB_CD_01926_men_1	1448	01926-eintrag_vom_1448-12-20.xml	1448-12-20	der stat	 

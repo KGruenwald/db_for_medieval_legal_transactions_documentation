@@ -57,206 +57,210 @@
 55	pl__wien-immo_hoher_markt_3	Johann Payr, des schuster, Haus	gelegen am Hohenmarkt	pl__wien-hoher_markt	Hohermarkt (I.Bezirk) forum altum forum	3263.xml	1448-07-10
 56	pl__wien-immo_hoher_markt_3	Johann Payr, des schuster, Haus	gegen dem Vischmarkt über	pl__wien-hoher_markt_fischmarkt	Fischmarkt, an dem hohenmarkt	3263.xml	1448-07-10
 57	pl__wien-immo_hoher_markt_3	Johann Payr, des schuster, Haus	zenagst	pl__wien-immo_hoher_markt_4	Johann Waitzen, des kursner, Haus	3263.xml	1448-07-10
-58	pl__wien-immo_weinhaus_an_der_oberhohenbart_1	fünf Vierteil Weingarten der Kastnermesse	gelegen pei dem Weinhaus an der Obernhohenbart	pl__wien-weinhaus_an_der_oberhohenbart	Weinhaus an der Oberhohenbart	3265.xml	1448-08-06
-59	pl__wien-immo_weinhaus_an_der_oberhohenbart_1	fünf Vierteil Weingarten der Kastnermesse	zenagst	pl__wien-immo_weinhaus_an_der_oberhohenbart_2	Niksls Undermhimmel Weingarten	3265.xml	1448-08-06
-60	pl__wien-immo_st_maria_im_rathaus_1	ehm. Hausteil Ulrich Würfel	gegen Otten und Haimen capellen zu Wienn über	pl__wien-st_maria_im_rathaus	S. Maria - Kapelle im Rathaus	3270.xml	1448-08-19
-61	pl__wien-immo_st_maria_im_rathaus_2	ehm. Hausteil Ulrich Würfel	gegen Otten und Haimen capellen zu Wienn über	pl__wien-st_maria_im_rathaus	S. Maria - Kapelle im Rathaus	3270.xml	1448-08-19
-62	pl__wien-immo_st_maria_im_rathaus_3	ehm. Hausteil Ulrich Würfel	gegen Otten und Haimen capellen zu Wienn über	pl__wien-st_maria_im_rathaus	S. Maria - Kapelle im Rathaus	3270.xml	1448-08-19
-63	pl__wien-immo_riemerstrasse_5	Michael Praunsperger, der riemer, Haus	gelegen in der Riemergassen	pl__wien-riemerstrasse	Riemerstrass (I. Bezirk)	3274.xml	1448-09-13
-64	pl__wien-immo_riemerstrasse_5	Michael Praunsperger, der riemer, Haus	zenagst	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	3274.xml	1448-09-13
-65	pl__wien-immo_riemerstrasse_5	Michael Praunsperger, der riemer, Haus	und an dem andern zenagst	pl__wien-immo_riemerstrasse_2	Simon Vankch Haus	3274.xml	1448-09-13
-66	pl__wien-immo_riemerstrasse_5	Michael Praunsperger, der riemer, Haus	und stosset mit dem hindern tail an	pl__wien-immo_riemerstrasse_3	Johann Winter, der kramer, Haus ehm. Christian, des maurer, Haus	3274.xml	1448-09-13
-67	pl__wien-immo_kamerhof_1	Stephan Gibing Haus	im Kamerhof gelegen	pl__wien-kamerhof	Kamerhof (I.Bezirk)	3275.xml	1448-09-20
-68	pl__wien-immo_hochstrasse_1	Johann Stremphl und Stephan Sorgenfrey, der huter, Haus ehm. Heinrich Staindlperger, der pekch, Haus	auf der Hochstrass gelegen	pl__wien-hochstrasse	Hochstrass (I. Bezirk)	3276.xml	1448-09-23
-69	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	gelegen daselbs zu Wienn am Harmarkcht an dem egk	pl__wien-haarmarkt	Haarmarkt (I.Bezirk)	3278.xml	1448-11-08
-70	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	gegen	pl__wien-immo_haarmarkt_3	Georg von Nikolsburg Haus	3278.xml	1448-11-08
-71	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	zenagst der gassen, als man an den Alten Fleischmarkcht get, an aim tail	pl__wien-alter_fleischmarkt_gasse_bei	Gasse Fleischmarkt-Haarmarkt	3278.xml	1448-11-08
-72	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	und an dem andern zenagst	pl__wien-immo_haarmarkt_4	Weilent Ulrich von Steir Haus	3278.xml	1448-11-08
-73	pl__wien-immo_unter_den_pfeilschnitzern_1	Johann Varhofer Haus	gelegen undern Pheilsniczern am ekk	pl__wien-unter_den_pfeilschnitzern	Unter den Pfeilschnitzern	3279.xml	1448-11-11
-74	pl__wien-immo_unter_den_pfeilschnitzern_1	Johann Varhofer Haus	gegen	pl__wien-immo_unter_den_pfeilschnitzern_2	Konrad Phuntimaschen Haus	3279.xml	1448-11-11
-75	pl__wien-immo_unter_den_pfeilschnitzern_1	Johann Varhofer Haus	zunagst	pl__wien-minoriten_gasse_bei	Gasse bei den Minoriten (I. Bezirk) gésslein bei den Weissenprüdern	3279.xml	1448-11-11
-76	pl__wien-immo_unter_den_pfeilschnitzern_1	Johann Varhofer Haus	zunagst	pl__wien-seitzerhof	Seitzer Hof (I. Bezirk)	3279.xml	1448-11-11
-77	pl__wien-immo_kaerntnertor_3	Johann von Eibesthal Haus ehm. Konrad Klingenpoden, des pinter, Haus	gelegen vor Kernertor	pl__wien-kaerntnertor	Kärntnerthor Kernertor	3282.xml	1448-11-29
-78	pl__wien-immo_kaerntnertor_3	Johann von Eibesthal Haus ehm. Konrad Klingenpoden, des pinter, Haus	zenagst	pl__wien-immo_kaerntnertor_4	Stephan von Böhmischkrut, des pinter, Haus	3282.xml	1448-11-29
-79	pl__wien-immo_huehnergesslein_1		gelegen im Húnergesslein	pl__wien-huehnergesslein		00054-eintrag_vom_1448-06-10.xml	1448-06-10
-80	pl__wien-immo_huehnergesslein_1		zenagst	pl__wien-immo_huehnergesslein_2		00054-eintrag_vom_1448-06-10.xml	1448-06-10
-81	pl__wien-immo_alter_fleischmarkt_1	Agatha Hulber dritt tail Haus vormals Micheln Stadl	gelegen am Alten Fleischmarkcht am egk	pl__wien-alter_fleischmarkt	Alter Fleischmarkt	00055-eintrag_vom_1448-06-21.xml	1448-06-21
-82	pl__wien-immo_alter_fleischmarkt_1	Agatha Hulber dritt tail Haus vormals Micheln Stadl	zenagst dem gesslein pey Sand Larentzen kloster	pl__wien-st_laurenz	S. Laurenz, Prediger-Nonnenkloster am alten Fleischmarkt	00055-eintrag_vom_1448-06-21.xml	1448-06-21
-83	pl__wien-immo_alter_fleischmarkt_1	Agatha Hulber dritt tail Haus vormals Micheln Stadl	als man zu den Hafnern get an aim tail	pl__wien-unter_den_hafnern	Unter den Hafnern	00055-eintrag_vom_1448-06-21.xml	1448-06-21
-84	pl__wien-immo_wiltwerkerstrasse_3	Anna Leinburger Haus	gelegen in der Wiltwerherstrass	pl__wien-wiltwerkerstrasse	Wiltwercherstrasse	00056-eintrag_vom_1448-08-09.xml	1448-08-09
-85	pl__wien-immo_wiltwerkerstrasse_3	Anna Leinburger Haus	zenegst	pl__wien-immo_wiltwerkerstrasse_4	Óttinger zuhaws	00056-eintrag_vom_1448-08-09.xml	1448-08-09
-86	pl__wien-immo_judengasse_am_neuen_platz_1	Berthold Mermann Haus	gelegen in der Judengassen	pl__wien-judengasse	Judengasse (bei der Hohenprugk) Judenplatz (I. Bezirk)	00156-eintrag_vom_1448-12-13.xml	1448-12-13
-87	pl__wien-immo_judengasse_am_neuen_platz_1	Berthold Mermann Haus	an dem Newen Placz	pl__am_neuen_platz		00156-eintrag_vom_1448-12-13.xml	1448-12-13
-88	pl__wien-immo_judengasse_am_neuen_platz_1	Berthold Mermann Haus	zwischen	pl__wien-immo_judengasse_am_neuen_platz_2	Jacoben des Smalen Haus	00156-eintrag_vom_1448-12-13.xml	1448-12-13
-89	pl__wien-immo_judengasse_am_neuen_platz_1	Berthold Mermann Haus	zwischen	pl__wien-immo_judengasse_am_neuen_platz_3	Erhart von Prag des peutler haus	00156-eintrag_vom_1448-12-13.xml	1448-12-13
-90	pl__wien-immo_neuer_markt_1	Konrad u. Brigitta Eggenfelder Haus	gelegen am Newnmarkt	pl__wien-neuer_markt	Neuermarkt (I.Bezirk)	00226-eintrag_vom_1448-02-23.xml	1448-02-23
-91	pl__wien-immo_neuer_markt_1	Konrad u. Brigitta Eggenfelder Haus	zenagst	pl__wien-immo_neuer_markt_2	Thomas Kunter Haus	00226-eintrag_vom_1448-02-23.xml	1448-02-23
-92	pl__wien-immo_weihenburg_1	genant der Alt Techanthof Konrad und Anna Schröfl Haus Johann Kanstdorffer Haus	in der Weihenpurg	pl__wien-weihenburg	Weihenburg in der Weihenpurkch	00227-eintrag_vom_1448-03-06.xml	1448-03-06
-93	pl__wien-immo_weihenburg_1	genant der Alt Techanthof Konrad und Anna Schröfl Haus Johann Kanstdorffer Haus	zenagst	pl__wien-immo_weihenburg_2	des abts von Altenburg haws	00227-eintrag_vom_1448-03-06.xml	1448-03-06
-94	pl__wien-immo_kumphlukche_vor_kernertor_1	Konrad und Margarethe von Tyrna Haus	daselbs	pl__wien-kumphlukche_vor_kernertor	Kumphlukche vor Kernertor in der Kumphlukchen	00228-eintrag_vom_1448-04-22.xml	1448-04-22
-95	pl__wien-immo_kumphlukche_vor_kernertor_1	Konrad und Margarethe von Tyrna Haus	zenagst	pl__wien-immo_kumphlukche_vor_kernertor_2	Hainreichs Krumbnawer haus	00228-eintrag_vom_1448-04-22.xml	1448-04-22
-96	pl__wien-immo_graben_1	Kaspar Hermann Haus	am Graben	pl__wien-graben	(am) Graben	00229-eintrag_vom_1448-05-27.xml	1448-05-27
-97	pl__wien-immo_graben_1	Kaspar Hermann Haus	zenagst	pl__wien-immo_graben_2	Stephan Auer Haus	00229-eintrag_vom_1448-05-27.xml	1448-05-27
-98	pl__wien-immo_fleischbaenke_1	Servatius und Dorothea Waczla Haus	pey den Fleischpenkchen am egk	pl__wien-fleischbaenke	Fleischbänke bei den Fleischbänken	00230-eintrag_vom_1448-11-20.xml	1448-11-20
-99	pl__wien-immo_fleischbaenke_1	Servatius und Dorothea Waczla Haus	zenagst	pl__wien-immo_fleischbaenke_2	Michael Salzer Haus	00230-eintrag_vom_1448-11-20.xml	1448-11-20
-100	pl__wien-immo_scheffstrasse_1	Johann und Klara Tinpeck Haus	gelegen in der Scheffstrass	pl__wien-scheffstrasse	Scheffstrasse (III.Bezirk)	00231-eintrag_vom_1448-09-20.xml	1448-09-20
-101	pl__wien-immo_scheffstrasse_1	Johann und Klara Tinpeck Haus	zenagst	pl__wien-immo_scheffstrasse_2	Wolfgang von Asparn Haus	00231-eintrag_vom_1448-09-20.xml	1448-09-20
-102	pl__wien-immo_haarmarkt_1	Dorothea und Albrecht Liebhart Haus	gelegen am Harmarkt	pl__wien-haarmarkt	Haarmarkt (I.Bezirk)	00299-eintrag_vom_1448-07-08.xml	1448-07-08
-103	pl__wien-immo_haarmarkt_1	Dorothea und Albrecht Liebhart Haus	zenagst	pl__wien-immo_haarmarkt_6	Badstube genant die Perlabin	00299-eintrag_vom_1448-07-08.xml	1448-07-08
-104	pl__wien-immo_tiefer_graben_1	Dorothea und Pankraz Widmer Haus	gelegen im Teuffengraben	pl__wien-tiefer_graben	Tiefer Graben (I.Bezirk) Teuffergraben	00300-eintrag_vom_1448-08-05.xml	1448-08-05
-105	pl__wien-immo_tiefer_graben_1	Dorothea und Pankraz Widmer Haus	zenagst	pl__wien-immo_tiefer_graben_2	Thomas Trager Haus	00300-eintrag_vom_1448-08-05.xml	1448-08-05
-106	pl__wien-immo_tiefer_graben_1	Dorothea und Pankraz Widmer Haus	an dem andern zenagst	pl__wien-immo_tiefer_graben_3	Egidius Zimmermann Haus	00300-eintrag_vom_1448-08-05.xml	1448-08-05
-107	pl__wien-immo_hoher_markt_1	Elisabeth und Stephan Goltpach Haus	gelegen am Hohenmarkcht	pl__wien-hoher_markt	Hohermarkt (I.Bezirk) forum altum forum	00349-eintrag_vom_1448-02-22.xml	1448-02-22
-108	pl__wien-immo_hoher_markt_1	Elisabeth und Stephan Goltpach Haus	gegen dem Vischmarkt	pl__wien-hoher_markt_fischmarkt	Fischmarkt, an dem hohenmarkt	00349-eintrag_vom_1448-02-22.xml	1448-02-22
-109	pl__wien-immo_hoher_markt_1	Elisabeth und Stephan Goltpach Haus	zenagst	pl__wien-immo_hoher_markt_2	Steffans Fúgenstaler haus	00349-eintrag_vom_1448-02-22.xml	1448-02-22
-110	pl__wien-immo_weihenburg_3	Elspeth die Kolpekchin haws	gelegen in der Weihenpurgk	pl__wien-weihenburg	Weihenburg in der Weihenpurkch	00350-eintrag_vom_1448-04-10.xml	1448-04-10
-111	pl__wien-immo_weihenburg_3	Elspeth die Kolpekchin haws	zenagst	pl__wien-immo_weihenburg_4	Ulrich Feldsberger Haus	00350-eintrag_vom_1448-04-10.xml	1448-04-10
-112	pl__wien-immo_weidenstrasse_1	Elisabth Hubner (vormals Linczer) Haus	gelegen vor Widmertor	pl__wien-widmertor	Widmertor	00351-eintrag_vom_1448-11-29.xml	1448-11-29
-113	pl__wien-immo_weidenstrasse_1	Elisabth Hubner (vormals Linczer) Haus	in der Weidenstrass	pl__wien-weidenstrasse	Weidenstrasse vor Widmertor	00351-eintrag_vom_1448-11-29.xml	1448-11-29
-114	pl__wien-immo_weidenstrasse_1	Elisabth Hubner (vormals Linczer) Haus	zenagst	pl__wien-immo_weidenstrasse_2	Petern des Letzelter haws	00351-eintrag_vom_1448-11-29.xml	1448-11-29
-115	pl__wien-immo_moering_unter_den_schlossern_am_graben_1	Friedrich im Hof, der Schlosser, Haus	gelegen Undern Slossern auf der Morin	pl__wien-moering	Möring (I. Bezirk) auf der Morin	00406-eintrag_vom_1448-05-31.xml	1448-05-31
-116	pl__wien-immo_moering_unter_den_schlossern_am_graben_1	Friedrich im Hof, der Schlosser, Haus	am Graben	pl__wien-graben	(am) Graben	00406-eintrag_vom_1448-05-31.xml	1448-05-31
-117	pl__wien-immo_moering_unter_den_schlossern_am_graben_1	Friedrich im Hof, der Schlosser, Haus	zenagst	pl__wien-immo_moering_unter_den_schlossern_am_graben_2	Niclasen Légler haus	00406-eintrag_vom_1448-05-31.xml	1448-05-31
-118	pl__wien-immo_alserstrasse_vor_schottentor_1	Johann Auer Haus	gelegen daselbs auf der Alsserstrass	pl__wien-alserstrasse_vor_schottentor	Alserstrasse (VIII., IX., XVII. Bezirk)	00604-eintrag_vom_1448-02-24.xml	1448-02-24
-119	pl__wien-immo_alserstrasse_vor_schottentor_1	Johann Auer Haus	zenagst	pl__wien-immo_alserstrasse_vor_schottentor_2	Niclasen Pernharts des Fürer haws	00604-eintrag_vom_1448-02-24.xml	1448-02-24
-120	pl__wien-immo_alserstrasse_vor_schottentor_1	Johann Auer Haus	dapey	pl__wien-alserstrasse_vor_schottentor	Alserstrasse (VIII., IX., XVII. Bezirk)	00604-eintrag_vom_1448-02-24.xml	1448-02-24
-121	pl__wien-immo_alserstrasse_vor_schottentor_1	Johann Auer Haus	zenagst	pl__wien-immo_alserstrasse_vor_schottentor_3	des Officials haus das yecz der stat mautthaus ist	00604-eintrag_vom_1448-02-24.xml	1448-02-24
-122	pl__wien-immo_laimgrub_vor_widmertor_1	Johann Weinperger Haus	gelegen vor Widmertor	pl__wien-widmertor	Widmertor	00605-eintrag_vom_1448-03-04.xml	1448-03-04
-123	pl__wien-immo_laimgrub_vor_widmertor_1	Johann Weinperger Haus	in der Laymgrub	pl__wien-laimgrub_vor_widmertor	In der Laimgrub, vor Widmertor in der Laimgrub	00605-eintrag_vom_1448-03-04.xml	1448-03-04
-124	pl__wien-immo_laimgrub_vor_widmertor_1	Johann Weinperger Haus	zenagst	pl__wien-immo_laimgrub_vor_widmertor_2	Georg Salczer Haus	00605-eintrag_vom_1448-03-04.xml	1448-03-04
-125	pl__wien-immo_salzgries_1	Johann Würer Haus	gelegen am Saltzgriess	pl__wien-salzgries	Am Salzgries	00606-eintrag_vom_1448-04-03.xml	1448-04-03
-126	pl__wien-immo_salzgries_1	Johann Würer Haus	zenagst	pl__wien-immo_salzgries_2	Liebhard Weiss Haus	00606-eintrag_vom_1448-04-03.xml	1448-04-03
-127	pl__wien-immo_alserstrasse_vor_schottentor_4	Johann und Katharina Spannberger Haus	gelegen daselbs auf der Alsserstrasse	pl__wien-alserstrasse_vor_schottentor	Alserstrasse (VIII., IX., XVII. Bezirk)	00607-eintrag_vom_1448-03-13.xml	1448-03-13
-128	pl__wien-immo_alserstrasse_vor_schottentor_4	Johann und Katharina Spannberger Haus	zenagst	pl__wien-immo_alserstrasse_vor_schottentor_5	des Rauscher haus	00607-eintrag_vom_1448-03-13.xml	1448-03-13
-129	pl__wien-immo_kohlmarkt_1	Johann und Barbara Unverdrossen (halbes) Haus (mit Zugehorung), vormals Jakob von Brünn des schneider Haus	gelegen am Alten Kolmarkcht	pl__wien-kohlmarkt	Kohlmarkt (I.Bezirk) alter Kohlmarkt	00608-eintrag_vom_1448-04-29.xml	1448-04-29
-130	pl__wien-immo_kohlmarkt_1	Johann und Barbara Unverdrossen (halbes) Haus (mit Zugehorung), vormals Jakob von Brünn des schneider Haus	zenagst	pl__wien-immo_kohlmarkt_2	Johann Schuchl des goldschmieds Haus	00608-eintrag_vom_1448-04-29.xml	1448-04-29
-131	pl__wien-immo_alter_fleischmarkt_6	Heinrich Rigel Haus	gelegen am Alten Fleischmarkt nyden im Winkchl an der Rinkchmaur	pl__wien-alter_fleischmarkt	Alter Fleischmarkt	00609-eintrag_vom_1448-05-06.xml	1448-05-06
-132	pl__wien-immo_alter_fleischmarkt_6	Heinrich Rigel Haus	zenagst	pl__wien-immo_alter_fleischmarkt_4	der stat newem kassten	00609-eintrag_vom_1448-05-06.xml	1448-05-06
-133	pl__wien-immo_alter_fleischmarkt_6	Heinrich Rigel Haus	an dem andern zenagst	pl__wien-immo_alter_fleischmarkt_5	der studenten von Bresslaw haus	00609-eintrag_vom_1448-05-06.xml	1448-05-06
-134	pl__wien-immo_schulstrasse_vordere_1	Johann und Dorothea Ofner halbes Haus	in der Vordern Schulstrass	pl__wien-schulstrasse_vordere	Schulstrass (I. Bezirk)	00610-eintrag_vom_1448-05-29.xml	1448-05-29
-135	pl__wien-immo_schulstrasse_vordere_1	Johann und Dorothea Ofner halbes Haus	gegen der Jurissten Schul über	pl__wien-juristenschule	Juristenschul	00610-eintrag_vom_1448-05-29.xml	1448-05-29
-136	pl__wien-immo_schulstrasse_vordere_1	Johann und Dorothea Ofner halbes Haus	zenagst	pl__wien-immo_schulstrasse_vordere_2	Peter Engelhartsstetter Haus	00610-eintrag_vom_1448-05-29.xml	1448-05-29
-137	pl__wien-immo_st_johannsstrasse_2	Johann und Agnes Teuffenpekch Haus	gelegen in Sand Johannsstrass nyden am egk	pl__wien-st_johannssstrasse	S. Johanns Strasse (I.Bezirk)	00611-eintrag_vom_1448-06-21.xml	1448-06-21
-138	pl__wien-immo_st_johannsstrasse_2	Johann und Agnes Teuffenpekch Haus	zenagst	pl__wien-immo_st_johannsstrasse_1	des Grünpekchen haus	00611-eintrag_vom_1448-06-21.xml	1448-06-21
-139	pl__wien-immo_hoher_markt_3	Johann Payr, des schuster, Haus	gelegen am Hohenmarkt	pl__wien-hoher_markt	Hohermarkt (I.Bezirk) forum altum forum	00612-eintrag_vom_1448-07-10.xml	1448-07-10
-140	pl__wien-immo_hoher_markt_3	Johann Payr, des schuster, Haus	gegen dem Vischmarkt uber	pl__wien-hoher_markt_fischmarkt	Fischmarkt, an dem hohenmarkt	00612-eintrag_vom_1448-07-10.xml	1448-07-10
-141	pl__wien-immo_hoher_markt_3	Johann Payr, des schuster, Haus	zenagst	pl__wien-immo_hoher_markt_4	Johann Waitzen, des kursner, Haus	00612-eintrag_vom_1448-07-10.xml	1448-07-10
-142	pl__wien-immo_kohlmarkt_1	Johann und Barbara Unverdrossen (halbes) Haus (mit Zugehorung), vormals Jakob von Brünn des schneider Haus	ganczes gelegen am Alten Kolmarkcht	pl__wien-kohlmarkt	Kohlmarkt (I.Bezirk) alter Kohlmarkt	00613-eintrag_vom_1448-07-17.xml	1448-07-17
-143	pl__wien-immo_kohlmarkt_1	Johann und Barbara Unverdrossen (halbes) Haus (mit Zugehorung), vormals Jakob von Brünn des schneider Haus	zenagst	pl__wien-immo_kohlmarkt_4	Niklas Vorstl, der wundarzt, Haus	00613-eintrag_vom_1448-07-17.xml	1448-07-17
-144	pl__wien-immo_peurertor_1	Ulrich Pernauer des gurtler Haus	pey Peilertor	pl__wien-peurertor	Peurertor (I. Bezirk) Peilertor	00613-eintrag_vom_1448-07-17.xml	1448-07-17
-145	pl__wien-immo_salzgries_1	Johann Würer Haus	gelegen am Salczgriezz	pl__wien-salzgries	Am Salzgries	00614-eintrag_vom_1448-07-29.xml	1448-07-29
-146	pl__wien-immo_salzgries_1	Johann Würer Haus	zenagst	pl__wien-immo_salzgries_2	Liebhard Weiss Haus	00614-eintrag_vom_1448-07-29.xml	1448-07-29
-147	pl__wien-immo_kienmarkt_3	Margarethe und Johann Hölczel Haus	gelegen am Kienmarkht	pl__wien-kienmarkt	Kienmarkt (I.Bezirk)	00615-eintrag_vom_1448-06-26.xml	1448-06-26
-148	pl__wien-immo_kienmarkt_3	Margarethe und Johann Hölczel Haus	zenagst	pl__wien-immo_kienmarkt_4	Jorgen von Gelestorf sun haus Johann Göllersdorfer Haus	00615-eintrag_vom_1448-06-26.xml	1448-06-26
-149	pl__wien-immo_pippingerstrasse_1	Johann und Agnes Hinlauf Haus	gelegen in der Pippingerstrass	pl__wien-pippingerstrasse	Pippingerstrasse (I.Bezirk)	00616-eintrag_vom_1448-07-19.xml	1448-07-19
-150	pl__wien-immo_pippingerstrasse_1	Johann und Agnes Hinlauf Haus	zenagst	pl__wien-immo_pippingerstrasse_2	Georg von Ror, der fleischacker, Haus	00616-eintrag_vom_1448-07-19.xml	1448-07-19
-151	pl__wien-immo_kohlmarkt_2	Johann Schuchl des goldschmieds Haus	gelegen am Kolmarkt	pl__wien-kohlmarkt	Kohlmarkt (I.Bezirk) alter Kohlmarkt	00617-eintrag_vom_1448-08-26.xml	1448-08-26
-152	pl__wien-immo_kohlmarkt_2	Johann Schuchl des goldschmieds Haus	zenagst	pl__wien-immo_kohlmarkt_5	Ulrich Fochter Haus	00617-eintrag_vom_1448-08-26.xml	1448-08-26
-153	pl__wien-immo_kohlmarkt_6	Heinrich und Margarethe Eschlbach Haus	gelegen am Alten Kolmarkt	pl__wien-kohlmarkt	Kohlmarkt (I.Bezirk) alter Kohlmarkt	00618-eintrag_vom_1448-09-02.xml	1448-09-02
-154	pl__wien-immo_kohlmarkt_6	Heinrich und Margarethe Eschlbach Haus	zenagst	pl__wien-immo_kohlmarkt_7	des Fuchsleins haus	00618-eintrag_vom_1448-09-02.xml	1448-09-02
-155	pl__wien-immo_geraeut_vor_stubentor_1	Fridreichs kochs haus und hofstat weingarten	im Gereutt	pl__wien-geraeut_vor_stubentor	Im Geräut, vor Stubentor	00618-eintrag_vom_1448-09-02.xml	1448-09-02
-156	pl__wien-immo_kohlmarkt_6	Heinrich und Margarethe Eschlbach Haus	am Alten Kolmarkcht gelegen	pl__wien-kohlmarkt	Kohlmarkt (I.Bezirk) alter Kohlmarkt	00619-eintrag_vom_1448-09-04.xml	1448-09-04
-157	pl__wien-immo_kohlmarkt_6	Heinrich und Margarethe Eschlbach Haus	zenagst	pl__wien-immo_kohlmarkt_8	Johann Unverdrossen, der plattner, Haus	00619-eintrag_vom_1448-09-04.xml	1448-09-04
-158	pl__wien-immo_kaerntnertor_1	Johann Kieler Haus	gelegen pey Kernertor am egk hinder der Rinkmaur	pl__wien-kaerntnertor	Kärntnerthor Kernertor	00620-eintrag_vom_1448-11-20.xml	1448-11-20
-159	pl__wien-immo_kaerntnertor_1	Johann Kieler Haus	zenagst	pl__wien-immo_kaerntnertor_2	Ulrich Floederl, der schlosser, Haus	00620-eintrag_vom_1448-11-20.xml	1448-11-20
-160	pl__wien-immo_singerstrasse_1	Johann Züchtig Haus	gelegen in der Súnigerstrass	pl__wien-singerstrasse	Singerstrasse (I. Bezirk) Súnigerstrass	00622-eintrag_vom_1448-12-09.xml	1448-12-09
-161	pl__wien-immo_singerstrasse_1	Johann Züchtig Haus	zenagst	pl__wien-immo_singerstrasse_1	Johann Züchtig Haus	00622-eintrag_vom_1448-12-09.xml	1448-12-09
-162	pl__wien-immo_teinfaltstrasse_1	Johann Frey, der parhander, Haus	gelegen in der Tunfoitstrass	pl__wien-teinfaltstrasse	Teinfaltstrasse(I.Bezirk) Tunfoltstrass	00623-eintrag_vom_1448-12-13.xml	1448-12-13
-163	pl__wien-immo_teinfaltstrasse_1	Johann Frey, der parhander, Haus	zenagst	pl__wien-immo_teinfaltstrasse_2	Johann Höphl Haus	00623-eintrag_vom_1448-12-13.xml	1448-12-13
-164	pl__wien-immo_strauchgasse_1	Johann Weilhaimer Haus	gelegen in der Strauchgassen	pl__wien-strauchgasse	Strauchgasse (I.Bezirk)	00624-eintrag_vom_1448-09-23.xml	1448-09-23
-165	pl__wien-immo_strauchgasse_1	Johann Weilhaimer Haus	zenagst	pl__wien-immo_strauchgasse_2	Heinrich Maler Haus	00624-eintrag_vom_1448-09-23.xml	1448-09-23
-166	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	gelegen am Harmarkcht an dem egk	pl__wien-haarmarkt	Haarmarkt (I.Bezirk)	00625-eintrag_vom_1448-12-11.xml	1448-12-11
-167	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	zenagst der gassen als man an den Alten Fleischmarkcht get	pl__wien-alter_fleischmarkt	Alter Fleischmarkt	00625-eintrag_vom_1448-12-11.xml	1448-12-11
-168	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	gegen	pl__wien-immo_haarmarkt_3	Georg von Nikolsburg Haus	00625-eintrag_vom_1448-12-11.xml	1448-12-11
-169	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	und an dem andern zenagst	pl__wien-immo_haarmarkt_4	Weilent Ulrich von Steir Haus	00625-eintrag_vom_1448-12-11.xml	1448-12-11
-170	pl__wien-immo_strauchgasse_1	Johann Weilhaimer Haus	gelegen in der Strauchgassen	pl__wien-strauchgasse	Strauchgasse (I.Bezirk)	00626-eintrag_vom_1448-12-20.xml	1448-12-20
-171	pl__wien-immo_strauchgasse_1	Johann Weilhaimer Haus	zenagst	pl__wien-immo_strauchgasse_2	Heinrich Maler Haus	00626-eintrag_vom_1448-12-20.xml	1448-12-20
-172	pl__wien-immo_walichstrasse_3	Lorenz Swarcz Haus	in der Walichstrass	pl__wien-walichstrasse	Wallnerstrasse (I. Bezirk) Walichstrass	00626-eintrag_vom_1448-12-20.xml	1448-12-20
-173	pl__wien-immo_gottesacker_vor_kaertnertor_1	Heinrich Wurm, der pekch, Haus	gelegen vor Kernertor	pl__wien-kaerntnertor	Kärntnerthor Kernertor	00627-eintrag_vom_1448-12-20.xml	1448-12-20
-174	pl__wien-immo_gottesacker_vor_kaertnertor_1	Heinrich Wurm, der pekch, Haus	zenagst dem gotzakcher	pl__wien-gottesacker_vor_kaertnertor	Gottesacker vor Kernertor	00627-eintrag_vom_1448-12-20.xml	1448-12-20
-175	pl__wien-immo_siebenherbergen_vor_kaertnertor_1	Georg Krumpp, der binder, Haus und Garten daran	gelegen bei den Sibenherbergen vor Kernertor zenagst der Prugken	pl__wien-siebenherbergen_vor_kaertnertor	bei den Sibenherbergen vor Kernertor zenagst der Prugken	00966-eintrag_vom_1448-06-07.xml	1448-06-07
-176	pl__wien-immo_siebenherbergen_vor_kaertnertor_1	Georg Krumpp, der binder, Haus und Garten daran	und Sand Kolmans freithof	pl__wien-st_koloman	S. Koloman auf dem Gottesacker vor Kartnertor	00966-eintrag_vom_1448-06-07.xml	1448-06-07
-177	pl__wien-immo_siebenherbergen_vor_kaertnertor_2	Georg Krumpp, der binder, Haus	gelegen daneben	pl__wien-immo_siebenherbergen_vor_kaertnertor_1	Georg Krumpp, der binder, Haus und Garten daran	00966-eintrag_vom_1448-06-07.xml	1448-06-07
-178	pl__wien-immo_st_johannsstrasse_3	Jakob Kreuss halbs haus, das ettwan ain ramhof gewesen ist	ganczes gelegen in Sand Johansstrass	pl__wien-st_johannssstrasse	S. Johanns Strasse (I.Bezirk)	00967-eintrag_vom_1448-06-19.xml	1448-06-19
-179	pl__wien-immo_st_johannsstrasse_3	Jakob Kreuss halbs haus, das ettwan ain ramhof gewesen ist	zenagst	pl__wien-immo_st_johannsstrasse_4	Michael des Münzer Haus	00967-eintrag_vom_1448-06-19.xml	1448-06-19
-180	pl__wien-immo_kaerntnerstrasse_2	Jakob Straiffing und Peter Obrcht, weilent Erhard Neunkirchner, Haus	gelegen in der Kernerstrass	pl__wien-kaerntnerstrasse	Kärntnerstrasse (I.Bezirk) Kernerstrass	00968-eintrag_vom_1448-07-10.xml	1448-07-10
-181	pl__wien-immo_kaerntnerstrasse_2	Jakob Straiffing und Peter Obrcht, weilent Erhard Neunkirchner, Haus	zenegst	pl__wien-immo_kaerntnerstrasse_3	Heinrich Stoll Haus	00968-eintrag_vom_1448-07-10.xml	1448-07-10
-182	pl__wien-immo_st_pankraz_3	Georg und Elisabeth Zwettler Haus	gelegen hinder Sand Pangreczen	pl__wien-st_pankraz	S. Pancratius	00969-eintrag_vom_1448-10-30.xml	1448-10-30
-183	pl__wien-immo_st_pankraz_3	Georg und Elisabeth Zwettler Haus	zenagst	pl__wien-immo_st_pankraz_4	Michael Hiltprant, der schmied, Haus	00969-eintrag_vom_1448-10-30.xml	1448-10-30
-184	pl__wien-immo_steig_bei_den_predigern_1	Jakob Schutwempl, der fasszieher, Haus	gelegen auf dem steig gegen der Prediger kloster uber am egk	pl__wien-steig_bei_den_predigern	Auf dem Steig, bei den Predigern auf dem Steig	00970-eintrag_vom_1448-11-20.xml	1448-11-20
-185	pl__wien-immo_steig_bei_den_predigern_1	Jakob Schutwempl, der fasszieher, Haus	zenagst	pl__wien-immo_steig_bei_den_predigern_2	Peter von Asparn Haus	00970-eintrag_vom_1448-11-20.xml	1448-11-20
-186	pl__wien-immo_anger_1	Jorg und Jacob, gepruder die Münich, Haus	gelegen aufm Anger	pl__wien-anger	Auf dem Anger (I. Bezirk)	00971-eintrag_vom_1448-12-16.xml	1448-12-16
-187	pl__wien-immo_anger_1	Jorg und Jacob, gepruder die Münich, Haus	zenagst	pl__wien-immo_anger_2	der Newnperger hof	00971-eintrag_vom_1448-12-16.xml	1448-12-16
-188	pl__wien-immo_steig_bei_den_predigern_3	Peter von Nussdorf, der schneider, Haus	gegen den Predigern uber	pl__wien-steig_bei_den_predigern	Auf dem Steig, bei den Predigern auf dem Steig	00971-eintrag_vom_1448-12-16.xml	1448-12-16
-189	pl__wien-immo_weihenburg_5	Kunigund, Hannsen des Hagen seligen witib, haus	gelegen in der Weihenpurgk	pl__wien-weihenburg	Weihenburg in der Weihenpurkch	01099-eintrag_vom_1448-02-20.xml	1448-02-20
-190	pl__wien-immo_weihenburg_5	Kunigund, Hannsen des Hagen seligen witib, haus	zenagst	pl__wien-immo_weihenburg_3	Elspeth die Kolpekchin haws	01099-eintrag_vom_1448-02-20.xml	1448-02-20
-191	pl__wien-immo_hoher_markt_6	Kathrey, Wentzlaben Grat des schuster hausfrau, halbs haus	gelegen am Hohenmarkcht	pl__wien-hoher_markt	Hohermarkt (I.Bezirk) forum altum forum	01100-eintrag_vom_1448-04-29.xml	1448-04-29
-192	pl__wien-immo_hoher_markt_6	Kathrey, Wentzlaben Grat des schuster hausfrau, halbs haus	undern Wentkremen	pl__wien-hoher_markt_wentkremen	Unter den Wentkremen, an dem hohenmarkt	01100-eintrag_vom_1448-04-29.xml	1448-04-29
-193	pl__wien-immo_hoher_markt_6	Kathrey, Wentzlaben Grat des schuster hausfrau, halbs haus	zenagst	pl__wien-immo_hoher_markt_5	Niklas Sawr des schuster haus	01100-eintrag_vom_1448-04-29.xml	1448-04-29
-194	pl__wien-immo_baeckerstrasse_hintere_1	Leonhard Grünpacher Haus	gelegen in der Hindern Pekchenstrass	pl__wien-baeckerstrasse_hintere	Hintere Bäckerstrasse (I. Bezirk)	01146-eintrag_vom_1448-04-12.xml	1448-04-12
-195	pl__wien-immo_baeckerstrasse_hintere_1	Leonhard Grünpacher Haus	zenagst	pl__wien-immo_baeckerstrasse_hintere_2	Der Pirchnerin haws	01146-eintrag_vom_1448-04-12.xml	1448-04-12
-196	pl__wien-immo_walichstrasse_1	Lorenz Krakauer Haus	gelegen in der Walichstrass	pl__wien-walichstrasse	Wallnerstrasse (I. Bezirk) Walichstrass	01147-eintrag_vom_1448-04-29.xml	1448-04-29
-197	pl__wien-immo_walichstrasse_1	Lorenz Krakauer Haus	zenagst	pl__wien-immo_walichstrasse_2	Johann Peinhekchl des brunner Haus	01147-eintrag_vom_1448-04-29.xml	1448-04-29
-198	pl__wien-immo_kienmarkt_5	Leonhard Kriech Haus	gelegen am Kienmarkt im Winkchl	pl__wien-kienmarkt	Kienmarkt (I.Bezirk)	01148-eintrag_vom_1448-05-17.xml	1448-05-17
-199	pl__wien-immo_kienmarkt_5	Leonhard Kriech Haus	zenagst	pl__wien-immo_kienmarkt_6	Martin, der wachsgiesser, Haus	01148-eintrag_vom_1448-05-17.xml	1448-05-17
-200	pl__wien-immo_walichstrasse_3	Lorenz Swarcz Haus	gelegen in der Walchstrass	pl__wien-walichstrasse	Wallnerstrasse (I. Bezirk) Walichstrass	01149-eintrag_vom_1448-09-02.xml	1448-09-02
-201	pl__wien-immo_walichstrasse_3	Lorenz Swarcz Haus	zenagst	pl__wien-immo_walichstrasse_4	des Gréfenperger háws	01149-eintrag_vom_1448-09-02.xml	1448-09-02
-202	pl__wien-immo_kienmarkt_7	Fridreichen von Minden, der kursner, Haus	gelegen am Kienmarkt im Winkhl	pl__wien-kienmarkt	Kienmarkt (I.Bezirk)	01150-eintrag_vom_1448-03-04.xml	1448-03-04
-203	pl__wien-immo_kienmarkt_7	Fridreichen von Minden, der kursner, Haus	zenagst	pl__wien-immo_kienmarkt_8	Georg Schuchler Haus	01150-eintrag_vom_1448-03-04.xml	1448-03-04
-204	pl__wien-immo_kienmarkt_1	Michael Viregk Haus	gelegen am Kienmarkcht zu Wienn	pl__wien-kienmarkt	Kienmarkt (I.Bezirk)	01239-eintrag_vom_1448-03-13.xml	1448-03-13
-205	pl__wien-immo_kienmarkt_1	Michael Viregk Haus	zenagst	pl__wien-immo_kienmarkt_2	Lorenz Swancz Haus	01239-eintrag_vom_1448-03-13.xml	1448-03-13
-206	pl__wien-immo_hoher_markt_7	Matthias Vogpurger haus, genant des Silbrein Hensleins Haus	gelegen am Hohenmarkcht	pl__wien-hoher_markt	Hohermarkt (I.Bezirk) forum altum forum	01240-eintrag_vom_1448-03-15.xml	1448-03-15
-207	pl__wien-immo_hoher_markt_7	Matthias Vogpurger haus, genant des Silbrein Hensleins Haus	an aim tail neben	pl__wien-immo_hoher_markt_8	dem Schrein haus	01240-eintrag_vom_1448-03-15.xml	1448-03-15
-208	pl__wien-immo_riemerstrasse_1	Michael und Dorothea Toller Ramhof/Haus	gelegen mit dem vordern tail in der Riemerstrass	pl__wien-riemerstrasse	Riemerstrass (I. Bezirk)	01241-eintrag_vom_1448-06-21.xml	1448-06-21
-209	pl__wien-immo_riemerstrasse_1	Michael und Dorothea Toller Ramhof/Haus	zenagst	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	01241-eintrag_vom_1448-06-21.xml	1448-06-21
-210	pl__wien-immo_riemerstrasse_1	Michael und Dorothea Toller Ramhof/Haus	und an dem andern zenagst	pl__wien-immo_riemerstrasse_2	Simon Vankch Haus	01241-eintrag_vom_1448-06-21.xml	1448-06-21
-211	pl__wien-immo_riemerstrasse_1	Michael und Dorothea Toller Ramhof/Haus	stosst mit dem hindern tail in das Kumphgéssl	pl__wien-kumpfgasse	Kumpfgasse (I. Bezirk) Kumphgessl	01241-eintrag_vom_1448-06-21.xml	1448-06-21
-212	pl__wien-immo_riemerstrasse_1	Michael und Dorothea Toller Ramhof/Haus	zenagst	pl__wien-immo_kumpfgasse_1	Christian Widhacker Haus des Widhakcher haus	01241-eintrag_vom_1448-06-21.xml	1448-06-21
-213	pl__wien-immo_weidenstrasse_3	Michael und Katharina Haffner Haus	gelegen vor Kernertor	pl__wien-kaerntnertor	Kärntnerthor Kernertor	01242-eintrag_vom_1448-11-15.xml	1448-11-15
-214	pl__wien-immo_weidenstrasse_3	Michael und Katharina Haffner Haus	in der Weydenstrass an ainen tail zenagst in dem gésslein	pl__wien-weidenstrasse	Weidenstrasse vor Widmertor	01242-eintrag_vom_1448-11-15.xml	1448-11-15
-215	pl__wien-immo_weidenstrasse_3	Michael und Katharina Haffner Haus	an dem andern zenagst	pl__wien-immo_weidenstrasse_4	Albrecht Ladner Haus	01242-eintrag_vom_1448-11-15.xml	1448-11-15
-216	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	gelegen in der Riemergassen	pl__wien-riemerstrasse	Riemerstrass (I. Bezirk)	01243-eintrag_vom_1448-09-13.xml	1448-09-13
-217	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	zenagst	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	01243-eintrag_vom_1448-09-13.xml	1448-09-13
-218	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	und an dem andern zenagst	pl__wien-immo_riemerstrasse_2	Simon Vankch Haus	01243-eintrag_vom_1448-09-13.xml	1448-09-13
-219	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	und stösst mit dem hindern tail	pl__wien-immo_riemerstrasse_3	Johann Winter, der kramer, Haus ehm. Christian, des maurer, Haus	01243-eintrag_vom_1448-09-13.xml	1448-09-13
-220	pl__wien-immo_schenkenstrasse_1	Niklas und Katharina Vaschang Haus ehm. Elisabeth Vischerin, Witwe Konrads Vischer von Lebarn Haus	gelegen in der Schenkchenstrass	pl__wien-schenkenstrasse	Schenkenstrasse (I.Bezirk)	01418-eintrag_vom_1448-09-06.xml	1448-09-06
-221	pl__wien-immo_schenkenstrasse_1	Niklas und Katharina Vaschang Haus ehm. Elisabeth Vischerin, Witwe Konrads Vischer von Lebarn Haus	zenagst	pl__wien-immo_schenkenstrasse_2	Ulrich Peck Haus	01418-eintrag_vom_1448-09-06.xml	1448-09-06
-222	pl__wien-immo_st_johannsstrasse_5	Niklas und Elsbeth Salczburger Haus	gelegen in Sant Johannsstrass	pl__wien-st_johannssstrasse	S. Johanns Strasse (I.Bezirk)	01429-eintrag_vom_1448-02-20.xml	1448-02-20
-223	pl__wien-immo_st_johannsstrasse_5	Niklas und Elsbeth Salczburger Haus	zenagst	pl__wien-immo_st_johannsstrasse_6	Gilg Kunter Haus	01429-eintrag_vom_1448-02-20.xml	1448-02-20
-224	pl__wien-immo_alserstrasse_vor_schottentor_6	Niklas und Dorothea Piberstein Haus	gelegen auf der Alsserstrass	pl__wien-alserstrasse_vor_schottentor	Alserstrasse (VIII., IX., XVII. Bezirk)	01430-eintrag_vom_1448-03-04.xml	1448-03-04
-225	pl__wien-immo_alserstrasse_vor_schottentor_6	Niklas und Dorothea Piberstein Haus	zenagst	pl__wien-immo_alserstrasse_vor_schottentor_1	Johann Auer Haus	01430-eintrag_vom_1448-03-04.xml	1448-03-04
-226	pl__wien-immo_goldschmiedgasse_1	Niklas Lainbacher, der apotheker, Haus	gelegen in der Goltsmidgassen am egk	pl__wien-goldschmiedgasse	Goldschmiedgasse, bei S. Stephan	01431-eintrag_vom_1448-07-08.xml	1448-07-08
-227	pl__wien-immo_goldschmiedgasse_1	Niklas Lainbacher, der apotheker, Haus	gegen Sand Steffans Freithoftor uber	pl__wien-st_stephan-freithof	Freithof (S. Stephan)	01431-eintrag_vom_1448-07-08.xml	1448-07-08
-228	pl__wien-immo_goldschmiedgasse_1	Niklas Lainbacher, der apotheker, Haus	zenagst	pl__wien-immo_goldschmiedgasse_2	Stephan Pusenperger, der zinngiesser, Haus	01431-eintrag_vom_1448-07-08.xml	1448-07-08
-229	pl__wien-immo_kaerntnerstrasse_1	Friedrich Pierpaumer halbes Haus	in der Kernerstrass	pl__wien-kaerntnerstrasse	Kärntnerstrasse (I.Bezirk) Kernerstrass	01431-eintrag_vom_1448-07-08.xml	1448-07-08
-230	pl__wien-immo_goldschmiedgasse_1	Niklas Lainbacher, der apotheker, Haus	gelegen in der Goltsmidgassen am egk	pl__wien-goldschmiedgasse	Goldschmiedgasse, bei S. Stephan	01432-eintrag_vom_1448-07-10.xml	1448-07-10
-231	pl__wien-immo_goldschmiedgasse_1	Niklas Lainbacher, der apotheker, Haus	gegn Sand Steffans Freithoftor uber	pl__wien-st_stephan-freithof	Freithof (S. Stephan)	01432-eintrag_vom_1448-07-10.xml	1448-07-10
-232	pl__wien-immo_goldschmiedgasse_1	Niklas Lainbacher, der apotheker, Haus	zenagst	pl__wien-immo_goldschmiedgasse_2	Stephan Pusenperger, der zinngiesser, Haus	01432-eintrag_vom_1448-07-10.xml	1448-07-10
-233	pl__wien-immo_schenkenstrasse_1	Niklas und Katharina Vaschang Haus ehm. Elisabeth Vischerin, Witwe Konrads Vischer von Lebarn Haus	gelegen in der Schenkchenstrass	pl__wien-schenkenstrasse	Schenkenstrasse (I.Bezirk)	01433-eintrag_vom_1448-07-29.xml	1448-07-29
-234	pl__wien-immo_schenkenstrasse_1	Niklas und Katharina Vaschang Haus ehm. Elisabeth Vischerin, Witwe Konrads Vischer von Lebarn Haus	zenagst	pl__wien-immo_schenkenstrasse_2	Ulrich Peck Haus	01433-eintrag_vom_1448-07-29.xml	1448-07-29
-235	pl__wien-immo_krafthof_1	Niklas Graefenauer Haus	gelegen in des Kraffts hof hinder Sand Pangreczen	pl__wien-krafthof	Krafthof	01434-eintrag_vom_1448-06-14.xml	1448-06-14
-236	pl__wien-immo_krafthof_1	Niklas Graefenauer Haus	zenagst	pl__wien-immo_krafthof_2	Johann Nagler Haus	01434-eintrag_vom_1448-06-14.xml	1448-06-14
-237	pl__wien-immo_roterturm_1	Stephan und Barbara Holfus Haus	gelegen bey dem rotenturn	pl__wien-roterturm	Roterturm	01686-eintrag_vom_1448-04-22.xml	1448-04-22
-238	pl__wien-immo_roterturm_1	Stephan und Barbara Holfus Haus	gegen	pl__wien-immo_roterturm_2	weilent des Snitzer haus	01686-eintrag_vom_1448-04-22.xml	1448-04-22
-239	pl__wien-immo_roterturm_1	Stephan und Barbara Holfus Haus	über	pl__wien-immo_roterturm_2	weilent des Snitzer haus	01686-eintrag_vom_1448-04-22.xml	1448-04-22
-240	pl__wien-immo_roterturm_1	Stephan und Barbara Holfus Haus	stosset unden an der	pl__wien-gruennkcherhof	Grünnkcher hof	01686-eintrag_vom_1448-04-22.xml	1448-04-22
-241	pl__wien-immo_salzgries_3	Stephan und Katharina Radendorfer Haus	gelegen am Salczgriess	pl__wien-salzgries	Am Salzgries	01687-eintrag_vom_1448-05-27.xml	1448-05-27
-242	pl__wien-immo_salzgries_3	Stephan und Katharina Radendorfer Haus	zenagst	pl__wien-immo_salzgries_4	Johann Zwettler am Salzgriess Haus	01687-eintrag_vom_1448-05-27.xml	1448-05-27
-243	pl__wien-immo_baeckerstrasse_vordere_1	Stephan Vink Haus	gelegen in der Vordern pekchenstrass	pl__wien-baeckerstrasse_vordere	Vordere Bäckerstrasse (I. Bezirk)	01693-eintrag_vom_1448-12-13.xml	1448-12-13
-244	pl__wien-immo_baeckerstrasse_vordere_1	Stephan Vink Haus	zenagst	pl__wien-immo_baeckerstrasse_vordere_2	Niklas vom Stein, der fleischhacker, Haus	01693-eintrag_vom_1448-12-13.xml	1448-12-13
-245	pl__wien-immo_kohlmarkt_9	Simon und Barbara Brunner Haus	gelegen am Alten Kolmarkt	pl__wien-kohlmarkt	Kohlmarkt (I.Bezirk) alter Kohlmarkt	01693a-eintrag_vom_1448.xml	1448
-246	pl__wien-immo_kohlmarkt_9	Simon und Barbara Brunner Haus	zenagst	pl__wien-immo_kohlmarkt_10	Paul Haid, der schuster, Haus	01693a-eintrag_vom_1448.xml	1448
-247	pl__wien-immo_roterturm_3	Thomas Praitenweidacher Haus	gelegen bey dem Rotenturn auf dem steig	pl__wien-roterturm	Roterturm	01767-eintrag_vom_1448-06-23.xml	1448-06-23
-248	pl__wien-immo_roterturm_3	Thomas Praitenweidacher Haus	zenagst	pl__wien-immo_roterturm_4	weilent Ulreichs von Steir haus	01767-eintrag_vom_1448-06-23.xml	1448-06-23
-249	pl__wien-immo_mietstat_vor_kaerntnertor_1	Ulrich und Barbara Meichsner Haus Haus an der Mietstat	gelegen daselbs an der Mietstat	pl__wien-mietstat_vor_kaerntnertor	Mietstat vor Kernertor	01840-eintrag_vom_1448-04-19.xml	1448-04-19
-250	pl__wien-immo_mietstat_vor_kaerntnertor_1	Ulrich und Barbara Meichsner Haus Haus an der Mietstat	zenagst	pl__wien-immo_mietstat_vor_kaerntnertor_2	Katharina und Johann Wigfring, kupferschmid, Haus des Kuphersmids haws	01840-eintrag_vom_1448-04-19.xml	1448-04-19
-251	pl__wien-immo_schenkenstrasse_3	Ulrich Lang, der pekch, Haus	gelegen in der Schenkchenstrass	pl__wien-schenkenstrasse	Schenkenstrasse (I.Bezirk)	01841-eintrag_vom_1448-08-13.xml	1448-08-13
-252	pl__wien-immo_schenkenstrasse_3	Ulrich Lang, der pekch, Haus	zenagst	pl__wien-immo_schenkenstrasse_4	Burkhard Kienberger Haus	01841-eintrag_vom_1448-08-13.xml	1448-08-13
-253	pl__wien-immo_schenkenstrasse_3	Ulrich Lang, der pekch, Haus	an dem andern zenagst	pl__wien-immo_schenkenstrasse_1	Niklas und Katharina Vaschang Haus ehm. Elisabeth Vischerin, Witwe Konrads Vischer von Lebarn Haus	01841-eintrag_vom_1448-08-13.xml	1448-08-13
-254	pl__wien-immo_st_pankraz_1	Ulrich Hesler Haus	gelegen hinder Sand Pangretzen	pl__wien-st_pankraz	S. Pancratius	01842-eintrag_vom_1448-11-27.xml	1448-11-27
-255	pl__wien-immo_st_pankraz_1	Ulrich Hesler Haus	zenagst	pl__wien-immo_st_pankraz_2	Andreas Weinperger Haus	01842-eintrag_vom_1448-11-27.xml	1448-11-27
-256	pl__wien-immo_alter_fleischmarkt_2	Wolfgang Holczer Haus und zuhaus	gelegen am Alten Fleischmarkt	pl__wien-alter_fleischmarkt	Alter Fleischmarkt	01926-eintrag_vom_1448-12-20.xml	1448-12-20
-257	pl__wien-immo_alter_fleischmarkt_2	Wolfgang Holczer Haus und zuhaus	zenagst	pl__wien-immo_alter_fleischmarkt_3	Stephan Hittendorfer, des peler, Haus	01926-eintrag_vom_1448-12-20.xml	1448-12-20
-258	pl__wien-immo_alter_fleischmarkt_8	Wolfgang Holczer gertl mit der stetten	auch hinder den egenanten hewsern	pl__wien-immo_alter_fleischmarkt_2	Wolfgang Holczer Haus und zuhaus	01926-eintrag_vom_1448-12-20.xml	1448-12-20
-259	pl__wien-immo_alter_fleischmarkt_8	Wolfgang Holczer gertl mit der stetten	auch hinder den egenanten hewsern	pl__wien-immo_alter_fleischmarkt_3	Stephan Hittendorfer, des peler, Haus	01926-eintrag_vom_1448-12-20.xml	1448-12-20
-260	pl__wien-immo_alter_fleischmarkt_8	Wolfgang Holczer gertl mit der stetten	gegen den hafnern uber	pl__wien-unter_den_hafnern	Unter den Hafnern	01926-eintrag_vom_1448-12-20.xml	1448-12-20
+58	pl__wien-immo_tiefer_graben_1	Dorothea und Pankraz Widmer Haus	gelegen im Teuffengraben	pl__wien-tiefer_graben	Tiefer Graben (I.Bezirk) Teuffergraben	3264.xml	1448-08-05
+59	pl__wien-immo_tiefer_graben_1	Dorothea und Pankraz Widmer Haus	zenagst	pl__wien-immo_tiefer_graben_2	Thomas Trager Haus	3264.xml	1448-08-05
+60	pl__wien-immo_tiefer_graben_1	Dorothea und Pankraz Widmer Haus	an aim tail	pl__wien-immo_tiefer_graben_2	Thomas Trager Haus	3264.xml	1448-08-05
+61	pl__wien-immo_tiefer_graben_1	Dorothea und Pankraz Widmer Haus	an dem andern zenagst	pl__wien-immo_tiefer_graben_3	Egidius Zimmermann Haus	3264.xml	1448-08-05
+62	pl__wien-immo_weinhaus_an_der_oberhohenbart_1	fünf Vierteil Weingarten der Kastnermesse	gelegen pei dem Weinhaus an der Obernhohenbart	pl__wien-weinhaus_an_der_oberhohenbart	Weinhaus an der Oberhohenbart	3265.xml	1448-08-06
+63	pl__wien-immo_weinhaus_an_der_oberhohenbart_1	fünf Vierteil Weingarten der Kastnermesse	zenagst	pl__wien-immo_weinhaus_an_der_oberhohenbart_2	Niksls Undermhimmel Weingarten	3265.xml	1448-08-06
+64	pl__wien-immo_st_maria_im_rathaus_1	ehm. Hausteil Ulrich Würfel	gegen Otten und Haimen capellen zu Wienn über	pl__wien-st_maria_im_rathaus	S. Maria - Kapelle im Rathaus	3270.xml	1448-08-19
+65	pl__wien-immo_st_maria_im_rathaus_2	ehm. Hausteil Ulrich Würfel	gegen Otten und Haimen capellen zu Wienn über	pl__wien-st_maria_im_rathaus	S. Maria - Kapelle im Rathaus	3270.xml	1448-08-19
+66	pl__wien-immo_st_maria_im_rathaus_3	ehm. Hausteil Ulrich Würfel	gegen Otten und Haimen capellen zu Wienn über	pl__wien-st_maria_im_rathaus	S. Maria - Kapelle im Rathaus	3270.xml	1448-08-19
+67	pl__wien-immo_riemerstrasse_5	Michael Praunsperger, der riemer, Haus	gelegen in der Riemergassen	pl__wien-riemerstrasse	Riemerstrass (I. Bezirk)	3274.xml	1448-09-13
+68	pl__wien-immo_riemerstrasse_5	Michael Praunsperger, der riemer, Haus	zenagst	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	3274.xml	1448-09-13
+69	pl__wien-immo_riemerstrasse_5	Michael Praunsperger, der riemer, Haus	und an dem andern zenagst	pl__wien-immo_riemerstrasse_2	Simon Vankch Haus	3274.xml	1448-09-13
+70	pl__wien-immo_riemerstrasse_5	Michael Praunsperger, der riemer, Haus	und stosset mit dem hindern tail an	pl__wien-immo_riemerstrasse_3	Johann Winter, der kramer, Haus ehm. Christian, des maurer, Haus	3274.xml	1448-09-13
+71	pl__wien-immo_kamerhof_1	Stephan Gibing Haus	im Kamerhof gelegen	pl__wien-kamerhof	Kamerhof (I.Bezirk)	3275.xml	1448-09-20
+72	pl__wien-immo_hochstrasse_1	Johann Stremphl und Stephan Sorgenfrey, der huter, Haus ehm. Heinrich Staindlperger, der pekch, Haus	auf der Hochstrass gelegen	pl__wien-hochstrasse	Hochstrass (I. Bezirk)	3276.xml	1448-09-23
+73	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	gelegen daselbs zu Wienn am Harmarkcht an dem egk	pl__wien-haarmarkt	Haarmarkt (I.Bezirk)	3278.xml	1448-11-08
+74	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	gegen	pl__wien-immo_haarmarkt_3	Georg von Nikolsburg Haus	3278.xml	1448-11-08
+75	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	zenagst der gassen, als man an den Alten Fleischmarkcht get, an aim tail	pl__wien-alter_fleischmarkt_gasse_bei	Gasse Fleischmarkt-Haarmarkt	3278.xml	1448-11-08
+76	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	und an dem andern zenagst	pl__wien-immo_haarmarkt_4	Weilent Ulrich von Steir Haus	3278.xml	1448-11-08
+77	pl__wien-immo_unter_den_pfeilschnitzern_1	Johann Varhofer Haus	gelegen undern Pheilsniczern am ekk	pl__wien-unter_den_pfeilschnitzern	Unter den Pfeilschnitzern	3279.xml	1448-11-11
+78	pl__wien-immo_unter_den_pfeilschnitzern_1	Johann Varhofer Haus	gegen	pl__wien-immo_unter_den_pfeilschnitzern_2	Konrad Phuntimaschen Haus	3279.xml	1448-11-11
+79	pl__wien-immo_unter_den_pfeilschnitzern_1	Johann Varhofer Haus	zunagst	pl__wien-minoriten_gasse_bei	Gasse bei den Minoriten (I. Bezirk) gésslein bei den Weissenprüdern	3279.xml	1448-11-11
+80	pl__wien-immo_unter_den_pfeilschnitzern_1	Johann Varhofer Haus	zunagst	pl__wien-seitzerhof	Seitzer Hof (I. Bezirk)	3279.xml	1448-11-11
+81	pl__wien-immo_kaerntnertor_3	Johann von Eibesthal Haus ehm. Konrad Klingenpoden, des pinter, Haus	gelegen vor Kernertor	pl__wien-kaerntnertor	Kärntnerthor Kernertor	3282.xml	1448-11-29
+82	pl__wien-immo_kaerntnertor_3	Johann von Eibesthal Haus ehm. Konrad Klingenpoden, des pinter, Haus	zenagst	pl__wien-immo_kaerntnertor_4	Stephan von Böhmischkrut, des pinter, Haus	3282.xml	1448-11-29
+83	pl__wien-immo_huehnergesslein_1		gelegen im Húnergesslein	pl__wien-huehnergesslein		00054-eintrag_vom_1448-06-10.xml	1448-06-10
+84	pl__wien-immo_huehnergesslein_1		zenagst	pl__wien-immo_huehnergesslein_2		00054-eintrag_vom_1448-06-10.xml	1448-06-10
+85	pl__wien-immo_alter_fleischmarkt_1	Agatha Hulber dritt tail Haus vormals Micheln Stadl	gelegen am Alten Fleischmarkcht am egk	pl__wien-alter_fleischmarkt	Alter Fleischmarkt	00055-eintrag_vom_1448-06-21.xml	1448-06-21
+86	pl__wien-immo_alter_fleischmarkt_1	Agatha Hulber dritt tail Haus vormals Micheln Stadl	zenagst dem gesslein pey Sand Larentzen kloster	pl__wien-st_laurenz	S. Laurenz, Prediger-Nonnenkloster am alten Fleischmarkt	00055-eintrag_vom_1448-06-21.xml	1448-06-21
+87	pl__wien-immo_alter_fleischmarkt_1	Agatha Hulber dritt tail Haus vormals Micheln Stadl	als man zu den Hafnern get an aim tail	pl__wien-unter_den_hafnern	Unter den Hafnern	00055-eintrag_vom_1448-06-21.xml	1448-06-21
+88	pl__wien-immo_wiltwerkerstrasse_3	Anna Leinburger Haus	gelegen in der Wiltwerherstrass	pl__wien-wiltwerkerstrasse	Wiltwercherstrasse	00056-eintrag_vom_1448-08-09.xml	1448-08-09
+89	pl__wien-immo_wiltwerkerstrasse_3	Anna Leinburger Haus	zenegst	pl__wien-immo_wiltwerkerstrasse_4	Óttinger zuhaws	00056-eintrag_vom_1448-08-09.xml	1448-08-09
+90	pl__wien-immo_judengasse_am_neuen_platz_1	Berthold Mermann Haus	gelegen in der Judengassen	pl__wien-judengasse	Judengasse (bei der Hohenprugk) Judenplatz (I. Bezirk)	00156-eintrag_vom_1448-12-13.xml	1448-12-13
+91	pl__wien-immo_judengasse_am_neuen_platz_1	Berthold Mermann Haus	an dem Newen Placz	pl__am_neuen_platz		00156-eintrag_vom_1448-12-13.xml	1448-12-13
+92	pl__wien-immo_judengasse_am_neuen_platz_1	Berthold Mermann Haus	zwischen	pl__wien-immo_judengasse_am_neuen_platz_2	Jacoben des Smalen Haus	00156-eintrag_vom_1448-12-13.xml	1448-12-13
+93	pl__wien-immo_judengasse_am_neuen_platz_1	Berthold Mermann Haus	zwischen	pl__wien-immo_judengasse_am_neuen_platz_3	Erhart von Prag des peutler haus	00156-eintrag_vom_1448-12-13.xml	1448-12-13
+94	pl__wien-immo_neuer_markt_1	Konrad u. Brigitta Eggenfelder Haus	gelegen am Newnmarkt	pl__wien-neuer_markt	Neuermarkt (I.Bezirk)	00226-eintrag_vom_1448-02-23.xml	1448-02-23
+95	pl__wien-immo_neuer_markt_1	Konrad u. Brigitta Eggenfelder Haus	zenagst	pl__wien-immo_neuer_markt_2	Thomas Kunter Haus	00226-eintrag_vom_1448-02-23.xml	1448-02-23
+96	pl__wien-immo_weihenburg_1	genant der Alt Techanthof Konrad und Anna Schröfl Haus Johann Kanstdorffer Haus	in der Weihenpurg	pl__wien-weihenburg	Weihenburg in der Weihenpurkch	00227-eintrag_vom_1448-03-06.xml	1448-03-06
+97	pl__wien-immo_weihenburg_1	genant der Alt Techanthof Konrad und Anna Schröfl Haus Johann Kanstdorffer Haus	zenagst	pl__wien-immo_weihenburg_2	des abts von Altenburg haws	00227-eintrag_vom_1448-03-06.xml	1448-03-06
+98	pl__wien-immo_kumphlukche_vor_kernertor_1	Konrad und Margarethe von Tyrna Haus	daselbs	pl__wien-kumphlukche_vor_kernertor	Kumphlukche vor Kernertor in der Kumphlukchen	00228-eintrag_vom_1448-04-22.xml	1448-04-22
+99	pl__wien-immo_kumphlukche_vor_kernertor_1	Konrad und Margarethe von Tyrna Haus	zenagst	pl__wien-immo_kumphlukche_vor_kernertor_2	Hainreichs Krumbnawer haus	00228-eintrag_vom_1448-04-22.xml	1448-04-22
+100	pl__wien-immo_graben_1	Kaspar Hermann Haus	am Graben	pl__wien-graben	(am) Graben	00229-eintrag_vom_1448-05-27.xml	1448-05-27
+101	pl__wien-immo_graben_1	Kaspar Hermann Haus	zenagst	pl__wien-immo_graben_2	Stephan Auer Haus	00229-eintrag_vom_1448-05-27.xml	1448-05-27
+102	pl__wien-immo_fleischbaenke_1	Servatius und Dorothea Waczla Haus	pey den Fleischpenkchen am egk	pl__wien-fleischbaenke	Fleischbänke bei den Fleischbänken	00230-eintrag_vom_1448-11-20.xml	1448-11-20
+103	pl__wien-immo_fleischbaenke_1	Servatius und Dorothea Waczla Haus	zenagst	pl__wien-immo_fleischbaenke_2	Michael Salzer Haus	00230-eintrag_vom_1448-11-20.xml	1448-11-20
+104	pl__wien-immo_scheffstrasse_1	Johann und Klara Tinpeck Haus	gelegen in der Scheffstrass	pl__wien-scheffstrasse	Scheffstrasse (III.Bezirk)	00231-eintrag_vom_1448-09-20.xml	1448-09-20
+105	pl__wien-immo_scheffstrasse_1	Johann und Klara Tinpeck Haus	zenagst	pl__wien-immo_scheffstrasse_2	Wolfgang von Asparn Haus	00231-eintrag_vom_1448-09-20.xml	1448-09-20
+106	pl__wien-immo_haarmarkt_1	Dorothea und Albrecht Liebhart Haus	gelegen am Harmarkt	pl__wien-haarmarkt	Haarmarkt (I.Bezirk)	00299-eintrag_vom_1448-07-08.xml	1448-07-08
+107	pl__wien-immo_haarmarkt_1	Dorothea und Albrecht Liebhart Haus	zenagst	pl__wien-immo_haarmarkt_6	Badstube genant die Perlabin	00299-eintrag_vom_1448-07-08.xml	1448-07-08
+108	pl__wien-immo_tiefer_graben_1	Dorothea und Pankraz Widmer Haus	gelegen im Teuffengraben	pl__wien-tiefer_graben	Tiefer Graben (I.Bezirk) Teuffergraben	00300-eintrag_vom_1448-08-05.xml	1448-08-05
+109	pl__wien-immo_tiefer_graben_1	Dorothea und Pankraz Widmer Haus	zenagst	pl__wien-immo_tiefer_graben_2	Thomas Trager Haus	00300-eintrag_vom_1448-08-05.xml	1448-08-05
+110	pl__wien-immo_tiefer_graben_1	Dorothea und Pankraz Widmer Haus	an dem andern zenagst	pl__wien-immo_tiefer_graben_3	Egidius Zimmermann Haus	00300-eintrag_vom_1448-08-05.xml	1448-08-05
+111	pl__wien-immo_hoher_markt_1	Elisabeth und Stephan Goltpach Haus	gelegen am Hohenmarkcht	pl__wien-hoher_markt	Hohermarkt (I.Bezirk) forum altum forum	00349-eintrag_vom_1448-02-22.xml	1448-02-22
+112	pl__wien-immo_hoher_markt_1	Elisabeth und Stephan Goltpach Haus	gegen dem Vischmarkt	pl__wien-hoher_markt_fischmarkt	Fischmarkt, an dem hohenmarkt	00349-eintrag_vom_1448-02-22.xml	1448-02-22
+113	pl__wien-immo_hoher_markt_1	Elisabeth und Stephan Goltpach Haus	zenagst	pl__wien-immo_hoher_markt_2	Steffans Fúgenstaler haus	00349-eintrag_vom_1448-02-22.xml	1448-02-22
+114	pl__wien-immo_weihenburg_3	Elspeth die Kolpekchin haws	gelegen in der Weihenpurgk	pl__wien-weihenburg	Weihenburg in der Weihenpurkch	00350-eintrag_vom_1448-04-10.xml	1448-04-10
+115	pl__wien-immo_weihenburg_3	Elspeth die Kolpekchin haws	zenagst	pl__wien-immo_weihenburg_4	Ulrich Feldsberger Haus	00350-eintrag_vom_1448-04-10.xml	1448-04-10
+116	pl__wien-immo_weidenstrasse_1	Elisabth Hubner (vormals Linczer) Haus	gelegen vor Widmertor	pl__wien-widmertor	Widmertor	00351-eintrag_vom_1448-11-29.xml	1448-11-29
+117	pl__wien-immo_weidenstrasse_1	Elisabth Hubner (vormals Linczer) Haus	in der Weidenstrass	pl__wien-weidenstrasse	Weidenstrasse vor Widmertor	00351-eintrag_vom_1448-11-29.xml	1448-11-29
+118	pl__wien-immo_weidenstrasse_1	Elisabth Hubner (vormals Linczer) Haus	zenagst	pl__wien-immo_weidenstrasse_2	Petern des Letzelter haws	00351-eintrag_vom_1448-11-29.xml	1448-11-29
+119	pl__wien-immo_moering_unter_den_schlossern_am_graben_1	Friedrich im Hof, der Schlosser, Haus	gelegen Undern Slossern auf der Morin	pl__wien-moering	Möring (I. Bezirk) auf der Morin	00406-eintrag_vom_1448-05-31.xml	1448-05-31
+120	pl__wien-immo_moering_unter_den_schlossern_am_graben_1	Friedrich im Hof, der Schlosser, Haus	am Graben	pl__wien-graben	(am) Graben	00406-eintrag_vom_1448-05-31.xml	1448-05-31
+121	pl__wien-immo_moering_unter_den_schlossern_am_graben_1	Friedrich im Hof, der Schlosser, Haus	zenagst	pl__wien-immo_moering_unter_den_schlossern_am_graben_2	Niclasen Légler haus	00406-eintrag_vom_1448-05-31.xml	1448-05-31
+122	pl__wien-immo_alserstrasse_vor_schottentor_1	Johann Auer Haus	gelegen daselbs auf der Alsserstrass	pl__wien-alserstrasse_vor_schottentor	Alserstrasse (VIII., IX., XVII. Bezirk)	00604-eintrag_vom_1448-02-24.xml	1448-02-24
+123	pl__wien-immo_alserstrasse_vor_schottentor_1	Johann Auer Haus	zenagst	pl__wien-immo_alserstrasse_vor_schottentor_2	Niclasen Pernharts des Fürer haws	00604-eintrag_vom_1448-02-24.xml	1448-02-24
+124	pl__wien-immo_alserstrasse_vor_schottentor_1	Johann Auer Haus	dapey	pl__wien-alserstrasse_vor_schottentor	Alserstrasse (VIII., IX., XVII. Bezirk)	00604-eintrag_vom_1448-02-24.xml	1448-02-24
+125	pl__wien-immo_alserstrasse_vor_schottentor_1	Johann Auer Haus	zenagst	pl__wien-immo_alserstrasse_vor_schottentor_3	des Officials haus das yecz der stat mautthaus ist	00604-eintrag_vom_1448-02-24.xml	1448-02-24
+126	pl__wien-immo_laimgrub_vor_widmertor_1	Johann Weinperger Haus	gelegen vor Widmertor	pl__wien-widmertor	Widmertor	00605-eintrag_vom_1448-03-04.xml	1448-03-04
+127	pl__wien-immo_laimgrub_vor_widmertor_1	Johann Weinperger Haus	in der Laymgrub	pl__wien-laimgrub_vor_widmertor	In der Laimgrub, vor Widmertor in der Laimgrub	00605-eintrag_vom_1448-03-04.xml	1448-03-04
+128	pl__wien-immo_laimgrub_vor_widmertor_1	Johann Weinperger Haus	zenagst	pl__wien-immo_laimgrub_vor_widmertor_2	Georg Salczer Haus	00605-eintrag_vom_1448-03-04.xml	1448-03-04
+129	pl__wien-immo_salzgries_1	Johann Würer Haus	gelegen am Saltzgriess	pl__wien-salzgries	Am Salzgries	00606-eintrag_vom_1448-04-03.xml	1448-04-03
+130	pl__wien-immo_salzgries_1	Johann Würer Haus	zenagst	pl__wien-immo_salzgries_2	Liebhard Weiss Haus	00606-eintrag_vom_1448-04-03.xml	1448-04-03
+131	pl__wien-immo_alserstrasse_vor_schottentor_4	Johann und Katharina Spannberger Haus	gelegen daselbs auf der Alsserstrasse	pl__wien-alserstrasse_vor_schottentor	Alserstrasse (VIII., IX., XVII. Bezirk)	00607-eintrag_vom_1448-03-13.xml	1448-03-13
+132	pl__wien-immo_alserstrasse_vor_schottentor_4	Johann und Katharina Spannberger Haus	zenagst	pl__wien-immo_alserstrasse_vor_schottentor_5	des Rauscher haus	00607-eintrag_vom_1448-03-13.xml	1448-03-13
+133	pl__wien-immo_kohlmarkt_1	Johann und Barbara Unverdrossen (halbes) Haus (mit Zugehorung), vormals Jakob von Brünn des schneider Haus	gelegen am Alten Kolmarkcht	pl__wien-kohlmarkt	Kohlmarkt (I.Bezirk) alter Kohlmarkt	00608-eintrag_vom_1448-04-29.xml	1448-04-29
+134	pl__wien-immo_kohlmarkt_1	Johann und Barbara Unverdrossen (halbes) Haus (mit Zugehorung), vormals Jakob von Brünn des schneider Haus	zenagst	pl__wien-immo_kohlmarkt_2	Johann Schuchl des goldschmieds Haus	00608-eintrag_vom_1448-04-29.xml	1448-04-29
+135	pl__wien-immo_alter_fleischmarkt_6	Heinrich Rigel Haus	gelegen am Alten Fleischmarkt nyden im Winkchl an der Rinkchmaur	pl__wien-alter_fleischmarkt	Alter Fleischmarkt	00609-eintrag_vom_1448-05-06.xml	1448-05-06
+136	pl__wien-immo_alter_fleischmarkt_6	Heinrich Rigel Haus	zenagst	pl__wien-immo_alter_fleischmarkt_4	der stat newem kassten	00609-eintrag_vom_1448-05-06.xml	1448-05-06
+137	pl__wien-immo_alter_fleischmarkt_6	Heinrich Rigel Haus	an dem andern zenagst	pl__wien-immo_alter_fleischmarkt_5	der studenten von Bresslaw haus	00609-eintrag_vom_1448-05-06.xml	1448-05-06
+138	pl__wien-immo_schulstrasse_vordere_1	Johann und Dorothea Ofner halbes Haus	in der Vordern Schulstrass	pl__wien-schulstrasse_vordere	Schulstrass (I. Bezirk)	00610-eintrag_vom_1448-05-29.xml	1448-05-29
+139	pl__wien-immo_schulstrasse_vordere_1	Johann und Dorothea Ofner halbes Haus	gegen der Jurissten Schul über	pl__wien-juristenschule	Juristenschul	00610-eintrag_vom_1448-05-29.xml	1448-05-29
+140	pl__wien-immo_schulstrasse_vordere_1	Johann und Dorothea Ofner halbes Haus	zenagst	pl__wien-immo_schulstrasse_vordere_2	Peter Engelhartsstetter Haus	00610-eintrag_vom_1448-05-29.xml	1448-05-29
+141	pl__wien-immo_st_johannsstrasse_2	Johann und Agnes Teuffenpekch Haus	gelegen in Sand Johannsstrass nyden am egk	pl__wien-st_johannssstrasse	S. Johanns Strasse (I.Bezirk)	00611-eintrag_vom_1448-06-21.xml	1448-06-21
+142	pl__wien-immo_st_johannsstrasse_2	Johann und Agnes Teuffenpekch Haus	zenagst	pl__wien-immo_st_johannsstrasse_1	des Grünpekchen haus	00611-eintrag_vom_1448-06-21.xml	1448-06-21
+143	pl__wien-immo_hoher_markt_3	Johann Payr, des schuster, Haus	gelegen am Hohenmarkt	pl__wien-hoher_markt	Hohermarkt (I.Bezirk) forum altum forum	00612-eintrag_vom_1448-07-10.xml	1448-07-10
+144	pl__wien-immo_hoher_markt_3	Johann Payr, des schuster, Haus	gegen dem Vischmarkt uber	pl__wien-hoher_markt_fischmarkt	Fischmarkt, an dem hohenmarkt	00612-eintrag_vom_1448-07-10.xml	1448-07-10
+145	pl__wien-immo_hoher_markt_3	Johann Payr, des schuster, Haus	zenagst	pl__wien-immo_hoher_markt_4	Johann Waitzen, des kursner, Haus	00612-eintrag_vom_1448-07-10.xml	1448-07-10
+146	pl__wien-immo_kohlmarkt_1	Johann und Barbara Unverdrossen (halbes) Haus (mit Zugehorung), vormals Jakob von Brünn des schneider Haus	ganczes gelegen am Alten Kolmarkcht	pl__wien-kohlmarkt	Kohlmarkt (I.Bezirk) alter Kohlmarkt	00613-eintrag_vom_1448-07-17.xml	1448-07-17
+147	pl__wien-immo_kohlmarkt_1	Johann und Barbara Unverdrossen (halbes) Haus (mit Zugehorung), vormals Jakob von Brünn des schneider Haus	zenagst	pl__wien-immo_kohlmarkt_4	Niklas Vorstl, der wundarzt, Haus	00613-eintrag_vom_1448-07-17.xml	1448-07-17
+148	pl__wien-immo_peurertor_1	Ulrich Pernauer des gurtler Haus	pey Peilertor	pl__wien-peurertor	Peurertor (I. Bezirk) Peilertor	00613-eintrag_vom_1448-07-17.xml	1448-07-17
+149	pl__wien-immo_salzgries_1	Johann Würer Haus	gelegen am Salczgriezz	pl__wien-salzgries	Am Salzgries	00614-eintrag_vom_1448-07-29.xml	1448-07-29
+150	pl__wien-immo_salzgries_1	Johann Würer Haus	zenagst	pl__wien-immo_salzgries_2	Liebhard Weiss Haus	00614-eintrag_vom_1448-07-29.xml	1448-07-29
+151	pl__wien-immo_kienmarkt_3	Margarethe und Johann Hölczel Haus	gelegen am Kienmarkht	pl__wien-kienmarkt	Kienmarkt (I.Bezirk)	00615-eintrag_vom_1448-06-26.xml	1448-06-26
+152	pl__wien-immo_kienmarkt_3	Margarethe und Johann Hölczel Haus	zenagst	pl__wien-immo_kienmarkt_4	Jorgen von Gelestorf sun haus Johann Göllersdorfer Haus	00615-eintrag_vom_1448-06-26.xml	1448-06-26
+153	pl__wien-immo_pippingerstrasse_1	Johann und Agnes Hinlauf Haus	gelegen in der Pippingerstrass	pl__wien-pippingerstrasse	Pippingerstrasse (I.Bezirk)	00616-eintrag_vom_1448-07-19.xml	1448-07-19
+154	pl__wien-immo_pippingerstrasse_1	Johann und Agnes Hinlauf Haus	zenagst	pl__wien-immo_pippingerstrasse_2	Georg von Ror, der fleischacker, Haus	00616-eintrag_vom_1448-07-19.xml	1448-07-19
+155	pl__wien-immo_kohlmarkt_2	Johann Schuchl des goldschmieds Haus	gelegen am Kolmarkt	pl__wien-kohlmarkt	Kohlmarkt (I.Bezirk) alter Kohlmarkt	00617-eintrag_vom_1448-08-26.xml	1448-08-26
+156	pl__wien-immo_kohlmarkt_2	Johann Schuchl des goldschmieds Haus	zenagst	pl__wien-immo_kohlmarkt_5	Ulrich Fochter Haus	00617-eintrag_vom_1448-08-26.xml	1448-08-26
+157	pl__wien-immo_kohlmarkt_6	Heinrich und Margarethe Eschlbach Haus	gelegen am Alten Kolmarkt	pl__wien-kohlmarkt	Kohlmarkt (I.Bezirk) alter Kohlmarkt	00618-eintrag_vom_1448-09-02.xml	1448-09-02
+158	pl__wien-immo_kohlmarkt_6	Heinrich und Margarethe Eschlbach Haus	zenagst	pl__wien-immo_kohlmarkt_7	des Fuchsleins haus	00618-eintrag_vom_1448-09-02.xml	1448-09-02
+159	pl__wien-immo_geraeut_vor_stubentor_1	Fridreichs kochs haus und hofstat weingarten	im Gereutt	pl__wien-geraeut_vor_stubentor	Im Geräut, vor Stubentor	00618-eintrag_vom_1448-09-02.xml	1448-09-02
+160	pl__wien-immo_kohlmarkt_6	Heinrich und Margarethe Eschlbach Haus	am Alten Kolmarkcht gelegen	pl__wien-kohlmarkt	Kohlmarkt (I.Bezirk) alter Kohlmarkt	00619-eintrag_vom_1448-09-04.xml	1448-09-04
+161	pl__wien-immo_kohlmarkt_6	Heinrich und Margarethe Eschlbach Haus	zenagst	pl__wien-immo_kohlmarkt_8	Johann Unverdrossen, der plattner, Haus	00619-eintrag_vom_1448-09-04.xml	1448-09-04
+162	pl__wien-immo_kaerntnertor_1	Johann Kieler Haus	gelegen pey Kernertor am egk hinder der Rinkmaur	pl__wien-kaerntnertor	Kärntnerthor Kernertor	00620-eintrag_vom_1448-11-20.xml	1448-11-20
+163	pl__wien-immo_kaerntnertor_1	Johann Kieler Haus	zenagst	pl__wien-immo_kaerntnertor_2	Ulrich Floederl, der schlosser, Haus	00620-eintrag_vom_1448-11-20.xml	1448-11-20
+164	pl__wien-immo_singerstrasse_1	Johann Züchtig Haus	gelegen in der Súnigerstrass	pl__wien-singerstrasse	Singerstrasse (I. Bezirk) Súnigerstrass	00622-eintrag_vom_1448-12-09.xml	1448-12-09
+165	pl__wien-immo_singerstrasse_1	Johann Züchtig Haus	zenagst	pl__wien-immo_singerstrasse_1	Johann Züchtig Haus	00622-eintrag_vom_1448-12-09.xml	1448-12-09
+166	pl__wien-immo_teinfaltstrasse_1	Johann Frey, der parhander, Haus	gelegen in der Tunfoitstrass	pl__wien-teinfaltstrasse	Teinfaltstrasse(I.Bezirk) Tunfoltstrass	00623-eintrag_vom_1448-12-13.xml	1448-12-13
+167	pl__wien-immo_teinfaltstrasse_1	Johann Frey, der parhander, Haus	zenagst	pl__wien-immo_teinfaltstrasse_2	Johann Höphl Haus	00623-eintrag_vom_1448-12-13.xml	1448-12-13
+168	pl__wien-immo_strauchgasse_1	Johann Weilhaimer Haus	gelegen in der Strauchgassen	pl__wien-strauchgasse	Strauchgasse (I.Bezirk)	00624-eintrag_vom_1448-09-23.xml	1448-09-23
+169	pl__wien-immo_strauchgasse_1	Johann Weilhaimer Haus	zenagst	pl__wien-immo_strauchgasse_2	Heinrich Maler Haus	00624-eintrag_vom_1448-09-23.xml	1448-09-23
+170	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	gelegen am Harmarkcht an dem egk	pl__wien-haarmarkt	Haarmarkt (I.Bezirk)	00625-eintrag_vom_1448-12-11.xml	1448-12-11
+171	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	zenagst der gassen als man an den Alten Fleischmarkcht get	pl__wien-alter_fleischmarkt	Alter Fleischmarkt	00625-eintrag_vom_1448-12-11.xml	1448-12-11
+172	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	gegen	pl__wien-immo_haarmarkt_3	Georg von Nikolsburg Haus	00625-eintrag_vom_1448-12-11.xml	1448-12-11
+173	pl__wien-immo_haarmarkt_2	Johann Hermann (halbes) Haus ehm. Niklas Kramhofer Haus ehm. Lukas, des salzer, Haus	und an dem andern zenagst	pl__wien-immo_haarmarkt_4	Weilent Ulrich von Steir Haus	00625-eintrag_vom_1448-12-11.xml	1448-12-11
+174	pl__wien-immo_strauchgasse_1	Johann Weilhaimer Haus	gelegen in der Strauchgassen	pl__wien-strauchgasse	Strauchgasse (I.Bezirk)	00626-eintrag_vom_1448-12-20.xml	1448-12-20
+175	pl__wien-immo_strauchgasse_1	Johann Weilhaimer Haus	zenagst	pl__wien-immo_strauchgasse_2	Heinrich Maler Haus	00626-eintrag_vom_1448-12-20.xml	1448-12-20
+176	pl__wien-immo_walichstrasse_3	Lorenz Swarcz Haus	in der Walichstrass	pl__wien-walichstrasse	Wallnerstrasse (I. Bezirk) Walichstrass	00626-eintrag_vom_1448-12-20.xml	1448-12-20
+177	pl__wien-immo_gottesacker_vor_kaertnertor_1	Heinrich Wurm, der pekch, Haus	gelegen vor Kernertor	pl__wien-kaerntnertor	Kärntnerthor Kernertor	00627-eintrag_vom_1448-12-20.xml	1448-12-20
+178	pl__wien-immo_gottesacker_vor_kaertnertor_1	Heinrich Wurm, der pekch, Haus	zenagst dem gotzakcher	pl__wien-gottesacker_vor_kaertnertor	Gottesacker vor Kernertor	00627-eintrag_vom_1448-12-20.xml	1448-12-20
+179	pl__wien-immo_siebenherbergen_vor_kaertnertor_1	Georg Krumpp, der binder, Haus und Garten daran	gelegen bei den Sibenherbergen vor Kernertor zenagst der Prugken	pl__wien-siebenherbergen_vor_kaertnertor	bei den Sibenherbergen vor Kernertor zenagst der Prugken	00966-eintrag_vom_1448-06-07.xml	1448-06-07
+180	pl__wien-immo_siebenherbergen_vor_kaertnertor_1	Georg Krumpp, der binder, Haus und Garten daran	und Sand Kolmans freithof	pl__wien-st_koloman	S. Koloman auf dem Gottesacker vor Kartnertor	00966-eintrag_vom_1448-06-07.xml	1448-06-07
+181	pl__wien-immo_siebenherbergen_vor_kaertnertor_2	Georg Krumpp, der binder, Haus	gelegen daneben	pl__wien-immo_siebenherbergen_vor_kaertnertor_1	Georg Krumpp, der binder, Haus und Garten daran	00966-eintrag_vom_1448-06-07.xml	1448-06-07
+182	pl__wien-immo_st_johannsstrasse_3	Jakob Kreuss halbs haus, das ettwan ain ramhof gewesen ist	ganczes gelegen in Sand Johansstrass	pl__wien-st_johannssstrasse	S. Johanns Strasse (I.Bezirk)	00967-eintrag_vom_1448-06-19.xml	1448-06-19
+183	pl__wien-immo_st_johannsstrasse_3	Jakob Kreuss halbs haus, das ettwan ain ramhof gewesen ist	zenagst	pl__wien-immo_st_johannsstrasse_4	Michael des Münzer Haus	00967-eintrag_vom_1448-06-19.xml	1448-06-19
+184	pl__wien-immo_kaerntnerstrasse_2	Jakob Straiffing und Peter Obrcht, weilent Erhard Neunkirchner, Haus	gelegen in der Kernerstrass	pl__wien-kaerntnerstrasse	Kärntnerstrasse (I.Bezirk) Kernerstrass	00968-eintrag_vom_1448-07-10.xml	1448-07-10
+185	pl__wien-immo_kaerntnerstrasse_2	Jakob Straiffing und Peter Obrcht, weilent Erhard Neunkirchner, Haus	zenegst	pl__wien-immo_kaerntnerstrasse_3	Heinrich Stoll Haus	00968-eintrag_vom_1448-07-10.xml	1448-07-10
+186	pl__wien-immo_st_pankraz_3	Georg und Elisabeth Zwettler Haus	gelegen hinder Sand Pangreczen	pl__wien-st_pankraz	S. Pancratius	00969-eintrag_vom_1448-10-30.xml	1448-10-30
+187	pl__wien-immo_st_pankraz_3	Georg und Elisabeth Zwettler Haus	zenagst	pl__wien-immo_st_pankraz_4	Michael Hiltprant, der schmied, Haus	00969-eintrag_vom_1448-10-30.xml	1448-10-30
+188	pl__wien-immo_steig_bei_den_predigern_1	Jakob Schutwempl, der fasszieher, Haus	gelegen auf dem steig gegen der Prediger kloster uber am egk	pl__wien-steig_bei_den_predigern	Auf dem Steig, bei den Predigern auf dem Steig	00970-eintrag_vom_1448-11-20.xml	1448-11-20
+189	pl__wien-immo_steig_bei_den_predigern_1	Jakob Schutwempl, der fasszieher, Haus	zenagst	pl__wien-immo_steig_bei_den_predigern_2	Peter von Asparn Haus	00970-eintrag_vom_1448-11-20.xml	1448-11-20
+190	pl__wien-immo_anger_1	Jorg und Jacob, gepruder die Münich, Haus	gelegen aufm Anger	pl__wien-anger	Auf dem Anger (I. Bezirk)	00971-eintrag_vom_1448-12-16.xml	1448-12-16
+191	pl__wien-immo_anger_1	Jorg und Jacob, gepruder die Münich, Haus	zenagst	pl__wien-immo_anger_2	der Newnperger hof	00971-eintrag_vom_1448-12-16.xml	1448-12-16
+192	pl__wien-immo_steig_bei_den_predigern_3	Peter von Nussdorf, der schneider, Haus	gegen den Predigern uber	pl__wien-steig_bei_den_predigern	Auf dem Steig, bei den Predigern auf dem Steig	00971-eintrag_vom_1448-12-16.xml	1448-12-16
+193	pl__wien-immo_weihenburg_5	Kunigund, Hannsen des Hagen seligen witib, haus	gelegen in der Weihenpurgk	pl__wien-weihenburg	Weihenburg in der Weihenpurkch	01099-eintrag_vom_1448-02-20.xml	1448-02-20
+194	pl__wien-immo_weihenburg_5	Kunigund, Hannsen des Hagen seligen witib, haus	zenagst	pl__wien-immo_weihenburg_3	Elspeth die Kolpekchin haws	01099-eintrag_vom_1448-02-20.xml	1448-02-20
+195	pl__wien-immo_hoher_markt_6	Kathrey, Wentzlaben Grat des schuster hausfrau, halbs haus	gelegen am Hohenmarkcht	pl__wien-hoher_markt	Hohermarkt (I.Bezirk) forum altum forum	01100-eintrag_vom_1448-04-29.xml	1448-04-29
+196	pl__wien-immo_hoher_markt_6	Kathrey, Wentzlaben Grat des schuster hausfrau, halbs haus	undern Wentkremen	pl__wien-hoher_markt_wentkremen	Unter den Wentkremen, an dem hohenmarkt	01100-eintrag_vom_1448-04-29.xml	1448-04-29
+197	pl__wien-immo_hoher_markt_6	Kathrey, Wentzlaben Grat des schuster hausfrau, halbs haus	zenagst	pl__wien-immo_hoher_markt_5	Niklas Sawr des schuster haus	01100-eintrag_vom_1448-04-29.xml	1448-04-29
+198	pl__wien-immo_baeckerstrasse_hintere_1	Leonhard Grünpacher Haus	gelegen in der Hindern Pekchenstrass	pl__wien-baeckerstrasse_hintere	Hintere Bäckerstrasse (I. Bezirk)	01146-eintrag_vom_1448-04-12.xml	1448-04-12
+199	pl__wien-immo_baeckerstrasse_hintere_1	Leonhard Grünpacher Haus	zenagst	pl__wien-immo_baeckerstrasse_hintere_2	Der Pirchnerin haws	01146-eintrag_vom_1448-04-12.xml	1448-04-12
+200	pl__wien-immo_walichstrasse_1	Lorenz Krakauer Haus	gelegen in der Walichstrass	pl__wien-walichstrasse	Wallnerstrasse (I. Bezirk) Walichstrass	01147-eintrag_vom_1448-04-29.xml	1448-04-29
+201	pl__wien-immo_walichstrasse_1	Lorenz Krakauer Haus	zenagst	pl__wien-immo_walichstrasse_2	Johann Peinhekchl des brunner Haus	01147-eintrag_vom_1448-04-29.xml	1448-04-29
+202	pl__wien-immo_kienmarkt_5	Leonhard Kriech Haus	gelegen am Kienmarkt im Winkchl	pl__wien-kienmarkt	Kienmarkt (I.Bezirk)	01148-eintrag_vom_1448-05-17.xml	1448-05-17
+203	pl__wien-immo_kienmarkt_5	Leonhard Kriech Haus	zenagst	pl__wien-immo_kienmarkt_6	Martin, der wachsgiesser, Haus	01148-eintrag_vom_1448-05-17.xml	1448-05-17
+204	pl__wien-immo_walichstrasse_3	Lorenz Swarcz Haus	gelegen in der Walchstrass	pl__wien-walichstrasse	Wallnerstrasse (I. Bezirk) Walichstrass	01149-eintrag_vom_1448-09-02.xml	1448-09-02
+205	pl__wien-immo_walichstrasse_3	Lorenz Swarcz Haus	zenagst	pl__wien-immo_walichstrasse_4	des Gréfenperger háws	01149-eintrag_vom_1448-09-02.xml	1448-09-02
+206	pl__wien-immo_kienmarkt_7	Fridreichen von Minden, der kursner, Haus	gelegen am Kienmarkt im Winkhl	pl__wien-kienmarkt	Kienmarkt (I.Bezirk)	01150-eintrag_vom_1448-03-04.xml	1448-03-04
+207	pl__wien-immo_kienmarkt_7	Fridreichen von Minden, der kursner, Haus	zenagst	pl__wien-immo_kienmarkt_8	Georg Schuchler Haus	01150-eintrag_vom_1448-03-04.xml	1448-03-04
+208	pl__wien-immo_kienmarkt_1	Michael Viregk Haus	gelegen am Kienmarkcht zu Wienn	pl__wien-kienmarkt	Kienmarkt (I.Bezirk)	01239-eintrag_vom_1448-03-13.xml	1448-03-13
+209	pl__wien-immo_kienmarkt_1	Michael Viregk Haus	zenagst	pl__wien-immo_kienmarkt_2	Lorenz Swancz Haus	01239-eintrag_vom_1448-03-13.xml	1448-03-13
+210	pl__wien-immo_hoher_markt_7	Matthias Vogpurger haus, genant des Silbrein Hensleins Haus	gelegen am Hohenmarkcht	pl__wien-hoher_markt	Hohermarkt (I.Bezirk) forum altum forum	01240-eintrag_vom_1448-03-15.xml	1448-03-15
+211	pl__wien-immo_hoher_markt_7	Matthias Vogpurger haus, genant des Silbrein Hensleins Haus	an aim tail neben	pl__wien-immo_hoher_markt_8	dem Schrein haus	01240-eintrag_vom_1448-03-15.xml	1448-03-15
+212	pl__wien-immo_riemerstrasse_1	Michael und Dorothea Toller Ramhof/Haus	gelegen mit dem vordern tail in der Riemerstrass	pl__wien-riemerstrasse	Riemerstrass (I. Bezirk)	01241-eintrag_vom_1448-06-21.xml	1448-06-21
+213	pl__wien-immo_riemerstrasse_1	Michael und Dorothea Toller Ramhof/Haus	zenagst	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	01241-eintrag_vom_1448-06-21.xml	1448-06-21
+214	pl__wien-immo_riemerstrasse_1	Michael und Dorothea Toller Ramhof/Haus	und an dem andern zenagst	pl__wien-immo_riemerstrasse_2	Simon Vankch Haus	01241-eintrag_vom_1448-06-21.xml	1448-06-21
+215	pl__wien-immo_riemerstrasse_1	Michael und Dorothea Toller Ramhof/Haus	stosst mit dem hindern tail in das Kumphgéssl	pl__wien-kumpfgasse	Kumpfgasse (I. Bezirk) Kumphgessl	01241-eintrag_vom_1448-06-21.xml	1448-06-21
+216	pl__wien-immo_riemerstrasse_1	Michael und Dorothea Toller Ramhof/Haus	zenagst	pl__wien-immo_kumpfgasse_1	Christian Widhacker Haus des Widhakcher haus	01241-eintrag_vom_1448-06-21.xml	1448-06-21
+217	pl__wien-immo_weidenstrasse_3	Michael und Katharina Haffner Haus	gelegen vor Kernertor	pl__wien-kaerntnertor	Kärntnerthor Kernertor	01242-eintrag_vom_1448-11-15.xml	1448-11-15
+218	pl__wien-immo_weidenstrasse_3	Michael und Katharina Haffner Haus	in der Weydenstrass an ainen tail zenagst in dem gésslein	pl__wien-weidenstrasse	Weidenstrasse vor Widmertor	01242-eintrag_vom_1448-11-15.xml	1448-11-15
+219	pl__wien-immo_weidenstrasse_3	Michael und Katharina Haffner Haus	an dem andern zenagst	pl__wien-immo_weidenstrasse_4	Albrecht Ladner Haus	01242-eintrag_vom_1448-11-15.xml	1448-11-15
+220	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	gelegen in der Riemergassen	pl__wien-riemerstrasse	Riemerstrass (I. Bezirk)	01243-eintrag_vom_1448-09-13.xml	1448-09-13
+221	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	zenagst	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	01243-eintrag_vom_1448-09-13.xml	1448-09-13
+222	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	und an dem andern zenagst	pl__wien-immo_riemerstrasse_2	Simon Vankch Haus	01243-eintrag_vom_1448-09-13.xml	1448-09-13
+223	pl__wien-immo_riemerstrasse_4	Meinhard Riemer Haus	und stösst mit dem hindern tail	pl__wien-immo_riemerstrasse_3	Johann Winter, der kramer, Haus ehm. Christian, des maurer, Haus	01243-eintrag_vom_1448-09-13.xml	1448-09-13
+224	pl__wien-immo_schenkenstrasse_1	Niklas und Katharina Vaschang Haus ehm. Elisabeth Vischerin, Witwe Konrads Vischer von Lebarn Haus	gelegen in der Schenkchenstrass	pl__wien-schenkenstrasse	Schenkenstrasse (I.Bezirk)	01418-eintrag_vom_1448-09-06.xml	1448-09-06
+225	pl__wien-immo_schenkenstrasse_1	Niklas und Katharina Vaschang Haus ehm. Elisabeth Vischerin, Witwe Konrads Vischer von Lebarn Haus	zenagst	pl__wien-immo_schenkenstrasse_2	Ulrich Peck Haus	01418-eintrag_vom_1448-09-06.xml	1448-09-06
+226	pl__wien-immo_st_johannsstrasse_5	Niklas und Elsbeth Salczburger Haus	gelegen in Sant Johannsstrass	pl__wien-st_johannssstrasse	S. Johanns Strasse (I.Bezirk)	01429-eintrag_vom_1448-02-20.xml	1448-02-20
+227	pl__wien-immo_st_johannsstrasse_5	Niklas und Elsbeth Salczburger Haus	zenagst	pl__wien-immo_st_johannsstrasse_6	Gilg Kunter Haus	01429-eintrag_vom_1448-02-20.xml	1448-02-20
+228	pl__wien-immo_alserstrasse_vor_schottentor_6	Niklas und Dorothea Piberstein Haus	gelegen auf der Alsserstrass	pl__wien-alserstrasse_vor_schottentor	Alserstrasse (VIII., IX., XVII. Bezirk)	01430-eintrag_vom_1448-03-04.xml	1448-03-04
+229	pl__wien-immo_alserstrasse_vor_schottentor_6	Niklas und Dorothea Piberstein Haus	zenagst	pl__wien-immo_alserstrasse_vor_schottentor_1	Johann Auer Haus	01430-eintrag_vom_1448-03-04.xml	1448-03-04
+230	pl__wien-immo_goldschmiedgasse_1	Niklas Lainbacher, der apotheker, Haus	gelegen in der Goltsmidgassen am egk	pl__wien-goldschmiedgasse	Goldschmiedgasse, bei S. Stephan	01431-eintrag_vom_1448-07-08.xml	1448-07-08
+231	pl__wien-immo_goldschmiedgasse_1	Niklas Lainbacher, der apotheker, Haus	gegen Sand Steffans Freithoftor uber	pl__wien-st_stephan-freithof	Freithof (S. Stephan)	01431-eintrag_vom_1448-07-08.xml	1448-07-08
+232	pl__wien-immo_goldschmiedgasse_1	Niklas Lainbacher, der apotheker, Haus	zenagst	pl__wien-immo_goldschmiedgasse_2	Stephan Pusenperger, der zinngiesser, Haus	01431-eintrag_vom_1448-07-08.xml	1448-07-08
+233	pl__wien-immo_kaerntnerstrasse_1	Friedrich Pierpaumer halbes Haus	in der Kernerstrass	pl__wien-kaerntnerstrasse	Kärntnerstrasse (I.Bezirk) Kernerstrass	01431-eintrag_vom_1448-07-08.xml	1448-07-08
+234	pl__wien-immo_goldschmiedgasse_1	Niklas Lainbacher, der apotheker, Haus	gelegen in der Goltsmidgassen am egk	pl__wien-goldschmiedgasse	Goldschmiedgasse, bei S. Stephan	01432-eintrag_vom_1448-07-10.xml	1448-07-10
+235	pl__wien-immo_goldschmiedgasse_1	Niklas Lainbacher, der apotheker, Haus	gegn Sand Steffans Freithoftor uber	pl__wien-st_stephan-freithof	Freithof (S. Stephan)	01432-eintrag_vom_1448-07-10.xml	1448-07-10
+236	pl__wien-immo_goldschmiedgasse_1	Niklas Lainbacher, der apotheker, Haus	zenagst	pl__wien-immo_goldschmiedgasse_2	Stephan Pusenperger, der zinngiesser, Haus	01432-eintrag_vom_1448-07-10.xml	1448-07-10
+237	pl__wien-immo_schenkenstrasse_1	Niklas und Katharina Vaschang Haus ehm. Elisabeth Vischerin, Witwe Konrads Vischer von Lebarn Haus	gelegen in der Schenkchenstrass	pl__wien-schenkenstrasse	Schenkenstrasse (I.Bezirk)	01433-eintrag_vom_1448-07-29.xml	1448-07-29
+238	pl__wien-immo_schenkenstrasse_1	Niklas und Katharina Vaschang Haus ehm. Elisabeth Vischerin, Witwe Konrads Vischer von Lebarn Haus	zenagst	pl__wien-immo_schenkenstrasse_2	Ulrich Peck Haus	01433-eintrag_vom_1448-07-29.xml	1448-07-29
+239	pl__wien-immo_krafthof_1	Niklas Graefenauer Haus	gelegen in des Kraffts hof hinder Sand Pangreczen	pl__wien-krafthof	Krafthof	01434-eintrag_vom_1448-06-14.xml	1448-06-14
+240	pl__wien-immo_krafthof_1	Niklas Graefenauer Haus	zenagst	pl__wien-immo_krafthof_2	Johann Nagler Haus	01434-eintrag_vom_1448-06-14.xml	1448-06-14
+241	pl__wien-immo_roterturm_1	Stephan und Barbara Holfus Haus	gelegen bey dem rotenturn	pl__wien-roterturm	Roterturm	01686-eintrag_vom_1448-04-22.xml	1448-04-22
+242	pl__wien-immo_roterturm_1	Stephan und Barbara Holfus Haus	gegen	pl__wien-immo_roterturm_2	weilent des Snitzer haus	01686-eintrag_vom_1448-04-22.xml	1448-04-22
+243	pl__wien-immo_roterturm_1	Stephan und Barbara Holfus Haus	über	pl__wien-immo_roterturm_2	weilent des Snitzer haus	01686-eintrag_vom_1448-04-22.xml	1448-04-22
+244	pl__wien-immo_roterturm_1	Stephan und Barbara Holfus Haus	stosset unden an der	pl__wien-gruennkcherhof	Grünnkcher hof	01686-eintrag_vom_1448-04-22.xml	1448-04-22
+245	pl__wien-immo_salzgries_3	Stephan und Katharina Radendorfer Haus	gelegen am Salczgriess	pl__wien-salzgries	Am Salzgries	01687-eintrag_vom_1448-05-27.xml	1448-05-27
+246	pl__wien-immo_salzgries_3	Stephan und Katharina Radendorfer Haus	zenagst	pl__wien-immo_salzgries_4	Johann Zwettler am Salzgriess Haus	01687-eintrag_vom_1448-05-27.xml	1448-05-27
+247	pl__wien-immo_baeckerstrasse_vordere_1	Stephan Vink Haus	gelegen in der Vordern pekchenstrass	pl__wien-baeckerstrasse_vordere	Vordere Bäckerstrasse (I. Bezirk)	01693-eintrag_vom_1448-12-13.xml	1448-12-13
+248	pl__wien-immo_baeckerstrasse_vordere_1	Stephan Vink Haus	zenagst	pl__wien-immo_baeckerstrasse_vordere_2	Niklas vom Stein, der fleischhacker, Haus	01693-eintrag_vom_1448-12-13.xml	1448-12-13
+249	pl__wien-immo_kohlmarkt_9	Simon und Barbara Brunner Haus	gelegen am Alten Kolmarkt	pl__wien-kohlmarkt	Kohlmarkt (I.Bezirk) alter Kohlmarkt	01693a-eintrag_vom_1448.xml	1448
+250	pl__wien-immo_kohlmarkt_9	Simon und Barbara Brunner Haus	zenagst	pl__wien-immo_kohlmarkt_10	Paul Haid, der schuster, Haus	01693a-eintrag_vom_1448.xml	1448
+251	pl__wien-immo_roterturm_3	Thomas Praitenweidacher Haus	gelegen bey dem Rotenturn auf dem steig	pl__wien-roterturm	Roterturm	01767-eintrag_vom_1448-06-23.xml	1448-06-23
+252	pl__wien-immo_roterturm_3	Thomas Praitenweidacher Haus	zenagst	pl__wien-immo_roterturm_4	weilent Ulreichs von Steir haus	01767-eintrag_vom_1448-06-23.xml	1448-06-23
+253	pl__wien-immo_mietstat_vor_kaerntnertor_1	Ulrich und Barbara Meichsner Haus Haus an der Mietstat	gelegen daselbs an der Mietstat	pl__wien-mietstat_vor_kaerntnertor	Mietstat vor Kernertor	01840-eintrag_vom_1448-04-19.xml	1448-04-19
+254	pl__wien-immo_mietstat_vor_kaerntnertor_1	Ulrich und Barbara Meichsner Haus Haus an der Mietstat	zenagst	pl__wien-immo_mietstat_vor_kaerntnertor_2	Katharina und Johann Wigfring, kupferschmid, Haus des Kuphersmids haws	01840-eintrag_vom_1448-04-19.xml	1448-04-19
+255	pl__wien-immo_schenkenstrasse_3	Ulrich Lang, der pekch, Haus	gelegen in der Schenkchenstrass	pl__wien-schenkenstrasse	Schenkenstrasse (I.Bezirk)	01841-eintrag_vom_1448-08-13.xml	1448-08-13
+256	pl__wien-immo_schenkenstrasse_3	Ulrich Lang, der pekch, Haus	zenagst	pl__wien-immo_schenkenstrasse_4	Burkhard Kienberger Haus	01841-eintrag_vom_1448-08-13.xml	1448-08-13
+257	pl__wien-immo_schenkenstrasse_3	Ulrich Lang, der pekch, Haus	an dem andern zenagst	pl__wien-immo_schenkenstrasse_1	Niklas und Katharina Vaschang Haus ehm. Elisabeth Vischerin, Witwe Konrads Vischer von Lebarn Haus	01841-eintrag_vom_1448-08-13.xml	1448-08-13
+258	pl__wien-immo_st_pankraz_1	Ulrich Hesler Haus	gelegen hinder Sand Pangretzen	pl__wien-st_pankraz	S. Pancratius	01842-eintrag_vom_1448-11-27.xml	1448-11-27
+259	pl__wien-immo_st_pankraz_1	Ulrich Hesler Haus	zenagst	pl__wien-immo_st_pankraz_2	Andreas Weinperger Haus	01842-eintrag_vom_1448-11-27.xml	1448-11-27
+260	pl__wien-immo_alter_fleischmarkt_2	Wolfgang Holczer Haus und zuhaus	gelegen am Alten Fleischmarkt	pl__wien-alter_fleischmarkt	Alter Fleischmarkt	01926-eintrag_vom_1448-12-20.xml	1448-12-20
+261	pl__wien-immo_alter_fleischmarkt_2	Wolfgang Holczer Haus und zuhaus	zenagst	pl__wien-immo_alter_fleischmarkt_3	Stephan Hittendorfer, des peler, Haus	01926-eintrag_vom_1448-12-20.xml	1448-12-20
+262	pl__wien-immo_alter_fleischmarkt_8	Wolfgang Holczer gertl mit der stetten	auch hinder den egenanten hewsern	pl__wien-immo_alter_fleischmarkt_2	Wolfgang Holczer Haus und zuhaus	01926-eintrag_vom_1448-12-20.xml	1448-12-20
+263	pl__wien-immo_alter_fleischmarkt_8	Wolfgang Holczer gertl mit der stetten	auch hinder den egenanten hewsern	pl__wien-immo_alter_fleischmarkt_3	Stephan Hittendorfer, des peler, Haus	01926-eintrag_vom_1448-12-20.xml	1448-12-20
+264	pl__wien-immo_alter_fleischmarkt_8	Wolfgang Holczer gertl mit der stetten	gegen den hafnern uber	pl__wien-unter_den_hafnern	Unter den Hafnern	01926-eintrag_vom_1448-12-20.xml	1448-12-20

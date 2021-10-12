@@ -1,29 +1,85 @@
 	ID	sex	title_ref	norm	related ID	rel_sex	collection	xml	year	date	from	to
-0	pe__stephan_steinimmo_StB_I_453	m	purger ze Wienn	Buerger_in	org__wien	 	1_1395-1400	109.xml	1397	1397-02-08		
-1	pe__simon_chottrer_StB_I_113	m	purger	Buerger_in	org__wien	 	1_1395-1400	113.xml	1397	1397-02-15		
-2	pe__jakob_dorn_QGW_II_I_1378	m	purgermaister	Buergermeister	org__wien	 	1_1395-1400	211.xml	1391	1391-12-15		
-3	pe__johann_mosprunner_QGW_II_I_1096	m	purger	Buerger_in	org__wien	 	1_1395-1400	26.xml	1396	1396-01-18		
-4	pe__ulrich_von_steyr_SB_CD_00625	m	purger	Buerger_in	org__wien	 	1_1395-1400	29.xml	1396	1396-01-20		
-5	pe__jakob_StB_I_4	m	curherren	 	org__wien-st_stephan	 	1_1395-1400	4.xml	1395	1395-12-02		
-6	pe__stephan_StB_I_4	m	curherren	 	org__wien-st_stephan	 	1_1395-1400	4.xml	1395	1395-12-02		
-7	pe__simon_gloesar_StB_I_421	m	auzzern rates	 	org__wien	 	1_1395-1400	421.xml	1399	1399-09-16		
-8	pe__christian_goczchirch_QGW_II_I_1308	m	purger	Buerger_in	org__wien	 	1_1395-1400	428.xml	1399	1399-09-26		
-9	pe__niklas_hildebrant_QGW_II_I_1519	m	purger	Buerger_in	org__zittau	 	1_1395-1400	428.xml	1399	1399-09-26		
-10	pe__johann_pechrer_StB_I_428	m	purger	Buerger_in	org__zittau	 	1_1395-1400	428.xml	1399	1399-09-26		
-11	pe__peter_frizz_StB_I_428	m	purger	Buerger_in	org__zittau	 	1_1395-1400	428.xml	1399	1399-09-26		
-12	pe__peter_strang_StB_I_439	m	mitpurger	Buerger_in	org__wien	 	1_1395-1400	439.xml	1399	1399-10-07		
-13	pe__niklas_ellent_StB_I_440	m	bruder	Bruder	org__wien-dominikaner	 	1_1395-1400	440.xml	1399	1399-11-06		
-14	pe__niklas_ellent_StB_I_440	m	bruder	Bruder	org__wien-dominikaner	 	1_1395-1400	440.xml	1399	1399-11-06		
-15	pe__balther_StB_I_444	m	bruder	Bruder	org__wien-augustiner_eremiten	 	1_1395-1400	444.xml	1399	1399-11-13		
-16	pe__wenzel_leinwander_StB_I_56	m	unserm mitpurger	 	org__prag	 	1_1395-1400	56.xml	1396	1396-04-21		
-17	pe__wenzel_goldschmied_StB_I_56	m	unserm mitburger	 	org__prag	 	1_1395-1400	56.xml	1396	1396-04-21		
-18	pe__johann_bei_dem_brunnen_StB_I_58	m	purger ze Wienn	Buerger_in	org__wien	 	1_1395-1400	58.xml	1396	1396-05-02		
-19	pe__gottschalk_birkesdorfer_StB_I_58	m	purger ze Chöln an dem Rein	 	org__koeln	 	1_1395-1400	58.xml	1396	1396-05-02		
-20	pe__meinhard_olmuetzer_StB_I_59	m	purgern ze Wienn	 	org__wien	 	1_1395-1400	59.xml	1396	1396-06-06		
-21	pe__rudolf_lupan_StB_I_59	m	purgern ze Wienn	 	org__wien	 	1_1395-1400	59.xml	1396	1396-06-06		
-22	pe__andreas_graefenauer_StB_I_24	m	ewr mitpurger	 	org__wien	 	1_1395-1400	65.xml	1396	1396-07-24		
-23	pe__michael_vinkch_QGW_II_I_1082	m	die zeit des rats der stat ze Wienn	 	org__wien	 	1_1395-1400	70.xml	1392	1392-08-31		
-24	pe__heinrich_von_emmersdorf_QGW_II_I_1081	m	purger zu Wienn	Buerger_in	org__wien	 	1_1395-1400	70.xml	1392	1392-08-31		
-25	pe__niklas_radschmied_QGW_II_I_1062	m	die zeit des rats der stat ze Wienn	 	org__wien	 	1_1395-1400	73.xml	1396	1396-08-17		
-26	pe__niklas_rorcholb_QGW_II_I_1129	m	unserm mitpurger	 	org__wien	 	1_1395-1400	74.xml	1396	1396-07-15		
-27	pe__stephan_leitner_QGW_II_I_1012	m	purger ze Wienn	Buerger_in	org__wien	 	1_1395-1400	95.xml	1396	1396-12-02		
+0	pe__stephan_weiss_QGW_II_II_3237	m	gesessen zu Allttunau	gesessen_zu	pl__wien-altdonau	 	Vienna_1448	3237.xml	1448	1448-01-20		
+1	pe__wolfhard_resch_QGW_II_II_3237	m	Bürger	Buerger_in	org__wien	 	Vienna_1448	3237.xml	1448	1448-01-20		
+2	pe__georg_koler_QGW_II_II_3237	m	burger	Buerger_in	org__wien	 	Vienna_1448	3237.xml	1448	1448-01-20		
+3	pe__michael_ursperger_QGW_II_II_3238	m	burger zu Sand Pölten	Buerger_in	org__st_poelten	 	Vienna_1448	3238.xml	1448	1448-02-09		
+4	pe__peter_schueter_QGW_II_II_3238	m	burger	Buerger_in	org__st_poelten	 	Vienna_1448	3238.xml	1448	1448-02-09		
+5	pe__peter_volczian_QGW_II_II_3239	m	burger	Buerger_in	org__wien	 	Vienna_1448	3239.xml	1448	1448-02-13		
+6	pe__niklas_reich_QGW_II_II_3239	m	burger	Buerger_in	org__wien	 	Vienna_1448	3239.xml	1448	1448-02-13		
+7	pe__arnold_von_ach_QGW_II_II_3239	m	von Ach	von	pl__aachen	 	Vienna_1448	3239.xml	1448	1448-02-13		
+8	pe__ulrich_hirssauer_QGW_II_II_3239	m	burger	Buerger_in	org__wien	 	Vienna_1448	3239.xml	1448	1448-02-13		
+9	pe__johann_ravensburger_QGW_II_II_3264	m	burger	Buerger_in	org__wien	 	Vienna_1448	3239.xml	1448	1448-02-13		
+10	pe__jakob_paugker_QGW_II_II_3240	m	mitburger	Buerger_in	org__wien	 	Vienna_1448	3240.xml	1448	1448-02-14		
+11	pe__johann_schonhauer_QGW_II_II_3240	m	mitburger	Buerger_in	org__wien	 	Vienna_1448	3240.xml	1448	1448-02-14		
+12	pe__peter_hagker_QGW_II_II_3240	m	mitburger	Buerger_in	org__wien	 	Vienna_1448	3240.xml	1448	1448-02-14		
+13	pe__georg_hoppaur_QGW_II_II_3240	m	mitburger	Buerger_in	org__wien	 	Vienna_1448	3240.xml	1448	1448-02-14		
+14	pe__georg_prunntaler_QGW_II_II_3240	m	burger	Buerger_in	org__wien	 	Vienna_1448	3240.xml	1448	1448-02-14		
+15	pe__sigmund_obrecht_von_lengenfeld_QGW_II_II_3242	m	von Lengenveld	von	pl__lengenfeld_QGW_II_II_register_pg_482	 	Vienna_1448	3242.xml	1448	1448-02-22		
+16	pe__sigmund_obrecht_von_lengenfeld_QGW_II_II_3242	m	priester	Priester	org__passau-dioezese	 	Vienna_1448	3242.xml	1448	1448-02-22		
+17	pe__stephan_von_eggenburg_QGW_II_II_3242	m	korherr	Kanoniker	org__wien-st_stephan	 	Vienna_1448	3242.xml	1448	1448-02-22		
+18	pe__jakob_rechwein_QGW_II_II_3242	m	burger	Buerger_in	org__wien	 	Vienna_1448	3242.xml	1448	1448-02-22		
+19	pe__ulrich_kerner_QGW_II_II_3242	m	burger	Buerger_in	org__wien	 	Vienna_1448	3242.xml	1448	1448-02-22		
+20	pe__johann_sorger_QGW_II_II_3242	m	burger	Buerger_in	org__wien	 	Vienna_1448	3242.xml	1448	1448-02-22		
+21	pe__leonhard_stengel_QGW_II_II_3245	m	mitburger	Buerger_in	org__wien	 	Vienna_1448	3245.xml	1448	1448-03-14		
+22	pe__christoph_oeczestorffer_QGW_II_II_3245	m	burger	Buerger_in	org__wien	 	Vienna_1448	3245.xml	1448	1448-03-14		
+23	pe__ulrich_volkchl_QGW_II_II_3245	m	burger	Buerger_in	org__wien	 	Vienna_1448	3245.xml	1448	1448-03-14		
+24	pe__stephan_von_eggenburg_QGW_II_II_3242	m	korherr	Kanoniker	org__wien-st_stephan	 	Vienna_1448	3246.xml	1448	1448-03-27		
+25	pe__jakob_rechwein_QGW_II_II_3242	m	burger	Buerger_in	org__wien	 	Vienna_1448	3246.xml	1448	1448-03-27		
+26	pe__ulrich_kerner_QGW_II_II_3242	m	burger	Buerger_in	org__wien	 	Vienna_1448	3246.xml	1448	1448-03-27		
+27	pe__sigmund_obrecht_von_lengenfeld_QGW_II_II_3242	m	von Lengenfeld	von	pl__lengenfeld_QGW_II_II_register_pg_482	 	Vienna_1448	3246.xml	1448	1448-03-27		
+28	pe__sigmund_obrecht_von_lengenfeld_QGW_II_II_3242	m	priester	Priester	org__passau-dioezese	 	Vienna_1448	3246.xml	1448	1448-03-27		
+29	pe__simon_heundl_QGW_II_II_3246	m	korherr	Kanoniker	org__klosterneuburg-augustiner_chorherren	 	Vienna_1448	3246.xml	1448	1448-03-27		
+30	pe__hermann_eibensteiner_zu_nussdorf_QGW_II_II_3246	m	zu Nustorff	zu	pl__nussdorf	 	Vienna_1448	3246.xml	1448	1448-03-27		
+31	pe__niklas_puckler_QGW_II_II_3248	m	von Straspurg	von	pl__strasburg	 	Vienna_1448	3248.xml	1448	1448-04-30		
+32	pe__georg_prunntaler_QGW_II_II_3240	m	Bürger	Buerger_in	org__wien	 	Vienna_1448	3248.xml	1448	1448-04-30		
+33	pe__niklas_marchegger_QGW_II_II_3248	m	Bürger	Buerger_in	org__wien	 	Vienna_1448	3248.xml	1448	1448-04-30		
+34	pe__agnes_QGW_II_II_3250_a	f	burgerin	Buerger_in	org__wien	 	Vienna_1448	3250.xml	1448	1448-05-03		
+35	pe__johann_fuechsel_QGW_II_II_3250	m	korherr	Kanoniker	org__wien-st_stephan	 	Vienna_1448	3250.xml	1448	1448-05-03		
+36	pe__agnes_QGW_II_II_3250_b	f	burgerin	Buerger_in	org__wien	 	Vienna_1448	3257.xml	1448	1448-06-26		
+37	pe__johann_fuechsel_QGW_II_II_3250	m	korherr	Kanoniker	org__wien-st_stephan	 	Vienna_1448	3257.xml	1448	1448-06-26		
+38	pe__agnes_QGW_II_II_3250_b	f	burgerin	Buerger_in	org__wien	 	Vienna_1448	3258.xml	1448	1448-06-26		
+39	pe__johann_fuechsel_QGW_II_II_3250	m	Chorherrn	Kanoniker	org__wien-st_stephan	 	Vienna_1448	3258.xml	1448	1448-06-26		
+40	pe__agnes_QGW_II_II_3250_b	f	burgerin	Buerger_in	org__wien	 	Vienna_1448	3260.xml	1448	1448-07-06		
+41	pe__agnes_QGW_II_II_3250_b	f	Lehensfrau	Lehensherr_frau	org__wien-st_stephan-altar_st_ulrich-messe_fuechsel	 	Vienna_1448	3260.xml	1448	1448-07-06		
+42	pe__peter_strasser_QGW_II_II_3260	m	Lehensherr	Lehensherr_frau	org__wien-st_stephan-altar_st_ulrich-messe_fuechsel	 	Vienna_1448	3260.xml	1448	1448-07-06		
+43	pe__paul_schernhaimer_QGW_II_II_3261	m	burger	Buerger_in	org__korneuburg	 	Vienna_1448	3261.xml	1448	1448-07-08		
+44	pe__johann_grimm_QGW_II_II_3261	m	mitburger	Buerger_in	org__wien	 	Vienna_1448	3261.xml	1448	1448-07-08		
+45	pe__georg_haug_QGW_II_II_3261	m	Bürgers	Buerger_in	org__wien	 	Vienna_1448	3261.xml	1448	1448-07-08		
+46	pe__georg_von_nikolsburg_QGW_II_II_2373	m	Bürgers	Buerger_in	org__wien	 	Vienna_1448	3262.xml	1448	1448-07-08		
+47	pe__johann_payr_QGW_II_II_3263	m	mitburger	Buerger_in	org__wien	 	Vienna_1448	3263.xml	1448	1448-07-10		
+48	pe__simon_von_eslarn_QGW_II_II_3263	m	Bürgers	Buerger_in	org__wien	 	Vienna_1448	3263.xml	1448	1448-07-10		
+49	pe__niklas_vorstl_QGW_II_II_3265	m	burger	Buerger_in	org__wien	 	Vienna_1448	3265.xml	1448	1448-08-06		
+50	pe__georg_prunntaler_QGW_II_II_3240	m	burger	Buerger_in	org__wien	 	Vienna_1448	3265.xml	1448	1448-08-06		
+51	pe__niklas_atzenbrugger_QGW_II_II_3266	m	Mitbürger	Buerger_in	org__wien	 	Vienna_1448	3266.xml	1448	1448-08-08		
+52	pe__konrad_muellner_QGW_II_II_3269	m	mitburger	Buerger_in	org__wien	 	Vienna_1448	3269.xml	1448	1448-08-16		
+53	pe__niklas_ernst_schuster_QGW_II_II_3259	m	mitburger	Buerger_in	org__wien	 	Vienna_1448	3269.xml	1448	1448-08-16		
+54	pe__johann_brunner_QGW_II_II_2195	m	burger	Buerger_in	org__wien	 	Vienna_1448	3272.xml	1448	1448-08-21		
+55	pe__niklas_teschler_QGW_II_II_2951	m	Bürgers	Buerger_in	org__wien	 	Vienna_1448	3275.xml	1448	1448-09-20		
+56	pe__georg_haug_QGW_II_II_3261	m	Bürger	Buerger_in	org__wien	 	Vienna_1448	3276.xml	1448	1448-09-23		
+57	pe__johann_kamrer_QGW_II_II_3276	m	Bürger	Buerger_in	org__wien	 	Vienna_1448	3276.xml	1448	1448-09-23		
+58	pe__niklas_kramhofer_QGW_II_II_3278	m	burger	Buerger_in	org__wien	 	Vienna_1448	3278.xml	1448	1448-11-08		
+59	pe__johann_hermann_SB_CD_00621	m	Bürger	Buerger_in	org__wien	 	Vienna_1448	3278.xml	1448	1448-11-08		
+60	pe__niklas_reich_QGW_II_II_3239	m	Bürgers	Buerger_in	org__wien	 	Vienna_1448	3278.xml	1448	1448-11-08		
+61	pe__niklas_renhart_QGW_II_II_3282	m	Bürger	Buerger_in	org__wien	 	Vienna_1448	3282.xml	1448	1448-11-29		
+62	pe__simon_von_eslarn_QGW_II_II_3263	m	Bürger	Buerger_in	org__wien	 	Vienna_1448	3282.xml	1448	1448-11-29		
+63	pe__wolfgang_winter_SB_CD_00055	m	burger	Buerger_in	pl__nuernberg	 	1448	00055-eintrag_vom_1448-06-21.xml	1448	1448-06-21		
+64	pe__konrad_von_tierna_SB_CD_00228	m	in der Kumphlukchn	in	pl__wien-kumphlukche_vor_kernertor	 	1448	00228-eintrag_vom_1448-04-22.xml	1448	1448-04-22		
+65	pe__johann_hubner_SB_CD_00351	m	von Everding	von	pl__eferding	 	1448	00351-eintrag_vom_1448-11-29.xml	1448	1448-11-29		
+66	pe__johann_auer_SB_CD_00604	m	vor Schottentor	vor	pl__wien-schottentor	 	1448	00604-eintrag_vom_1448-02-24.xml	1448	1448-02-24		
+67	pe__johann_spannberger_QGW_II_II_3245	m	vor	vor	pl__wien-schottentor	 	1448	00607-eintrag_vom_1448-03-13.xml	1448	1448-03-13		
+68	pe__niklas_zinkk_SB_CD_00610	m	korherr	Kanoniker	org__vorau-augustiner_chorherren	 	1448	00610-eintrag_vom_1448-05-29.xml	1448	1448-05-29		
+69	pe__heinrich_teufl_SB_CD_00614	m	burger am Lauffen	Buerger_in	org__laufen	 	1448	00614-eintrag_vom_1448-07-29.xml	1448	1448-07-29		
+70	pe__johann_von_eslarn_V_SB_CD_00615	m	ze	zu	pl__ottakring	 	1448	00615-eintrag_vom_1448-06-26.xml	1448	1448-06-26		
+71	pe__georg_zwettler_QGW_II_II_2927	m	hinder Sand Pangreczen	hinter	pl__wien-st_pankraz	 	1448	00969-eintrag_vom_1448-10-30.xml	1448	1448-10-30		
+72	pe__johann_reichl_SB_CD_00969	m	hinder Sant Pangréczn	hinter	pl__wien-st_pankraz	 	1448	00969-eintrag_vom_1448-10-30.xml	1448	1448-10-30		
+73	pe__niklas_ernst_SB_CD_01146	m	burger	Buerger_in	org__wien	 	1448	01146-eintrag_vom_1448-04-12.xml	1448	1448-04-12		
+74	pe__johann_putzl_SB_CD_01150	m	burger	Buerger_in	org__lindau	 	1448	01150-eintrag_vom_1448-03-04.xml	1448	1448-03-04		
+75	pe__wenzel_SB_CD_1239	m	burger	Buerger_in	org__korneuburg	 	1448	01239-eintrag_vom_1448-03-13.xml	1448	1448-03-13		
+76	pe__matthias_voburger_SB_CD_01240	m	mitburger	Buerger_in	org__wien	 	1448	01240-eintrag_vom_1448-03-15.xml	1448	1448-03-15		
+77	pe__michael_haunolt_QGW_II_II_3616	m	burger	Buerger_in	org__wien	 	1448	01240-eintrag_vom_1448-03-15.xml	1448	1448-03-15		
+78	pe__peter_liebharter_QGW_II_II_3541	m	korherren	Kanoniker	org__wien-st_stephan	 	1448	01431-eintrag_vom_1448-07-08.xml	1448	1448-07-08		
+79	pe__jakob_leubman_SB_CD_01431	m	korherr	Kanoniker	org__wien-st_stephan	 	1448	01431-eintrag_vom_1448-07-08.xml	1448	1448-07-08		
+80	pe__peter_liebharter_QGW_II_II_3541	m	korherren	Kanoniker	org__wien-st_stephan	 	1448	01432-eintrag_vom_1448-07-10.xml	1448	1448-07-10		
+81	pe__niklas_viller_SB_CD_01433	m	burger	Buerger_in	org__wiener_neustadt	 	1448	01433-eintrag_vom_1448-07-29.xml	1448	1448-07-29		
+82	pe__thomas_praitenweidacher_QGW_II_II_3462	m	burger	Buerger_in	org__wien	 	1448	01767-eintrag_vom_1448-06-23.xml	1448	1448-06-23		
+83	pe__ulrich_meichsner_QGW_II_II_3553	m	vor Kernertor	vor	pl__wien-kaerntnertor	 	1448	01840-eintrag_vom_1448-04-19.xml	1448	1448-04-19		

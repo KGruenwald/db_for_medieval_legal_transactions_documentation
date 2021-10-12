@@ -1,0 +1,60 @@
+	mainorg	org	type	number	ref_count	corresp_count	xml	year
+0	org__stamhaim-pfarre	org__stamhaim-pfarre	Pfarre	1	0	1	00606-eintrag_vom_1448-04-03.xml	1448-04-03
+1	org__vorau-augustiner_chorherren	org__vorau-augustiner_chorherren	Kloster_m	1	1	0	00610-eintrag_vom_1448-05-29.xml	1448-05-29
+2	org__wien-st_michael	org__wien-st_michael-altar_st_jakob-messe_lorberer	Messe	2	1	1	00619-eintrag_vom_1448-09-04.xml, 00619-eintrag_vom_1448-09-04.xml	1448-09-04, 1448-09-04
+3	org__wien-zeche_schuster	org__wien-zeche_schuster	Zeche_Bruderschaft	1	1	0	00349-eintrag_vom_1448-02-22.xml	1448-02-22
+4	org__wien-minoriten	org__wien-minoriten	Kloster_m	3	2	1	00608-eintrag_vom_1448-04-29.xml, 00608-eintrag_vom_1448-04-29.xml, 00613-eintrag_vom_1448-07-17.xml	1448-04-29, 1448-04-29, 1448-07-17
+5	org__wien-st_stephan	org__wien-st_stephan-altar_allerheiligen-messe_chessler	Messe	2	1	1	00971-eintrag_vom_1448-12-16.xml, 00971-eintrag_vom_1448-12-16.xml	1448-12-16, 1448-12-16
+6	org__wien-st_agnes_auf_der_himmelpforte	org__wien-st_agnes_auf_der_himmelpforte-altar_dreikoenige	Altar	1	0	1	00054-eintrag_vom_1448-06-10.xml	1448-06-10
+7	org__friedberg-pfarre	org__friedberg-pfarre	Pfarre	1	0	1	00610-eintrag_vom_1448-05-29.xml	1448-05-29
+8	org__riegersburg-pfarre	org__riegersburg-pfarre	 	1	0	1	00626-eintrag_vom_1448-12-20.xml	1448-12-20
+9	org__wien-st_stephan	org__wien-st_stephan-altar_allerheiligen	Altar	1	1	0	00971-eintrag_vom_1448-12-16.xml	1448-12-16
+10	org__gars-pfarre	org__gars-pfarre	Pfarre	1	0	1	01146-eintrag_vom_1448-04-12.xml	1448-04-12
+11	org__wien-st_stephan	org__wien-st_stephan-altar_st_maria	Altar	2	2	0	00623-eintrag_vom_1448-12-13.xml, 01241-eintrag_vom_1448-06-21.xml	1448-12-13, 1448-06-21
+12	org__wien-st_michael	org__wien-st_michael-altar_st_wolfgang-messe_reichel	Messe	2	1	1	00969-eintrag_vom_1448-10-30.xml, 00969-eintrag_vom_1448-10-30.xml	1448-10-30, 1448-10-30
+13	org__wien-st_stephan	org__wien-st_stephan	Kirche_Kapelle	4	2	2	00616-eintrag_vom_1448-07-19.xml, 00624-eintrag_vom_1448-09-23.xml, 00970-eintrag_vom_1448-11-20.xml, 01434-eintrag_vom_1448-06-14.xml	1448-07-19, 1448-09-23, 1448-11-20, 1448-06-14
+14	org__wien-st_georg_kapelle_bei_den_schotten	org__wien-st_georg_kapelle_bei_den_schotten-altar_st_maria	Kirche_Kapelle	1	1	0	01431-eintrag_vom_1448-07-08.xml	1448-07-08
+15	org__wien-st_michael	org__wien-st_michael-altar_st_georg_und_st_erasmus	Altar	1	1	0	00626-eintrag_vom_1448-12-20.xml	1448-12-20
+16	org__wien-st_stephan	org__wien-st_stephan-altar_st_maria-messe_flusthart	Messe	3	1	2	00299-eintrag_vom_1448-07-08.xml, 00623-eintrag_vom_1448-12-13.xml, 00623-eintrag_vom_1448-12-13.xml	1448-07-08, 1448-12-13, 1448-12-13
+17	org__wien-st_michael	org__wien-st_michael-altar_st_georg_und_st_erasmus-messe_raklspurg	Messe	2	1	1	00626-eintrag_vom_1448-12-20.xml, 00626-eintrag_vom_1448-12-20.xml	1448-12-20, 1448-12-20
+18	org__wien-st_michael	org__wien-st_michael-messe_jost_der_goldschmied	Messe	1	1	0	01147-eintrag_vom_1448-04-29.xml	1448-04-29
+19	org__wien-st_michael	org__wien-st_michael-messe_otto_der_furer	Messe	1	1	0	01147-eintrag_vom_1448-04-29.xml	1448-04-29
+20	org__wien-st_michael	org__wien-st_michael	Kirche_Kapelle	3	1	2	00618-eintrag_vom_1448-09-02.xml, 00969-eintrag_vom_1448-10-30.xml, 01147-eintrag_vom_1448-04-29.xml	1448-09-02, 1448-10-30, 1448-04-29
+21	org__wien-st_stephan	org__wien-st_stephan-messe_purkhartsperger_heinrich	Messe	2	1	1	00624-eintrag_vom_1448-09-23.xml, 00624-eintrag_vom_1448-09-23.xml	1448-09-23, 1448-09-23
+22	org__wien-st_niklas_vor_dem_stubentor_zisterzienserinnen	org__wien-st_niklas_vor_dem_stubentor_zisterzienserinnen-messe_peter_chorherr_von_st_stephan	Messe	1	0	1	00606-eintrag_vom_1448-04-03.xml	1448-04-03
+23	org__wien-st_maria_im_rathaus	org__wien-st_maria_im_rathaus	Kirche_Kapelle	2	1	1	00612-eintrag_vom_1448-07-10.xml, 00612-eintrag_vom_1448-07-10.xml	1448-07-10, 1448-07-10
+24	org__wien-st_stephan	org__wien-st_stephan-altar_st_maria-messe_albrecht_bucharzt	Messe	2	1	1	01241-eintrag_vom_1448-06-21.xml, 01241-eintrag_vom_1448-06-21.xml	1448-06-21, 1448-06-21
+25	org__wien-st_michael	org__wien-st_michael-altar_st_jakob	Altar	1	1	0	00619-eintrag_vom_1448-09-04.xml	1448-09-04
+26	org__wien-st_stephan	org__wien-st_stephan-kapelle_herzog-altar_st_blasius-messe_graf	Messe	2	1	1	00300-eintrag_vom_1448-08-05.xml, 00300-eintrag_vom_1448-08-05.xml	1448-08-05, 1448-08-05
+27	org__wien-st_stephan	org__wien-st_stephan-altar_allerheiligen-messe_sindram	Messe	2	0	2	00229-eintrag_vom_1448-05-27.xml, 00229-eintrag_vom_1448-05-27.xml	1448-05-27, 1448-05-27
+28	org__wien-st_stephan	org__wien-st_stephan-kapelle_st_katharina-altar_st_katharina-messe_hutstokch	Messe	1	0	1	00350-eintrag_vom_1448-04-10.xml	1448-04-10
+29	org__wien-st_agnes_auf_der_himmelpforte	org__wien-st_agnes_auf_der_himmelpforte-altar_kreuz	Altar	1	1	0	00971-eintrag_vom_1448-12-16.xml	1448-12-16
+30	org__wien-st_johann_in_der_burg	org__wien-st_johann_in_der_burg	Kirche_Kapelle	1	0	1	01429-eintrag_vom_1448-02-20.xml	1448-02-20
+31	org__wien-st_michael	org__wien-st_michael-messe_zergadmer_niklas	Messe	1	1	0	00618-eintrag_vom_1448-09-02.xml	1448-09-02
+32	org__wien-schotten	org__wien-schotten	Kloster_m	1	1	0	01693a-eintrag_vom_1448.xml	1448-01-01
+33	org__wien-st_stephan	org__wien-st_stephan-kapelle_herzog-altar_st_blasius-messe_poschin_dorothea	Messe	1	0	1	00966-eintrag_vom_1448-06-07.xml	1448-06-07
+34	org__wien-st_peter	org__wien-st_peter	Kirche_Kapelle	2	0	2	00608-eintrag_vom_1448-04-29.xml, 00613-eintrag_vom_1448-07-17.xml	1448-04-29, 1448-07-17
+35	org__wien-st_peter	org__wien-st_peter-altar_st_maria-messe_chastner	Messe	2	0	2	00608-eintrag_vom_1448-04-29.xml, 00613-eintrag_vom_1448-07-17.xml	1448-04-29, 1448-07-17
+36	org__wien-gottesleichnam_kapelle_vor_dem_werdertor	org__wien-gottesleichnam_kapelle_vor_dem_werdertor-altar_st_maria-messe_flekch	Altar	2	1	1	00231-eintrag_vom_1448-09-20.xml, 00231-eintrag_vom_1448-09-20.xml	1448-09-20, 1448-09-20
+37	org__wien-st_stephan	org__wien-st_stephan-altar_zwoelfapostel	Altar	1	1	0	01767-eintrag_vom_1448-06-23.xml	1448-06-23
+38	org__wien-st_johann_in_der_siechenals	org__wien-st_johann_in_der_siechenals	Spital_Siechenhaus	2	1	1	00604-eintrag_vom_1448-02-24.xml, 01842-eintrag_vom_1448-11-27.xml	1448-02-24, 1448-11-27
+39	org__wien-st_michael	org__wien-st_michael-messe_gelwaicz_niklas	Messe	1	1	0	01147-eintrag_vom_1448-04-29.xml	1448-04-29
+40	org__wien-st_peter	org__wien-st_peter-altar_st_maria	Altar	2	2	0	00608-eintrag_vom_1448-04-29.xml, 01429-eintrag_vom_1448-02-20.xml	1448-04-29, 1448-02-20
+41	org__wien	org__wien	Stadt	6	1	5	00054-eintrag_vom_1448-06-10.xml, 00406-eintrag_vom_1448-05-31.xml, 00606-eintrag_vom_1448-04-03.xml, 00609-eintrag_vom_1448-05-06.xml, 00614-eintrag_vom_1448-07-29.xml, 01926-eintrag_vom_1448-12-20.xml	1448-06-10, 1448-05-31, 1448-04-03, 1448-05-06, 1448-07-29, 1448-12-20
+42	org__wien-st_stephan	org__wien-st_stephan-kapelle_herzog-altar_st_blasius	Altar	1	1	0	00300-eintrag_vom_1448-08-05.xml	1448-08-05
+43	org__wien-st_stephan	org__wien-st_stephan-altar_st_veit-messe_kienmarkt	Messe	2	1	1	00607-eintrag_vom_1448-03-13.xml, 00607-eintrag_vom_1448-03-13.xml	1448-03-13, 1448-03-13
+44	org__wien-buergerspital	org__wien-buergerspital	Spital_Siechenhaus	5	4	1	00300-eintrag_vom_1448-08-05.xml, 00627-eintrag_vom_1448-12-20.xml, 00966-eintrag_vom_1448-06-07.xml, 00966-eintrag_vom_1448-06-07.xml, 00966-eintrag_vom_1448-06-07.xml	1448-08-05, 1448-12-20, 1448-06-07, 1448-06-07, 1448-06-07
+45	org__mannswoerth-pfarre	org__mannswoerth-pfarre	Pfarre	1	0	1	00613-eintrag_vom_1448-07-17.xml	1448-07-17
+46	org__ungarn-koenigreich	org__ungarn-koenigreich	Koenigreich	1	0	1	00621-eintrag_vom_1448-11-27.xml	1448-11-27
+47	org__passau-domkapitel	org__passau-domkapitel	Kirche_Kapelle	1	0	1	01146-eintrag_vom_1448-04-12.xml	1448-04-12
+48	org__wien-st_georg_kapelle_bei_den_schotten	org__wien-st_georg_kapelle_bei_den_schotten-altar_st_maria-messe_leubman_jakob	Kirche_Kapelle	3	1	2	01431-eintrag_vom_1448-07-08.xml, 01431-eintrag_vom_1448-07-08.xml, 01432-eintrag_vom_1448-07-10.xml	1448-07-08, 1448-07-08, 1448-07-10
+49	org__wien-st_georg_kapelle_bei_den_schotten	org__wien-st_georg_kapelle_bei_den_schotten	Kirche_Kapelle	4	2	2	01432-eintrag_vom_1448-07-10.xml, 01432-eintrag_vom_1448-07-10.xml, 01842-eintrag_vom_1448-11-27.xml, 01842-eintrag_vom_1448-11-27.xml	1448-07-10, 1448-07-10, 1448-11-27, 1448-11-27
+50	org__wien-gottesleichnam_kapelle_vor_dem_werdertor	org__wien-gottesleichnam_kapelle_vor_dem_werdertor-altar_st_maria	Altar	1	1	0	00231-eintrag_vom_1448-09-20.xml	1448-09-20
+51	org__wien-st_stephan	org__wien-st_stephan-altar_zwoelfapostel-messe_reidegker	Messe	2	1	1	01767-eintrag_vom_1448-06-23.xml, 01767-eintrag_vom_1448-06-23.xml	1448-06-23, 1448-06-23
+52	org__erdberg-st_paul	org__erdberg-st_paul	Kirche_Kapelle	1	1	0	00971-eintrag_vom_1448-12-16.xml	1448-12-16
+53	org__himberg-pfarre	org__himberg-pfarre	Pfarre	1	0	1	00613-eintrag_vom_1448-07-17.xml	1448-07-17
+54	org__wien-st_michael	org__wien-st_michael-altar_gottesleichnam-messe_eslarn	Messe	3	2	1	00605-eintrag_vom_1448-03-04.xml, 00613-eintrag_vom_1448-07-17.xml, 00613-eintrag_vom_1448-07-17.xml	1448-03-04, 1448-07-17, 1448-07-17
+55	org__wien-st_stephan	org__wien-st_stephan-kapelle_st_achatius	Kirche_Kapelle	2	1	1	00616-eintrag_vom_1448-07-19.xml, 00616-eintrag_vom_1448-07-19.xml	1448-07-19, 1448-07-19
+56	org__wien-st_michael	org__wien-st_michael-messe_staindlein	Messe	1	1	0	00618-eintrag_vom_1448-09-02.xml	1448-09-02
+57	org__heiliges_roemisches_reich	org__heiliges_roemisches_reich	Reich	1	0	1	01146-eintrag_vom_1448-04-12.xml	1448-04-12
+58	org__wien-st_stephan	org__wien-st_stephan-altar_st_veit	Altar	1	1	0	00607-eintrag_vom_1448-03-13.xml	1448-03-13
