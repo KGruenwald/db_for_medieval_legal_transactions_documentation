@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0"
- xmlns:cei="http://www.monasterium.net/NS/cei"
- xsi:schemaLocation="http://www.tei-c.org/ns/1.0 xsd/lists.xsd">
+ xmlns:cei="http://www.monasterium.net/NS/cei">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title> Wiener Urkunden Personenliste </title>
+    <title> Wiener Urkunden Placelist </title>
    </titleStmt>
    <publicationStmt>
     <p> Original Data: Copyright (c) :: Korbinian Gruenwald </p>
@@ -17,7 +16,7 @@
  </teiHeader>
  <text>
   <body>
-   <listOrg>
+   <listOrg xml:id="listorg">
     <org type="Herzogtum" xml:id="org__oesterreich-herzogtum">
      <orgName>
       <reg>Herzogtum Österreich</reg>
@@ -100,8 +99,7 @@
        <reg>Chesslermesse (Margarethe und Niklas Kesler)</reg>
       </orgName>
      </org>
-     <org type="Messe"
-      xml:id="org__erdberg-st_paul-messe_haiden_georg" resp="rs">
+     <org type="Messe" xml:id="org__erdberg-st_paul-messe_haiden_georg" resp="rs">
       <orgName>
        <reg>Messstiftung des Georg Haiden</reg>
       </orgName>
@@ -728,7 +726,7 @@
       </address>
      </location>
      <org type="Messe" xml:id="org__mauerbach-kartaeuser-jahrtag_ulrich_und_katharina_von_radendorf"
-      key="org__mauerbach-kartaeuser-messe_von_radendorf_ulrich_und_katharina" resp="rs">
+      resp="rs">
       <orgName>
        <reg>Jahrtag Ulrich und Katharina von Radendorf</reg>
       </orgName>
@@ -859,8 +857,8 @@
      </location>
      <org type="Messe" xml:id="org__perchtoldsdorf-zeche_unser_frauen-messe_spiegler">
       <orgName>
-       <reg source="QGW_II_II_register_pg_">Messstiftung von Michael Spiegler und seiner
-        Gem. Kunigunde</reg>
+       <reg source="QGW_II_II_register_pg_">Messstiftung von Michael Spiegler und seiner Gem.
+        Kunigunde</reg>
       </orgName>
      </org>
     </org>
@@ -1223,8 +1221,7 @@
      </org>
      <org type="Messe" xml:id="org__wien-buergerspital-messe_spieglerin">
       <orgName>
-       <reg source="QGW_II_II_register_pg_">Ewiger Jahrtag von Kunigunde
-       Spieglerin</reg>
+       <reg source="QGW_II_II_register_pg_">Ewiger Jahrtag von Kunigunde Spieglerin</reg>
       </orgName>
      </org>
      <org type="Zeche_Bruderschaft" xml:id="org__wien-buergerspital-zeche_unser_frauen">
@@ -1261,8 +1258,8 @@
      <org type="Messe"
       xml:id="org__wien-st_niklas_vor_dem_stubentor_zisterzienserinnen-messe_peter_chorherr_von_st_stephan">
       <orgName>
-       <orig>mess die weilent her Peter korherr zu Sand Steffan pharrer zu Wurnitz in Sand
-        Niclas kloster vor Stubentor gestifft hat</orig>
+       <orig>mess die weilent her Peter korherr zu Sand Steffan pharrer zu Wurnitz in Sand Niclas
+        kloster vor Stubentor gestifft hat</orig>
       </orgName>
      </org>
      <org type="Messe"
@@ -1290,8 +1287,7 @@
      </org>
      <org type="Messe" xml:id="org__wien-st_maria_im_rathaus-messe_bettziehen">
       <orgName>
-       <reg source="QGW_II_II_register_pg_550">Bettziehenmesse und ewiges
-       Licht</reg>
+       <reg source="QGW_II_II_register_pg_550">Bettziehenmesse und ewiges Licht</reg>
       </orgName>
      </org>
      <org type="Messe" xml:id="org__wien-st_maria_im_rathaus-messe_reicholf">
@@ -1306,8 +1302,7 @@
      </org>
      <org type="Messe" xml:id="org__wien-st_maria_im_rathaus-messe_heinrich_haller_von_nuernberg">
       <orgName>
-       <reg source="QGW_II_I_register_pg_550">Messe von Heinrich Haller von
-       Nürnberg</reg>
+       <reg source="QGW_II_I_register_pg_550">Messe von Heinrich Haller von Nürnberg</reg>
       </orgName>
       <!-- falsch siehe Uhlirz -->
      </org>
@@ -1318,8 +1313,7 @@
      </org>
      <org type="Messe" xml:id="org__wien-st_maria_im_rathaus-messe_friedrich_von_ragelsdorf">
       <orgName>
-       <reg source="QGW_II_I_register_pg_550">Messtiftung von Friedrich von
-       Ragelsdorf</reg>
+       <reg source="QGW_II_I_register_pg_550">Messtiftung von Friedrich von Ragelsdorf</reg>
       </orgName>
      </org>
      <org type="Messe" xml:id="org__wien-st_maria_im_rathaus-messe_niklas_poll">
@@ -1343,8 +1337,8 @@
      </orgName>
      <org type="Messe" xml:id="org__wien-minoriten-messe_ganiczerin_elisabeth" resp="kg">
       <orgName>
-       <orig>mezz und des liechts so fraw
-       Elsbet die Gamczerinn in den egenant kloster zestifften geschafft hat</orig>
+       <orig>mezz und des liechts so fraw Elsbet die Gamczerinn in den egenant kloster zestifften
+        geschafft hat</orig>
       </orgName>
      </org>
      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Minoriten</idno>
@@ -1403,7 +1397,8 @@
        <reg>Jahrtagsstiftung des Peter Weischoph</reg>
       </orgName>
      </org>
-     <org type="Messe" xml:id="org__wien-dominikaner-messe_zainmeister_siegfried_und_katharina_StB_I_234" resp="rs">
+     <org type="Messe"
+      xml:id="org__wien-dominikaner-messe_zainmeister_siegfried_und_katharina_StB_I_234" resp="rs">
       <orgName>
        <reg>Jahrtagsstiftung des Siegfried Zainmeister und seiner Frau Katharina</reg>
       </orgName>
@@ -1415,7 +1410,8 @@
       <desc>OP</desc>
      </trait>
      <orgName>
-      <reg source="QGW_II_I_register_pg_545">Dominikanerinnenkloster St. Laurenz-am alten Fleischmarkt</reg>
+      <reg source="QGW_II_I_register_pg_545">Dominikanerinnenkloster St. Laurenz-am alten
+       Fleischmarkt</reg>
      </orgName>
      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Laurenzergeb%C3%A4ude</idno>
      <location>
@@ -1451,7 +1447,8 @@
       <desc>OSMM</desc>
      </trait>
      <orgName>
-      <reg source="QGW_II_I_register_pg_551">St. Maria Magdalena, Nonnenkloster vor dem Schottentor</reg>
+      <reg source="QGW_II_I_register_pg_551">St. Maria Magdalena, Nonnenkloster vor dem
+       Schottentor</reg>
      </orgName>
      <idno type="URI">https://www.geschichtewiki.Wien (W).gv.at/Maria-Magdalena-Kloster</idno>
      <location>
@@ -1474,8 +1471,7 @@
       xml:id="org__wien-st_maria_magdalena_vor_dem_schottentor-messe_heinrich_von_st_poelten"
       resp="kg">
       <orgName>
-       <reg source="QGW_II_II_register_pg_551">Messe von Heinrich von St.
-       Poelten</reg>
+       <reg source="QGW_II_II_register_pg_551">Messe von Heinrich von St. Poelten</reg>
       </orgName>
      </org>
     </org>
@@ -1594,10 +1590,10 @@
      </org>
      <org type="Altar" xml:id="org__wien-st_michael-altar_st_georg_und_st_erasmus" resp="kg">
       <orgName>
-       <reg source="QGW_II_III_register_pg_571">St. Georgs und St
-       Erasmusaltar</reg>
+       <reg source="QGW_II_III_register_pg_571">St. Georgs und St Erasmusaltar</reg>
       </orgName>
-      <org type="Messe" xml:id="org__wien-st_michael-altar_st_georg_und_st_erasmus-messe_raklspurg" resp="kg">
+      <org type="Messe" xml:id="org__wien-st_michael-altar_st_georg_und_st_erasmus-messe_raklspurg"
+       resp="kg">
        <orgName>
         <reg source="QGW_II_III_register_pg_571">Raklspurgmesse</reg>
        </orgName>
@@ -1642,8 +1638,7 @@
     </org>
     <org type="Messe" xml:id="org__wien-st_michael-zeche_gottesleichnam-messe_reichl_niklas"
      resp="rs"/>
-    <org type="Messe" xml:id="org__wien-st_michael-jahrtag_wendelmut_mauserin_StB_I_181" key=""
-     resp="rs"/>
+    <org type="Messe" xml:id="org__wien-st_michael-jahrtag_wendelmut_mauserin_StB_I_181" resp="rs"/>
     <org type="Kirche_Kapelle" xml:id="org__wien-st_margarethe_in_der_muenzerstraße">
      <orgName>
       <reg source="QGW_II_I_register_pg_549">St. Margarethenkapelle in der Münzerstraße</reg>
@@ -1765,8 +1760,7 @@
      </org>
      <org type="Altar" xml:id="org__wien-st_peter-altar_zehntausend_ritter_und_eilftausend_maid">
       <orgName>
-       <reg source="QGW_II_I_register_pg_493">Zehntausend Ritter und Eilftausend Maid
-        Altar</reg>
+       <reg source="QGW_II_I_register_pg_493">Zehntausend Ritter und Eilftausend Maid Altar</reg>
       </orgName>
       <org type="Messe"
        xml:id="org__wien-st_peter-altar_zehntausend_ritter_und_eilftausend_maid-messe_chastner">
@@ -1943,8 +1937,8 @@
       <org type="Messe" xml:id="org__wien-st_stephan-altar_st_maria-messe_auf_der_saeule_johann"
        resp="kg">
        <orgName>
-        <reg>Jahrtag des Johann auf der Säule, unter
-         Aufsicht des Kirchmeister Jakob Echrer, QGW II I 1219-20 </reg>
+        <reg>Jahrtag des Johann auf der Säule, unter Aufsicht des Kirchmeister Jakob Echrer, QGW II
+         I 1219-20 </reg>
        </orgName>
       </org>
       <org type="Messe" xml:id="org__wien-st_stephan-altar_st_maria-messe_auf_der_saeule_herbert"
@@ -1983,17 +1977,14 @@
       </orgName>
       <org type="Messe" xml:id="org__wien-st_stephan-altar_st_markus-messe_kaufleute" resp="kg">
        <orgName>
-        <reg source="QGW_II_I_register_pg_577">Ewige Kaufleutemesse auf dem
-         Markusaltar</reg>
+        <reg source="QGW_II_I_register_pg_577">Ewige Kaufleutemesse auf dem Markusaltar</reg>
        </orgName>
       </org>
      </org>
      <org type="Altar" xml:id="org__wien-st_stephan-kapelle_st_sigmund_und_st_wolfgang" resp="kg">
       <orgName>
-       <reg source="QGW_II_I_register_pg_578">St. Sigmunds- und
-       Wolfgangskapelle</reg>
-       <reg source="QGW_II_II_register_pg_507; 509">St. Sigmunds- und
-        Wolfgangsaltar</reg>
+       <reg source="QGW_II_I_register_pg_578">St. Sigmunds- und Wolfgangskapelle</reg>
+       <reg source="QGW_II_II_register_pg_507; 509">St. Sigmunds- und Wolfgangsaltar</reg>
       </orgName>
       <note>Kapelle oder Altar???</note>
       <org type="Messe"
@@ -2095,8 +2086,7 @@
       </org>
       <org type="Messe" xml:id="org__wien-st_stephan-messe_chastner_eberhard" resp="kg">
        <orgName>
-        <reg source="QGW_II_II_register_pg_">Messe von Eberhard Chastner,
-         QGW_II_I_1473</reg>
+        <reg source="QGW_II_II_register_pg_">Messe von Eberhard Chastner, QGW_II_I_1473</reg>
        </orgName>
       </org>
      </org>
@@ -2273,8 +2263,8 @@
      <org type="Messe" xml:id="org__wien-st_maria_am_gestade-messe_niklas_chlokcher"> </org>
      <org type="Messe" xml:id="org__wien-org__marienkapelle_am_gestade-messe_lichtenstein">
       <orgName>
-       <reg source="QGW_II_I_register_pg_550">Ewiges Frühamt und Selgret von Johann von
-        Lichtenstein von Nikolsburg und seinen Brüdern Gnaemhertel</reg>
+       <reg source="QGW_II_I_register_pg_550">Ewiges Frühamt und Selgret von Johann von Lichtenstein
+        von Nikolsburg und seinen Brüdern Gnaemhertel</reg>
       </orgName>
      </org>
      <org type="Altar" xml:id="org__wien-st_maria_am_gestade-altar_elftausend_jungfrauen">
@@ -2344,12 +2334,12 @@
       <org type="Messe"
        xml:id="org__wien-st_agnes_auf_der_himmelpforte-altar_st_paul-messe_gnaemhertel">
        <orgName>
-        <reg source="QGW_II_II_register_pg_528">Messe von Friedrich von
-         Gnaemhertel</reg>
+        <reg source="QGW_II_II_register_pg_528">Messe von Friedrich von Gnaemhertel</reg>
        </orgName>
       </org>
      </org>
-     <org type="Messe" xml:id="org__wien-st_agnes_auf_der_himmelpforte-messe_reutter_christian" resp="kg">
+     <org type="Messe" xml:id="org__wien-st_agnes_auf_der_himmelpforte-messe_reutter_christian"
+      resp="kg">
       <orgName>
        <reg source="QGW_II_II_register_pg_467">Reuttermesse</reg>
       </orgName>
@@ -2631,8 +2621,7 @@
      <idno type="URI">https://www.geschichtewiki.wien.gv.at/Gottsleichnamkapelle</idno>
      <org type="Messe" xml:id="org__wien-gottesleichnam_kapelle_vor_dem_werdertor-messe_stettner">
       <orgName>
-       <reg source="QGW_II_II_register_pg_518">Messe von Ulrich Stettner
-        (QGW_II_I_1084)</reg>
+       <reg source="QGW_II_II_register_pg_518">Messe von Ulrich Stettner (QGW_II_I_1084)</reg>
       </orgName>
      </org>
      <org type="Messe" xml:id="org__wien-gottesleichnam_kapelle_vor_dem_werdertor-messe_meindl">
@@ -2892,8 +2881,7 @@
      </location>
      <org type="Kirche_Kapelle" xml:id="org__kilb-st_simon_und_st_judas_kirche">
       <orgName>
-       <reg source="FRA_II_55_register_pg_596">Kirche zu den hl. Simon und
-       Judas</reg>
+       <reg source="FRA_II_55_register_pg_596">Kirche zu den hl. Simon und Judas</reg>
       </orgName>
      </org>
     </org>
@@ -3422,7 +3410,6 @@
     <org type="Gemeinde" xml:id="org__furth-gemeinde">
      <orgName>
       <reg>Furth</reg>
-
      </orgName>
      <location>
       <address>
@@ -3433,7 +3420,6 @@
     <org type="Gemeinde" xml:id="org__schwechat-gemeinde">
      <orgName>
       <reg>Schwechat</reg>
-
      </orgName>
      <location>
       <address>
@@ -3449,7 +3435,6 @@
     <org type="Pfarre" xml:id="org__dobersberg-pfarre">
      <orgName>
       <reg>Pfarre Dobersberg</reg>
-
      </orgName>
      <location>
       <address>
@@ -3460,7 +3445,6 @@
     <org type="Stadt" xml:id="org__wels">
      <orgName>
       <reg>Wels</reg>
-
      </orgName>
      <location>
       <address>
@@ -3471,7 +3455,6 @@
     <org type="Gemeinde" xml:id="org__ernstbrunn-gemeinde">
      <orgName>
       <reg>Ernstbrunn</reg>
-
      </orgName>
      <location>
       <address>
@@ -3482,7 +3465,6 @@
     <org type="Gemeinde" xml:id="org__weidling-gemeinde">
      <orgName>
       <reg>Weidling</reg>
-
      </orgName>
      <location>
       <address>
@@ -3493,7 +3475,6 @@
     <org type="Gemeinde" xml:id="org__heidenreichstein-gemeinde">
      <orgName>
       <reg>Heidenreichstein</reg>
-
      </orgName>
      <location>
       <address>
@@ -3504,7 +3485,6 @@
     <org type="Gemeinde" xml:id="org__moedling-gemeinde">
      <orgName>
       <reg>Mödling</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2771335/moedling.html</idno>
      <location>
@@ -3516,7 +3496,6 @@
     <org type="Gemeinde" xml:id="org__enzersdorf-gemeinde">
      <orgName>
       <reg>Enzersdorf</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2777836/gross-enzersdorf.html</idno>
      <location>
@@ -3546,7 +3525,6 @@
       <reg source="QGW_II_I_register_pg_545">Laxenburg</reg>
       <reg source="QGW_II_I_register_pg_545">Lochsendorf</reg>
       <reg source="QGW_II_I_register_pg_545">Lachsendorf</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2772810/laxenburg.html</idno>
      <location>
@@ -3558,7 +3536,6 @@
     <org type="Gemeinde" xml:id="org__muenchendorf-gemeinde">
      <orgName>
       <reg>Münchendorf</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2771042/muenchendorf.html</idno>
      <location>
@@ -3570,7 +3547,6 @@
     <org type="Gemeinde" xml:id="org__himberg-gemeinde">
      <orgName>
       <reg>Himberg</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2776401/himberg.html</idno>
      <location>
@@ -3583,7 +3559,6 @@
      <orgName>
       <reg source="QGW_II_II_register_pg_467">Pfarre Himberg</reg>
       <orig>Hindperg</orig>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2776401/himberg.html</idno>
      <location>
@@ -3613,7 +3588,6 @@
     <org type="Stadt" xml:id="org__waidhofen_an_der_ybbs">
      <orgName>
       <reg>Waidhofen an der Ybbs</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/6621168/waidhofen-an-der-ybbs-stadt.html</idno>
      <location>
@@ -3625,7 +3599,6 @@
     <org type="Stadt" xml:id="org__ofen">
      <orgName>
       <reg>Ofen</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/3054667/buda.html</idno>
      <location>
@@ -3637,7 +3610,6 @@
     <org type="Gemeinde" xml:id="org__langenlois-gemeinde">
      <orgName>
       <reg>Langenlois</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2773010/langenlois.html</idno>
      <location>
@@ -3649,7 +3621,6 @@
     <org type="Gemeinde" xml:id="org__laab-gemeinde">
      <orgName>
       <reg>Laab</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2773223/laab-im-walde.html</idno>
      <location>
@@ -3662,7 +3633,6 @@
      <orgName>
       <reg xml:lang="ger">Kuttenberg</reg>
       <reg xml:lang="cze">Kutná Hora</reg>
-
      </orgName>
      <location>
       <address>
@@ -3713,7 +3683,6 @@
     <org type="Gemeinde" xml:id="org__weigelsdorf-gemeinde">
      <orgName>
       <reg>Weigelsdorf</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2761734/weigelsdorf.html</idno>
      <location>
@@ -3742,7 +3711,6 @@
     <org type="Stadt" xml:id="org__hainburg">
      <orgName>
       <reg>Hainburg</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2776988/hainburg-an-der-donau.html</idno>
      <location>
@@ -3764,7 +3732,6 @@
     <org type="Stadt" xml:id="org__steyr">
      <orgName>
       <reg>Steyr</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2764359/steyr.html</idno>
      <location>
@@ -3799,7 +3766,6 @@
     <org type="Stadt" xml:id="org__eggenburg">
      <orgName>
       <reg>Eggenburg</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2780360/eggenburg.html</idno>
      <location>
@@ -3811,7 +3777,6 @@
     <org type="Stadt" xml:id="org__marchegg">
      <orgName>
       <reg>Marchegg</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/7872866/marchegg.html</idno>
      <location>
@@ -3823,7 +3788,6 @@
     <org type="Stadt" xml:id="org__ybbs">
      <orgName>
       <reg>Ybbs</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2760772/ybbs-an-der-donau.html</idno>
      <location>
@@ -3835,7 +3799,6 @@
     <org type="Stadt" xml:id="org__freistadt">
      <orgName>
       <reg>Freistadt</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2779275/freistadt.html</idno>
      <location>
@@ -3857,7 +3820,6 @@
     <org type="Stadt" xml:id="org__voecklabruck">
      <orgName>
       <reg>Vöcklabruck</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2762343/voecklabruck.html</idno>
      <location>
@@ -3869,7 +3831,6 @@
     <org type="Kirche_Kapelle" xml:id="org__hainburg-burgkapelle">
      <orgName>
       <reg>Burgkapelle Hainburg</reg>
-
      </orgName>
 
 
@@ -3900,7 +3861,6 @@
     <org type="Stadt" xml:id="org__venedig">
      <orgName>
       <reg>Venedig</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/3164603/venice.html</idno>
      <location>
@@ -3944,8 +3904,7 @@
     </org>
     <org type="Altar" xml:id="org__huetteldorf_pfarrkirche-altar-st_peter">
      <orgName>
-      <reg source="QGW_II_II_register_pg_530">St. Petersaltar Pfarrkiche
-      Hütteldorf</reg>
+      <reg source="QGW_II_II_register_pg_530">St. Petersaltar Pfarrkiche Hütteldorf</reg>
      </orgName>
     </org>
     <org type="Dioezese_Erzdioezese" xml:id="org__aquilea-dioezese">
@@ -3958,7 +3917,6 @@
     <org type="Stadt" xml:id="org__graz">
      <orgName>
       <reg>Graz</reg>
-
      </orgName>
      <idno type="URI">https://www.geonames.org/2778067/graz.html</idno>
      <location>
@@ -4009,7 +3967,6 @@
     <org type="Pfarre" xml:id="org__ernstbrunn-pfarre">
      <orgName>
       <reg>Ernstbrunn</reg>
-
      </orgName>
      <location>
       <address>
@@ -4020,7 +3977,6 @@
     <org type="Pfarre" xml:id="org__langenwang-pfarre">
      <orgName>
       <reg>Langenwang (Steiermark)</reg>
-
      </orgName>
      <idno>https://www.geonames.org/2773000/langenwang.html</idno>
      <location>
@@ -4045,7 +4001,6 @@
     <org type="Pfarre" xml:id="org__heidenreichstein-pfarre" resp="cs">
      <orgName>
       <reg>Heidenreichstein</reg>
-
      </orgName>
      <location>
       <address>
@@ -4057,7 +4012,6 @@
     <org type="Pfarre" xml:id="org__enzersdorf-pfarre" resp="cs">
      <orgName>
       <reg>Enzersdorf</reg>
-
      </orgName>
      <location>
       <address>
